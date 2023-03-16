@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
-                "mode": "preview",
+                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/Transformer.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/Transformer.md"
               }
             }
           },
@@ -156,36 +156,36 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "7be5dde64a5e15fa",
+  "active": "845adad4aa5bc244",
   "lastOpenFiles": [
-    "Deep Learning & Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md",
-    "Deep Learning & Machine Learning/Deep Learning Block/Transformer.md",
-    "Deep Learning & Machine Learning/Deep Learning Block/⭐Attention.md",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/Deep Learning Block - Table of Content.md",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/Transformer.md",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/⭐Attention.md",
     "_index.md",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315195403.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/1.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments/1.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments/1.png",
     "Deep Learning & Machine Learning/Deep Learning Block/Pasted image 20230315195403.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316164325.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316163903.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316162642.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316162635.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments/Pasted image 20230316164325.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments/Pasted image 20230316163903.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments/Pasted image 20230316162642.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments/Pasted image 20230316162635.png",
     "attchments/Pasted image 20230315195603.png.md",
     "attchments",
     "Deep Learning & Machine Learning/Deep Learning Block/attchments/Pasted image 20230316160512.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316160103.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments/Pasted image 20230316160103.png",
     "Attention 29e28941408c4c449b4fcda897b139b8/Untitled 15.png.md",
     "Pasted image 20230315210631.md",
     "Attention 29e28941408c4c449b4fcda897b139b8",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315210704.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments/Pasted image 20230315210704.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block/attachments",
     "Untitled",
     "Untitled.canvas",
     "attchment",
-    "Deep Learning & Machine Learning/Deep Learning Block",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block",
     "Computer Science/Deep Learning & Machine Learning/Transformer c4a76c40ecb542638fa646e3a0bcfa79.md",
     "Computer Science/Deep Learning & Machine Learning/Attention.md",
     "Computer Science/Deep Learning & Machine Learning/Transformer c4a76c40ecb542638fa646e3a0bcfa79",
-    "Deep Learning & Machine Learning",
+    "Deep_Learning_And_Machine_Learning",
     "Computer Science"
   ]
 }

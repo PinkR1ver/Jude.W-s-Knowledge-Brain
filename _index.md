@@ -1,5 +1,2 @@
----
- tags: Header, Table
----
 
-[[Deep Learning & Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content|Deep Learning Block - Table of Content]]
+[[Deep_Learning_And_Machine_Learning/Deep_Learning_Block/Deep Learning Block - Table of Content|Deep Learning Block - Table of Content]]
