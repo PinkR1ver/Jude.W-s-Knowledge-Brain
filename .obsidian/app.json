@@ -8,5 +8,6 @@
     "en"
   ],
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "showFrontmatter": true
 }

@@ -1,4 +1,6 @@
-
+---
+ tags: deep-learning, attention
+---
 # Self-Attention
 
 讲述self-attention我们以*sequence labeling*任务作为任务来讲解，sequence labeling的任务是输入N个vector并且输出N个label。

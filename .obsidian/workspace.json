@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning & Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md",
-                "mode": "source",
+                "file": "_index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning & Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning & Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning & Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md"
+                "file": "_index.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,14 +156,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "845adad4aa5bc244",
+  "active": "7be5dde64a5e15fa",
   "lastOpenFiles": [
+    "Deep Learning & Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md",
+    "Deep Learning & Machine Learning/Deep Learning Block/Transformer.md",
+    "Deep Learning & Machine Learning/Deep Learning Block/⭐Attention.md",
+    "_index.md",
     "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315195403.png",
     "Deep Learning & Machine Learning/Deep Learning Block/attachments/1.png",
     "Deep Learning & Machine Learning/Deep Learning Block/Pasted image 20230315195403.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/⭐Attention.md",
-    "Deep Learning & Machine Learning/Deep Learning Block/Transformer.md",
-    "Deep Learning & Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md",
     "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316164325.png",
     "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316163903.png",
     "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316162642.png",
@@ -176,7 +177,6 @@
     "Pasted image 20230315210631.md",
     "Attention 29e28941408c4c449b4fcda897b139b8",
     "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315210704.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315210640.png",
     "Deep Learning & Machine Learning/Deep Learning Block/attachments",
     "Untitled",
     "Untitled.canvas",
