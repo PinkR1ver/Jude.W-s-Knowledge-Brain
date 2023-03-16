@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md"
+                "file": "_index.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "845adad4aa5bc244",
   "lastOpenFiles": [
+    "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md",
     "Deep Learning And Machine Learning/Deep Learning Block/Transformer.md",
     "_index.md",
-    "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content.md",
     "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md",
     "Deep Learning And Machine Learning/Deep Learning Block/attachments/1.png",
     "Deep Learning And Machine Learning/Deep Learning Block/attachments/1.png",
