@@ -4,5 +4,12 @@
 
 
 Transformer 是Seq2Seq model，由Encoder和Decoder组成
-![300](attchments/Pasted%20image%2020230316160103.png)
+![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316160103.png|300]]
 
+# Encoder
+这里贴的是原文Encoder的架构
+![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316162635.png]]
+
+![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316162642.png]]
+
+![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230316164325.png]]

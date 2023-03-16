@@ -8,5 +8,5 @@
     "en"
   ],
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "absolute"
 }
