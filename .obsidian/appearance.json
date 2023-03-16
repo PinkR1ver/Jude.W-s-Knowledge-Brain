@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "baseFontSize": 18,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "nation-colour-blocks",
+    "obsidian"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "trashOption": "local",
+  "attachmentFolderPath": "./attchments",
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
+}
