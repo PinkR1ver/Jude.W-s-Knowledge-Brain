@@ -1,5 +1,5 @@
 > [!info] 
-> 在学习Transformer前，你需要学习 [[⭐Attention]]
+> 在学习Transformer前，你需要学习 [[Deep Learning & Machine Learning/Deep Learning Block/⭐Attention]]
 
 
 

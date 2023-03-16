@@ -95,16 +95,10 @@ $$
 
 Finally, calculate output $b$
 
+$$
+O = [b^1 \quad b^2 \quad \cdots \quad b^N] = [v^1 \quad v^2 \quad \cdots \quad v^N] = VA'
+$$
 
-$$
-O = [b^1 \quad b^2 \quad \cdots \quad b^N] = [v^1 \quad v^2 \quad \cdots \quad v^N]
-\begin{bmatrix}
-{\alpha'}_{1,1} & {\alpha'}_{2,1} & \cdots & {\alpha'}_{N,1} \\
-{\alpha'}_{1,2} & {\alpha'}_{2,2} & \cdots & {\alpha'}_{N,2} \\
-\vdots & \vdots & \ddots & \vdots\\
-{\alpha'}_{1,N} & {\alpha'}_{2,N} & \cdots & {\alpha'}_{N,N}
-\end{bmatrix} = VA'
-$$
 ![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315205148.png|600]]
 
 ### Positional Encoding
@@ -117,7 +111,7 @@ $$
 
 ### Self-attention vs. CNN
 
-![[attchments/attchments/Pasted image 20230315205918.png|Pasted image 20230315205918]]
+![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315205918.png]]
 
 因为transformer有着更大的function set，所以需求更多的数据; ![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315210032.png]]
 
@@ -131,19 +125,3 @@ Multi-head self attention就是由不同的self attention layer在一起，有�
 
 ![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315210631.png|600]]
 ![[Deep Learning & Machine Learning/Deep Learning Block/attachments/Pasted image 20230315210704.png|300]] 
-
-# Reference
-
-## Self Attention
-
-> [!info] 
->  [[Self-attention) (上)](https://www.youtube.com/watch?v=hYdO9CscNes|【機器學習2021】自注意力機制 (Self-attention) (上)]]
->  
-> [An intuitive explanation of Self Attention](https://towardsdatascience.com/an-intuitive-explanation-of-self-attention-4f72709638e1)
-
-## Positional Encoding
-
-> [!info] 
->  [Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
->  
-> [详解自注意力机制中的位置编码（第一部分）](https://zhuanlan.zhihu.com/p/352233973)
