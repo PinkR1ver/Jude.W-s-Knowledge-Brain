@@ -1,8 +1,8 @@
 ---
-title: "Index"
+title: "MOC"
 tags:
 - catalog
-- header
+- MOC
 ---
 
-[[Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content|Deep Learning Block - Table of Content]]
+[[Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block - Table of Content|Deep Learning Block - MOC]]

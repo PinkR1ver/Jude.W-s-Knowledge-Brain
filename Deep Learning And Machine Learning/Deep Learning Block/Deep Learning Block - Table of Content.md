@@ -1,8 +1,8 @@
 ---
-title: "Deep Learning Block"
+title: "Deep Learning Block - Table of Content"
 tags:
 - catalog
-- header
+- MOC
 ---
 
 [[Deep Learning And Machine Learning/Deep Learning Block/⭐Attention|Attention Blocker]]
