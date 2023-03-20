@@ -1,6 +1,6 @@
 {
   "trashOption": "local",
-  "attachmentFolderPath": "./attchments",
+  "attachmentFolderPath": "./attachments",
   "strictLineBreaks": true,
   "spellcheck": true,
   "spellcheckLanguages": [
@@ -9,5 +9,6 @@
   ],
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "useMarkdownLinks": true
 }
