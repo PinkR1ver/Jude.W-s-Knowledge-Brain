@@ -34,6 +34,12 @@ The transmitter generates successive short bursts or pulses of microwave at regu
 * Radar can only measure part of echoes.
 * The strength of the reflected echo is the backscattering coefficient ([sigma nought](Synthetic%20Aperture%20Radar%20Imaging/Radiometric%20Calibration.md)）and is expressed in [decibels(dB)](Signal%20Processing/What%20is%20dB.md)
 
+## Radar Key Parameters
+* Wave Length
+* Polarization
+* Incidence Angle
+
+
 # Reference
 
 * ***Sentinel-1** is a famous SAR, you can find almost every *definitions* of SAR in this page:
