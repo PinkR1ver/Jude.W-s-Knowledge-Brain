@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Block - Table of Content"
+title: "Deep Learning Block - MOC"
 tags:
 - catalog
 - MOC

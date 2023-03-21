@@ -20,8 +20,8 @@ The transmitter generates successive short bursts or pulses of microwave at regu
 
 
 > [!important] 
-> The along track **resolution** is determined by the beam width which is *inversely proportional to the antenna length*, also known as the **aperture**, which means that longer antenna or a longer aperture will produce a narrow beam and a finer resolution.
-> 
+> Important<br>
+> The along track **resolution** is determined by the beam width which is *inversely proportional to the antenna length*, also known as the **aperture**, which means that longer antenna or a longer aperture will produce a narrow beam and a finer resolution. <br>
 > Long antenna $\leftrightarrow$ Small beam $\leftrightarrow$ Long aperture $\leftrightarrow$ Better image resolution
 
 介于实际情况下的物理空间中，雷达天线的大小是限的，可以通过雷达的移动去模拟长天线情况下的雷达，也就是活得更大的aperture，这项被叫做SAR。目的是在于使用*comparatively small physical antennas*去获得*high resolution images*
