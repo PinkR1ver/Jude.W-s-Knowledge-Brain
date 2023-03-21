@@ -2,7 +2,7 @@
 title: What is dB
 tags:
 - Signal Processing
-- Signal Basic
+- Basic
 ---
 dB is short for decibel, which is a unit that indicates ratio or gain. It is often used to measure *sound intensity*, *signal strength*, *attenuation* and other quantities. 
 

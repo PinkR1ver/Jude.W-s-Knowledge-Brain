@@ -32,4 +32,9 @@ The transmitter generates successive short bursts or pulses of microwave at regu
 
 * Radar can measure *amplitude* and *phase*
 * Radar can only measure part of echoes.
-* The strength of the reflected echo is the backscattering coefficient (sigma naught) and is expressed in [decibels(dB)](Signal%20Processing/What%20is%20dB.md)
+* The strength of the reflected echo is the backscattering coefficient ([sigma nought](Synthetic%20Aperture%20Radar%20Imaging/Radiometric%20Calibration.md)）and is expressed in [decibels(dB)](Signal%20Processing/What%20is%20dB.md)
+
+# Reference
+
+* ***Sentinel-1** is a famous SAR, you can find almost every *definitions* of SAR in this page:
+[User Guides - Sentinel-1 SAR - Definitions - Sentinel Online - Sentinel Online (esa.int)](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/definitions)

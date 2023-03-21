@@ -2,7 +2,7 @@
 title: "Photography - MOC"
 tags:
 - MOC
-- photography
+- Photography
 ---
 
 About Basic Concepts:

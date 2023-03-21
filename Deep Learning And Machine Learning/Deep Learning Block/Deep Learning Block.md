@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Block - MOC"
 tags:
-- catalog
+- Catalog
 - MOC
 ---
 
