@@ -1,5 +1,5 @@
 ---
-title: "MOC"
+title: "Home"
 tags:
 - catalog
 - MOC
