@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Photography_MOC.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Portrait/Flower_and_Girl.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photography/Portrait/Flower_and_Girl.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photography/Portrait/Flower_and_Girl.md"
+                "file": "_index.md"
               }
             }
           },
@@ -193,11 +192,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "931791c4be62dcd4",
+  "active": "6e7ca91906dca40d",
   "lastOpenFiles": [
-    "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
     "Photography/Photography_MOC.md",
     "Photography/Portrait/Flower_and_Girl.md",
+    "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
     "Photography/Portrait/attachments/content.jpg",
     "Photography/Portrait/attachments/content (12).jpg",
     "Photography/Portrait/attachments/content (11).jpg",

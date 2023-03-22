@@ -19,5 +19,5 @@ tags:
 
 * [📷 Photography](Photography/Photography_MOC.md)
 
-* [🖋文学](文学/文学_MOC.md)
+* [📮文学](文学/文学_MOC.md)
 
