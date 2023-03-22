@@ -5,8 +5,25 @@ tags:
 - Photography
 ---
 
-About Basic Concepts:
+# 🌊Photo Portfolio
+You can see my photography works in:
 
-[Saturation](Photography/Saturation.md)
+* [🌄Photo Collection](https://www.notion.so/pinkr1ver/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
+* [🍻Instagram](https://www.instagram.com/jude.wang.yc/?next=%2F)
 
- 
+# Notes
+Also, here's my notes about learning photography
+
+## About Basic Concepts:
+
+* [Saturation](Photography/Saturation.md)
+
+## Appreciation of other works - about ***aesthetic***
+
+* 
+
+# Reference about great photography website
+
+* [Magnum Photos]([Magnum Photos | Iconic images, authentic visual storytelling](https://www.magnumphotos.com/))
+* [CNU - Catch Next Ultimate](http://www.cnu.cc/)
+

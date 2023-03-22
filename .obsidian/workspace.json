@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子.md",
+                "file": "Photography/Photography_MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef0eab9a0c978c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Portrait.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "931791c4be62dcd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Portrait/Flower_and_Girl.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子.md",
+                "file": "Photography/Portrait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子.md",
+                "file": "Photography/Portrait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子.md"
+                "file": "Photography/Portrait.md"
               }
             }
           },
@@ -168,23 +193,26 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6e7ca91906dca40d",
+  "active": "ef0eab9a0c978c5e",
   "lastOpenFiles": [
-    "文学/文学_MOC.md",
-    "文学/句子.md",
-    "Synthetic Aperture Radar Imaging/SAR Explained.md",
-    "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
-    "Synthetic Aperture Radar Imaging/SAR_MOC.md",
+    "Photography/Saturation.md",
+    "Photography/Portrait.md",
+    "Photography/Photography_MOC.md",
+    "Photography/Portrait/Flower_and_Girl.md",
+    "Photography/Portrait",
+    "_index.md",
     "Signal Processing/Basic Concepts in Signal Processing.md",
     "Signal Processing/Signal Processing_MOC.md",
     "Signal Processing/What is dB.md",
+    "Synthetic Aperture Radar Imaging/SAR_MOC.md",
+    "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
+    "Synthetic Aperture Radar Imaging/SAR Explained.md",
+    "文学/句子.md",
+    "文学/文学_MOC.md",
     "文学/Poem_by_me.md",
     "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md",
     "Deep Learning And Machine Learning/Deep Learning Block/Transformer.md",
     "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block.md",
-    "Photography/Photography_MOC.md",
-    "Photography/Saturation.md",
-    "_index.md",
     "文学/attachments/Pasted image 20230321143300.png",
     "文学/attachments/Pasted image 20230321142115.png",
     "文学/attachments",
@@ -209,7 +237,6 @@
     "attchments",
     "Attention 29e28941408c4c449b4fcda897b139b8/Untitled 15.png.md",
     "Pasted image 20230315210631.md",
-    "Attention 29e28941408c4c449b4fcda897b139b8",
     "Untitled.canvas",
     "Computer Science/Deep Learning & Machine Learning/Transformer c4a76c40ecb542638fa646e3a0bcfa79.md",
     "Computer Science/Deep Learning & Machine Learning/Attention.md"
