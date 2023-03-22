@@ -34,6 +34,6 @@ Also, here's my notes about learning photography
 
 * [linksphotograph](https://www.linksphotograph.com/)
 * [HAMADA Hideaki / 濱田英明](https://www.hideakihamada.com)
-* [Jason Kummerfeldt](https://graincheck.darkroom.com/)
+* [Jason Kummerfeldt](https://graincheck.darkroom.com/) and [his youtube](https://www.youtube.com/@grainydaysss)
 * [Marta Bevacqua](https://www.martabevacquaphotography.com/)
 * [Sam Zhang](https://www.instagram.com/itscapturedbysam/)

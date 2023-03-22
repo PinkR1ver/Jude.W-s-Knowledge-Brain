@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Photography/Photography_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Photography/Photography_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "Photography/Photography_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "Photography/Photography_MOC.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "6e7ca91906dca40d",
   "lastOpenFiles": [
+    "_index.md",
     "Photography/Photography_MOC.md",
     "Photography/Portrait/Flower_and_Girl.md",
     "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
@@ -209,7 +210,6 @@
     "Photography/Portrait/attachments/content (3).jpg",
     "Photography/Portrait/attachments",
     "Photography/Portrait.md",
-    "_index.md",
     "Photography/Saturation.md",
     "Photography/Portrait",
     "Signal Processing/Basic Concepts in Signal Processing.md",
