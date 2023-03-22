@@ -20,10 +20,9 @@ Also, here's my notes about learning photography
 
 ## Appreciation of other works - about ***aesthetic***
 
-* 
+* [👧Portrait](Photography/Portrait.md)
 
 # Reference about great photography website
 
-* [Magnum Photos]([Magnum Photos | Iconic images, authentic visual storytelling](https://www.magnumphotos.com/))
+* [Magnum Photos](https://www.magnumphotos.com/)
 * [CNU - Catch Next Ultimate](http://www.cnu.cc/)
-

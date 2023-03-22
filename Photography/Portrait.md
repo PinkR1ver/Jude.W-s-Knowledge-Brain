@@ -1,5 +1,5 @@
 ---
-title: 🧙‍♂️Portrait
+title: 👧Portrait
 tags:
 - Photography
 - Portrait
