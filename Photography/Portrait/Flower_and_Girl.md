@@ -6,6 +6,9 @@ tags:
 - 摘抄
 ---
 
+Credits to [Marta Bevacqua](https://www.martabevacquaphotography.com/), 
+Thanks🌸
+
 ![](Photography/Portrait/attachments/14.jpg)
 
 ![](Photography/Portrait/attachments/15.jpg)

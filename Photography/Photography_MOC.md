@@ -20,6 +20,7 @@ Also, here's my notes about learning photography
 
 ## Appreciation of other works - about ***aesthetic***
 
+* [🦺搬运UP主 - 豆腐素包](https://space.bilibili.com/196700312/video)
 * [👧Portrait](Photography/Portrait.md)
 
 # Reference

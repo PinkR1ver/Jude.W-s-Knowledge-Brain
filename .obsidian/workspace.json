@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,8 +193,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ef0eab9a0c978c5e",
+  "active": "931791c4be62dcd4",
   "lastOpenFiles": [
+    "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
+    "Photography/Photography_MOC.md",
+    "Photography/Portrait/Flower_and_Girl.md",
     "Photography/Portrait/attachments/content.jpg",
     "Photography/Portrait/attachments/content (12).jpg",
     "Photography/Portrait/attachments/content (11).jpg",
@@ -205,14 +208,10 @@
     "Photography/Portrait/attachments/content (5).jpg",
     "Photography/Portrait/attachments/content (4).jpg",
     "Photography/Portrait/attachments/content (3).jpg",
-    "Photography/Portrait/attachments/content (2).jpg",
     "Photography/Portrait/attachments",
     "Photography/Portrait.md",
-    "Photography/Photography_MOC.md",
     "_index.md",
-    "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
     "Photography/Saturation.md",
-    "Photography/Portrait/Flower_and_Girl.md",
     "Photography/Portrait",
     "Signal Processing/Basic Concepts in Signal Processing.md",
     "Signal Processing/Signal Processing_MOC.md",
