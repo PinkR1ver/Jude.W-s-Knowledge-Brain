@@ -22,7 +22,17 @@ Also, here's my notes about learning photography
 
 * [👧Portrait](Photography/Portrait.md)
 
-# Reference about great photography website
+# Reference
+
+## Platform
 
 * [Magnum Photos](https://www.magnumphotos.com/)
 * [CNU - Catch Next Ultimate](http://www.cnu.cc/)
+
+## Greatest Artist
+
+* [linksphotograph](https://www.linksphotograph.com/)
+* [HAMADA Hideaki / 濱田英明](https://www.hideakihamada.com)
+* [Jason Kummerfeldt](https://graincheck.darkroom.com/)
+* [Marta Bevacqua](https://www.martabevacquaphotography.com/)
+* [Sam Zhang](https://www.instagram.com/itscapturedbysam/)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Photography/Portrait/Flower_and_Girl.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Photography/Portrait/Flower_and_Girl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "Photography/Portrait/Flower_and_Girl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "Photography/Portrait/Flower_and_Girl.md"
               }
             }
           },
@@ -195,13 +195,25 @@
   },
   "active": "ef0eab9a0c978c5e",
   "lastOpenFiles": [
+    "Photography/Portrait/attachments/content.jpg",
+    "Photography/Portrait/attachments/content (12).jpg",
+    "Photography/Portrait/attachments/content (11).jpg",
+    "Photography/Portrait/attachments/content (9).jpg",
+    "Photography/Portrait/attachments/content (8).jpg",
+    "Photography/Portrait/attachments/content (7).jpg",
+    "Photography/Portrait/attachments/content (6).jpg",
+    "Photography/Portrait/attachments/content (5).jpg",
+    "Photography/Portrait/attachments/content (4).jpg",
+    "Photography/Portrait/attachments/content (3).jpg",
+    "Photography/Portrait/attachments/content (2).jpg",
+    "Photography/Portrait/attachments",
     "Photography/Portrait.md",
     "Photography/Photography_MOC.md",
+    "_index.md",
     "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
     "Photography/Saturation.md",
     "Photography/Portrait/Flower_and_Girl.md",
     "Photography/Portrait",
-    "_index.md",
     "Signal Processing/Basic Concepts in Signal Processing.md",
     "Signal Processing/Signal Processing_MOC.md",
     "Signal Processing/What is dB.md",
@@ -213,28 +225,17 @@
     "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md",
     "Deep Learning And Machine Learning/Deep Learning Block/Transformer.md",
     "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block.md",
-    "文学/attachments/Pasted image 20230321143300.png",
-    "文学/attachments/Pasted image 20230321142115.png",
     "文学/attachments",
     "Photography",
     "文学",
     "attachments/Pasted image 20230320150424.png.md",
     "Signal Processing",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230320163240.png",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230320163208.png",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230320150424.png",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230320161432.png",
     "attachments",
     "Synthetic Aperture Radar Imaging/attachments",
     "UWB/UWB Basic Information.md",
     "Synthetic Aperture Radar Imaging",
     "UWB",
-    "Deep Learning And Machine Learning/Deep Learning Block/attachments/1.png",
-    "Deep Learning And Machine Learning/Deep Learning Block/attachments/1.png",
-    "Deep Learning & Machine Learning/Deep Learning Block/Pasted image 20230315195403.png",
-    "Deep Learning And Machine Learning/Deep Learning Block/attachments/Pasted image 20230316164325.png",
     "attchments/Pasted image 20230315195603.png.md",
-    "attchments",
     "Attention 29e28941408c4c449b4fcda897b139b8/Untitled 15.png.md",
     "Pasted image 20230315210631.md",
     "Untitled.canvas",
