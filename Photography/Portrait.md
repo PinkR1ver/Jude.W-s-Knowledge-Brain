@@ -1,8 +1,8 @@
 ---
 title: 👧Portrait
 tags:
-- Photography
-- Portrait
+- photography
+- portrait
 - 摘抄
 - MOC
 ---

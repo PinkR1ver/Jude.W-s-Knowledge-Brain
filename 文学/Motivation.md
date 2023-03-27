@@ -1,8 +1,9 @@
 ---
-title: My Poem
+title: 🧗🏻‍♂️Motivation
 tags:
 - 文学
-- poem
+- 摘抄
+- motivation
 ---
 
   <style>
@@ -16,3 +17,11 @@ tags:
         font-variant-east-asian: traditional;
     }
   </style>
+
+  </script>
+> [!quote] 
+> A Sentence
+> 
+> "No easy basket"
+
+“如果你想了解American篮球的根基，你要去看看美高”

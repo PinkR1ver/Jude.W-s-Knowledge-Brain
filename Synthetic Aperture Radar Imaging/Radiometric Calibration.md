@@ -2,7 +2,7 @@
 title: Radiometric Calibration - 辐射校准
 tags:
 - SAR
-- Basic
+- basic
 ---
 
 # Overview

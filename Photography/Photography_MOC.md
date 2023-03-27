@@ -2,7 +2,7 @@
 title: "Photography - MOC"
 tags:
 - MOC
-- Photography
+- photography
 ---
 
 # 🌊Photo Portfolio

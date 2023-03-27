@@ -2,7 +2,7 @@
 title: Synthetic Aperture Radar (SAR) Explained
 tags:
 - SAR
-- Basic
+- basic
 ---
 
 # Radar Basic Concepts

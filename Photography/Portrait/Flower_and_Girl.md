@@ -1,8 +1,8 @@
 ---
 title: 🌸Flower & Girl
 tags:
-- Photography
-- Portrait
+- photography
+- portrait
 - 摘抄
 ---
 
