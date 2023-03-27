@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/Love about.md",
+                "file": "Photography/Portrait/From Korean MV Todays_Mod.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Photography_MOC.md",
+                "file": "Photography/Portrait.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Photography_MOC.md",
+                "file": "Photography/Portrait/From Korean MV Todays_Mod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photography/Photography_MOC.md",
+                "file": "Photography/Portrait/From Korean MV Todays_Mod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photography/Photography_MOC.md"
+                "file": "Photography/Portrait/From Korean MV Todays_Mod.md"
               }
             }
           },
@@ -174,16 +174,26 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6e7ca91906dca40d",
+  "active": "20a7964bd3636fdd",
   "lastOpenFiles": [
+    "Photography/Portrait/attachments/photo_6127648898429335195_y.jpg",
+    "Photography/Portrait/attachments/photo_6127648898429335194_y.jpg",
+    "Photography/Portrait/attachments/photo_6127648898429335193_y.jpg",
+    "Photography/Portrait/attachments/photo_6127648898429335192_y.jpg",
+    "Photography/Portrait/attachments/photo_6127648898429335191_y.jpg",
+    "Photography/Portrait/attachments/photo_6127648898429335190_y.jpg",
+    "Photography/Portrait/attachments/photo_6127648898429335189_y.jpg",
+    "Photography/Portrait/attachments/photo_6127648898429335188_y.jpg",
+    "Photography/Portrait.md",
+    "Photography/Portrait/From Korean MV Todays_Mod.md",
+    "Photography/Portrait/Flower_and_Girl.md",
+    "文学/Love about.md",
+    "Photography/Portrait/Untitled",
+    "Photography/Photography_MOC.md",
     "文学/Motivation.md",
     "文学/Feeling.md",
-    "文学/Love about.md",
     "文学/句子.md",
     "文学/Poem.md",
-    "Photography/Portrait/Flower_and_Girl.md",
-    "Photography/Portrait.md",
-    "Photography/Photography_MOC.md",
     "Photography/Saturation.md",
     "Signal Processing/Signal Processing_MOC.md",
     "Signal Processing/Basic Concepts in Signal Processing.md",
@@ -197,13 +207,6 @@
     "Photography/Portrait/attachments/content.jpg",
     "Photography/Portrait/attachments/content (12).jpg",
     "Photography/Portrait/attachments/content (11).jpg",
-    "Photography/Portrait/attachments/content (9).jpg",
-    "Photography/Portrait/attachments/content (8).jpg",
-    "Photography/Portrait/attachments/content (7).jpg",
-    "Photography/Portrait/attachments/content (6).jpg",
-    "Photography/Portrait/attachments/content (5).jpg",
-    "Photography/Portrait/attachments/content (4).jpg",
-    "Photography/Portrait/attachments/content (3).jpg",
     "Photography/Portrait/attachments",
     "Photography/Portrait",
     "Synthetic Aperture Radar Imaging/SAR_MOC.md",
@@ -219,9 +222,6 @@
     "attachments",
     "Synthetic Aperture Radar Imaging/attachments",
     "UWB/UWB Basic Information.md",
-    "Synthetic Aperture Radar Imaging",
-    "attchments/Pasted image 20230315195603.png.md",
-    "Attention 29e28941408c4c449b4fcda897b139b8/Untitled 15.png.md",
     "Untitled.canvas"
   ]
 }
