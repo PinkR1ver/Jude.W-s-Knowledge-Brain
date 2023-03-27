@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/Motivation.md",
+                "file": "Photography/Photography_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/Motivation.md",
+                "file": "Photography/Photography_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/Motivation.md",
+                "file": "Photography/Photography_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/Motivation.md"
+                "file": "Photography/Photography_MOC.md"
               }
             }
           },
@@ -176,10 +176,10 @@
   },
   "active": "6e7ca91906dca40d",
   "lastOpenFiles": [
+    "文学/Motivation.md",
     "文学/Feeling.md",
     "文学/Love about.md",
     "文学/句子.md",
-    "文学/Motivation.md",
     "文学/Poem.md",
     "Photography/Portrait/Flower_and_Girl.md",
     "Photography/Portrait.md",

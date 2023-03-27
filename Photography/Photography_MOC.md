@@ -11,6 +11,7 @@ You can see my photography works in:
 * [🎨Slide show](https://pinkr1ver.com/PhotoGallery/)
 * [🌄Photo Collection in Notion](https://www.notion.so/pinkr1ver/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
 * [🍻Instagram](https://www.instagram.com/jude.wang.yc/?next=%2F)
+* [🧶小红书](https://www.xiaohongshu.com/user/profile/6272c025000000002102353b)
 
 # Notes
 Also, here's my notes about learning photography
