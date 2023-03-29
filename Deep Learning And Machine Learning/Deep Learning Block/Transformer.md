@@ -1,8 +1,8 @@
 ---
 title: "Transformer"
 tags:
-- Deep-learning
-- Attention
+- deep-learning
+- attention
 ---
 
 > [!info] 

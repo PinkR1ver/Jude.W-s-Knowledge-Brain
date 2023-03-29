@@ -1,8 +1,8 @@
 ---
 title: "⭐Attenion"
 tags:
-- Deep-learning
-- Attention
+- deep-learning
+- attention
 ---
 # Self-Attention
 
