@@ -15,6 +15,8 @@ tags:
 
 * [[Synthetic Aperture Radar Imaging/SAR_MOC| Synthetic Aperture Radar(SAR) Imaging]]
 
+* [Hardware](Hardware/Hardware_MOC.md)
+
 🛶 Also, he learn some knowledge about his hobbies:
 
 * [📷 Photography](Photography/Photography_MOC.md)
