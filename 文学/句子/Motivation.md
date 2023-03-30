@@ -18,7 +18,6 @@ tags:
     }
   </style>
 
-  </script>
 > [!quote] 
 > A Sentence
 > 
