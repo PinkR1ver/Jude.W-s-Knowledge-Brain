@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Cameras_Research/Polaroid/Polaroid.md",
+                "file": "文学/句子/句子.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c8190d5a490d294",
+            "id": "c523c45091e16eda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
+                "file": "文学/句子/Novel.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
+                "file": "文学/句子/Novel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
+                "file": "文学/句子/Novel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/Antenna.md"
+                "file": "文学/句子/Novel.md"
               }
             }
           },
@@ -169,15 +169,21 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6c8190d5a490d294",
+  "active": "c523c45091e16eda",
   "lastOpenFiles": [
+    "文学/句子/Movie.md",
+    "文学/句子/Novel.md",
+    "文学/句子/句子.md",
+    "文学/句子/Feeling.md",
+    "文学/句子/Poem.md",
+    "文学/句子",
+    "Photography/Cameras_Research/Polaroid/Polaroid.md",
+    "Synthetic Aperture Radar Imaging/Antenna.md",
     "Synthetic Aperture Radar Imaging/SAR Explained.md",
     "Synthetic Aperture Radar Imaging/SAR_MOC.md",
-    "Photography/Cameras_Research/Polaroid/Polaroid.md",
     "Photography/Cameras_Research/Polaroid/Polaroid_600.md",
     "Photography/Cameras_Research/Polaroid/Polaroid_one600.md",
     "Circuit/Basic/Electric_units.md",
-    "Synthetic Aperture Radar Imaging/Antenna.md",
     "Photography/Cameras_Research/Polaroid/attachments/Pasted image 20230330195707.png",
     "Photography/Cameras_Research/Polaroid/attachments/Pasted image 20230330195031.png",
     "Photography/Cameras_Research/Polaroid/attachments",
@@ -193,14 +199,11 @@
     "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330160535.png",
     "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330153450.png",
     "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330153007.png",
-    "文学/Movie.md",
     "Photography/Photography_MOC.md",
     "Photography/Cameras_Research/Polaroid",
     "Photography/Cameras_Research",
     "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block.md",
-    "文学/句子.md",
     "文学/文学_MOC.md",
-    "文学/Feeling.md",
     "Deep Learning And Machine Learning/Model_interpretability/SHAP.md",
     "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
     "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329205130.png",
@@ -213,10 +216,7 @@
     "Deep Learning And Machine Learning/Model_interpretability",
     "Hardware/MCU/Different programming interfaces.md",
     "Hardware/MCU",
-    "Hardware",
     "Photography/Portrait/From Korean MV Todays_Mod.md",
-    "Photography/Portrait.md",
-    "Photography/Portrait/Flower_and_Girl.md",
     "Untitled.canvas"
   ]
 }
