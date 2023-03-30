@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/Novel.md",
+                "file": "文学/句子/句子.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子/Novel.md",
+                "file": "文学/句子/句子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子/Novel.md",
+                "file": "文学/句子/句子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子/Novel.md"
+                "file": "文学/句子/句子.md"
               }
             }
           },
@@ -171,11 +171,12 @@
   },
   "active": "c523c45091e16eda",
   "lastOpenFiles": [
-    "文学/句子/Movie.md",
-    "文学/句子/Novel.md",
-    "文学/句子/句子.md",
-    "文学/句子/Feeling.md",
     "文学/句子/Poem.md",
+    "文学/句子/句子.md",
+    "文学/句子/Motivation.md",
+    "文学/句子/Novel.md",
+    "文学/句子/Movie.md",
+    "文学/句子/Feeling.md",
     "文学/句子",
     "Photography/Cameras_Research/Polaroid/Polaroid.md",
     "Synthetic Aperture Radar Imaging/Antenna.md",
@@ -216,7 +217,6 @@
     "Deep Learning And Machine Learning/Model_interpretability",
     "Hardware/MCU/Different programming interfaces.md",
     "Hardware/MCU",
-    "Photography/Portrait/From Korean MV Todays_Mod.md",
     "Untitled.canvas"
   ]
 }
