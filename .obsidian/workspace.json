@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9aa61339cd352fa3",
+            "id": "7c237f31a7ffd264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block.md",
+                "file": "Photography/Cameras_Research/Polaroid/Polaroid.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4328241b5ce49e37",
+            "id": "6c8190d5a490d294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbe285079fe69d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文学/句子.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "990ec2d9f3e4bdac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文学/Movie.md",
+                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7568d6442056d625",
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/Movie.md",
+                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/Movie.md",
+                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/Movie.md"
+                "file": "Synthetic Aperture Radar Imaging/Antenna.md"
               }
             }
           },
@@ -193,28 +169,44 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0ae214eb56fcd057",
+  "active": "6c8190d5a490d294",
   "lastOpenFiles": [
+    "Synthetic Aperture Radar Imaging/SAR Explained.md",
+    "Synthetic Aperture Radar Imaging/SAR_MOC.md",
+    "Photography/Cameras_Research/Polaroid/Polaroid.md",
+    "Photography/Cameras_Research/Polaroid/Polaroid_600.md",
+    "Photography/Cameras_Research/Polaroid/Polaroid_one600.md",
+    "Circuit/Basic/Electric_units.md",
+    "Synthetic Aperture Radar Imaging/Antenna.md",
+    "Photography/Cameras_Research/Polaroid/attachments/Pasted image 20230330195707.png",
+    "Photography/Cameras_Research/Polaroid/attachments/Pasted image 20230330195031.png",
+    "Photography/Cameras_Research/Polaroid/attachments",
+    "Photography/Cameras_Research/Polaroid/Background.md",
+    "Synthetic Aperture Radar Imaging/Electromagnetic_Theory.md",
+    "Circuit/Basic/attachments/Pasted image 20230330165822.png",
+    "Circuit/Basic/attachments/Pasted image 20230330163734.png",
+    "Circuit/Basic/attachments",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330163300.png",
+    "_index.md",
+    "Circuit/Basic",
+    "Circuit",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330160535.png",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330153450.png",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330153007.png",
+    "文学/Movie.md",
+    "Photography/Photography_MOC.md",
+    "Photography/Cameras_Research/Polaroid",
+    "Photography/Cameras_Research",
+    "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block.md",
     "文学/句子.md",
     "文学/文学_MOC.md",
-    "文学/Movie.md",
     "文学/Feeling.md",
     "Deep Learning And Machine Learning/Model_interpretability/SHAP.md",
     "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
     "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329205130.png",
     "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329205039.png",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329182011.png",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329181956.png",
-    "_index.md",
     "Deep Learning And Machine Learning/Model_interpretability/Model_Interpretability_MOC.md",
-    "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block.md",
     "Hardware/Hardware_MOC.md",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329165840.png",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329165818.png",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329165623.png",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329165523.png",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329165429.png",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329165406.png",
     "Deep Learning And Machine Learning/Model_interpretability/attachments",
     "Deep Learning And Machine Learning/Deep Learning Block/Transformer.md",
     "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md",
@@ -225,22 +217,6 @@
     "Photography/Portrait/From Korean MV Todays_Mod.md",
     "Photography/Portrait.md",
     "Photography/Portrait/Flower_and_Girl.md",
-    "文学/Love about.md",
-    "Photography/Portrait/Untitled",
-    "Photography/Photography_MOC.md",
-    "文学/Motivation.md",
-    "文学/Poem.md",
-    "Photography/Saturation.md",
-    "Signal Processing/Signal Processing_MOC.md",
-    "Signal Processing/Basic Concepts in Signal Processing.md",
-    "Signal Processing/What is dB.md",
-    "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
-    "Synthetic Aperture Radar Imaging/SAR Explained.md",
-    "Templates",
-    "Photography/Portrait/attachments",
-    "Photography/Portrait",
-    "文学/attachments",
-    "Photography",
     "Untitled.canvas"
   ]
 }

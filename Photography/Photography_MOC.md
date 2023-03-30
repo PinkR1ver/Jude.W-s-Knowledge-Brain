@@ -25,6 +25,10 @@ Also, here's my notes about learning photography
 * [🦺搬运UP主 - 豆腐素包](https://space.bilibili.com/196700312/video)
 * [👧Portrait](Photography/Portrait.md)
 
+## Camera Research
+
+* [✨Polaroid](Photography/Cameras_Research/Polaroid/Polaroid.md)
+
 # Reference
 
 ## Platform
