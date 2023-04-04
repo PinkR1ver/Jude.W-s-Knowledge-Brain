@@ -13,26 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/句子.md",
+                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c523c45091e16eda",
+            "id": "75421dbd3330eb86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/Novel.md",
+                "file": "warehouse/dampers_keeping_a_door_from_slamming shut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "978408d81ccb45b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "warehouse/dampers_keeping_a_door_from_slamming shut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "844dc9303f7883aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synthetic Aperture Radar Imaging/SAR Explained.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子/Novel.md",
+                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子/Novel.md",
+                "file": "Synthetic Aperture Radar Imaging/Antenna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子/Novel.md"
+                "file": "Synthetic Aperture Radar Imaging/Antenna.md"
               }
             }
           },
@@ -169,54 +192,54 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c523c45091e16eda",
+  "active": "7c237f31a7ffd264",
   "lastOpenFiles": [
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230404165239.png",
+    "Physics/Electromagnetism/Resonant_circuit.md",
+    "Physics/Electromagnetism/Q_factor.md",
+    "Physics/Electromagnetism/Electromagnetism_MOC.md",
+    "Synthetic Aperture Radar Imaging/SAR Explained.md",
+    "Synthetic Aperture Radar Imaging/Radiometric Calibration.md",
+    "Synthetic Aperture Radar Imaging/Electromagnetic_Theory.md",
+    "Synthetic Aperture Radar Imaging/Antenna.md",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230404163712.png",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230404162347.png",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230404162148.png",
+    "Physics/Physics_MOC.md",
+    "Physics/Electromagnetism/attachments/Pasted image 20230404151254.png",
+    "warehouse/dampers_keeping_a_door_from_slamming shut.md",
+    "warehouse/attachments/Pasted image 20230404150745.png",
+    "warehouse/attachments",
+    "warehouse",
+    "Physics/Electromagnetism/attachments/Pasted image 20230404144801.png",
+    "Physics/Electromagnetism/attachments",
+    "_index.md",
+    "Physics/Electromagnetism/Basic/Electric_units.md",
+    "Physics",
+    "Signal Processing/Basic Concepts in Signal Processing.md",
+    "Hardware/Hardware_MOC.md",
+    "Signal Processing/What is dB.md",
+    "Signal Processing/Signal Processing_MOC.md",
+    "Photography/Saturation.md",
+    "Photography/Portrait.md",
+    "Photography/Portrait/From Korean MV Todays_Mod.md",
+    "Photography/Photography_MOC.md",
+    "Photography/Cameras_Research/Polaroid/Polaroid.md",
+    "Photography/Cameras_Research/Polaroid/Polaroid_600.md",
     "文学/句子/句子.md",
+    "文学/句子/Novel.md",
     "文学/句子/Poem.md",
     "文学/句子/Motivation.md",
-    "文学/句子/Novel.md",
-    "文学/句子/Movie.md",
-    "文学/句子/Feeling.md",
     "文学/句子",
-    "Photography/Cameras_Research/Polaroid/Polaroid.md",
-    "Synthetic Aperture Radar Imaging/Antenna.md",
-    "Synthetic Aperture Radar Imaging/SAR Explained.md",
-    "Synthetic Aperture Radar Imaging/SAR_MOC.md",
-    "Photography/Cameras_Research/Polaroid/Polaroid_600.md",
-    "Photography/Cameras_Research/Polaroid/Polaroid_one600.md",
-    "Circuit/Basic/Electric_units.md",
     "Photography/Cameras_Research/Polaroid/attachments/Pasted image 20230330195707.png",
     "Photography/Cameras_Research/Polaroid/attachments/Pasted image 20230330195031.png",
     "Photography/Cameras_Research/Polaroid/attachments",
-    "Photography/Cameras_Research/Polaroid/Background.md",
-    "Synthetic Aperture Radar Imaging/Electromagnetic_Theory.md",
-    "Circuit/Basic/attachments/Pasted image 20230330165822.png",
-    "Circuit/Basic/attachments/Pasted image 20230330163734.png",
-    "Circuit/Basic/attachments",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330163300.png",
-    "_index.md",
-    "Circuit/Basic",
-    "Circuit",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330160535.png",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330153450.png",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230330153007.png",
-    "Photography/Photography_MOC.md",
+    "Physics/Electromagnetism/Basic/attachments/Pasted image 20230330165822.png",
+    "Physics/Electromagnetism/Basic/attachments/Pasted image 20230330163734.png",
+    "Physics/Electromagnetism/Basic/attachments",
+    "Physics/Electromagnetism/Basic",
+    "Physics/Electromagnetism",
     "Photography/Cameras_Research/Polaroid",
-    "Photography/Cameras_Research",
-    "Deep Learning And Machine Learning/Deep Learning Block/Deep Learning Block.md",
-    "文学/文学_MOC.md",
-    "Deep Learning And Machine Learning/Model_interpretability/SHAP.md",
-    "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329205130.png",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments/Pasted image 20230329205039.png",
-    "Deep Learning And Machine Learning/Model_interpretability/Model_Interpretability_MOC.md",
-    "Hardware/Hardware_MOC.md",
-    "Deep Learning And Machine Learning/Model_interpretability/attachments",
-    "Deep Learning And Machine Learning/Deep Learning Block/Transformer.md",
-    "Deep Learning And Machine Learning/Deep Learning Block/⭐Attention.md",
-    "Deep Learning And Machine Learning/Model_interpretability",
-    "Hardware/MCU/Different programming interfaces.md",
-    "Hardware/MCU",
     "Untitled.canvas"
   ]
 }

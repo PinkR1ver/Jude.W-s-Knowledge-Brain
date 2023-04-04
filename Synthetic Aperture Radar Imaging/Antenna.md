@@ -2,37 +2,38 @@
 title: Antenna
 tags:
 - SAR
-- physic
+- physics
 - basic
 ---
 
-# Theorem
+# Theorem you need know
 
-## 谐振电路 (Resonant circuit) - RLC for example
+* [🧷Resonant circuit](Physics/Electromagnetism/Resonant_circuit.md)
 
-### 什么是谐振
+# What is antenna
 
-电路中电容器$L$、电感器$C$两组件之能量相等，当能量由电路中某一电抗组件释出时，且另一电抗组件必吸收相同之能量，即此两电抗组件间会产生一能量脉动。
+A usually metallic device for radiating or receiving radio waves
 
-### 两种简单的谐振电路
+## A simple model representing antenna
 
-![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230330160535.png)
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230404163712.png)
+
+$R_L$ 损耗电阻 - 介质与结构导致的损耗
+$R_r$ 辐射电阻 - 与天线产生的辐射的能量关系密切
+$X_A$ 电抗 - 描述天线近场电磁能转换的现象 (一般情况下$X_A$ = 0)
+
+天线还有一个很重要的损耗来源，**mismatch loss**, 天线跟前端的阻抗不匹配，导致能量打不进天线，这点可以通过设计和材质来解决
+
+# Types of antennas
+
+## Wire antennas
+
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230404165239.png)
 
 
-#### *Resonant Frequency*
 
-电容，电阻的[电抗](Circuit/Basic/Electric_units.md#Electrical%20impedance)相同时发生谐振
+# Reference
 
-$$
-|X_C| = |\frac{1}{j2\pi fC}| = |X_L| = |j2\pi fL|
-$$
-Rearranging,
-
-$$
-f^2 =  \frac{1}{(2\pi)^2 C L}
-$$
-
-$$
-f = \frac{1}{2\pi \sqrt{LC}}
-$$
-
+* [知乎 - 天线与电波传播基础知识](https://zhuanlan.zhihu.com/p/497482699)
+* [天线 in wiki](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%BA%BF)
+* [陈士元 - 天线原理与基本参数](https://www.youtube.com/watch?v=JsVGW3z81wc&list=PLQdXflQNtKfLaGnvPLW_XVal-RaHxFN5j&index=1)

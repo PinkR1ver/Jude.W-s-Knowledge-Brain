@@ -11,11 +11,15 @@ tags:
 
 * [Deep Learning](Deep%20Learning%20And%20Machine%20Learning/Deep%20_Learning_MOC.md)
 
-* [Signal Processing](Signal%20Processing/Signal%20Processing_MOC.md)
-
 * [[Synthetic Aperture Radar Imaging/SAR_MOC| Synthetic Aperture Radar(SAR) Imaging]]
 
+Also, his research needs some basic science to support
+
 * [Hardware](Hardware/Hardware_MOC.md)
+
+* [Physics](Physics/Physics_MOC.md)
+
+* [Signal Processing](Signal%20Processing/Signal%20Processing_MOC.md)
 
 🛶 Also, he learn some knowledge about his hobbies:
 

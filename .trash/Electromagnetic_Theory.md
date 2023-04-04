@@ -2,6 +2,6 @@
 title: Electromagnetic Theory
 tags:
 - basic
-- physic
+- physics
 ---
 

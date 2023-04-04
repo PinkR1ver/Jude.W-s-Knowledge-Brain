@@ -27,7 +27,7 @@ The transmitter generates successive short bursts or pulses of microwave at regu
 ### Detail geometry
 
 ![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230330153450.png)
-**Fig** *Geometry of a side-looking real aperture radar. (SLAR)*
+<font size=1>**Fig** *Geometry of a side-looking real aperture radar. (SLAR)*</font>
 
 side-looking的雷达被分为two types —— real aperture radar(*SLAR or SLR*, SL for side-looking)和synthetic aperture radar(SAR)
 
