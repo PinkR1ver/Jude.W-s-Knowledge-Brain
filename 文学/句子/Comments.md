@@ -25,6 +25,8 @@ tags:
 
 
 --- 
+
+
  > [!quote] 
 > From CC98, credits to someone
 > 
