@@ -24,6 +24,7 @@ Also, here's my notes about learning photography
 
 * [🦺搬运UP主 - 豆腐素包](https://space.bilibili.com/196700312/video)
 * [👧Portrait](Photography/Portrait.md)
+* [☝Style](Photography/Style/Style_MOC.md)
 
 ## Camera Research
 
@@ -41,5 +42,6 @@ Also, here's my notes about learning photography
 * [linksphotograph](https://www.linksphotograph.com/)
 * [HAMADA Hideaki / 濱田英明](https://www.hideakihamada.com)
 * [Jason Kummerfeldt](https://graincheck.darkroom.com/) and [his youtube](https://www.youtube.com/@grainydaysss)
+* [Nguan](https://nguan.tv/)
 * [Marta Bevacqua](https://www.martabevacquaphotography.com/)
 * [Sam Zhang](https://www.instagram.com/itscapturedbysam/)
