@@ -22,7 +22,6 @@ Also, here's my notes about learning photography
 
 ## Appreciation of other works - about ***aesthetic***
 
-* [🦺搬运UP主 - 豆腐素包](https://space.bilibili.com/196700312/video)
 * [👧Portrait](Photography/Portrait.md)
 * [☝Style](Photography/Style/Style_MOC.md)
 
@@ -45,3 +44,8 @@ Also, here's my notes about learning photography
 * [Nguan](https://nguan.tv/)
 * [Marta Bevacqua](https://www.martabevacquaphotography.com/)
 * [Sam Zhang](https://www.instagram.com/itscapturedbysam/)
+
+## Content Collector & Photographer
+
+* [🦺搬运UP主 - 豆腐素包](https://space.bilibili.com/196700312/video)
+* [小八怪 - 小红书](https://www.xiaohongshu.com/user/profile/5558b47f5894463d532a632c)
