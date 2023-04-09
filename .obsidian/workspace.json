@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Style/Style_MOC.md",
+                "file": "文学/句子/Comments.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Style/Style_MOC.md",
+                "file": "文学/句子/Comments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photography/Style/Style_MOC.md",
+                "file": "文学/句子/Comments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photography/Style/Style_MOC.md"
+                "file": "文学/句子/Comments.md"
               }
             }
           },
@@ -243,8 +243,11 @@
   },
   "active": "16cf48289a74736e",
   "lastOpenFiles": [
-    "Photography/Style/Polaroid_showcase.md",
+    "文学/句子/Music.md",
+    "文学/句子/attachments/Pasted image 20230409171853.png",
+    "文学/句子/attachments",
     "Photography/Style/Style_MOC.md",
+    "Photography/Style/Polaroid_showcase.md",
     "Photography/Style/attachments/IMG_5334.jpg",
     "Photography/Style/attachments/IMG_5327.jpg",
     "Photography/Style/attachments/IMG_5329.jpg",
@@ -256,7 +259,6 @@
     "Photography/Style/attachments/153386473_426909131936316_8535520818773302544_n.jpg",
     "Photography/Style/attachments/167396766_118928406833773_7462235788758622009_n.jpg",
     "Photography/Style/attachments/275101252_116346090976633_4116581661408205933_n.jpg",
-    "Photography/Style/attachments/275801921_507726407459443_2779968335661218284_n.jpg",
     "Photography/Style/attachments",
     "Photography/Style",
     "文学/句子/句子.md",
@@ -287,7 +289,6 @@
     "文学/句子",
     "Photography/Cameras_Research/Polaroid/attachments",
     "Physics/Electromagnetism/Basic/attachments",
-    "Physics/Electromagnetism/Basic",
     "Untitled.canvas"
   ]
 }
