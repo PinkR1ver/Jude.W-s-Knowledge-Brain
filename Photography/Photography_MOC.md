@@ -29,6 +29,10 @@ Also, here's my notes about learning photography
 
 * [✨Polaroid](Photography/Cameras_Research/Polaroid/Polaroid.md)
 
+## Skills I learned
+
+* [How to measure light using Polaroid?](Photography/Skills/Polaroid_light.md)
+
 # Reference
 
 ## Platform
