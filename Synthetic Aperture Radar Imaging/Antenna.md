@@ -67,6 +67,68 @@ Radiate all the power delivered to it from the transmitter in a desired directio
  
 ![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230410113039.png)
 
+* $q_v$电荷密度，$C/m^3$
+* $v_Z$电荷移动速度，$m/s$
+* $J_Z$电流密度，$A/m^2$
+$$
+A/m^2 = C/m^3 * m/s = \frac{C}{m^2 * s}
+$$
+
+导线由PEC所做时，或者高频情况，电流变成面电流
+* $J_S$变成面电流密度，$A/m^2$
+* $q_S$也变成面电荷密度，$C/m^2$
+
+但wire非常thin，当然面最终被认为为线
+
+$$
+I_Z = q_l v_Z
+$$
+我们用thin wire case来讨论
+
+对这个式子做时间微分
+$$
+\frac{dI_z}{dt} = q_l\frac{v_Z}{dt}=q_l a_z
+$$
+$$
+l\frac{dI_Z}{dt}=lq_la_Z=Qa_z
+$$
+> [!hint] 
+> To create radiation, there must be **a time-varying current** or **an acceleration (or deceleration) of charge** 
+> 
+> -> The wire must be curved, bent, discontinuous, terminated, or truncated
+
+###  How are EM fields contained and guided within the transmission line & antenna?
+
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230411105457.png)
+
+radiation要考虑两个方面，一方面激发电场那边提供的电子的加速，另一方面时end部分的pause造成的电子的减速，这两边会有最主要的辐射；
+
+如果加速和减速之间的距离很短，形成一个pulse，会发出一个很宽频的信号；
+
+如果加减速达到间歇运动状态，会发出一个单频的辐射
+
+> [!hint] 
+> 用水波去理解辐射
+> 
+> 在池塘里要产生水波，你可以丟一颗石头
+> 
+> Source可以产生pulse或者弦波，引起电磁振荡，induce电荷做加减速，产生时变电流，在导线里产生导波，也就是在传输线中引导的电磁波，电磁波最后会走到天线端，被辐射出去；
+> 
+> pulse就像你丢了一颗石头下去，弦波就像你按照周期去丢
+ 
+> [!hint] 
+> 根据Maxwell's equations
+> 
+> 当电磁波在导线中存在的时候，它是需要时变的电流或者说是加减速的电荷来support。在传输线里，需要source才能有场；
+> 
+> 但是在解Maxwell's equations的时候，是有一组homogeneous的解，这组解指的是，你不需要source的存在的场，这个场指的是free-space wave；
+> 
+> 所以，天线本质上就是一个interface，将导线内需要source的场，变成不需要source的场，也就是free-space wave
+
+### How are EM fields finally detached from the antenna to form a free-space wave?
+
+
+
 # Reference
 
 * [知乎 - 天线与电波传播基础知识](https://zhuanlan.zhihu.com/p/497482699)
