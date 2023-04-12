@@ -67,6 +67,53 @@ Curl是衡量fluid在point被rotate的程度，clockwise方向是positive curl�
 
 上图中这个点的curl也是非零的，因为fluid上快下慢，result in clockwise influence
 
+## Calculate divergence and curl
+
+$$
+\text{div} F = \nabla \cdot F = 
+\begin{bmatrix}
+\frac{\partial}{\partial x} \\
+\frac{\partial}{\partial y}
+\end{bmatrix} \cdot
+\begin{bmatrix}
+F_x \\
+F_y
+\end{bmatrix} = \frac{\partial F_x}{\partial x} + \frac{\partial F_y}{\partial y}
+$$
+
+$$
+\text{curl} F = \nabla \times F = 
+\begin{bmatrix}
+\frac{\partial}{\partial x} \\
+\frac{\partial}{\partial y}
+\end{bmatrix} \times
+\begin{bmatrix}
+F_x \\
+F_y
+\end{bmatrix}
+= \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y}
+$$
+
+![](Physics/Electromagnetism/attachments/calculation_result.gif)
+
+### Detail Explanation
+
+![](Physics/Electromagnetism/attachments/Pasted%20image%2020230412144351.png)
+
+![](Physics/Electromagnetism/attachments/Pasted%20image%2020230412144501.png)
+
+在$(x_0, y_0)$微分一个很小的tiny step，会有一个新的vector，它与原有的vector会有一个difference。
+
+![](Physics/Electromagnetism/attachments/div.gif)
+
+$\text{div} F(x_0, y_0)$其实就是corresponds to $360^\circ$方向的average的Step $\cdot$ Difference
+
+可以想象一个source端，它朝四面发射vector，它的Step $\cdot$ Difference自然就是positive的
+
+![](Physics/Electromagnetism/attachments/Pasted%20image%2020230412145732.png)
+
+同理，不难想象的是，$\text{curl} F(x_0, y_0)$是corresponds to Step $\times$ Difference
+
 # Understand Maxwell's Equation
 
 学会vector filed中的divergence和curl，是理解Maxwell’s Equation的关键
@@ -105,6 +152,15 @@ $$
 
 ## Maxwell–Faraday equation (Faraday's law of induction)
 
+$$
+\nabla \times E = - \frac{1}{c} \frac{\partial B}{\partial t}
+$$
+
+## Ampère's circuital law (with Maxwell's addition)
+
+$$
+\nabla \times B = \frac{1}{c} (4\pi J + \frac{\partial E}{\partial t})
+$$
 
 
 # Reference
