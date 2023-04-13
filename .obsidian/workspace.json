@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
+                "file": "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
+                "file": "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
+                "file": "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md"
+                "file": "Deep Learning And Machine Learning/Deep _Learning_MOC.md"
               }
             }
           }
@@ -199,15 +199,16 @@
   },
   "active": "2f62242397042862",
   "lastOpenFiles": [
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
+    "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230413112822.png",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230413112821.png",
-    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/AdaBoost.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/XGBoost.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Transformer.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Random_Forest.md",
-    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Untitled 4.png",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Untitled 3.png",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Untitled 2.png",
@@ -223,7 +224,6 @@
     "Synthetic Aperture Radar Imaging/Antenna.md",
     "Physics/Electromagnetism/Maxwells_equation.md",
     "Physics/Electromagnetism/attachments/Pasted image 20230412145732.png",
-    "Physics/Electromagnetism/attachments/Pasted image 20230412144501.png",
     "Physics/Electromagnetism/Electromagnetism_MOC.md"
   ]
 }
