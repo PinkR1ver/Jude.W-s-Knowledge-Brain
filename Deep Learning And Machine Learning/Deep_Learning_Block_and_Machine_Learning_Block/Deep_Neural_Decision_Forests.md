@@ -1,5 +1,5 @@
 ---
-title:Deep Neural Decision Forests
+title: Deep Neural Decision Forests
 tags:
 - deep-learning
 ---
