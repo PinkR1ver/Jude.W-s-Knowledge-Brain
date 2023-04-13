@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/SAR_Explained.md",
+                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/XGBoost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34c48f44f1767e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f62242397042862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccb009c5c1efe51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/XGBoost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cd9720374bb71b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/SAR_Explained.md",
+                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/SAR_Explained.md",
+                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/SAR_Explained.md"
+                "file": "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md"
               }
             }
           }
@@ -148,19 +197,33 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "29af68def47ec4f0",
+  "active": "2f62242397042862",
   "lastOpenFiles": [
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230413112822.png",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230413112821.png",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/AdaBoost.md",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/XGBoost.md",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Transformer.md",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Random_Forest.md",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Untitled 4.png",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Untitled 3.png",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Untitled 2.png",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Untitled 1.png",
+    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Untitled.png",
+    "Synthetic Aperture Radar Imaging/SAR_Explained.md",
+    "XGBoost 4f7e7664770b4a2c89107b59434de9ce/Untitled.png.md",
+    "XGBoost 4f7e7664770b4a2c89107b59434de9ce",
     "Physics/Electromagnetism/attachments/div.gif",
     "Physics/Electromagnetism/attachments/div_result.gif",
     "Synthetic Aperture Radar Imaging/Radiometric_Calibration.md",
-    "Synthetic Aperture Radar Imaging/SAR_Explained.md",
     "Synthetic Aperture Radar Imaging/SAR_MOC.md",
     "Synthetic Aperture Radar Imaging/Antenna.md",
     "Physics/Electromagnetism/Maxwells_equation.md",
     "Physics/Electromagnetism/attachments/Pasted image 20230412145732.png",
     "Physics/Electromagnetism/attachments/Pasted image 20230412144501.png",
-    "Physics/Electromagnetism/attachments/Pasted image 20230412144351.png",
-    "Physics/Electromagnetism/attachments/calculation_result.gif",
     "Physics/Electromagnetism/Electromagnetism_MOC.md"
   ]
 }
