@@ -1,5 +1,7 @@
 [
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-link-converter",
-  "metadata-extractor"
+  "metadata-extractor",
+  "obsidian-latex",
+  "table-editor-obsidian"
 ]

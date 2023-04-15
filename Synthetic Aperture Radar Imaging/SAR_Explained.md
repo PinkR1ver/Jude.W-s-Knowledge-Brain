@@ -49,10 +49,48 @@ side-looking的雷达被分为two types —— real aperture radar(*SLAR or SLR*
 
 如上图所示，雷达发出的pulse被[antenna聚焦](Synthetic%20Aperture%20Radar%20Imaging/Antenna.md)在一个narrow的area里，然后scatter后在不同和的时间再被receiver接收
 
-### Range Resolution
+### Resolution
 
+当我们谈SAR的分辨率时，我们要知道有四种operating modes对于SAR而言。
 
+* Stripmap SAR
+* Spotlight SAR
+* Circular SAR
+* Scan SAR
 
+其中Stripmap SAR, Spotlight SAR,  Circular SAR这三种最为常用
+
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230414105501.png)
+
+Stripmap SAR是将antenna固定在platform，以straight line方式移动并连续接发pulse，它的优势是可以cover large area。
+
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230414105703.png)
+
+Spotlight SAR天线不断移动以照射同一区域，它的特点是high-resolution image，因为它从不同的角度收集同一区域的data
+
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230414110025.png)
+
+Circular SAR通过circular trajectory窥探同一片area，它跟spotlight SAR很像，区别在于Spotlight mode里antenna是不动的，只有平台在移动，而在circular mode里，antenna也在移动，来收集$360^\circ$信息，circular SAR的分辨率计算时，认为反射是$360^\circ$各向同性反射，所以是理论分辨率。
+
+我在UWB radar探测烧伤的技术中将采用Spotlight SAR
+
+#### Range Resolution & Azimuth Resolution
+
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230414111329.png)
+
+这是一张可以快速check概念的图
+
+Table. *Range and azimuth resolution*
+|               | Range Resolution                             | Azimuth Resolution                                     |
+| ------------- | -------------------------------------------- | ------------------------------------------------------ |
+| Stripmap SAR  | $\Delta_r = \frac{c\pi}{2\omega_0}$          | $\Delta_a = \frac{D_y}{2}$                             |
+| Spotlight SAR | $\Delta_r = \frac{c\pi}{2\omega_0}$          | $\Delta_a=\frac{r_n\lambda_c}{4L \cos \theta_n(0)}$    |
+| Circular SAR  | $\Delta_r = \frac{\pi}{\rho_max - \rho_min}$ | $\Delta_a=\frac{\pi}{2k_c \cos{\theta_z}\sin{\phi_0}}$ |
+
+* $\omega_0$ radar signal half-bandwidth in radians
+* $D_y$ the diameter of the radar in azimuth domain
+* $r_n$ the target radical distance from the center of aperture
+* 
 
 ## Radar Key Parameters
 * Wave Length
@@ -69,8 +107,7 @@ side-looking的雷达被分为two types —— real aperture radar(*SLAR or SLR*
 # Reference
 
 * [Theory of Synthetic Aperture Radar (uzh.ch)](https://www.geo.uzh.ch/~fpaul/sar_theory.html)
-
-* ***Sentinel-1** is a famous SAR, you can find almost every *definitions* of SAR in this page:
+* ***Sentinel-1** is a famous SAR, you can find almost every definitions* of SAR in this page:
 [User Guides - Sentinel-1 SAR - Definitions - Sentinel Online - Sentinel Online (esa.int)](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/definitions)
-
 * [SAR(Synthetic Aperture Radar)基础(一) - 知乎 (评论区说这个有错)](https://zhuanlan.zhihu.com/p/98053986)
+* [A Review of Synthetic-Aperture Radar Image Formation Algorithms and Implementations: A Computational Perspective]([Remote Sensing | Free Full-Text | A Review of Synthetic-Aperture Radar Image Formation Algorithms and Implementations: A Computational Perspective (mdpi.com)](https://www.mdpi.com/2072-4292/14/5/1258))
