@@ -33,6 +33,10 @@ Also, here's my notes about learning photography
 
 * [How to measure light using Polaroid?](Photography/Skills/Polaroid_light.md)
 
+## Photography story
+
+* [夜爬蛤蟆峰拍Polaroid慢门](Photography/Story/Rainy_evening_hiking_Polaroid.md)
+
 # Reference
 
 ## Platform
