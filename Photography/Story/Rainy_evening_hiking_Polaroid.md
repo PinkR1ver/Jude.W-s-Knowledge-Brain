@@ -49,3 +49,17 @@ tags:
 
 同时要注意的是，Polaroid的曝光时间最多是30s，如果要更长时间的曝光，可以不弹相纸进行二次曝光，但是长曝光30s以上可能效果很差。
 
+## 人像
+
+搞了两张人像，同样的曝光参数$f/22$, 30s shutter speed, i-type film 640 ISO，开了宝丽来闪关灯最大等级：
+
+![](Photography/Story/attachments/IMG_5492.jpg)
+
+
+![](Photography/Story/attachments/IMG_5493.jpg)
+
+一张人像清晰些，以我个人观点来看，是因为伞造成的反射
+
+# 返程
+
+返程的

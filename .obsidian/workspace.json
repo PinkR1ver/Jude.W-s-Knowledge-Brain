@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Report/2023.04.16 天线测试.md",
+                "file": "Photography/Story/Rainy_evening_hiking_Polaroid.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Report/2023.04.16 天线测试.md",
+                "file": "Photography/Story/Rainy_evening_hiking_Polaroid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Report/2023.04.16 天线测试.md",
+                "file": "Photography/Story/Rainy_evening_hiking_Polaroid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Report/2023.04.16 天线测试.md"
+                "file": "Photography/Story/Rainy_evening_hiking_Polaroid.md"
               }
             }
           },
@@ -184,6 +184,15 @@
   },
   "active": "00fc08e1fbc8744a",
   "lastOpenFiles": [
+    "Photography/Story/attachments/IMG_5493.jpg",
+    "Photography/Story/attachments/IMG_5492.jpg",
+    "Photography/Style/Style_MOC.md",
+    "Photography/Style/Warmth_by_Nguan.md",
+    "Photography/Style/Polaroid_showcase.md",
+    "Photography/Photography_MOC.md",
+    "Photography/Saturation.md",
+    "Photography/Portrait.md",
+    "Report/2023.04.16 天线测试.md",
     "Report/attachments/ac4c5aa53392835d3db04a78e73476b.png",
     "Report/attachments/abaec3368e16f2c9be67b5edbba39be.png",
     "Report/attachments/7983094eb03d1dcc285edf9c1768018 1.png",
@@ -193,18 +202,12 @@
     "Report/attachments/7983094eb03d1dcc285edf9c1768018.png",
     "Report/attachments",
     "Photography/Story/Rainy_evening_hiking_Polaroid.md",
-    "Report/2023.04.16 天线测试.md",
     "Report/Untitled",
     "Report",
     "Photography/Story/attachments/IMG_5550.jpg",
     "Photography/Story/attachments/Pasted image 20230416014050.png",
-    "Photography/Photography_MOC.md",
-    "Photography/Story/attachments/IMG_5553.jpg",
-    "Photography/Story/attachments/FCB8B96468D3B459532E010E865D0B99.jpg",
     "Photography/Story/attachments/QQ视频20230416012046.mp4",
     "Photography/Story/attachments",
-    "Photography/Saturation.md",
-    "Photography/Portrait.md",
     "Photography/Story",
     "Photography/Skills/Polaroid_light.md",
     "XGBoost 4f7e7664770b4a2c89107b59434de9ce/Untitled.png.md",
@@ -223,7 +226,6 @@
     "XGBoost 4f7e7664770b4a2c89107b59434de9ce",
     "Synthetic Aperture Radar Imaging/Radiometric_Calibration.md",
     "Synthetic Aperture Radar Imaging/Antenna.md",
-    "Physics/Electromagnetism/Maxwells_equation.md",
-    "Physics/Electromagnetism/Electromagnetism_MOC.md"
+    "Physics/Electromagnetism/Maxwells_equation.md"
   ]
 }
