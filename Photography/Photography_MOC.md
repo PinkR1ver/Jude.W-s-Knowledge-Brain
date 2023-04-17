@@ -35,7 +35,7 @@ Also, here's my notes about learning photography
 
 ## Photography story
 
-* [夜爬蛤蟆峰拍Polaroid慢门](Photography/Story/Rainy_evening_hiking_Polaroid.md)
+* [夜爬蛤蟆峰拍Polaroid慢门 - 2023.04.14](Photography/Story/Rainy_evening_hiking_Polaroid.md)
 
 # Reference
 

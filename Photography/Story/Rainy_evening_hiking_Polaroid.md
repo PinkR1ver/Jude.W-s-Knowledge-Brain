@@ -1,10 +1,11 @@
 ---
-title: 夜爬蛤蟆峰拍Polaroid慢门
+title: 夜爬蛤蟆峰拍Polaroid慢门 - 2023.04.14
 tags:
 - photography
 - Polaroid
 - story
 - film
+date: 14-04-2023
 ---
 
 # Hiking
