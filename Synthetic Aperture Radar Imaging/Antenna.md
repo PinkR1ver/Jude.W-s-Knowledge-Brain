@@ -127,6 +127,8 @@ radiation要考虑两个方面，一方面激发电场那边提供的电子的�
 
 ### How are EM fields finally detached from the antenna to form a free-space wave?
 
+# Radar key Parameters
+
 
 
 # Reference
@@ -134,3 +136,4 @@ radiation要考虑两个方面，一方面激发电场那边提供的电子的�
 * [知乎 - 天线与电波传播基础知识](https://zhuanlan.zhihu.com/p/497482699)
 * [天线 in wiki](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%BA%BF)
 * [⭐⭐⭐陈士元 - 天线原理与基本参数](https://www.youtube.com/watch?v=JsVGW3z81wc&list=PLQdXflQNtKfLaGnvPLW_XVal-RaHxFN5j&index=1)
+* [天线8个核心参数解析 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/375911768)

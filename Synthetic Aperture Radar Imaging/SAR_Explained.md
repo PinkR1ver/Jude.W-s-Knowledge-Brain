@@ -29,8 +29,7 @@ The transmitter generates successive short bursts or pulses of microwave at regu
 ### Why SAR
 介于实际情况下的物理空间中，雷达天线的大小是限的，可以通过雷达的移动去模拟长天线情况下的雷达，也就是活得更大的aperture，这项被叫做SAR。目的是在于使用*comparatively small physical antennas*去获得*high resolution images*
 
-
-## Review of Radar Image Formation
+--- 
 
 ![660](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230320163240.png)
 
@@ -90,7 +89,18 @@ Table. *Range and azimuth resolution*
 * $\omega_0$ radar signal half-bandwidth in radians
 * $D_y$ the diameter of the radar in azimuth domain
 * $r_n$ the target radical distance from the center of aperture
-* 
+* $\lambda_c = \frac{2c\pi}{\omega_c}$ the wavelength at carrier fast-time frequency
+* $\omega_c$ the central frequency
+* $L$ half-size of the aperture
+* $\theta_n(0)$ the aspect angle of the $n$th target when radar is at (0, 0)
+* $\rho_{max}$ and $\rho_{min}$ the maximum and minimum polar radius in spatial frequency domain for the support of a target at the center of the spotlight area
+* $k_c$ the wavenumber at carrier frequency
+* $\theta_z$ the average depression angle of the target area
+* $\phi_0$ the polar angle in spatial frequency domain 
+
+## Radar Image Format
+
+
 
 ## Radar Key Parameters
 * Wave Length
@@ -102,6 +112,7 @@ Table. *Range and azimuth resolution*
 ![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230330153007.png)
 
 雷达数据的空间分辨率与传感器波长与传感器天线长度之比直接相关。 对于给定的波长，天线越长，空间分辨率越高。 对于以大约 5 cm 波长运行的太空卫星（C 波段雷达），为了获得 10 m 的空间分辨率，您需要一个大约 4,250 m 长的雷达天线。 （超过 47 个足球场！）
+
 
 
 # Reference
