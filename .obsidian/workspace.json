@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Story/Rainy_evening_hiking_Polaroid.md",
+                "file": "Synthetic Aperture Radar Imaging/SAR_Imaging_Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b48fcfa2444be120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Synthetic Aperture Radar Imaging/Chirp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0bf63bb907125e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Wave/Doppler_Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Story/Rainy_evening_hiking_Polaroid.md",
+                "file": "Synthetic Aperture Radar Imaging/SAR_Imaging_Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photography/Story/Rainy_evening_hiking_Polaroid.md",
+                "file": "Synthetic Aperture Radar Imaging/SAR_Imaging_Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photography/Story/Rainy_evening_hiking_Polaroid.md"
+                "file": "Synthetic Aperture Radar Imaging/SAR_Imaging_Algorithm.md"
               }
             }
           },
           {
-            "id": "59f9dd155e2057e8",
+            "id": "9e83b5961d2c8e5e",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -142,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,31 +181,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00fc08e1fbc8744a",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
-    "Photography/Story/attachments/QQ图片20230417203443.jpg",
-    "Photography/Story/attachments/OPV{LE55W%GZWQH}9HOLWB5.jpg",
-    "Photography/Story/attachments/OPV{LE55W%GZWQH}9HOLWB5_tmb.jpg",
-    "Photography/Story/attachments/A9A6699D1859851AB1D66131BD1382DC.jpg",
-    "Synthetic Aperture Radar Imaging/SAR_Explained.md",
-    "Synthetic Aperture Radar Imaging/Antenna.md",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418165114.png",
+    "Synthetic Aperture Radar Imaging/Chirp.md",
+    "Physics/Wave/Doppler_Effect.md",
     "Synthetic Aperture Radar Imaging/SAR_Imaging_Algorithm.md",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230417110036.png",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418162216.png",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418162215.png",
+    "Synthetic Aperture Radar Imaging/SAR_Explained.md",
+    "Physics/Wave/attachments/Dopplereffectsourcemovingrightatmach0.7.gif",
+    "Physics/Wave/attachments/Pasted image 20230418153538.png",
+    "Physics/Wave/attachments",
+    "Physics/Physics_MOC.md",
+    "Physics/Wave",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418111708.png",
+    "Synthetic Aperture Radar Imaging/attachments/Linear-chirp.svg",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418110700.png",
     "Synthetic Aperture Radar Imaging/SAR_MOC.md",
+    "Synthetic Aperture Radar Imaging/Radiometric_Calibration.md",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418104536.png",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418103211.png",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418103204.png",
+    "Synthetic Aperture Radar Imaging/Antenna.md",
     "Photography/Story/Rainy_evening_hiking_Polaroid.md",
     "Photography/Photography_MOC.md",
-    "Photography/Story/attachments/IMG_5493.jpg",
-    "Photography/Story/attachments/IMG_5492.jpg",
     "Photography/Style/Style_MOC.md",
     "Photography/Style/Warmth_by_Nguan.md",
     "Photography/Style/Polaroid_showcase.md",
     "Photography/Saturation.md",
     "Photography/Portrait.md",
     "Report/2023.04.16 天线测试.md",
-    "Report/attachments/ac4c5aa53392835d3db04a78e73476b.png",
-    "Report/attachments/abaec3368e16f2c9be67b5edbba39be.png",
-    "Report/attachments/7983094eb03d1dcc285edf9c1768018 1.png",
-    "Report/attachments/f5d557933b15f8ea7f6861f70663d13.png",
     "Report/attachments",
     "Report/Untitled",
     "Report",
@@ -197,10 +227,6 @@
     "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
     "_index.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/AdaBoost.md",
-    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Transformer.md",
-    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Random_Forest.md",
-    "XGBoost 4f7e7664770b4a2c89107b59434de9ce",
-    "Synthetic Aperture Radar Imaging/Radiometric_Calibration.md",
-    "Physics/Electromagnetism/Maxwells_equation.md"
+    "XGBoost 4f7e7664770b4a2c89107b59434de9ce"
   ]
 }

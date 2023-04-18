@@ -52,6 +52,8 @@ side-looking的雷达被分为two types —— real aperture radar(*SLAR or SLR*
 
 当我们谈SAR的分辨率时，我们要知道有四种operating modes对于SAR而言。
 
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230418103211.png)
+
 * Stripmap SAR
 * Spotlight SAR
 * Circular SAR
@@ -72,6 +74,7 @@ Spotlight SAR天线不断移动以照射同一区域，它的特点是high-resol
 Circular SAR通过circular trajectory窥探同一片area，它跟spotlight SAR很像，区别在于Spotlight mode里antenna是不动的，只有平台在移动，而在circular mode里，antenna也在移动，来收集$360^\circ$信息，circular SAR的分辨率计算时，认为反射是$360^\circ$各向同性反射，所以是理论分辨率。
 
 我在UWB radar探测烧伤的技术中将采用Spotlight SAR
+
 
 #### Range Resolution & Azimuth Resolution
 
