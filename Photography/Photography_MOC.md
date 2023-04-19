@@ -32,10 +32,16 @@ Also, here's my notes about learning photography
 ## Skills I learned
 
 * [How to measure light using Polaroid?](Photography/Skills/Polaroid_light.md)
+* [How to use Moodboard](Photography/Skills/Moodboard.md)
 
 ## Photography story
 
 * [夜爬蛤蟆峰拍Polaroid慢门 - 2023.04.14](Photography/Story/Rainy_evening_hiking_Polaroid.md)
+
+##  Mood Board
+
+* [🌊Sea - 2023.04.28](Photography/MoodBoard/Sea_20230428/Sea_20230428.md)
+
 
 # Reference
 
@@ -57,3 +63,4 @@ Also, here's my notes about learning photography
 
 * [🦺搬运UP主 - 豆腐素包](https://space.bilibili.com/196700312/video)
 * [小八怪 - 小红书](https://www.xiaohongshu.com/user/profile/5558b47f5894463d532a632c)
+
