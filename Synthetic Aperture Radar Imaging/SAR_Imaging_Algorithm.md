@@ -57,6 +57,18 @@ SAR成像是对一个区域的散射特性进行成像，这个区域的地形�
 
 如图，针对红点目标，SAR从A点开始照射到P点最接近目标，直到B点离开红点离开。
 
+假设平台$t$时刻飞行到红点位置，雷达发射脉冲信号$s(\tau)$，此时接收的回波信号信息为：
+
+
+$$
+r(\tau,t) = \sigma(R_0, A_0) s(\tau - \frac{2R(t)}{c})\omega_a(\frac{t - t_p}{T_{syn}})
+$$
+
+
+* $\sigma(R_0, A_0)$表示$(R_0, A_0)$处目标的散射面积
+* $T_{syn}$表示合成孔径的时长
+
+
 # Range-Doppler Algorithm (RDA)
 
 Range-Doppler Algorithm是SAR成像的第一个算法，在1970年代被developed出来，用来生成stripmap的SAR。Range-Doppler Algorithm利用block-processing处理，在距离和方位角中使用频域运算。
