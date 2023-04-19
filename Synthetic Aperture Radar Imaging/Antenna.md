@@ -18,9 +18,9 @@ A usually metallic device for radiating or receiving radio waves
 
 ![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230404163712.png)
 
-$R_L$ 损耗电阻 - 介质与结构导致的损耗
-$R_r$ 辐射电阻 - 与天线产生的辐射的能量关系密切
-$X_A$ 电抗 - 描述天线近场电磁能转换的现象 (一般情况下$X_A$ = 0)
+* $R_L$ 损耗电阻 - 介质与结构导致的损耗
+* $R_r$ 辐射电阻 - 与天线产生的辐射的能量关系密切
+* $X_A$ 电抗 - 描述天线近场电磁能转换的现象 (一般情况下$X_A$ = 0)
 
 > [!warning] 
 > 天线还有一个很重要的损耗来源，**mismatch loss**, 天线跟前端的阻抗不匹配，导致能量打不进天线，这点可以通过设计和材质来解决 
