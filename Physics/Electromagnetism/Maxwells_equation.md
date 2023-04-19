@@ -156,15 +156,40 @@ $$
 \nabla \times E = - \frac{1}{c} \frac{\partial B}{\partial t}
 $$
 
+![](Physics/Electromagnetism/attachments/Pasted%20image%2020230419141438.png)
+
+![](Physics/Electromagnetism/attachments/Pasted%20image%2020230419141637.png)
 ## Ampère's circuital law (with Maxwell's addition)
 
 $$
 \nabla \times B = \frac{1}{c} (4\pi J + \frac{\partial E}{\partial t})
 $$
 
+![](Physics/Electromagnetism/attachments/Pasted%20image%2020230419141737.png)
+
+
+# Maxwells equation explain EM wave
+
+Maxwells的完备对称理论表明，电场力和磁力并不是分开的，而是同一事物——电磁力的不同表现形式。 这种力的经典统一是当前试图统一自然界中四种基本力——引力、电力、强核力和弱核力——的动机之一。
+
+Maxwells从Maxwells equation中预测了EM wave的存在。
+
+Maxwells意识到振荡电荷，就像交流电路中的电荷一样，会产生变化的电场。 他预测这些变化的场会像跳跃的鱼在湖上产生的波浪一样从源头传播。
+
+麦克斯韦预测的波将由振荡电场和磁场组成——定义为电磁波（EM 波）。 电磁波能够对距其源很远的电荷施加力，因此它们可能是可检测的。 Maxwells通过求解Maxwells方程组，可以求出EM的速度$c$，
+
+$$
+c = \frac{1}{\sqrt{\mu_0 \epsilon_0}} = 3 \times 10^8 m/s
+$$
+
+电磁波的波段处于无法被肉眼观测的波段，直到Maxwells去世后，才被Hertz用实验证实了电磁波的存在。
+
+![](Physics/Electromagnetism/attachments/Pasted%20image%2020230419155744.png)
 
 # Reference
 
 * [Fun fluid-flow illustrations - by 3B1B](https://anvaka.github.io/fieldplay/?cx=0&cy=0&w=8.5398&h=8.5398&dt=0.01&fo=0.998&dp=0.009&cm=1&vf=%2F%2F%20p.x%20and%20p.y%20are%20current%20coordinates%0A%2F%2F%20v.x%20and%20v.y%20is%20a%20velocity%20at%20point%20p%0Avec2%20get_velocity%28vec2%20p%29%20%7B%0A%20%20vec2%20v%20%3D%20vec2%280.%2C%200.%29%3B%0A%0A%20%20%2F%2F%20change%20this%20to%20get%20a%20new%20vector%20field%0A%20%20v.x%20%3D%20p.y%3B%0A%20%20v.y%20%3D%20%28max%28cos%28sin%28p.y%29%29%2Csin%28p.y%29%2Fp.y%29%2Bp.y%29%3B%0A%0A%20%20return%20v%3B%0A%7D&code=%2F%2F%20p.x%20and%20p.y%20are%20current%20coordinates%0A%2F%2F%20v.x%20and%20v.y%20is%20a%20velocity%20at%20point%20p%0Avec2%20get_velocity%28vec2%20p%29%20%7B%0A%20%20vec2%20v%20%3D%20vec2%280.%2C%200.%29%3B%0A%0A%20%20%2F%2F%20change%20this%20to%20get%20a%20new%20vector%20field%0A%20%20v.x%20%3D%20%28max%28p.x%2Cp.y%29%2Bmax%28p.y%2Cp.x%29%29%3B%0A%20%20v.y%20%3D%20p.y%3B%0A%0A%20%20return%20v%3B%0A%7D)
 * [Divergence and curl: The language of Maxwell's equations, fluid flow, and more - YouTube vedio by 3b1b](https://www.youtube.com/watch?v=rB83DpBJQsE)
 * [Let There Be Light: Maxwell's Equation EXPLAINED for BEGINNERS - YouTube vedio by Parth G](https://www.youtube.com/watch?v=0jW74lrpeM0)
+* [Faraday’s Law - online experiment](https://em.geosci.xyz/content/maxwell1_fundamentals/formative_laws/faraday.html)
+* [# Maxwell’s Equations- Electromagnetic Waves Predicted and Observed](https://phys.libretexts.org/Bookshelves/College_Physics/Book%3A_College_Physics_1e_(OpenStax)/24%3A_Electromagnetic_Waves/24.01%3A_Maxwells_Equations-_Electromagnetic_Waves_Predicted_and_Observed)

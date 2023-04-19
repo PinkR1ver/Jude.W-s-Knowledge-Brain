@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synthetic Aperture Radar Imaging/Chirp.md",
+                "file": "Physics/Electromagnetism/Maxwells_equation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Electromagnetism/Maxwells_equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/Electromagnetism/Maxwells_equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/Electromagnetism/Maxwells_equation.md"
+              }
             }
           },
           {
@@ -165,12 +169,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "b48fcfa2444be120",
   "lastOpenFiles": [
-    "Report/2023.04.16 天线测试.md",
-    "Report/2023.04.18 天线测试.md",
-    "Report/attachments/96251ac46494ab01294e570e352c426.png",
+    "Physics/Electromagnetism/attachments/Pasted image 20230419155744.png",
+    "Physics/Electromagnetism/attachments/Pasted image 20230419141737.png",
+    "Physics/Electromagnetism/attachments/Pasted image 20230419141637.png",
+    "Physics/Electromagnetism/attachments/Pasted image 20230419141438.png",
+    "Synthetic Aperture Radar Imaging/SAR_Explained.md",
+    "Physics/Electromagnetism/Maxwells_equation.md",
+    "Physics/Electromagnetism/Resonant_circuit.md",
+    "Physics/Electromagnetism/Q_factor.md",
     "Synthetic Aperture Radar Imaging/SAR_Imaging_Algorithm.md",
+    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230419111635.png",
+    "Report/2023.04.18 天线测试.md",
+    "Report/2023.04.16 天线测试.md",
+    "Report/attachments/96251ac46494ab01294e570e352c426.png",
     "Synthetic Aperture Radar Imaging/Chirp.md",
     "Physics/Wave/Doppler_Effect.md",
     "Report/attachments/2477544fc674d675ebb328cba3a74b1.png",
@@ -178,14 +191,9 @@
     "Report/attachments/7983094eb03d1dcc285edf9c1768018 1.png",
     "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418165114.png",
     "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418162216.png",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418162215.png",
-    "Synthetic Aperture Radar Imaging/SAR_Explained.md",
-    "Physics/Wave/attachments/Dopplereffectsourcemovingrightatmach0.7.gif",
-    "Physics/Wave/attachments/Pasted image 20230418153538.png",
     "Physics/Wave/attachments",
     "Physics/Physics_MOC.md",
     "Physics/Wave",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230418111708.png",
     "Synthetic Aperture Radar Imaging/SAR_MOC.md",
     "Synthetic Aperture Radar Imaging/Radiometric_Calibration.md",
     "Synthetic Aperture Radar Imaging/Antenna.md",
@@ -207,9 +215,6 @@
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/XGBoost.md",
     "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md",
-    "Deep Learning And Machine Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
-    "Deep Learning And Machine Learning/Deep _Learning_MOC.md",
-    "_index.md",
     "XGBoost 4f7e7664770b4a2c89107b59434de9ce"
   ]
 }
