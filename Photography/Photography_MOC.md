@@ -18,12 +18,13 @@ Also, here's my notes about learning photography
 
 ## About Basic Concepts:
 
-* [Saturation](Photography/Saturation.md)
+* [Saturation](Photography/Basic/Saturation.md)
 
 ## Appreciation of other works - about ***aesthetic***
 
-* [👧Portrait](Photography/Portrait.md)
-* [☝Style](Photography/Style/Style_MOC.md)
+* [👧Portrait](Photography/Aesthetic/Portrait/Portrait_MOC.md)
+* [☝Style](Photography/Aesthetic/Style/Style_MOC.md)
+* [✨Polaroid](Photography/Aesthetic/Polaroid/Polaroid_aesthetic_MOC.md)
 
 ## Camera Research
 
@@ -33,6 +34,7 @@ Also, here's my notes about learning photography
 
 * [How to measure light using Polaroid?](Photography/Skills/Polaroid_light.md)
 * [How to use Moodboard](Photography/Skills/Moodboard.md)
+* [How to show your Polaroid Picture](Photography/Aesthetic/Polaroid/Polaroid_showcase.md)
 
 ## Photography story
 
