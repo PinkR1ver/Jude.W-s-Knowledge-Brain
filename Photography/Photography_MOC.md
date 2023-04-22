@@ -23,6 +23,7 @@ Also, here's my notes about learning photography
 ## Appreciation of other works - about ***aesthetic***
 
 * [👧Portrait](Photography/Aesthetic/Portrait/Portrait_MOC.md)
+* [🏔Landscape](Photography/Aesthetic/Landscape/Landscape_MOC.md)
 * [☝Style](Photography/Aesthetic/Style/Style_MOC.md)
 * [✨Polaroid](Photography/Aesthetic/Polaroid/Polaroid_aesthetic_MOC.md)
 

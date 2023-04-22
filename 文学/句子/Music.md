@@ -62,6 +62,14 @@ Music links usually link to apple music
 ![](文学/句子/attachments/Pasted%20image%2020230409171853.png)
 
 
+--- 
+
+> [!quote] 
+> [身骑白马](https://music.apple.com/cn/album/%E8%BA%AB%E9%AA%91%E7%99%BD%E9%A9%AC/672648486?i=672648896), 徐佳莹 
+> 
+> 而你却 靠近了
+> 
+> 逼我们视线交错
 
 
 
