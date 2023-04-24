@@ -60,3 +60,11 @@ tags:
 >  <a href="https://space.bilibili.com/2009238634"><p style="text-align:right">——祺白石</p></a>
 
 ![400](文学/attachments/Pasted%20image%2020230321143300.png)
+
+--- 
+
+> [!quote] 
+>  From Network
+>  
+>  暗恋，像不停对焦的长镜头
+

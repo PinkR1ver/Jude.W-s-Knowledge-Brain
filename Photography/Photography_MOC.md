@@ -30,6 +30,7 @@ Also, here's my notes about learning photography
 ## Camera Research
 
 * [✨Polaroid](Photography/Cameras_Research/Polaroid/Polaroid.md)
+* [📷Lens Structure](Photography/Cameras_Research/Lens_Structure/Lens_Structure_MOC.md)
 
 ## Skills I learned
 
