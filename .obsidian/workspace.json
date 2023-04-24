@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dca04112de5e2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Photography_meme/Photography_meme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Cameras_Research/Pocket_film/Rollei_35.md",
+                "file": "Photography/Photography_meme/Photography_meme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photography/Cameras_Research/Pocket_film/Rollei_35.md",
+                "file": "Photography/Photography_meme/Photography_meme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photography/Cameras_Research/Pocket_film/Rollei_35.md"
+                "file": "Photography/Photography_meme/Photography_meme.md"
               }
             }
           },
@@ -182,10 +194,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "45d291a1ca4c7a54",
+  "active": "3dca04112de5e2a2",
   "lastOpenFiles": [
-    "Photography/Photography_MOC.md",
+    "Photography/Photography_meme/attachments/QQ图片20230424193512.png",
+    "Photography/Photography_meme/attachments/T66RNLJN[]R@2F5G]9%25ZY.png",
+    "Photography/Photography_meme/attachments",
+    "Photography/Untitled.md",
+    "Photography/Photography_meme/Photography_meme.md",
+    "Photography/Photography_meme",
     "Photography/Cameras_Research/Pocket_film/Rollei_35.md",
+    "Photography/Photography_MOC.md",
     "Photography/Cameras_Research/Pocket_film/Pocket_film_camera_MOC.md",
     "Photography/Cameras_Research/Lens_Structure/Lens_Structure_MOC.md",
     "Photography/Cameras_Research/Polaroid/Polaroid.md",
@@ -202,7 +220,6 @@
     "Photography/Basic/attachments/Pasted image 20230424140836.png",
     "Photography/Basic/attachments",
     "Physics/Optical/optical_abberation.md",
-    "Physics/Optical/attachments/Fig_9_Chromatic_aberration_lateral.gif",
     "Photography/Skills/howToShowPolaroid.md",
     "Photography/Aesthetic/Landscape/Sea/Sea_MOC.md",
     "Photography/Aesthetic/Landscape/Landscape_MOC.md",
@@ -224,11 +241,6 @@
     "Photography/Skills/Polaroid_light.md",
     "Photography/MoodBoard/Sea_20230428/idea.md",
     "Photography/MoodBoard/Sea_20230428/attachments",
-    "Photography/Aesthetic/Landscape/Sea/豊島_Instagram_shiifoncake.md",
-    "Photography/Aesthetic/Landscape/Sea/Fujifilm_Blue_by_小红书_Philips谢骏.md",
-    "Photography/MoodBoard/Sea_20230428/Sea_20230428.md",
-    "Photography/Aesthetic/Landscape/Sea/Untitled",
-    "Photography/Aesthetic/Landscape/Sea",
-    "Photography/Aesthetic/Landscape"
+    "Photography/Aesthetic/Landscape/Sea/Untitled"
   ]
 }
