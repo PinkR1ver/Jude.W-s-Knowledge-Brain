@@ -40,3 +40,6 @@ tags:
 ![](Photography/MoodBoard/Sea_20230428/attachments/shiifoncake_338758486_601356648715316_3737336679741136784_n.jpg)
 
 
+# [寄り道の理由。- Instagram, photono_gen](https://www.instagram.com/p/CrVPFjZvvlr/)
+
+![](Photography/MoodBoard/Sea_20230428/attachments/photono_gen_336060179_2380745882102401_2427706248624984378_n.jpg)

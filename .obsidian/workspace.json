@@ -227,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +245,9 @@
   },
   "active": "1820ec3759d1247b",
   "lastOpenFiles": [
+    "Photography/MoodBoard/Sea_20230428/attachments/photono_gen_336060179_2380745882102401_2427706248624984378_n.jpg",
+    "Photography/Aesthetic/Landscape/Sea/Sea_MOC.md",
+    "Photography/MoodBoard/Sea_20230428/idea.md",
     "Photography/MoodBoard/Sea_20230428/attachments/shiifoncake_338758486_601356648715316_3737336679741136784_n.jpg",
     "Photography/MoodBoard/Sea_20230428/attachments/shiifoncake_338803198_1141886276488589_5464974698780309052_n.jpg",
     "Photography/MoodBoard/Sea_20230428/attachments/shiifoncake_338803198_1141886276488589_5464974698780309052_n (1).jpg",
@@ -252,13 +256,10 @@
     "Photography/MoodBoard/Sea_20230428/attachments/shiifoncake_338949220_771246770941652_287141902256013940_n.jpg",
     "Photography/MoodBoard/Sea_20230428/attachments",
     "Photography/Aesthetic/Landscape/Sea/豊島_Instagram_shiifoncake.md",
-    "Photography/MoodBoard/Sea_20230428/idea.md",
-    "Photography/Aesthetic/Landscape/Sea/Sea_MOC.md",
     "Photography/Aesthetic/Landscape/Sea/attachments/shiifoncake_338758486_601356648715316_3737336679741136784_n.jpg",
     "Photography/Aesthetic/Landscape/Sea/attachments/shiifoncake_338803198_1141886276488589_5464974698780309052_n.jpg",
     "Photography/Aesthetic/Landscape/Sea/attachments/shiifoncake_338803198_1141886276488589_5464974698780309052_n (1).jpg",
     "Photography/Aesthetic/Landscape/Sea/attachments/shiifoncake_339164445_155642070453847_6842139942547564019_n.jpg",
-    "Photography/Aesthetic/Landscape/Sea/attachments/shiifoncake_339164445_155642070453847_6842139942547564019_n (1).jpg",
     "Photography/Aesthetic/Landscape/Sea/Fujifilm_Blue_by_小红书_Philips谢骏.md",
     "Photography/Photography_MOC.md",
     "Photography/Aesthetic/Landscape/Landscape_MOC.md",
