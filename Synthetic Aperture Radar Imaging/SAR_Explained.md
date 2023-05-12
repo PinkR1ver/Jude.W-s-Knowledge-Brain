@@ -103,7 +103,7 @@ Table. *Range and azimuth resolution*
 
 ## Radar Image Format
 
-
+![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230509140819.png)
 
 ## Radar Key Parameters
 * Wave Length
