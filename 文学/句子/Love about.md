@@ -68,3 +68,14 @@ tags:
 >  
 >  暗恋，像不停对焦的长镜头
 
+
+--- 
+
+> [!quote] 
+>  From [Xiaogongshu](https://www.xiaohongshu.com/explore/6466d391000000001300b055)
+>  
+>  标准是对不喜欢的人设定的，只有你才是例外和偏爱
+
+
+![](文学/句子/attachments/Pasted%20image%2020230519160552.png)
+

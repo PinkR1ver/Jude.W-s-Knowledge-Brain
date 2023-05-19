@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60943f636b0e7060",
+        "id": "bd6a0df05841d3ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ff6212f39dfa0b1b",
+            "id": "21e1eec8e56aedac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/Wisdom.md",
+                "file": "文学/句子/Love about.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子/Wisdom.md",
+                "file": "文学/句子/Love about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子/Wisdom.md",
+                "file": "文学/句子/Love about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子/Wisdom.md"
+                "file": "文学/句子/Love about.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff6212f39dfa0b1b",
+  "active": "21e1eec8e56aedac",
   "lastOpenFiles": [
-    "文学/句子/Motivation.md",
+    "文学/句子/attachments/Pasted image 20230519160624.png",
+    "文学/句子/attachments/Pasted image 20230519160552.png",
     "文学/句子/Wisdom.md",
+    "文学/句子/Motivation.md",
     "文学/句子/Poem.md",
     "文学/句子/句子.md",
     "文学/句子/Movie.md",
@@ -200,7 +202,6 @@
     "Photography/Basic/attachments/Pasted image 20230424143711.png",
     "Photography/Basic/attachments/Pasted image 20230424143543.png",
     "Photography/Basic/attachments/Pasted image 20230424143425.png",
-    "Photography/Basic/attachments/Pasted image 20230424143258.png",
     "Photography/Basic/attachments",
     "Physics/Optical/optical_abberation.md",
     "Photography/Skills/howToShowPolaroid.md",
@@ -208,7 +209,6 @@
     "Photography/Aesthetic/Landscape/Landscape_MOC.md",
     "Physics/Optical/attachments",
     "Physics/Optical",
-    "文学/句子/Others.md",
     "文学/句子/Untitled",
     "Photography/Cameras_Research/Lens_Structure",
     "Photography/MoodBoard/Sea_20230428/attachments",
