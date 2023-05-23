@@ -98,6 +98,57 @@ LSTM有很多变种，这里有列出来一些
 
 GRU是著名的LSTM变种，值得另起炉灶介绍
 
+
+# Demo code & Pytorch version LSTM graph explain
+
+![](Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted%20image%2020230523164806.png)
+
+```python
+import torch
+import torch.nn as nn
+import numpy as np
+import matplotlib.pyplot as plt
+
+class LSTM(nn.Module):
+    def __init__(self, input_size, output_size, hidden_size, num_layers):
+        super(LSTM, self).__init__()
+        self.input_size = input_size
+        self.output_size = output_size
+        self.hidden_size = hidden_size
+        self.num_layers = num_layers
+        
+        self.lstm = nn.LSTM(input_size, hidden_size, num_layers)
+        
+        self.fc = nn.Linear(hidden_size, output_size)
+
+    def forward(self, input_seq):
+        # input_seq: (seq_len, batch, input_size)
+        # lstm_out: (seq_len, batch, hidden_size)
+
+        lstm_out, (hidden_state, cell_state) = self.lstm(input_seq)
+
+        lstm_out = self.fc(lstm_out)
+
+        return lstm_out, hidden_state, cell_state
+    
+
+if __name__ == '__main__':
+    seq = np.linspace(0, 3801, 3801)
+    h = torch.randn(1, 1, 64)
+    c = torch.randn(1, 1, 64)
+
+    lstm = LSTM(1, 1, 64, 1)
+
+    input = torch.Tensor(seq).view(len(seq), 1, -1)
+
+    lstm_out, hidden_state, cell_state = lstm(input)
+    lstm_out = torch.squeeze(lstm_out)
+
+    print(lstm_out.shape)
+    print(hidden_state.shape)
+    print(cell_state.shape)
+```
+
 # Reference
 
 * _Understanding LSTM Networks -- Colah’s Blog_. https://colah.github.io/posts/2015-08-Understanding-LSTMs/. Accessed 22 May 2023.
