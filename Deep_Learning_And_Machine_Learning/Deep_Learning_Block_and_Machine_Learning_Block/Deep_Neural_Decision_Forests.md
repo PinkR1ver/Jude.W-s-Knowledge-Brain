@@ -6,12 +6,12 @@ tags:
 
 # Background
 
-* [Decision Tree](Deep%20Learning%20And%20Machine%20Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md)
-* [Random Forest](Deep%20Learning%20And%20Machine%20Learning/Deep_Learning_Block_and_Machine_Learning_Block/Random_Forest.md)
+* [Decision Tree](Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md)
+* [Random Forest](Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Random_Forest.md)
 
 # What is Deep Neural Decision Forests
 
-![](Deep%20Learning%20And%20Machine%20Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted%20image%2020230413112822.png)
+![](Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted%20image%2020230413112822.png)
 
 Deep Neural Decision Forests(dNDFs)是Neural Networks和Random Forest的结合，但是它更倾向于Neural Networks。它本质上是Nerual Networks incorporate Random Forest来提高NN的效率和准确度，训练方法和NN一致。
 

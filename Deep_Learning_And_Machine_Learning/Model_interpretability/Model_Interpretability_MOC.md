@@ -6,4 +6,4 @@ tags:
 - interpretability
 ---
 
-* [SHAP](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/SHAP.md)
+* [SHAP](Deep_Learning_And_Machine_Learning/Model_interpretability/SHAP.md)

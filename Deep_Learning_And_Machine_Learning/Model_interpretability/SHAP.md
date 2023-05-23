@@ -21,11 +21,11 @@ Shapely values were from game theory and invented by Lloyd Shapley. Shapely valu
 
 The method here we assess each individual member’s contribution is to removing each member to get a new coalition and then compare their production, like this graphs:
 
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329165429.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329165429.png)
 
 And then, we get every member 1 included or not included coalitions like this:
 
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329165523.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329165523.png)
 
 Using left value - right value, we can get difference like image left above; And then we calculate the mean of them:
 
@@ -37,9 +37,9 @@ $$
 
 We need to know what’s **additive** mean here. Lundberg and Lee define an additive feature attribution as follows:
 
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329165623.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329165623.png)
 
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329165818.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329165818.png)
 
 $x'$, the simplified local inputs usually means that we turn a feature vector into a discrete binary vector, where features are either included or excluded. Also, the $g(x')$ should take this form:
 
@@ -50,7 +50,7 @@ $$
 * $\varphi_0$ is the **null output** of this model, that is, the **average output** of this model
 -  $\varphi_i$ is **feature affect**, is how much that feature changes the output of the model, introduced above. It’s called **attribution**
 
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329165840.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329165840.png)
 
 Now Lundberg and Lee go on to describe a set of three desirable properties of such an additive feature method, **local accuracy**, **missingness**, and **consistency**.
 
@@ -143,17 +143,17 @@ It’s entirely untenable.
 
 So, to get over this difficulty, we need devise a **shapley kernel**, and that’s how the Lee and Lundberg do
 
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329181956.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329181956.png)
 
 ## Detail
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329182011.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329182011.png)
 
 Though most of ML models won’t just let you omit a feature, what we do is define a **background dataset** B, one that contains a set of representative data points that model was trained over. We then filled in out omitted feature of features with values from background dataset, while holding the features are included in the permutation fixed to their original values. We then take the average of the model output over all of these new synthetic data point as our model output for that feature permutation which we call $\bar{y}$.
 
 $$
 E[y_{\text{12i4}}\ \  \forall \ \text{i}\in B] = \bar{y}_{\text{124}}
 $$ 
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329205039.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329205039.png)
 
 Them we have a number of samples computed in this way,like image in left.
 
@@ -170,7 +170,7 @@ And we can prove that, in the special choice, the coefficient can be the shaplel
 - Deep SHAP
 - Tree SHAP
 
-![](Deep%20Learning%20And%20Machine%20Learning/Model_interpretability/attachments/Pasted%20image%2020230329205130.png)
+![](Deep_Learning_And_Machine_Learning/Model_interpretability/attachments/Pasted%20image%2020230329205130.png)
 
 ### You need to notice
 We can see that, we calculate shapley values using linear regression lastly. So there must be the error here, but some python packages can not give us the error bound, so it’s confusion to konw if this error come from linear regression or the data, or the model.

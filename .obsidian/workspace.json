@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/Love about.md",
+                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子/Love about.md",
+                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子/Love about.md",
+                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子/Love about.md"
+                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md"
               }
             }
           },
@@ -142,6 +142,14 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad0a4f05dd38b89c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -167,51 +175,51 @@
   },
   "active": "21e1eec8e56aedac",
   "lastOpenFiles": [
-    "文学/句子/attachments/Pasted image 20230519160624.png",
-    "文学/句子/attachments/Pasted image 20230519160552.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522170214.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522170059.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522165117.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522165102.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164609.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164557.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164237.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164229.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522163353.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522163338.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522162536.png",
+    "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
+    "Math/Statistics/Basic/Quantile.md",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
+    "Deep_Learning_And_Machine_Learning/Trick/quantile_loss.md",
+    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Random_Forest.md",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/GRU.md",
+    "Deep_Learning_And_Machine_Learning/Famous_Model/Famous_Model_MOC.md",
+    "Deep_Learning_And_Machine_Learning/Famous_Model/Temporal_Fusion_Transformer.md",
+    "Math/Statistics/Basic",
+    "Math/Statistics",
+    "Math",
+    "Deep_Learning_And_Machine_Learning/Trick/attachments",
+    "Deep_Learning_And_Machine_Learning/Model_interpretability/SHAP.md",
+    "Deep_Learning_And_Machine_Learning/Trick",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md",
+    "文学/句子/Love about.md",
+    "Deep_Learning_And_Machine_Learning/Famous_Model",
     "文学/句子/Wisdom.md",
     "文学/句子/Motivation.md",
     "文学/句子/Poem.md",
     "文学/句子/句子.md",
     "文学/句子/Movie.md",
     "文学/句子/Music.md",
-    "文学/句子/Love about.md",
     "文学/句子/Novel.md",
     "文学/句子/Feeling.md",
-    "Synthetic Aperture Radar Imaging/attachments/Pasted image 20230509140819.png",
     "Synthetic Aperture Radar Imaging/Radiometric_Calibration.md",
     "Synthetic Aperture Radar Imaging/Chirp.md",
     "Synthetic Aperture Radar Imaging/Antenna.md",
-    "Photography/Cameras_Research/Pocket_film/Rollei_35.md",
-    "Photography/Cameras_Research/Pocket_film/Pocket_film_camera_MOC.md",
-    "Photography/Photography_MOC.md",
-    "Report/2023.04.16 天线测试.md",
-    "Photography/Photography_meme/Photography_meme.md",
-    "Photography/Photography_meme/attachments/QQ图片20230424193512.png",
-    "Photography/Photography_meme/attachments/T66RNLJN[]R@2F5G]9%25ZY.png",
     "Photography/Photography_meme/attachments",
-    "Photography/Untitled.md",
     "Photography/Photography_meme",
-    "Photography/Cameras_Research/Lens_Structure/Lens_Structure_MOC.md",
-    "Photography/Cameras_Research/Polaroid/Polaroid.md",
     "Photography/Cameras_Research/Pocket_film",
-    "Photography/Basic/MTF_Curve.md",
-    "Photography/Basic/attachments/Pasted image 20230424144112.png",
-    "Photography/Basic/attachments/Pasted image 20230424144046.png",
-    "Photography/Basic/attachments/Pasted image 20230424143940.png",
-    "Photography/Basic/attachments/Pasted image 20230424143711.png",
-    "Photography/Basic/attachments/Pasted image 20230424143543.png",
-    "Photography/Basic/attachments/Pasted image 20230424143425.png",
-    "Photography/Basic/attachments",
-    "Physics/Optical/optical_abberation.md",
-    "Photography/Skills/howToShowPolaroid.md",
-    "Photography/Aesthetic/Landscape/Sea/Sea_MOC.md",
-    "Photography/Aesthetic/Landscape/Landscape_MOC.md",
-    "Physics/Optical/attachments",
-    "Physics/Optical",
-    "文学/句子/Untitled",
-    "Photography/Cameras_Research/Lens_Structure",
-    "Photography/MoodBoard/Sea_20230428/attachments",
-    "Photography/Aesthetic/Landscape/Sea/Untitled"
+    "Photography/Basic/attachments"
   ]
 }
