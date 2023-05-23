@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df218d2fd5975a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
                 "mode": "source",
                 "source": false
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
+                "file": "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
+                "file": "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md"
+                "file": "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md"
               }
             }
           },
@@ -175,6 +187,13 @@
   },
   "active": "21e1eec8e56aedac",
   "lastOpenFiles": [
+    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted image 20230523151201.png",
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
+    "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
+    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted image 20230523141219.png",
+    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted image 20230523134255.png",
+    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted image 20230523134253.png",
+    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522170214.png",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522170059.png",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522165117.png",
@@ -182,13 +201,7 @@
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164609.png",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164557.png",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164237.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164229.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522163353.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522163338.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522162536.png",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
     "Math/Statistics/Basic/Quantile.md",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
     "Deep_Learning_And_Machine_Learning/Trick/quantile_loss.md",
     "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
@@ -219,7 +232,6 @@
     "Synthetic Aperture Radar Imaging/Antenna.md",
     "Photography/Photography_meme/attachments",
     "Photography/Photography_meme",
-    "Photography/Cameras_Research/Pocket_film",
-    "Photography/Basic/attachments"
+    "Photography/Cameras_Research/Pocket_film"
   ]
 }
