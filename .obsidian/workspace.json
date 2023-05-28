@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21e1eec8e56aedac",
+            "id": "df218d2fd5975a8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
+                "file": "Deep_Learning_And_Machine_Learning/Trick/DTW.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df218d2fd5975a8f",
+            "id": "c5954f2c071f424c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
+                "file": "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
+                "file": "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
+                "file": "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md"
+                "file": "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md"
               }
             }
           },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,26 +187,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df218d2fd5975a8f",
+  "active": "c5954f2c071f424c",
   "lastOpenFiles": [
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230523164806.png",
+    "Deep_Learning_And_Machine_Learning/Trick/DTW.md",
+    "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
+    "Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted image 20230526171119.png",
+    "Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted image 20230526170921.png",
+    "Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted image 20230526170120.png",
+    "Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted image 20230526164724.png",
     "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted image 20230523151201.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526164106.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526164105.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526163614.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526162839.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526162035.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526161422.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments",
+    "Deep_Learning_And_Machine_Learning/Evaluation/model_evaluation_MOC.md",
+    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
+    "Deep_Learning_And_Machine_Learning/Evaluation",
+    "Deep_Learning_And_Machine_Learning/Trick/quantile_loss.md",
+    "文学/句子/Music.md",
+    "文学/句子/句子.md",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted image 20230523141219.png",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted image 20230523134255.png",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted image 20230523134253.png",
     "Deep_Learning_And_Machine_Learning/Famous_Model/attachments",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522170214.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522170059.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522165117.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522165102.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164609.png",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/attachments/Pasted image 20230522164557.png",
     "Math/Statistics/Basic/Quantile.md",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
-    "Deep_Learning_And_Machine_Learning/Trick/quantile_loss.md",
-    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Random_Forest.md",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/GRU.md",
     "Deep_Learning_And_Machine_Learning/Famous_Model/Famous_Model_MOC.md",
@@ -223,16 +230,9 @@
     "文学/句子/Wisdom.md",
     "文学/句子/Motivation.md",
     "文学/句子/Poem.md",
-    "文学/句子/句子.md",
     "文学/句子/Movie.md",
-    "文学/句子/Music.md",
     "文学/句子/Novel.md",
     "文学/句子/Feeling.md",
-    "Synthetic Aperture Radar Imaging/Radiometric_Calibration.md",
-    "Synthetic Aperture Radar Imaging/Chirp.md",
-    "Synthetic Aperture Radar Imaging/Antenna.md",
-    "Photography/Photography_meme/attachments",
-    "Photography/Photography_meme",
-    "Photography/Cameras_Research/Pocket_film"
+    "Photography/Photography_meme/attachments"
   ]
 }
