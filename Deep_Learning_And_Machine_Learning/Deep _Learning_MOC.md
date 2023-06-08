@@ -12,3 +12,5 @@ tags:
 * [Famous Model - MOC](Deep_Learning_And_Machine_Learning/Famous_Model/Famous_Model_MOC.md)
 
 * [Model Evaluation - MOC](Deep_Learning_And_Machine_Learning/Evaluation/model_evaluation_MOC.md)
+
+* [LLM - MOC](Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md)

@@ -90,14 +90,32 @@ RdR metric stands for:
 
 RMSE、MAE这些指标都没有考虑到一个重要的标准：**THE SHAPE SIMILARITY**
 
-RdR Score Benchmark使用 **Dynamic Time Warping(DTW，动态时间调整)** 作为shape similarity的指标
+RdR Score Benchmark使用 [**Dynamic Time Warping(DTW，动态时间调整)** ](Deep_Learning_And_Machine_Learning/Trick/DTW.md)作为shape similarity的指标
 
 ![](Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230526164106.png)
 欧氏距离在时间序列之间可能是一个不好的选择，因为时间轴上存在扭曲的情况。
 
 * DTW：通过“同步”/“对齐”时间轴上的不同信号，找到两个时间序列之间的最佳（最小距离）扭曲路径
 
+### RdR score means
+
+![](Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230529130501.png)
+
+![](Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230529130509.png)
+
+*RdR score*通过RMSE和DTW distance来计算，用于比较你的model和Radnom Walk(*Random Walk的RdR score = 0*)相比的优越性
+
+### RdR calculation details
+
+可以通过绘制 RMSE vs. DTW来计算RdR score，绘制的图如下所示：
+
+![](Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230529130856.png)
+
+
+计算矩阵面积来计算RdR score，（文章里并没有完整介绍计算，在[github code](https://github.com/CoteDave/blog/tree/master/RdR%20score)里有，并不确定）
+
 # Reference
 
 * M.Sc, Dave Cote. “RdR Score Metric for Evaluating Time Series Forecasting Models.” _Medium_, 8 Feb. 2022, https://medium.com/@dave.cote.msc/rdr-score-metric-for-evaluating-time-series-forecasting-models-1c23f92f80e7.
 * JJ. “MAE and RMSE — Which Metric Is Better?” _Human in a Machine World_, 23 Mar. 2016, https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d.
+* _Accelerating Dynamic Time Warping Subsequence Search with GPU_. https://www.slideshare.net/DavideNardone/accelerating-dynamic-time-warping-subsequence-search-with-gpu. Accessed 29 May 2023.

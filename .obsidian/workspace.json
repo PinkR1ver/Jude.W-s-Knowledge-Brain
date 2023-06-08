@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6a0df05841d3ad",
+        "id": "9fff1f6f99b76328",
         "type": "tabs",
         "children": [
           {
-            "id": "df218d2fd5975a8f",
+            "id": "de181301cb4cd4e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Trick/DTW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5954f2c071f424c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md"
+                "file": "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md"
               }
             }
           },
@@ -187,10 +174,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c5954f2c071f424c",
+  "active": "de181301cb4cd4e1",
   "lastOpenFiles": [
+    "Deep_Learning_And_Machine_Learning/LLM/metircs",
+    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
+    "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
+    "Deep_Learning_And_Machine_Learning/LLM",
     "Deep_Learning_And_Machine_Learning/Trick/DTW.md",
     "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
+    "coding_knowledge/python/matplotlib_backend.md",
+    "coding_knowledge/python",
+    "Untitled",
+    "coding_knowledge",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230529130856.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230529130509.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230529130501.png",
+    "Deep_Learning_And_Machine_Learning/Evaluation/model_evaluation_MOC.md",
     "Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted image 20230526171119.png",
     "Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted image 20230526170921.png",
     "Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted image 20230526170120.png",
@@ -199,12 +198,7 @@
     "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526164106.png",
     "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526164105.png",
     "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526163614.png",
-    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526162839.png",
-    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526162035.png",
-    "Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted image 20230526161422.png",
     "Deep_Learning_And_Machine_Learning/Evaluation/attachments",
-    "Deep_Learning_And_Machine_Learning/Evaluation/model_evaluation_MOC.md",
-    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
     "Deep_Learning_And_Machine_Learning/Evaluation",
     "Deep_Learning_And_Machine_Learning/Trick/quantile_loss.md",
     "文学/句子/Music.md",
@@ -220,19 +214,13 @@
     "Math/Statistics/Basic",
     "Math/Statistics",
     "Math",
-    "Deep_Learning_And_Machine_Learning/Trick/attachments",
     "Deep_Learning_And_Machine_Learning/Model_interpretability/SHAP.md",
-    "Deep_Learning_And_Machine_Learning/Trick",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md",
     "文学/句子/Love about.md",
-    "Deep_Learning_And_Machine_Learning/Famous_Model",
     "文学/句子/Wisdom.md",
     "文学/句子/Motivation.md",
     "文学/句子/Poem.md",
-    "文学/句子/Movie.md",
-    "文学/句子/Novel.md",
-    "文学/句子/Feeling.md",
-    "Photography/Photography_meme/attachments"
+    "文学/句子/Movie.md"
   ]
 }
