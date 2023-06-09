@@ -42,10 +42,14 @@ It was my first class project in college. It was a simple program based on an ol
 # 🤹🏽Skills & Knowledge
 
 ## Proficient
-<div style="display: flex; white-space:nowrap; overflow:auto; ">
-
+<br>
+<div style="display: flex; white-space:nowrap; overflow:auto; padding: 15px">
+	<img align="left" alt="python" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/python.png?raw=true" />
+	<img align="left" alt="matlab" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/matlab.png?raw=true" />
+	<img align="left" alt="numpy" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/numpy.png?raw=true" />
+	<img align="left" alt="python" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/pytorch.png?raw=true" />
 </div>
-<img align="left" alt="python" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/tree/master/warehouse/img/skills/python.png" />
+
 
 
 * Program Language: Python >= MATLAB >> C == HTML/CSS/JavaScript

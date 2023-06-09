@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e93c8ba4732e798f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "resume.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,8 +174,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e93c8ba4732e798f",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
+    "warehouse/img/skills/matlab.png",
+    "_index.md",
+    "warehouse/img/skills/numpy.png",
+    "warehouse/img/skills/numpy.png",
+    "resume.md",
     "warehouse/img/skills/python.png",
     "warehouse/img/skills/vuejs.svg",
     "warehouse/img/skills/vscode.png",
@@ -197,14 +189,9 @@
     "warehouse/img/skills/rstudio.png",
     "warehouse/img/skills/r.png",
     "warehouse/img/skills/pytorch.png",
-    "warehouse/img/skills/pandas.png",
-    "warehouse/img/skills/opencv.png",
-    "warehouse/img/skills/numpy.png",
     "warehouse/img/skills",
     "warehouse/img",
     "().md",
-    "resume.md",
-    "_index.md",
     "warehouse/NUS_Transcript.pdf",
     "Untitled",
     "assets/pdf/NUS_Transcript.pdf.md",
