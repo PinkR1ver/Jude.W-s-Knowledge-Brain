@@ -5,18 +5,13 @@ tags:
 - readme
 ---
 
-<div style="margin:auto;width: 50%;padding: 10px; transform: translate(50%, 0);">
+<div style="margin:auto;width: 50%; transform: translate(50%, 0);">
 <tr>
             <td style="text-align:
                 center;"><img src="https://github.com/PinkR1ver/ImageHosting/blob/main/Pfp/not_seen.gif?raw=true"
-                    role="presentation" width="130" class="image__StyledImage-sc-hupvqm-0 eLouvR"
-                    style="display: inline-block; max-width: 130px; border-radius: 25px;text-align: center;">
-            </td>
-</tr>
-        <tr style="text-align: center;">
-            <td>
-                <h2 color="#000000" class="name__NameContainer-sc-1m457h3-0 jCjfGD" style="margin: 0px; font-size: 18px; color: #3A4E48;
-                    font-weight: 600;"><span>Jude</span><span>&nbsp;</span><span>Wang</span></h2>
+                    role="presentation" width="114" 
+                    style="display: inline-block; max-width: 180px; border-radius: 25px;text-align: center;">
+                <h2 color="#000000"  style="margin: 0px; font-size: 20px; color: #3A4E48; font-weight: 1000;"><span>Jude</span><span>&nbsp;</span><span>Wang</span></h2>
         </tr>
 </div>
 
