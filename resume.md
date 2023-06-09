@@ -5,19 +5,34 @@ tags:
 - readme
 ---
 
+<div style="margin:auto;width: 50%;padding: 10px; transform: translate(50%, 0);">
+<tr>
+            <td style="text-align:
+                center;"><img src="https://github.com/PinkR1ver/ImageHosting/blob/main/Pfp/not_seen.gif?raw=true"
+                    role="presentation" width="130" class="image__StyledImage-sc-hupvqm-0 eLouvR"
+                    style="display: inline-block; max-width: 130px; border-radius: 25px;text-align: center;">
+            </td>
+</tr>
+        <tr style="text-align: center;">
+            <td>
+                <h2 color="#000000" class="name__NameContainer-sc-1m457h3-0 jCjfGD" style="margin: 0px; font-size: 18px; color: #3A4E48;
+                    font-weight: 600;"><span>Jude</span><span>&nbsp;</span><span>Wang</span></h2>
+        </tr>
+</div>
+
 # 📐 Education
 
 **Zhejiang University (ZJU)**,&nbsp;&nbsp;Zhejiang,&nbsp;&nbsp;China <span style="float: right; ">2022.09 - Now</span> <br>
 *M.Sc.* Major in Biomedical Engineering (BME)
+
+**Exchange to National University of Singapore (NUS)**  <span style="float: right; ">2021.08-2022.05</span> <br>
+*Final Year Project* &nbsp;instructed by [Dan wu](https://person.zju.edu.cn/en/danwu) and [Zhiwei Huang](https://cde.nus.edu.sg/bme/staff/dr-huang-zhiwei/)
 
 **Zhejiang University**, &nbsp;&nbsp;Zhejiang, China <span style="float: right; ">2018.08-2022.06</span><br>
 *B.S.* Major in Biomedical Engineering (BME), *The first Lv Weixue laboratory class in ZJU*<br>
 *B.S.* Minor in *Intensive Training Program of Innovation and Entrepreneurship (ITP)*
 
 **Summer exchange to City University of HongKong (CityU)** <span style="float: right; ">Aug. 2019</span>
-
-**Exchange to National University of Singapore (NUS)**  <span style="float: right; ">2021.08-2022.05</span> <br>
-*Final Year Project* &nbsp;instructed by [Dan wu](https://person.zju.edu.cn/en/danwu) and [Zhiwei Huang](https://cde.nus.edu.sg/bme/staff/dr-huang-zhiwei/)
 
 # 🔥 Projects & Research Experience
 
@@ -47,20 +62,52 @@ It was my first class project in college. It was a simple program based on an ol
 	<img align="left" alt="python" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/python.png?raw=true" />
 	<img align="left" alt="matlab" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/matlab.png?raw=true" />
 	<img align="left" alt="numpy" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/numpy.png?raw=true" />
-	<img align="left" alt="python" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/pytorch.png?raw=true" />
+	<img align="left" alt="pandas" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/pandas.png?raw=true" />
+	<img align="left" alt="pytorch" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/pytorch.png?raw=true" />
+	<img align="left" alt="anaconda" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/warehouse/img/skills/anaconda.png?raw=true" />
 </div>
 
-
+## Detail
 
 * Program Language: Python >= MATLAB >> C == HTML/CSS/JavaScript
 * Deep Learning Associated:
 	* Proficient in PyTorch deep learning frameworks
-	* Proficient in 
+	* Familiar with the common techniques and algorithms of deep neural network,.
+	* Familiar with the common CV tasks and NLP tasks.
+	* Familiar with some famous backbone of DL model -  U-Net, Vit...
+	* Learning LLM knowledge recently
+* Core lessons: 
+	* NUS - EE4305 - Fuzzy/Neural System for Intelligent Robotics - Grade: A
+	* NUS - EE4309 - Robot Perception - Grade: A-
+	* ZJU - Signal and System - Grade: A-
+	* ZJU - Modern Medical Imaging Technology - Grade: A
+	* ZJU - Data Structure - Grade: B+
+	* ...
+* Toolkit: Git, VS code
+
+## Others
+
+*  Jekyll, RStudio and some other tools to build personal blog: [https://pinkr1ver.com](https://pinkr1ver.com) (🚧 obsolete...)
+* HTML+CSS+JS to create my photo slide show web - [https://pinkr1ver.com/PhotoGallery/](https://pinkr1ver.com/PhotoGallery/)
+* SHAP analysis for model interpretability https://github.com/PinkR1ver/SHAP_Tutorial
+* $\LaTeX$ for my FYP thesis, contributed to 1.9k star repository [zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
 
 # 🏆 Honors
 
 * Excellent Graduate of Zhejiang University
 * Third Class Scholarship of Zhejiang University
+
+# 🎈 Clubs
+
+* DanYang & QingXi Community Student Union New Media Department deputy director <span style="float: right; ">2018-2020</span>
+
+# 🌺 Other Fun Facts
+
+* Outdoor fans - cycling, hiking... - [My Strava Profile](https://www.strava.com/athletes/109116948)
+* Photography fans - [My Photo Gallery](https://pinkr1ver.notion.site/3cfdd332b9a94b20bca041f2aa2bdcd2?v=24e696e6ab754386a710bc8e83976357)
+* Loving films, dramas, books... - [My Watching List](https://pinkr1ver.notion.site/5e136466f3664ff1aaaa75b85446e5b4?v=a41efbce52a84f7aa89d8f649f4620f6
+* PC Game fans, especially CS - [My Steam profile](https://steamcommunity.com/id/PinkCred1t)
+* Chess fans - [Rank in chess.com](https://www.chess.com/member/yichongwang)
 
 # 📟 Contacts
 

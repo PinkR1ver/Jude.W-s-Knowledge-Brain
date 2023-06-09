@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef26fde7d9925fb7",
+        "id": "761954e466090c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee6c400e9b51676",
+            "id": "70c4bda07ed0f621",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,13 +174,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "70c4bda07ed0f621",
   "lastOpenFiles": [
-    "warehouse/img/skills/matlab.png",
-    "_index.md",
-    "warehouse/img/skills/numpy.png",
-    "warehouse/img/skills/numpy.png",
+    "warehouse/img/skills/pandas.png",
     "resume.md",
+    "_index.md",
+    "warehouse/img/skills/matlab.png",
+    "warehouse/img/skills/numpy.png",
+    "warehouse/img/skills/numpy.png",
     "warehouse/img/skills/python.png",
     "warehouse/img/skills/vuejs.svg",
     "warehouse/img/skills/vscode.png",
@@ -188,7 +189,6 @@
     "warehouse/img/skills/ubuntu.png",
     "warehouse/img/skills/rstudio.png",
     "warehouse/img/skills/r.png",
-    "warehouse/img/skills/pytorch.png",
     "warehouse/img/skills",
     "warehouse/img",
     "().md",
