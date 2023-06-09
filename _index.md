@@ -27,3 +27,7 @@ Also, his research needs some basic science to support
 
 * [📮文学](文学/文学_MOC.md)
 
+🏔 Finally, here's my resume:
+
+* [🍉Resume](resume.md)
+
