@@ -187,8 +187,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "e93c8ba4732e798f",
   "lastOpenFiles": [
+    "warehouse/img/skills/python.png",
     "warehouse/img/skills/vuejs.svg",
     "warehouse/img/skills/vscode.png",
     "warehouse/img/skills/vim.png",
@@ -199,7 +200,6 @@
     "warehouse/img/skills/pandas.png",
     "warehouse/img/skills/opencv.png",
     "warehouse/img/skills/numpy.png",
-    "warehouse/img/skills/matlab.png",
     "warehouse/img/skills",
     "warehouse/img",
     "().md",

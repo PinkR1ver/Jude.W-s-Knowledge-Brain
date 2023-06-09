@@ -45,7 +45,7 @@ It was my first class project in college. It was a simple program based on an ol
 <div style="display: flex; white-space:nowrap; overflow:auto; ">
 
 </div>
-<img align="left" alt="python" height="35px" style="margin:0px 4px" src="/warehouse/img/skills/python.png" />
+<img align="left" alt="python" height="35px" style="margin:0px 4px" src="https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/tree/master/warehouse/img/skills/python.png" />
 
 
 * Program Language: Python >= MATLAB >> C == HTML/CSS/JavaScript
