@@ -8,7 +8,7 @@ tags:
 <div style="margin:auto;width: 50%; transform: translate(50%, 0);">
 <tr>
             <td style="text-align:
-                center;"><img src="https://github.com/PinkR1ver/ImageHosting/blob/main/Pfp/not_seen.gif?raw=true"
+                center;"><img src="https://github.com/PinkR1ver/ImageHosting/blob/main/Pfp/Maoqiu_Child.png?raw=true"
                     role="presentation" width="114" 
                     style="display: inline-block; max-width: 180px; border-radius: 25px;text-align: center;">
                 <h2 color="#000000"  style="margin: 0px; font-size: 20px; color: #3A4E48; font-weight: 1000;"><span>Jude</span><span>&nbsp;</span><span>Wang</span></h2>
