@@ -1,31 +1,31 @@
 .markdown-preview-view h1 {
-    color: pink;
+    color: #A682FF;
 }
 
 .cm-header-1 {
-    color: pink;
+    color: #A682FF;
 }
 
 .markdown-preview-view h2 {
-    color: #a691d4;
+    color: #6180C4;
 }
 
 .cm-header-2 {
-    color: #a691d4;
+    color: #6180C4;
 }
 
 .markdown-preview-view h3 {
-    color: skyblue;
+    color: #1B7D88;
 }
 
 .cm-header-3 {
-    color: skyblue;
+    color: #1B7D88;
 }
 
 i, em, span.cm-em{
-    color: gold;
+    color: #CBAC88;
 }
 
 strong, span.cm-strong {
-    color: palevioletred;
+    color: #A6C36F;
 }

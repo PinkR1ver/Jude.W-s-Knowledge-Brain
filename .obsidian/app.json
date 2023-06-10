@@ -12,7 +12,8 @@
   "showFrontmatter": true,
   "useMarkdownLinks": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "includeName": false,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
