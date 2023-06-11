@@ -92,8 +92,9 @@ It was my first class project in college. It was a simple program based on an ol
 * Excellent Graduate of Zhejiang University
 * Third Class Scholarship of Zhejiang University
 
-# 🎈 Clubs
+# 🎈 Clubs & Social Activities
 
+* Support Education in Jiande Town, Changsha, Hunan <span style="float: right; ">2019.7-2019.8</span>
 * DanYang & QingXi Community Student Union New Media Department deputy director <span style="float: right; ">2018-2020</span>
 
 # 🌺 Other Fun Facts
