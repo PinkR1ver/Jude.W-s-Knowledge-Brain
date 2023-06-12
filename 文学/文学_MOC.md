@@ -21,4 +21,4 @@ In this MOC, it shows you the path to what I record for some interesting sentenc
 
 [🌌句子](文学/句子/句子.md)
 
-[📜原创诗](文学/Poem_by_me.md)
+[📜原创诗](文学/poem/Poem_by_me.md)

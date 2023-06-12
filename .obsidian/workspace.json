@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "761954e466090c2b",
+        "id": "75e99bdc891b759d",
         "type": "tabs",
         "children": [
           {
-            "id": "70c4bda07ed0f621",
+            "id": "169cb393dcb219db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume.md",
+                "file": "文学/poem/2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume.md",
+                "file": "文学/poem/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume.md",
+                "file": "文学/poem/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +133,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume.md"
+                "file": "文学/poem/2023.md"
               }
-            }
-          },
-          {
-            "id": "318429c173eb71d2",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
             }
           },
           {
@@ -152,14 +144,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d6233afc99041265",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,38 +173,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "70c4bda07ed0f621",
+  "active": "169cb393dcb219db",
   "lastOpenFiles": [
-    "warehouse/img/skills/pandas.png",
+    "文学/poem/2018.md",
+    "文学/poem/attachments/843fe68324e3795eab897988998a553.jpg",
+    "文学/poem/attachments/050be4498ef68507f851d3c8faa3751.jpg",
+    "文学/poem/attachments/QQ图片20230612132828.jpg",
+    "文学/poem/attachments/e965bfcd2a8870adb80087744920341.jpg",
+    "文学/poem/attachments/961eb44f141fa0d8e7598e910110d1c.jpg",
+    "文学/poem/attachments",
+    "文学/poem/2023.md",
+    "文学/poem/Poem_by_me.md",
+    "文学/句子/Poem.md",
     "resume.md",
     "_index.md",
-    "warehouse/img/skills/matlab.png",
-    "warehouse/img/skills/numpy.png",
-    "warehouse/img/skills/numpy.png",
-    "warehouse/img/skills/python.png",
-    "warehouse/img/skills/vuejs.svg",
-    "warehouse/img/skills/vscode.png",
-    "warehouse/img/skills/vim.png",
-    "warehouse/img/skills/ubuntu.png",
-    "warehouse/img/skills/rstudio.png",
-    "warehouse/img/skills/r.png",
+    "tmp_script/interview_31_ans.md",
+    "tmp_script/attachments/Pasted image 20230612113606.png",
+    "tmp_script/attachments/Pasted image 20230612113454.png",
+    "tmp_script/attachments/Pasted image 20230612113452.png",
+    "tmp_script/attachments/Pasted image 20230612113043.png",
+    "tmp_script/attachments/Pasted image 20230612112839.png",
+    "tmp_script/attachments",
+    "文学/文学_MOC.md",
+    "文学/poem",
+    "tmp_script",
     "warehouse/img/skills",
     "warehouse/img",
     "().md",
     "warehouse/NUS_Transcript.pdf",
-    "Untitled",
     "assets/pdf/NUS_Transcript.pdf.md",
     "assets/pdf",
     "assets",
     "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
     "Deep_Learning_And_Machine_Learning/LLM/metircs",
     "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
-    "Deep_Learning_And_Machine_Learning/LLM",
     "Deep_Learning_And_Machine_Learning/Trick/DTW.md",
     "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
     "coding_knowledge/python/matplotlib_backend.md",
-    "coding_knowledge/python",
-    "coding_knowledge",
     "Deep_Learning_And_Machine_Learning/Evaluation/model_evaluation_MOC.md",
     "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
     "Deep_Learning_And_Machine_Learning/Trick/quantile_loss.md",
@@ -215,12 +219,6 @@
     "Math/Statistics/Basic/Quantile.md",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Random_Forest.md",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/GRU.md",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/Famous_Model_MOC.md",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/Temporal_Fusion_Transformer.md",
-    "Deep_Learning_And_Machine_Learning/Model_interpretability/SHAP.md",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Neural_Decision_Forests.md",
-    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Decision_Tree.md",
-    "文学/句子/Love about.md"
+    "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/GRU.md"
   ]
 }
