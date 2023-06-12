@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/poem/2023.md",
+                "file": "tmp_script/interview_31_ans.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/poem/2023.md",
+                "file": "tmp_script/interview_31_ans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/poem/2023.md",
+                "file": "tmp_script/interview_31_ans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/poem/2023.md"
+                "file": "tmp_script/interview_31_ans.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "169cb393dcb219db",
   "lastOpenFiles": [
+    "文学/poem/2023.md",
     "文学/poem/2018.md",
     "文学/poem/attachments/843fe68324e3795eab897988998a553.jpg",
     "文学/poem/attachments/050be4498ef68507f851d3c8faa3751.jpg",
@@ -182,7 +183,6 @@
     "文学/poem/attachments/e965bfcd2a8870adb80087744920341.jpg",
     "文学/poem/attachments/961eb44f141fa0d8e7598e910110d1c.jpg",
     "文学/poem/attachments",
-    "文学/poem/2023.md",
     "文学/poem/Poem_by_me.md",
     "文学/句子/Poem.md",
     "resume.md",
