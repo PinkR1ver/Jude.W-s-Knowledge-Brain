@@ -31,21 +31,26 @@ tags:
 
 # 🔥 Projects & Research Experience
 
-**Master's thesis**, SAR image reconstruction to detect burn skin based on UWB echo signal <span style="float: right; ">2022 - now</span> <br>
+**Master's thesis** <span style="float: right; ">2022 - now</span> <br>
+*SAR image reconstruction to detect burn skin based on UWB echo signal*<br>
 For now, my master's research direction is about echo signal processing. Ultra-wide band(UWB) signal has a good ability to across skin surface to get information under skin. We want use UWB signal's feature to detect skin burn level in non-invasive way. This project involves *back projection(BP)* algorithm to reconstruct 3D image from echo signal, image artifact removal based on amplitude coherence factor(ACF) and correlation weighted(CW), burn level evaluation method and so on. 
 https://github.com/PinkR1ver/UWB-Imagination-Using-SAR
 
-**FYP**, Radiogenomics Analysis of Glioblastoma with Deep learning Techniques <span style="float: right; ">2021-2022</span> <br>
+**FYP** <span style="float: right; ">2021-2022</span> <br>
+*Radiogenomics Analysis of Glioblastoma with Deep learning Techniques*<br>
 I finish this FYP instructed by [Zhiwei Huang](https://cde.nus.edu.sg/bme/staff/dr-huang-zhiwei/) in NUS. This project contains three part. MRI image segmentation by *U-Net*, radiomics features extraction by *pyradiomics*, and feature vector classification by machine learning such as *random forest*, *MLP*, *SVM* and so on. [https://github.com/PinkR1ver/Radiogenemics--on-Ivy-Gap](https://github.com/PinkR1ver/Radiogenemics--on-Ivy-Gap)
 
-**SRTP**, 3D tooth segmentation based on deep learning <span style="float: right; ">2020-2021</span> <br> 
+**SRTP** <span style="float: right; ">2020-2021</span> <br>
+*3D tooth segmentation based on deep learning*<br>
 This project targets at instance segmentation given images on teeth . We have implemented a semantic segmentation to detect teeth and gingiva using PointNet, and then utilize bounding boxes to do instance segmentation on every single teeth using 3D-BoNet.
 
 **Smooth Boy** <span style="float: right; ">Aug. 2020</span> <br>
+*A skin evaluation and product recommendation WeChat app*<br>
 Smooth Boy is a WeChat app that can evaluate a person’s skin quality and recommend skin care products and it was especially developed for young male teenage who purchase for beauty. It was a real self-learning project as well. In this project I design the UI and code the core part of the app to achieve the function of detecting the person’s face. [https://github.com/PinkR1ver/Smooth-Boy](https://github.com/PinkR1ver/Smooth-Boy)
 
 
 **Sketchpad** <span style="float: right; ">Apr – Jun. 2019</span> <br>
+*Polynomial function visualization in 1995 style* <br>
 It was my first class project in college. It was a simple program based on an old graphics library which created in 1995, can draw image of polynomial function. In this project, I built the whole structure of the code and organize my team to code different part to make it done. It was really exciting to stay up all night to code and when it was finished, I almost cried that time. [https://github.com/PinkR1ver/SketchPad](https://github.com/PinkR1ver/SketchPad)
 
 

@@ -19,7 +19,13 @@ Also, his research needs some basic science to support
 
 * [Physics](Physics/Physics_MOC.md)
 
-* [Signal Processing](Signal%20Processing/Signal%20Processing_MOC.md)
+* [Signal Processing](Signal%20Processing/signal_processing_MOC.md)
+
+* [Data Science](data_sci/data_sci_MOC.md)
+
+🦺 I also need some tool to help me:
+
+* [Git](toolkit/git/git_MOC.md)
 
 🛶 Also, he learn some knowledge about his hobbies:
 
