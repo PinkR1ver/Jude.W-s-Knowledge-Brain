@@ -79,3 +79,14 @@ tags:
 
 ![](文学/句子/attachments/Pasted%20image%2020230519160552.png)
 
+
+--- 
+
+> [!quote] 
+>  From [氛围帅哥杰西卡](https://www.xiaohongshu.com/explore/649164b300000000140270e7)
+>  <br>
+>  我说，<br>
+>  不可否认的是我把她神化了<br>
+>  但以我难以启齿的人生经验而言<br>
+>  这确实是我贫瘠土地升起的神庙<br>
+>  
