@@ -11,8 +11,12 @@
             "id": "c5bc4ff4217ff9c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文学/句子/Love about.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文学/句子/Love about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文学/句子/Love about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文学/句子/Love about.md"
+              }
             }
           },
           {
@@ -138,7 +146,7 @@
             }
           },
           {
-            "id": "d6233afc99041265",
+            "id": "8e0636becc526c22",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -150,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +173,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "c5bc4ff4217ff9c5",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "resume.md",
-    "Untitled 1.canvas",
+    "文学/句子/Poem.md",
+    "文学/句子/Wisdom.md",
+    "文学/句子/Motivation.md",
+    "文学/句子/Love about.md",
+    "文学/句子/Novel.md",
+    "文学/句子/Movie.md",
+    "文学/句子/Music.md",
+    "文学/poem/2023.md",
+    "文学/poem/2018.md",
     "_index.md",
+    "resume.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "toolkit/git/github_actions.md",
     "toolkit/git/git_MOC.md",
     "Signal Processing/basic_concepts_in_signal_processing.md",
@@ -187,8 +203,6 @@
     "Deep_Learning_And_Machine_Learning/LLM/train",
     "tmp_script/interview_31_ans.md",
     "tmp_script/attachments/三一面试.pdf",
-    "文学/poem/2023.md",
-    "文学/poem/2018.md",
     "文学/poem/attachments/843fe68324e3795eab897988998a553.jpg",
     "文学/poem/attachments/050be4498ef68507f851d3c8faa3751.jpg",
     "文学/poem/attachments/QQ图片20230612132828.jpg",
@@ -196,7 +210,6 @@
     "文学/poem/attachments/961eb44f141fa0d8e7598e910110d1c.jpg",
     "文学/poem/attachments",
     "文学/poem/Poem_by_me.md",
-    "文学/句子/Poem.md",
     "tmp_script/attachments/Pasted image 20230612113606.png",
     "tmp_script/attachments/Pasted image 20230612113454.png",
     "tmp_script/attachments/Pasted image 20230612113452.png",
@@ -209,11 +222,6 @@
     "warehouse/img/skills",
     "().md",
     "assets/pdf/NUS_Transcript.pdf.md",
-    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
-    "Deep_Learning_And_Machine_Learning/Trick/DTW.md",
-    "Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
-    "coding_knowledge/python/matplotlib_backend.md",
-    "Deep_Learning_And_Machine_Learning/Evaluation/model_evaluation_MOC.md",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md"
+    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md"
   ]
 }
