@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b73ce4785af9fed",
+        "id": "9e2c73e567f61cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "c5bc4ff4217ff9c5",
+            "id": "547f202538ad6de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/Love about.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子/Love about.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子/Love about.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子/Love about.md"
+                "file": "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md"
               }
             }
           },
@@ -173,19 +173,40 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c5bc4ff4217ff9c5",
+  "active": "547f202538ad6de7",
   "lastOpenFiles": [
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627165311.png",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/rating_probabililty.gif",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627163514.png",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627162848.png",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/physic_temp.gif",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/1687853622172.mp4",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627160125.png",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627160123.png",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments",
+    "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
+    "Deep_Learning_And_Machine_Learning/LLM/langchain/langchain_basic.md",
+    "Deep_Learning_And_Machine_Learning/LLM/basic",
+    "Deep_Learning_And_Machine_Learning/LLM/langchain/attachments/Pasted image 20230627154149.png",
+    "Deep_Learning_And_Machine_Learning/LLM/langchain/attachments",
+    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/learn_finetune_byStanfordAlpaca.md",
+    "Deep_Learning_And_Machine_Learning/LLM/langchain",
+    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/attachments/Pasted image 20230627145954.png",
+    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/attachments",
+    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/how_to_fine_tune.md",
+    "resume.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune",
+    "_index.md",
+    "文学/句子/Love about.md",
     "文学/句子/Poem.md",
     "文学/句子/Wisdom.md",
     "文学/句子/Motivation.md",
-    "文学/句子/Love about.md",
     "文学/句子/Novel.md",
     "文学/句子/Movie.md",
     "文学/句子/Music.md",
     "文学/poem/2023.md",
     "文学/poem/2018.md",
-    "_index.md",
-    "resume.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "toolkit/git/github_actions.md",
@@ -198,30 +219,9 @@
     "data_sci/visual_information_theory.md",
     "data_sci/data_sci_MOC.md",
     "data_sci",
-    "Deep_Learning_And_Machine_Learning/LLM/train/how_to_fine_tune.md",
-    "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
-    "Deep_Learning_And_Machine_Learning/LLM/train",
     "tmp_script/interview_31_ans.md",
-    "tmp_script/attachments/三一面试.pdf",
     "文学/poem/attachments/843fe68324e3795eab897988998a553.jpg",
     "文学/poem/attachments/050be4498ef68507f851d3c8faa3751.jpg",
-    "文学/poem/attachments/QQ图片20230612132828.jpg",
-    "文学/poem/attachments/e965bfcd2a8870adb80087744920341.jpg",
-    "文学/poem/attachments/961eb44f141fa0d8e7598e910110d1c.jpg",
-    "文学/poem/attachments",
-    "文学/poem/Poem_by_me.md",
-    "tmp_script/attachments/Pasted image 20230612113606.png",
-    "tmp_script/attachments/Pasted image 20230612113454.png",
-    "tmp_script/attachments/Pasted image 20230612113452.png",
-    "tmp_script/attachments/Pasted image 20230612113043.png",
-    "tmp_script/attachments/Pasted image 20230612112839.png",
-    "tmp_script/attachments",
-    "文学/文学_MOC.md",
-    "文学/poem",
-    "tmp_script",
-    "warehouse/img/skills",
-    "().md",
-    "assets/pdf/NUS_Transcript.pdf.md",
-    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md"
+    "文学/poem/Poem_by_me.md"
   ]
 }
