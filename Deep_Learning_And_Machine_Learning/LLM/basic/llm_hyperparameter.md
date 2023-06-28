@@ -52,5 +52,5 @@ So, set different $T$, the next word's probability will be changed, we will outp
 
 # Reference
 
-* [LLM Temperature, https://deepchecks.com/glossary/llm-parameters/#:~:text=One%20intriguing%20parameter%20within%20LLMs,of%20straying%20from%20the%20context.](https://deepchecks.com/glossary/llm-parameters/#:~:text=One%20intriguing%20parameter%20within%20LLMs,of%20straying%20from%20the%20context.)
-* [https://www.youtube.com/watch?v=YjVuJjmgclU](https://www.youtube.com/watch?v=YjVuJjmgclU)
+* [LLM Temperature, dedpchecks](https://deepchecks.com/glossary/llm-parameters/#:~:text=One%20intriguing%20parameter%20within%20LLMs,of%20straying%20from%20the%20context.)
+* [⭐⭐⭐https://www.youtube.com/watch?v=YjVuJjmgclU](https://www.youtube.com/watch?v=YjVuJjmgclU)

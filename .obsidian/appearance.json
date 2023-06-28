@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "",
   "baseFontSize": 15,
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
     "nation-colour-blocks",
     "obsidian"

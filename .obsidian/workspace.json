@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9e2c73e567f61cd1",
+        "id": "aa1ce3665b498677",
         "type": "tabs",
         "children": [
           {
-            "id": "547f202538ad6de7",
+            "id": "ac6a230a4496567f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba983c39baad8c36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
+                "file": "recent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
+                "file": "recent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md"
+                "file": "recent.md"
               }
             }
           },
@@ -173,8 +186,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "547f202538ad6de7",
+  "active": "ba983c39baad8c36",
   "lastOpenFiles": [
+    "Deep_Learning_And_Machine_Learning/LLM/langchain/langchain_basic.md",
+    "recent.md",
+    "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
+    "_index.md",
+    "文学/句子/句子.md",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627165311.png",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/rating_probabililty.gif",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627163514.png",
@@ -185,8 +203,6 @@
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627160123.png",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments",
     "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
-    "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
-    "Deep_Learning_And_Machine_Learning/LLM/langchain/langchain_basic.md",
     "Deep_Learning_And_Machine_Learning/LLM/basic",
     "Deep_Learning_And_Machine_Learning/LLM/langchain/attachments/Pasted image 20230627154149.png",
     "Deep_Learning_And_Machine_Learning/LLM/langchain/attachments",
@@ -197,7 +213,6 @@
     "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/how_to_fine_tune.md",
     "resume.md",
     "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune",
-    "_index.md",
     "文学/句子/Love about.md",
     "文学/句子/Poem.md",
     "文学/句子/Wisdom.md",
@@ -220,8 +235,6 @@
     "data_sci/data_sci_MOC.md",
     "data_sci",
     "tmp_script/interview_31_ans.md",
-    "文学/poem/attachments/843fe68324e3795eab897988998a553.jpg",
-    "文学/poem/attachments/050be4498ef68507f851d3c8faa3751.jpg",
-    "文学/poem/Poem_by_me.md"
+    "文学/poem/attachments/843fe68324e3795eab897988998a553.jpg"
   ]
 }

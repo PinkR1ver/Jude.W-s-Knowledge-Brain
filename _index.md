@@ -13,7 +13,7 @@ tags:
 
 * [[Synthetic Aperture Radar Imaging/SAR_MOC| Synthetic Aperture Radar(SAR) Imaging]]
 
-Also, his research needs some basic science to support
+💻 Also, his research needs some basic science to support
 
 * [Hardware](Hardware/Hardware_MOC.md)
 
@@ -32,6 +32,10 @@ Also, his research needs some basic science to support
 * [📷 Photography](Photography/Photography_MOC.md)
 
 * [📮文学](文学/文学_MOC.md)
+
+⭐ Here to find my recent study:
+
+* [Recent notes](recent.md)
 
 🏔 Finally, here's my resume:
 
