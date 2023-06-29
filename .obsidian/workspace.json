@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1ce3665b498677",
+        "id": "c4ae63e2267f6d43",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6a230a4496567f",
+            "id": "8daecdf401bc0315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/metircs/some_task.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba983c39baad8c36",
+            "id": "fe2aa8e0a1797a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recent.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recent.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recent.md",
+                "file": "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recent.md"
+                "file": "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md"
               }
             }
           },
@@ -186,33 +186,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba983c39baad8c36",
+  "active": "fe2aa8e0a1797a2d",
   "lastOpenFiles": [
-    "Deep_Learning_And_Machine_Learning/LLM/langchain/langchain_basic.md",
-    "recent.md",
+    "Deep_Learning_And_Machine_Learning/LLM/metircs/some_task.md",
+    "Deep_Learning_And_Machine_Learning/LLM/metircs/attachments/Pasted image 20230629140929.png",
+    "Deep_Learning_And_Machine_Learning/LLM/metircs/attachments/Pasted image 20230629140914.png",
+    "Deep_Learning_And_Machine_Learning/LLM/metircs/attachments",
+    "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
+    "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
+    "Deep_Learning_And_Machine_Learning/LLM/metircs/MNLI_m.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230629104307.png",
+    "Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
+    "Deep_Learning_And_Machine_Learning/NLP/basic/tokenization.md",
+    "Deep_Learning_And_Machine_Learning/NLP/basic",
+    "Deep_Learning_And_Machine_Learning/NLP",
+    "Deep_Learning_And_Machine_Learning/LLM/train/steps.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/RLHF.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230628161627.png",
+    "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230628160836.png",
+    "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230628145009.png",
+    "Deep_Learning_And_Machine_Learning/LLM/train/attachments",
+    "Deep_Learning_And_Machine_Learning/LLM/train/dataset/make_custom_dataset.md",
     "Deep_Learning_And_Machine_Learning/LLM/basic/llm_hyperparameter.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/dataset",
+    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/learn_finetune_byStanfordAlpaca.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/how_to_fine_tune.md",
     "_index.md",
+    "recent.md",
+    "Deep_Learning_And_Machine_Learning/LLM/langchain/langchain_basic.md",
     "文学/句子/句子.md",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627165311.png",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/rating_probabililty.gif",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627163514.png",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627162848.png",
-    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/physic_temp.gif",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/1687853622172.mp4",
-    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627160125.png",
-    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627160123.png",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments",
-    "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
     "Deep_Learning_And_Machine_Learning/LLM/basic",
-    "Deep_Learning_And_Machine_Learning/LLM/langchain/attachments/Pasted image 20230627154149.png",
     "Deep_Learning_And_Machine_Learning/LLM/langchain/attachments",
-    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/learn_finetune_byStanfordAlpaca.md",
     "Deep_Learning_And_Machine_Learning/LLM/langchain",
-    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/attachments/Pasted image 20230627145954.png",
-    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/attachments",
-    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/how_to_fine_tune.md",
     "resume.md",
-    "Deep_Learning_And_Machine_Learning/LLM/train/finr_tune",
     "文学/句子/Love about.md",
     "文学/句子/Poem.md",
     "文学/句子/Wisdom.md",
@@ -221,20 +233,7 @@
     "文学/句子/Movie.md",
     "文学/句子/Music.md",
     "文学/poem/2023.md",
-    "文学/poem/2018.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "toolkit/git/github_actions.md",
-    "toolkit/git/git_MOC.md",
-    "Signal Processing/basic_concepts_in_signal_processing.md",
-    "toolkit/git",
-    "toolkit",
-    "Signal Processing/what_is_dB.md",
-    "Signal Processing/signal_processing_MOC.md",
-    "data_sci/visual_information_theory.md",
-    "data_sci/data_sci_MOC.md",
-    "data_sci",
-    "tmp_script/interview_31_ans.md",
-    "文学/poem/attachments/843fe68324e3795eab897988998a553.jpg"
+    "Untitled 1.canvas"
   ]
 }
