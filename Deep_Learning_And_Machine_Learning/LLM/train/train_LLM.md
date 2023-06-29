@@ -132,7 +132,7 @@ Different downstream task may need different methods to do fine-tune.
 
 # Example
 
-TODO...
+[https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/01_how_to_train.ipynb#scrollTo=G-kkz81OY6xH](https://colab.research.google.com/github/huggingface/blog/blob/main/notebooks/01_how_to_train.ipynb#scrollTo=G-kkz81OY6xH)
 
 
 # Reference
