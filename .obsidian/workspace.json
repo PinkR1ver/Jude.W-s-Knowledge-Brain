@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
+                "file": "文学/句子/Feeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
+                "file": "文学/句子/Feeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
+                "file": "文学/句子/Feeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md"
+                "file": "文学/句子/Feeling.md"
               }
             }
           },
@@ -188,11 +188,15 @@
   },
   "active": "fe2aa8e0a1797a2d",
   "lastOpenFiles": [
+    "文学/句子/Love about.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/RLHF.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230629145231.png",
+    "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
+    "Deep_Learning_And_Machine_Learning/LLM/train/steps.md",
     "Deep_Learning_And_Machine_Learning/LLM/metircs/some_task.md",
     "Deep_Learning_And_Machine_Learning/LLM/metircs/attachments/Pasted image 20230629140929.png",
     "Deep_Learning_And_Machine_Learning/LLM/metircs/attachments/Pasted image 20230629140914.png",
     "Deep_Learning_And_Machine_Learning/LLM/metircs/attachments",
-    "Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md",
     "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
     "Deep_Learning_And_Machine_Learning/LLM/metircs/MNLI_m.md",
     "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230629104307.png",
@@ -200,8 +204,6 @@
     "Deep_Learning_And_Machine_Learning/NLP/basic/tokenization.md",
     "Deep_Learning_And_Machine_Learning/NLP/basic",
     "Deep_Learning_And_Machine_Learning/NLP",
-    "Deep_Learning_And_Machine_Learning/LLM/train/steps.md",
-    "Deep_Learning_And_Machine_Learning/LLM/train/RLHF.md",
     "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230628161627.png",
     "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230628160836.png",
     "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230628145009.png",
@@ -218,14 +220,12 @@
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627165311.png",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/rating_probabililty.gif",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627163514.png",
-    "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/Pasted image 20230627162848.png",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments/1687853622172.mp4",
     "Deep_Learning_And_Machine_Learning/LLM/basic/attachments",
     "Deep_Learning_And_Machine_Learning/LLM/basic",
     "Deep_Learning_And_Machine_Learning/LLM/langchain/attachments",
     "Deep_Learning_And_Machine_Learning/LLM/langchain",
     "resume.md",
-    "文学/句子/Love about.md",
     "文学/句子/Poem.md",
     "文学/句子/Wisdom.md",
     "文学/句子/Motivation.md",

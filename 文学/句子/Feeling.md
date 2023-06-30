@@ -54,3 +54,10 @@ tags:
 >  “而是还在......还在渴望爱。”
 >  
 >  <p style="text-align: right">——史铁生《务虚笔记》</p>
+
+---
+
+> [!quote] 
+> From somebody
+> <br>
+> 爱情是需要结局的。

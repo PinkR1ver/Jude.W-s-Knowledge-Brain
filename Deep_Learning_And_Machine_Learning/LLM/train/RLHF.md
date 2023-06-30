@@ -43,6 +43,20 @@ For RLHF training method, here are three core steps:
 
 ## Step 1. Pretraining Language Models
 
+Read this to learn how to train a LM:
+
+[Pretraining language models](Deep_Learning_And_Machine_Learning/LLM/train/train_LLM.md)
+
+OpenAI used a smaller version of GPT-3 for its first popular RLHF model - InstructGPT.
+
+Nowadays, RLHF is new area, there's no answer to which model is the best for starting point of RLHF and using expensive augmented data to fine-tune is not necessarily.
+
+## Step 2. Reward model training
+
+In reward model, we integrate human preferences into the system. 
+
+![](Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted%20image%2020230629145231.png)
+
 
 
 # Reference

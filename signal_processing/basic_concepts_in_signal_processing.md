@@ -5,4 +5,4 @@ tags:
 - signal-processing
 ---
 
-* [what_is_dB](Signal%20Processing/what_is_dB.md)
+* [what_is_dB](signal_processing/what_is_dB.md)

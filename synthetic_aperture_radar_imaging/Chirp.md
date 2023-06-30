@@ -7,7 +7,7 @@ tags:
 
 啁啾（Chirp）是指频率随时间而改变（增加或减少）的信号。其名称来源于这种信号听起来类似鸟鸣的啾声。
 
-![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Linear-chirp.svg)
+![](synthetic_aperture_radar_imaging/attachments/Linear-chirp.svg)
 
 Chirp常常被用在sonar, radar, laser systems里。其中，为了能够测量长距离又保留时间的分辨率，雷达需要短时间的派冲波但是又要持续的发射信号，啁啾信号可以同时保留连续信号和脉冲的特性，因此被应用在雷达和声纳探测上。
 
@@ -41,7 +41,7 @@ $$
 
 ## Linear
 
-![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230418110700.png)
+![](synthetic_aperture_radar_imaging/attachments/Pasted%20image%2020230418110700.png)
 
 啁啾的瞬时频率$f(t)$呈线性变化
 
@@ -68,7 +68,7 @@ $$
 
 ## Exponential
 
-![](Synthetic%20Aperture%20Radar%20Imaging/attachments/Pasted%20image%2020230418111708.png)
+![](synthetic_aperture_radar_imaging/attachments/Pasted%20image%2020230418111708.png)
 
 Exponential chirp，也叫geometric chirp，瞬时频率以指数变化，即$f(t_2)/f(t_1)$会是常数
 

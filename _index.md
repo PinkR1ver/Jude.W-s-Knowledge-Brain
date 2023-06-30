@@ -11,7 +11,7 @@ tags:
 
 * [Deep Learning](Deep_Learning_And_Machine_Learning/Deep%20_Learning_MOC.md)
 
-* [[Synthetic Aperture Radar Imaging/SAR_MOC| Synthetic Aperture Radar(SAR) Imaging]]
+* [[synthetic_aperture_radar_imaging/SAR_MOC| Synthetic Aperture Radar(SAR) Imaging]]
 
 💻 Also, his research needs some basic science to support
 
@@ -19,7 +19,7 @@ tags:
 
 * [Physics](Physics/Physics_MOC.md)
 
-* [Signal Processing](Signal%20Processing/signal_processing_MOC.md)
+* [Signal Processing](signal_processing/signal_processing_MOC.md)
 
 * [Data Science](data_sci/data_sci_MOC.md)
 
