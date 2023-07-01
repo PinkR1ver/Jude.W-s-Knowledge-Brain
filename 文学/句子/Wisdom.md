@@ -5,6 +5,19 @@ tags:
 - 摘抄
 ---
 
+  <style>
+    p {
+        font-family: Source Sans Pro, SimSun;
+        font-variant-east-asian: traditional;
+    }
+
+    a {
+        font-family: Source Sans Pro, SimSun;
+        font-variant-east-asian: traditional;
+    }
+  </style>
+
+
 > [!quote] 
 >  [人生是一个长板问题](https://github.com/ruanyf/weekly/blob/master/docs/issue-254.md)
 >  
