@@ -24,6 +24,10 @@ tags:
 
 * [Git](toolkit/git/git_MOC.md)
 
+💻 Code Practice:
+
+* [💽Programing Problem Solution Record](https://github.com/PinkR1ver/JudeW-Problemset)
+
 🛶 Also, he learn some knowledge about his hobbies:
 
 * [📷 Photography](Photography/Photography_MOC.md)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "文学/log/log_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "文学/log/log_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "文学/log/log_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "文学/log/log_MOC.md"
               }
             }
           },
@@ -200,6 +200,15 @@
   },
   "active": "fe2aa8e0a1797a2d",
   "lastOpenFiles": [
+    "文学/log/2023/7/log_03072023.md",
+    "文学/log/log_MOC.md",
+    "文学/log/2023/7/log_01072023.md",
+    "文学/log/2023/7/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
+    "文学/文学_MOC.md",
+    "Deep_Learning_And_Machine_Learning/clustering/k-means/k_means.md",
+    "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/k4XcapI.gif",
+    "atlas.md",
+    "_index.md",
     "文学/句子/Comments.md",
     "文学/句子/Wisdom.md",
     "文学/句子/Motivation.md",
@@ -208,7 +217,6 @@
     "文学/句子/Music.md",
     "文学/句子/Feeling.md",
     "文学/句子/Love_about.md",
-    "Deep_Learning_And_Machine_Learning/clustering/k-means/k_means.md",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/application/example.png",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/application/Pasted image 20230703114927.png",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/Pasted image 20230703114927.png",
@@ -216,7 +224,6 @@
     "Deep_Learning_And_Machine_Learning/clustering/k-means/application",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/a",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/color8bit_style.py",
-    "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/k4XcapI.gif",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/Pasted image 20230703112731.png",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments",
     "Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md",
@@ -228,8 +235,6 @@
     "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
     "Deep_Learning_And_Machine_Learning/Famous_Model/Famous_Model_MOC.md",
     "Deep_Learning_And_Machine_Learning/Model_interpretability/Model_Interpretability_MOC.md",
-    "文学/log/log_MOC.md",
-    "文学/log/2023/7/log_01072023.md",
     "文学/log/2023/7/attachments/Pasted image 20230701220633.png",
     "文学/log/2023/7/attachments/cloud.png",
     "文学/log/2023/7/attachments/[E]{JJU87WNI}DS)${(O}MB_tmb.jpg",
@@ -237,14 +242,9 @@
     "文学/log/2023/7",
     "文学/log/2023",
     "文学/log/Untitled.md",
-    "文学/文学_MOC.md",
     "文学/poem/2022.md",
     "文学/句子/Poem.md",
-    "文学/句子/Novel.md",
-    "文学/poem/2023.md",
-    "文学/poem/Poem_by_me.md",
     "Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted image 20230629145231.png",
-    "Deep_Learning_And_Machine_Learning/LLM/metircs/attachments/Pasted image 20230629140929.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
