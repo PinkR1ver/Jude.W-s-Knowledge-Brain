@@ -93,6 +93,8 @@ print(centroids) # From sci-kit learn
 
 Read image and use k-means to do clustering for pixel value. Make pic to 8bit color style.
 
+![](Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/3ed5fee41bd566be093bebd62a33d12.jpg)
+
 [color8bit_style.py](https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/Deep_Learning_And_Machine_Learning/clustering/k-means/application/color8bit_style.py)
 
 # Reference
