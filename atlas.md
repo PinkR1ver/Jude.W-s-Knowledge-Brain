@@ -20,6 +20,8 @@ tags:
 
 * [Data Science](data_sci/data_sci_MOC.md)
 
+* [About coding language design detail](coding_knowledge/coding_lang_MOC.md)
+
 🦺 I also need some tool to help me:
 
 * [Git](toolkit/git/git_MOC.md)
