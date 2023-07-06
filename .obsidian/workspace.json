@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/poem/2023.md",
+                "file": "文学/句子/Feeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/poem/2023.md",
+                "file": "文学/句子/Feeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/poem/2023.md",
+                "file": "文学/句子/Feeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/poem/2023.md"
+                "file": "文学/句子/Feeling.md"
               }
             }
           },
@@ -175,6 +175,11 @@
   },
   "active": "b332e74659afffc7",
   "lastOpenFiles": [
+    "文学/句子/Love_about.md",
+    "文学/句子/Feeling.md",
+    "文学/句子/Comments.md",
+    "文学/poem/Poem_by_me.md",
+    "文学/poem/2023.md",
     "atlas.md",
     "_index.md",
     "Math/Statistics/Basic/Quantile.md",
@@ -191,14 +196,11 @@
     "文学/log/2023/7/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
     "文学/文学_MOC.md",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/k4XcapI.gif",
-    "文学/句子/Comments.md",
     "文学/句子/Wisdom.md",
     "文学/句子/Motivation.md",
     "文学/句子/句子.md",
     "文学/句子/Movie.md",
     "文学/句子/Music.md",
-    "文学/句子/Feeling.md",
-    "文学/句子/Love_about.md",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/application/example.png",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/application/Pasted image 20230703114927.png",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/Pasted image 20230703114927.png",
@@ -213,8 +215,6 @@
     "Deep_Learning_And_Machine_Learning/clustering",
     "Deep_Learning_And_Machine_Learning/Evaluation/model_evaluation_MOC.md",
     "Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md",
-    "Deep_Learning_And_Machine_Learning/Famous_Model/Famous_Model_MOC.md",
-    "Deep_Learning_And_Machine_Learning/Model_interpretability/Model_Interpretability_MOC.md",
     "文学/log/2023/7/attachments/Pasted image 20230701220633.png",
     "文学/log/2023/7/attachments/cloud.png",
     "文学/log/2023/7/attachments/[E]{JJU87WNI}DS)${(O}MB_tmb.jpg",
