@@ -22,6 +22,8 @@ tags:
 
 * [About coding language design detail](coding_knowledge/coding_lang_MOC.md)
 
+* [Math](Math/MOC.md)
+
 🦺 I also need some tool to help me:
 
 * [Git](toolkit/git/git_MOC.md)
