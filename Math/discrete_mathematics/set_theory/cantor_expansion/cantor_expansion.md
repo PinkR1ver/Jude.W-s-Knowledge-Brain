@@ -89,7 +89,7 @@ tags:
 #### Example
 
 $$
-3 \ 5 \ 1 \ 4 \ 2 \rightarrow 3 \ \dot{5} \ 1 \ \dot{4} \ 2 \rightarrow 3 \ 4 \ 1 \ 3 \ 2 \rightarrow 3 \ 4 \ 1 \ \dot{3} \ \dot{2} \rightarrow 3 \ 4 \ 1 \ 2 \ 1
+35142 \rightarrow 3\dot{5}1\dot{4}2 \rightarrow 34132 \rightarrow 341\dot{3}\dot{2} \rightarrow 34121
 $$
 
 $$
