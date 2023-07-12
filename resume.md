@@ -21,7 +21,7 @@ tags:
 *M.Sc.* Major in Biomedical Engineering (BME)
 
 **Exchange to National University of Singapore (NUS)**  <span style="float: right; ">2021.08-2022.05</span> <br>
-*Final Year Project* &nbsp;instructed by [Dan wu](https://person.zju.edu.cn/en/danwu) and [Zhiwei Huang](https://cde.nus.edu.sg/bme/staff/dr-huang-zhiwei/)
+*Final Year Project* &nbsp;instructed by [Dan Wu](https://person.zju.edu.cn/en/danwu) and [Zhiwei Huang](https://cde.nus.edu.sg/bme/staff/dr-huang-zhiwei/)
 
 **Zhejiang University**, &nbsp;&nbsp;Zhejiang, China <span style="float: right; ">2018.08-2022.06</span><br>
 *B.S.* Major in Biomedical Engineering (BME), *The first Lv Weixue laboratory class in ZJU*<br>

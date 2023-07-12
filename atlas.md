@@ -12,6 +12,8 @@ tags:
 
 💻 Also, his research needs some basic science to support
 
+* [Data Structure and Algorithm MOC](data_structure_and_algorithm/MOC.md)
+
 * [Hardware](Hardware/Hardware_MOC.md)
 
 * [Physics](Physics/Physics_MOC.md)

@@ -4,7 +4,7 @@ tags:
 - basic
 ---
 
-假设我们有一个长度为n的数组arr，前缀和数组prefixSum的定义如下：
+假设我们有一个长度为n的数组arr，**前缀和**数组prefixSum的定义如下：
 
 ```python
 prefixSum[0] = arr[0] 
