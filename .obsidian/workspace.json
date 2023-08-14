@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/Love_about.md",
+                "file": "文学/句子/Wisdom.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子/Love_about.md",
+                "file": "文学/句子/Wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子/Love_about.md",
+                "file": "文学/句子/Wisdom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子/Love_about.md"
+                "file": "文学/句子/Wisdom.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "94bd6d9019f8c655",
   "lastOpenFiles": [
+    "文学/句子/Love_about.md",
     "文学/句子/Motivation.md",
     "文学/句子/句子.md",
     "文学/句子/Wisdom.md",
@@ -205,7 +206,6 @@
     "recent.md",
     "Math/discrete_mathematics/set_theory",
     "文学/句子/Feeling.md",
-    "文学/句子/Love_about.md",
     "文学/句子/Comments.md",
     "文学/poem/Poem_by_me.md",
     "文学/poem/2023.md",

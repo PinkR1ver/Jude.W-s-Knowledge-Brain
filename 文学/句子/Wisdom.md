@@ -123,6 +123,13 @@ tags:
 >人会因为逞强失去很多东西的，但是也会因为心软留下很多遗憾，所以既然这次你有的选，那就勇敢一点嘛
 
 
+--- 
+
+> [!quote] 
+> From [Infantilism as a Norm](https://iq.hse.ru/en/news/219491658.html)
+>
+> Views on human age need to be revisited. The value of adulthood as a period of certainty has declined for many, which means that this period is being delayed. The processes of personality development vary, and adults are preserving signs of infantilism.
+
 
  
  
