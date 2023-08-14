@@ -137,4 +137,9 @@ tags:
 
 --- 
 
+> [!quote] 
+> From [小猫说，在胃痛面前，心动一文不值](https://www.bilibili.com/video/BV1hh4y157Nk/?spm_id_from=333.999.0.0&vd_source=c47136abc78922800b17d6ce79d6e19f) 
+> 
+> 既新鲜又长久的爱情是，反复爱上同一个人
+
 
