@@ -8,4 +8,8 @@ tags:
 
 # Tree-like Structure
 
-[Fenwick Tree](data_structure_and_algorithm/tree/fenwick_tree.md)
+* [Fenwick Tree](data_structure_and_algorithm/tree/fenwick_tree.md)
+
+# Graph
+
+* [BFS](data_structure_and_algorithm/graph/BFS.md)
