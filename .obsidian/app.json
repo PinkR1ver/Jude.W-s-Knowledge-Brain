@@ -3,10 +3,7 @@
   "attachmentFolderPath": "./attachments",
   "strictLineBreaks": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "showFrontmatter": true,

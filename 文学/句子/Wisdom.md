@@ -98,3 +98,38 @@ tags:
 >  我觉得原神是文化输出，科比比詹姆斯厉害，飞盘是个好玩的运动，丁太升是不错的音乐评论人，但是同时华晨宇写的一些歌也挺好，同时我觉得塞尔达这个游戏我根本玩不下去，我不喜欢；而且我还是一个自由主义者，而且还有，我觉得无知不是错，但是愚蠢是一种道德缺陷。
 
 
+--- 
+
+> [!quote] 
+> From  [限制我们的往往不是方法，而是思维和看问题的角度。](https://www.bilibili.com/video/BV1294y1C72W/?spm_id_from=333.999.0.0&vd_source=c47136abc78922800b17d6ce79d6e19f)
+> 
+> "你不能用导致问题产生的思维去解决问题"
+> 
+> “问题”并不是一个客观存在的东西，它是一种叙事。它建立在提问者过去理解并回应这个世界的视角之上。既然问题是在这个角度下产生的，就无法通过相同的角度解决。
+> 
+
+
+--- 
+
+> [!quote] 
+> [如果财富不能共享，为什么罪恶要平摊？](https://www.bilibili.com/video/BV1Mu4y1d7Jy/?spm_id_from=333.999.0.0&vd_source=c47136abc78922800b17d6ce79d6e19f)
+
+
+--- 
+
+> [!quote] 
+> From [一个关于买车和游戏机，预算不够的故事](https://www.bilibili.com/video/BV1du4y1m7t1/?spm_id_from=333.999.0.0&vd_source=c47136abc78922800b17d6ce79d6e19f)
+>
+>人会因为逞强失去很多东西的，但是也会因为心软留下很多遗憾，所以既然这次你有的选，那就勇敢一点嘛
+
+
+--- 
+
+> [!quote] 
+> From [Infantilism as a Norm](https://iq.hse.ru/en/news/219491658.html)
+>
+> Views on human age need to be revisited. The value of adulthood as a period of certainty has declined for many, which means that this period is being delayed. The processes of personality development vary, and adults are preserving signs of infantilism.
+
+
+ 
+ 
