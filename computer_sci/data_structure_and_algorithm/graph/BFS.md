@@ -1,5 +1,5 @@
 ---
-title； Breadth First Search in Python
+title: Breadth First Search in Python
 tags:
 - data-structure
 - basic
