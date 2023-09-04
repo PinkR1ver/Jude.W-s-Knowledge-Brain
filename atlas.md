@@ -6,15 +6,15 @@ tags:
 
 🚧 There are notebooks about his research career:
 
-* [Deep Learning](Deep_Learning_And_Machine_Learning/Deep%20_Learning_MOC.md)
+* [Deep Learning](computer_sci/Deep_Learning_And_Machine_Learning/Deep%20_Learning_MOC.md)
 
 * [[synthetic_aperture_radar_imaging/SAR_MOC| Synthetic Aperture Radar(SAR) Imaging]]
 
 💻 Also, his research needs some basic science to support
 
-* [Data Structure and Algorithm MOC](data_structure_and_algorithm/MOC.md)
+* [Data Structure and Algorithm MOC](computer_sci/data_structure_and_algorithm/MOC.md)
 
-* [Hardware](Hardware/Hardware_MOC.md)
+* [Hardware](computer_sci/Hardware/Hardware_MOC.md)
 
 * [Physics](Physics/Physics_MOC.md)
 
@@ -22,9 +22,11 @@ tags:
 
 * [Data Science](data_sci/data_sci_MOC.md)
 
-* [About coding language design detail](coding_knowledge/coding_lang_MOC.md)
+* [About coding language design detail](computer_sci/coding_knowledge/coding_lang_MOC.md)
 
 * [Math](Math/MOC.md)
+
+* [Computational Geometry](computer_sci/computational_geometry/MOC.md)
 
 🦺 I also need some tool to help me:
 
