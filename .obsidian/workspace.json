@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e331990fa23436b",
+        "id": "8b1130b630d9c3a9",
         "type": "tabs",
         "children": [
           {
-            "id": "cf68bb7e9b19f5cd",
+            "id": "c288358c6d81d8da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer_sci/data_structure_and_algorithm/MOC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BFS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "computer_sci/data_structure_and_algorithm/MOC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,11 +166,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cf68bb7e9b19f5cd",
+  "active": "713ef484166e4990",
   "lastOpenFiles": [
-    "computer_sci/data_structure_and_algorithm/tree/fenwick_tree.md",
-    "computer_sci/data_structure_and_algorithm/MOC.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
+    "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments/Pasted image 20230904225904.png",
+    "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments",
+    "computer_sci/data_structure_and_algorithm/MOC.md",
+    "computer_sci/data_structure_and_algorithm/tree/fenwick_tree.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
     "computer_sci/computational_geometry/delaunay_triangulation.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning",
@@ -200,7 +194,6 @@
     "computer_sci/data_structure_and_algorithm",
     "Math/discrete_mathematics/set_theory/cantor_expansion/code/inverse_cantor_expansion.py",
     "computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/time_series_forecasting.md",
-    "Math/discrete_mathematics/set_theory/cantor_expansion/code/cantor_expansion.py",
     "文学/log/2023/7/log_06072023.md",
     "文学/log/2023/7/attachments/7JEC(63A65[8JFI[G6O`IIK_tmb.jpg",
     "文学/log/2023/7/log_01072023.md",
@@ -213,7 +206,6 @@
     "文学/poem/Poem_by_me.md",
     "文学/poem/2023.md",
     "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
-    "computer_sci/coding_knowledge/python/matplotlib_backend.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
     "文学/log/2023/7/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
     "computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/k4XcapI.gif",
@@ -221,7 +213,6 @@
     "Deep_Learning_And_Machine_Learning/clustering/k-means/application/Pasted image 20230703114927.png",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/Pasted image 20230703114927.png",
     "Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/Pasted image 20230703112731.png",
-    "文学/log/2023/7/attachments/Pasted image 20230701220633.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

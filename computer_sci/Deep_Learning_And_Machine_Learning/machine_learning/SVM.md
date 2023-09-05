@@ -5,6 +5,10 @@ tags:
 date: 14-04-2023
 ---
 
+# Overview
+
+![](computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments/Pasted%20image%2020230904225904.png)
+
 # Hyper Parameters
 
 ## Kernel Function
@@ -20,8 +24,12 @@ The C parameter, also known as the regularization parameter, controls the trade-
 
 * One-vs-All
 * One-vs-One
+# Detail
+
+
 
 # Reference
 
 * [“华为开发者论坛.” _Huawei_, https://developer.huawei.com/consumer/cn/forum/topic/41598169. Accessed 4 Sept. 2023.](https://developer.huawei.com/consumer/cn/forum/topic/41598169)
 * [Multi-class Classification — One-vs-All & One-vs-One](https://wadhwatanya1234.medium.com/multi-class-classification-one-vs-all-one-vs-one-993dd23ae7ca)
+* [Saini, Anshul. “Guide on Support Vector Machine (SVM) Algorithm.” _Analytics Vidhya_, 12 Oct. 2021, https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/.](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)
