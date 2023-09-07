@@ -20,7 +20,7 @@ DeepAR, an autoregressive recurrent network developed by Amazon, is the first mo
 
 # Block used in DeepAR
 
-* [LSTM](computer_sci/Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/LSTM.md)
+* [LSTM](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md)
 
 # *DeepAR* Architecture
 

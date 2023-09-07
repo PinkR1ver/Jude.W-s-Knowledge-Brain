@@ -26,8 +26,21 @@ The C parameter, also known as the regularization parameter, controls the trade-
 * One-vs-One
 # Detail
 
+## Score Function
 
+$$
+f(x) = \sum_i \alpha_i y_i G(x, x_i) + bias
+$$
+* $\alpha_i$ is corresponding support vector weight
+* $y_i$ is corresponding support vector tags
+* $G(x,x_i)$ is kernel function about input sample $x$ and support vector $x_i$
+* $bias$ is bias
+## Decision Function 
 
+$$
+Decision \ Function = sign(f(x))
+$$
+We determine the sample's category by checking its decision function's sign.
 # Reference
 
 * [“华为开发者论坛.” _Huawei_, https://developer.huawei.com/consumer/cn/forum/topic/41598169. Accessed 4 Sept. 2023.](https://developer.huawei.com/consumer/cn/forum/topic/41598169)

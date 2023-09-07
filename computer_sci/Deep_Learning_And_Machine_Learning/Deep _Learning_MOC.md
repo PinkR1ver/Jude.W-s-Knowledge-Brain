@@ -7,7 +7,9 @@ tags:
 
 # Tech Explanation
 
-* [⭐Deep Learning Block & Machine Learning - MOC](computer_sci/Deep_Learning_And_Machine_Learning/Deep_Learning_Block_and_Machine_Learning_Block/Deep_Learning_Block_And_Machine_Learning_MOC.md)
+* [⭐Deep Learning  MOC](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/deep_learning_MOC.md)
+
+* [✨Machine Learning MOC](computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/MOC.md)
 
 * [LLM - MOC](computer_sci/Deep_Learning_And_Machine_Learning/LLM/LLM_MOC.md)
 
