@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atlas.md",
+                "file": "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 227.5
   },
   "right": {
     "id": "642c9a9f19010b2b",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atlas.md",
+                "file": "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atlas.md",
+                "file": "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atlas.md"
+                "file": "computer_sci/data_structure_and_algorithm/tree/segment_tree.md"
               }
             }
           },
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +175,11 @@
   },
   "active": "c288358c6d81d8da",
   "lastOpenFiles": [
+    "computer_sci/data_structure_and_algorithm/MOC.md",
+    "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
+    "computer_sci/data_structure_and_algorithm/tree/attachments/Pasted image 20230907170533.png",
+    "computer_sci/data_structure_and_algorithm/tree/attachments/Pasted image 20230907145346.png",
+    "atlas.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/MOC.md",
@@ -186,11 +191,9 @@
     "文学/句子/attachments/Pasted image 20230905221135.png",
     "文学/句子/Comments.md",
     "recent.md",
-    "atlas.md",
     "_index.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments/Pasted image 20230904225904.png",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments",
-    "computer_sci/data_structure_and_algorithm/MOC.md",
     "computer_sci/data_structure_and_algorithm/tree/fenwick_tree.md",
     "computer_sci/computational_geometry/delaunay_triangulation.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning",
@@ -214,13 +217,9 @@
     "文学/log/2023/7/attachments/7JEC(63A65[8JFI[G6O`IIK_tmb.jpg",
     "文学/log/2023/7/log_01072023.md",
     "文学/log/2023/7/log_03072023.md",
-    "Math/Statistics/Basic/Quantile.md",
-    "Math/MOC.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
     "文学/log/2023/7/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
     "computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/k4XcapI.gif",
-    "computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/application/example.png",
-    "Deep_Learning_And_Machine_Learning/clustering/k-means/application/Pasted image 20230703114927.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
