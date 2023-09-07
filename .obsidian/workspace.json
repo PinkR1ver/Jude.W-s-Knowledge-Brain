@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
+                "file": "atlas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
+                "file": "atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
+                "file": "atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md"
+                "file": "atlas.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "c288358c6d81d8da",
   "lastOpenFiles": [
+    "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/MOC.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/deep_learning_MOC.md",
@@ -187,7 +188,6 @@
     "recent.md",
     "atlas.md",
     "_index.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments/Pasted image 20230904225904.png",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments",
     "computer_sci/data_structure_and_algorithm/MOC.md",
