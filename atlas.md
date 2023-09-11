@@ -45,3 +45,5 @@ tags:
 ⭐ Here to find my recent study:
 
 * [Recent notes](recent.md)
+
+* [📸Log](log/log_MOC.md)

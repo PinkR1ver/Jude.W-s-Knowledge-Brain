@@ -129,3 +129,4 @@ int query(int node, int start, int end, int l, int r)
 # Reference
 
 * [“Segment Trees Tutorials & Notes | Data Structures.” _HackerEarth_, https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/. Accessed 7 Sept. 2023.](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
+* [“力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台.” _力扣 LeetCode_, https://leetcode.cn/problems/handling-sum-queries-after-update/solutions/2356392/geng-xin-shu-zu-hou-chu-li-qiu-he-cha-xu-kv6u/. Accessed 11 Sept. 2023.](https://leetcode.cn/problems/handling-sum-queries-after-update/solutions/2356392/geng-xin-shu-zu-hou-chu-li-qiu-he-cha-xu-kv6u/)
