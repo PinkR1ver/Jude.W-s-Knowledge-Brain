@@ -63,6 +63,20 @@ void build(int node, int start, int end)
 ```
 
 
+```python
+def segment_tree_build(nums):
+    n = len(nums)
+    tree = np.zeros(2 * n)
+    
+    tree[n:2 * n] = nums
+    
+    for i in range(n-1, 0, -1):
+        tree[i] = tree[2 * i] + tree[2 * i + 1]
+        
+    return tree
+```
+
+
 **Every nodes means a sum of an interval**. Build Complexity is $O(N)$
 
 ### Update
@@ -124,7 +138,13 @@ int query(int node, int start, int end, int l, int r)
 }
 ```
 
+将查询区间切割成多个区间在不同节点查找并合并
+## LazyTag Trick
 
+
+Lazy Tag的设计目的是为了[l, r]区间所有数增加k的情况，做多次update时间复杂度浪费过多，利用lazy tag降低时间复杂度。
+
+lazy tag的设计原理是，被打上lazy tag的seg node是已经更新完了的seg node，而lazy tag之下的seg node是没有更新的。只有要访问lazy tag之下的seg node的时候才去做更新，来节省更新。
 
 # Reference
 
