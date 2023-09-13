@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/Feeling.md",
+                "file": "equipment_research/spectrum_analyzer.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子/Feeling.md",
+                "file": "equipment_research/spectrum_analyzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子/Feeling.md",
+                "file": "equipment_research/spectrum_analyzer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子/Feeling.md"
+                "file": "equipment_research/spectrum_analyzer.md"
               }
             }
           },
@@ -197,10 +197,10 @@
   },
   "active": "c288358c6d81d8da",
   "lastOpenFiles": [
+    "文学/句子/Feeling.md",
     "文学/句子/Motivation.md",
     "文学/句子/Wisdom.md",
     "文学/句子/Comments.md",
-    "文学/句子/Feeling.md",
     "equipment_research/spectrum_analyzer.md",
     "equipment_research/equip_res_MOC.md",
     "equipment_research/Untitled",
