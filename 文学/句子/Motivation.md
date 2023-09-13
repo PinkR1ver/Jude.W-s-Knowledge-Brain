@@ -18,6 +18,15 @@ tags:
     }
   </style>
 
+
+
+> [!quote] 
+> From [火柴钰's Comment ](https://www.bilibili.com/video/BV1634y1N78j/?spm_id_from=333.337.search-card.all.click) 
+> 
+> 三明治直播自己说了"我把所有强队的习惯录像全部记下来了，我都知道A队如果是穹顶的圈，二圈刷的时候，Effect会自己去那个树木旁边山"。当时我就震惊了，细到这种程度。
+
+--- 
+
 > [!quote] 
 > A Sentence
 > 
@@ -67,13 +76,6 @@ tags:
 > <br>
 > 只要你经历过，你就已经赢了
 
-
---- 
-
-> [!quote] 
-> From [火柴钰's Comment ](https://www.bilibili.com/video/BV1634y1N78j/?spm_id_from=333.337.search-card.all.click) 
-> 
-> 三明治直播自己说了"我把所有强队的习惯录像全部记下来了，我都知道A队如果是穹顶的圈，二圈刷的时候，Effect会自己去那个树木旁边山"。当时我就震惊了，细到这种程度。
 
 
 
