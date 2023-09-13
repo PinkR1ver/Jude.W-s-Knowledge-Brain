@@ -146,7 +146,18 @@ Lazy Tag的设计目的是为了[l, r]区间所有数增加k的情况，做多�
 
 lazy tag的设计原理是，被打上lazy tag的seg node是已经更新完了的seg node，而lazy tag之下的seg node是没有更新的。只有要访问lazy tag之下的seg node的时候才去做更新，来节省更新。
 
+### Lazy Tag Propagation
+
+lazy propagation is a optimize technique in segment tree to **minimize** tons of operations.
+
+lazy propagation is hard to explain, so watch this tutorial vedio is a best way to learn and review.
+
+pls watch vedio in reference 3:  [_Lazy Propagation Segment Tree_. _www.youtube.com_, https://www.youtube.com/watch?v=xuoQdt5pHj0. Accessed 12 Sept. 2023.](https://www.youtube.com/watch?v=xuoQdt5pHj0)
+
+
+
 # Reference
 
 * [“Segment Trees Tutorials & Notes | Data Structures.” _HackerEarth_, https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/. Accessed 7 Sept. 2023.](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
 * [“力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台.” _力扣 LeetCode_, https://leetcode.cn/problems/handling-sum-queries-after-update/solutions/2356392/geng-xin-shu-zu-hou-chu-li-qiu-he-cha-xu-kv6u/. Accessed 11 Sept. 2023.](https://leetcode.cn/problems/handling-sum-queries-after-update/solutions/2356392/geng-xin-shu-zu-hou-chu-li-qiu-he-cha-xu-kv6u/)
+* [_Lazy Propagation Segment Tree_. _www.youtube.com_, https://www.youtube.com/watch?v=xuoQdt5pHj0. Accessed 12 Sept. 2023.](https://www.youtube.com/watch?v=xuoQdt5pHj0)

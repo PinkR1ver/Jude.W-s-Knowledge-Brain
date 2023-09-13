@@ -10,6 +10,8 @@ tags:
 
 * [[synthetic_aperture_radar_imaging/SAR_MOC| Synthetic Aperture Radar(SAR) Imaging]]
 
+* [Equipment Research MOC](equipment_research/equip_res_MOC.md)
+
 💻 Also, his research needs some basic science to support
 
 * [Data Structure and Algorithm MOC](computer_sci/data_structure_and_algorithm/MOC.md)
