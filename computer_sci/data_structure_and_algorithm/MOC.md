@@ -14,3 +14,4 @@ tags:
 # Graph
 
 * [BFS](computer_sci/data_structure_and_algorithm/graph/BFS.md)
+* [Topological Sorting](computer_sci/data_structure_and_algorithm/graph/topological_sorting.md)

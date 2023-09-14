@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "equipment_research/equip_res_MOC.md",
+                "file": "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "equipment_research/spectrum_analyzer.md",
+                "file": "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "equipment_research/spectrum_analyzer.md",
+                "file": "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "equipment_research/spectrum_analyzer.md"
+                "file": "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md"
               }
             }
           },
@@ -195,19 +196,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c288358c6d81d8da",
+  "active": "94e0ae5814508cd9",
   "lastOpenFiles": [
+    "computer_sci/data_structure_and_algorithm/graph/attachments/algo.gif",
+    "computer_sci/data_structure_and_algorithm/MOC.md",
+    "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
+    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230914104155.png",
+    "computer_sci/data_structure_and_algorithm/graph/attachments",
+    "computer_sci/data_structure_and_algorithm/graph/BFS.md",
+    "equipment_research/equip_res_MOC.md",
+    "equipment_research/spectrum_analyzer.md",
     "文学/句子/Feeling.md",
     "文学/句子/Motivation.md",
     "文学/句子/Wisdom.md",
     "文学/句子/Comments.md",
-    "equipment_research/spectrum_analyzer.md",
-    "equipment_research/equip_res_MOC.md",
     "equipment_research/Untitled",
     "atlas.md",
     "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
     "equipment_research",
-    "computer_sci/data_structure_and_algorithm/MOC.md",
     "_index.md",
     "log/2023/9/log_11092023.md",
     "log/2023/7/log_06072023.md",
@@ -230,19 +236,14 @@
     "computer_sci/data_structure_and_algorithm/tree/fenwick_tree.md",
     "computer_sci/computational_geometry/delaunay_triangulation.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning",
-    "computer_sci/computational_geometry/MOC.md",
     "computer_sci",
     "computer_sci/computational_geometry",
-    "data_sci/data_sci_MOC.md",
-    "data_sci/visual_information_theory.md",
     "computer_sci/data_structure_and_algorithm/graph",
     "weekly",
     "computer_sci/data_structure_and_algorithm/tree/attachments/Pasted image 20230710160348.png",
-    "computer_sci/data_structure_and_algorithm/tree/attachments",
     "log/2023/7/attachments/7JEC(63A65[8JFI[G6O`IIK_tmb.jpg",
     "computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
     "log/2023/7/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
-    "computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/k4XcapI.gif",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
