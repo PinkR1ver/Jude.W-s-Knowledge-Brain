@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8b1130b630d9c3a9",
+        "id": "e89eba6b6f2e7d71",
         "type": "tabs",
         "children": [
           {
-            "id": "c288358c6d81d8da",
+            "id": "b4d5dd5adf20c720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "equipment_research/spectrum_analyzer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94e0ae5814508cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
+                "file": "computer_sci/data_structure_and_algorithm/graph/spanning_tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
+                "file": "computer_sci/data_structure_and_algorithm/graph/spanning_tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
+                "file": "computer_sci/data_structure_and_algorithm/graph/spanning_tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md"
+                "file": "computer_sci/data_structure_and_algorithm/graph/spanning_tree.md"
               }
             }
           },
@@ -196,25 +183,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "94e0ae5814508cd9",
+  "active": "b4d5dd5adf20c720",
   "lastOpenFiles": [
-    "computer_sci/data_structure_and_algorithm/graph/attachments/algo.gif",
+    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114049.png",
+    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114014.png",
     "computer_sci/data_structure_and_algorithm/MOC.md",
+    "recent.md",
+    "atlas.md",
+    "_index.md",
     "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
-    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230914104155.png",
-    "computer_sci/data_structure_and_algorithm/graph/attachments",
     "computer_sci/data_structure_and_algorithm/graph/BFS.md",
-    "equipment_research/equip_res_MOC.md",
+    "computer_sci/data_structure_and_algorithm/graph/MST.md",
+    "computer_sci/data_structure_and_algorithm/graph/spanning_tree.md",
+    "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
+    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111856.png",
+    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111850.png",
+    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111826.png",
     "equipment_research/spectrum_analyzer.md",
+    "文学/句子/Love_about.md",
+    "warehouse/dampers_keeping_a_door_from_slamming shut.md",
+    "warehouse/NUS_Transcript.pdf",
     "文学/句子/Feeling.md",
     "文学/句子/Motivation.md",
+    "文学/句子/Movie.md",
+    "computer_sci/data_structure_and_algorithm/graph/attachments/algo.gif",
+    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230914104155.png",
+    "computer_sci/data_structure_and_algorithm/graph/attachments",
+    "equipment_research/equip_res_MOC.md",
     "文学/句子/Wisdom.md",
     "文学/句子/Comments.md",
     "equipment_research/Untitled",
-    "atlas.md",
-    "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
     "equipment_research",
-    "_index.md",
     "log/2023/9/log_11092023.md",
     "log/2023/7/log_06072023.md",
     "log/log_MOC.md",
@@ -225,25 +224,13 @@
     "computer_sci/data_structure_and_algorithm/tree/attachments/Pasted image 20230907145346.png",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/MOC.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/deep_learning_MOC.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/Deep_Neural_Decision_Forests.md",
     "文学/句子/attachments/Pasted image 20230905221204.png",
     "文学/句子/attachments/Pasted image 20230905221135.png",
-    "recent.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments/Pasted image 20230904225904.png",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments",
-    "computer_sci/data_structure_and_algorithm/tree/fenwick_tree.md",
-    "computer_sci/computational_geometry/delaunay_triangulation.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning",
     "computer_sci",
     "computer_sci/computational_geometry",
     "computer_sci/data_structure_and_algorithm/graph",
-    "weekly",
-    "computer_sci/data_structure_and_algorithm/tree/attachments/Pasted image 20230710160348.png",
-    "log/2023/7/attachments/7JEC(63A65[8JFI[G6O`IIK_tmb.jpg",
-    "computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
-    "log/2023/7/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
