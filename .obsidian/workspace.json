@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/log_MOC.md",
+                "file": "log/2023/9/log_18092023.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "equipment_research/spectrum_analyzer.md",
+                "file": "log/2023/9/log_18092023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "equipment_research/spectrum_analyzer.md",
+                "file": "log/2023/9/log_18092023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "equipment_research/spectrum_analyzer.md"
+                "file": "log/2023/9/log_18092023.md"
               }
             }
           },
@@ -208,17 +207,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17bab2e4b755798c",
+  "active": "5dde96f086b91bb6",
   "lastOpenFiles": [
-    "resume.md",
     "log/log_MOC.md",
+    "equipment_research/spectrum_analyzer.md",
+    "resume.md",
     "log/2023/9/log_11092023.md",
     "log/2023/9/log_18092023.md",
     "Photography/resume.md",
     "Photography/Photography_MOC.md",
     "atlas.md",
     "_index.md",
-    "equipment_research/spectrum_analyzer.md",
     "equipment_research/equip_res_MOC.md",
     "dota/dota2_learning_road.md",
     "dota/attachments/Pasted image 20230918135105.png",
