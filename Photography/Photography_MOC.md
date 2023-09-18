@@ -73,3 +73,8 @@ Also, here's my notes about learning photography
 * [🦺搬运UP主 - 豆腐素包](https://space.bilibili.com/196700312/video)
 * [小八怪 - 小红书](https://www.xiaohongshu.com/user/profile/5558b47f5894463d532a632c)
 
+
+# Photography Resume
+
+
+
