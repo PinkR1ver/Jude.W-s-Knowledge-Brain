@@ -16,7 +16,7 @@ tags:
 ### Measurements of UWB through-the-wall propagation using spectrum analyzer and the Hilbert transform
 
 
-[*pdf* - Measurements of UWB through-the-wall propagation using spectrum analyzer and the Hilbert transform](equipment_research/attachments/mop.23107.pdf)
+[*pdf* - Measurements of UWB through-the-wall propagation using spectrum analyzer and the Hilbert transform](https://pinktalk.online/equipment_research/attachments/mop.23107.pdf)
 
 ![Architect](equipment_research/attachments/Pasted%20image%2020230918104114.png)
 
