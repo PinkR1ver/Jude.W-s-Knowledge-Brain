@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e89eba6b6f2e7d71",
+        "id": "81bae4a00e9a57a8",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d5dd5adf20c720",
+            "id": "5dde96f086b91bb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,13 +183,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b4d5dd5adf20c720",
+  "active": "5dde96f086b91bb6",
   "lastOpenFiles": [
+    "equipment_research/equip_res_MOC.md",
+    "dota/dota2_learning_road.md",
+    "dota/attachments/Pasted image 20230918135105.png",
+    "dota/attachments",
+    "log/2023/9/log_11092023.md",
+    "dota",
+    "equipment_research/spectrum_analyzer.md",
     "equipment_research/attachments/mop.23107.pdf",
     "equipment_research/attachments/Pasted image 20230918104114.png",
     "equipment_research/attachments",
-    "equipment_research/equip_res_MOC.md",
-    "equipment_research/spectrum_analyzer.md",
     "computer_sci/data_structure_and_algorithm/graph/spanning_tree.md",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114049.png",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114014.png",
@@ -217,19 +222,14 @@
     "文学/句子/Comments.md",
     "equipment_research/Untitled",
     "equipment_research",
-    "log/2023/9/log_11092023.md",
     "log/2023/7/log_06072023.md",
     "log/log_MOC.md",
     "log/2023/7/log_01072023.md",
     "log/2023/9",
     "文学/文学_MOC.md",
     "computer_sci/data_structure_and_algorithm/tree/attachments/Pasted image 20230907170533.png",
-    "computer_sci/data_structure_and_algorithm/tree/attachments/Pasted image 20230907145346.png",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/Deep _Learning_MOC.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments",
-    "computer_sci/Deep_Learning_And_Machine_Learning/machine_learning",
-    "computer_sci",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

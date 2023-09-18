@@ -7,8 +7,7 @@ tags:
 
 # What is spectrum analyzer?
 
-
-
+Measure input signal power spectrum
 # Spectrum Analyzer for UWB
 
 ## Papers
