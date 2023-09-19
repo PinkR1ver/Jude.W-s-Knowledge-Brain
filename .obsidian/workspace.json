@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/fourier_transform.md",
+                "file": "data_sci/basic/relationship.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/fourier_transform.md",
+                "file": "data_sci/basic/relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/fourier_transform.md",
+                "file": "data_sci/basic/relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/fourier_transform.md"
+                "file": "data_sci/basic/relationship.md"
               }
             }
           },
@@ -186,11 +186,13 @@
   },
   "active": "18adad768572cba4",
   "lastOpenFiles": [
+    "data_sci/basic/attachments/uncorrelated-vs-independent.pdf",
+    "data_sci/basic/attachments",
+    "signal_processing/fourier_transform.md",
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/random_signal_basic.md",
     "signal_processing/what_is_dB.md",
     "signal_processing/basic_concepts_in_signal_processing.md",
-    "signal_processing/fourier_transform.md",
     "signal_processing/attachments/Pasted image 20230919153401.png",
     "signal_processing/attachments/Pasted image 20230919153109.png",
     "signal_processing/attachments/Pasted image 20230919152720.png",
@@ -230,7 +232,6 @@
     "dota",
     "equipment_research/attachments/mop.23107.pdf",
     "equipment_research/attachments",
-    "warehouse/NUS_Transcript.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
