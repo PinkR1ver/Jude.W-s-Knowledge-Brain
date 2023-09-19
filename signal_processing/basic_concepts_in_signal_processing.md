@@ -4,5 +4,6 @@ tags:
 - MOC
 - signal-processing
 ---
+# Basic
 
-* [what_is_dB](signal_processing/what_is_dB.md)
+* [Random Signal Basic](signal_processing/random_signal_basic.md)
