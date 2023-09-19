@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_sci/stochastic_process/stationary_process.md",
+                "file": "data_sci/basic/relationship.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_sci/stochastic_process/stationary_process.md",
+                "file": "data_sci/basic/relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_sci/stochastic_process/stationary_process.md",
+                "file": "data_sci/basic/relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_sci/stochastic_process/stationary_process.md"
+                "file": "data_sci/basic/relationship.md"
               }
             }
           },
@@ -185,9 +185,12 @@
   },
   "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
-    "signal_processing/random_signal_basic.md",
     "data_sci/data_sci_MOC.md",
+    "data_sci/basic/relationship.md",
+    "data_sci/basic",
+    "data_sci/visual_information_theory.md",
     "data_sci/stochastic_process/stationary_process.md",
+    "signal_processing/random_signal_basic.md",
     "data_sci/stochastic_process/MOC.md",
     "signal_processing/what_is_dB.md",
     "signal_processing/signal_processing_MOC.md",
@@ -217,7 +220,6 @@
     "Photography/resume.md",
     "Photography/Photography_MOC.md",
     "equipment_research/equip_res_MOC.md",
-    "dota/dota2_learning_road.md",
     "dota/attachments/Pasted image 20230918135105.png",
     "dota/attachments",
     "dota",
@@ -226,11 +228,9 @@
     "equipment_research/attachments",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114049.png",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114014.png",
-    "recent.md",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111856.png",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111850.png",
     "warehouse/NUS_Transcript.pdf",
-    "computer_sci/data_structure_and_algorithm/graph/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
