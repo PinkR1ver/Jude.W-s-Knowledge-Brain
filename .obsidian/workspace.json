@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf8ba91ccdda27d1",
+        "id": "e0b5d834dde1eb10",
         "type": "tabs",
         "children": [
           {
-            "id": "86535cc4029b43d5",
+            "id": "18adad768572cba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_sci/basic/relationship.md",
+                "file": "signal_processing/signal_processing_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_sci/basic/relationship.md",
+                "file": "signal_processing/signal_processing_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_sci/basic/relationship.md",
+                "file": "signal_processing/signal_processing_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_sci/basic/relationship.md"
+                "file": "signal_processing/signal_processing_MOC.md"
               }
             }
           },
@@ -146,14 +146,6 @@
             }
           },
           {
-            "id": "0b5efb9a3eac5619",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          },
-          {
             "id": "85a8a9c8eead1c0e",
             "type": "leaf",
             "state": {
@@ -162,13 +154,22 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "5972353c1edeb6c9",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,18 +184,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "18adad768572cba4",
   "lastOpenFiles": [
-    "data_sci/data_sci_MOC.md",
+    "signal_processing/what_is_dB.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/random_signal_basic.md",
+    "signal_processing/basic_concepts_in_signal_processing.md",
+    "signal_processing/fourier_transform.md",
+    "signal_processing/attachments/Pasted image 20230919153401.png",
+    "signal_processing/attachments/Pasted image 20230919153109.png",
+    "signal_processing/attachments/Pasted image 20230919152720.png",
+    "signal_processing/attachments/Pasted image 20230919152357.png",
+    "signal_processing/attachments/Pasted image 20230919152234.png",
+    "signal_processing/attachments/Pasted image 20230919152200.png",
     "data_sci/basic/relationship.md",
+    "data_sci/data_sci_MOC.md",
     "data_sci/basic",
     "data_sci/visual_information_theory.md",
     "data_sci/stochastic_process/stationary_process.md",
-    "signal_processing/random_signal_basic.md",
     "data_sci/stochastic_process/MOC.md",
-    "signal_processing/what_is_dB.md",
-    "signal_processing/signal_processing_MOC.md",
-    "signal_processing/basic_concepts_in_signal_processing.md",
     "data_sci/stochastic_process",
     "data_sci/Untitled.md",
     "signal_processing/attachments/Screenshot_from_2022-10-18_10-53-17.png",
@@ -218,18 +226,10 @@
     "log/log_MOC.md",
     "log/2023/9/log_11092023.md",
     "Photography/resume.md",
-    "Photography/Photography_MOC.md",
-    "equipment_research/equip_res_MOC.md",
-    "dota/attachments/Pasted image 20230918135105.png",
     "dota/attachments",
     "dota",
     "equipment_research/attachments/mop.23107.pdf",
-    "equipment_research/attachments/Pasted image 20230918104114.png",
     "equipment_research/attachments",
-    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114049.png",
-    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114014.png",
-    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111856.png",
-    "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111850.png",
     "warehouse/NUS_Transcript.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"

@@ -4,5 +4,11 @@ tags:
 - MOC
 - signal-processing
 ---
+# Basic
 
-* [basic_concepts_in_signal_processing](signal_processing/basic_concepts_in_signal_processing.md)
+* [Fourier Transform](signal_processing/fourier_transform.md)
+## Random Signal
+
+* [Random Signal Basic](signal_processing/random_signal_basic.md)
+
+
