@@ -38,7 +38,7 @@ R_x(n_1,n_2)=E\{x(n_1)x(n_2)\}=\lim_{N\rightarrow\infty}\frac{1}{N}\sum_{k=1}^N 
 $$
 
 
-## Wide Sense Stationary Process 宽平稳过程
+## [Wide Sense Stationary Process 宽平稳过程](data_sci/stochastic_process/stationary_process.md)
 
 **平稳随机信号**——其统计特性与时间无关。
 

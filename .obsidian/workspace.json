@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/random_signal_basic.md",
+                "file": "data_sci/stochastic_process/stationary_process.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/random_signal_basic.md",
+                "file": "data_sci/stochastic_process/stationary_process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/random_signal_basic.md",
+                "file": "data_sci/stochastic_process/stationary_process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/random_signal_basic.md"
+                "file": "data_sci/stochastic_process/stationary_process.md"
               }
             }
           },
@@ -183,12 +183,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "86535cc4029b43d5",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
-    "signal_processing/signal_processing_MOC.md",
     "signal_processing/random_signal_basic.md",
-    "signal_processing/basic_concepts_in_signal_processing.md",
+    "data_sci/data_sci_MOC.md",
+    "data_sci/stochastic_process/stationary_process.md",
+    "data_sci/stochastic_process/MOC.md",
     "signal_processing/what_is_dB.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/basic_concepts_in_signal_processing.md",
+    "data_sci/stochastic_process",
+    "data_sci/Untitled.md",
     "signal_processing/attachments/Screenshot_from_2022-10-18_10-53-17.png",
     "signal_processing/attachments",
     "Autocorrelation Analysis & Power Spectral Density 330755770347472989062c6b31f18a21/Screenshot_from_2022-10-18_10-53-17.png.md",
@@ -222,14 +227,10 @@
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114049.png",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915114014.png",
     "recent.md",
-    "computer_sci/data_structure_and_algorithm/graph/MST.md",
-    "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111856.png",
     "computer_sci/data_structure_and_algorithm/graph/attachments/Pasted image 20230915111850.png",
-    "文学/句子/Love_about.md",
     "warehouse/NUS_Transcript.pdf",
     "computer_sci/data_structure_and_algorithm/graph/attachments",
-    "equipment_research/Untitled",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
