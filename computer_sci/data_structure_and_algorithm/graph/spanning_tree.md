@@ -32,7 +32,25 @@ Example:
 
 ![](computer_sci/data_structure_and_algorithm/graph/attachments/Pasted%20image%2020230915114049.png)
 
-内向基环树类似于基环树的结构，在有向图中，每个点有且只有一条出边，即every node out-degree = 1。$k$个点有$k$条边，那么必然存在有且只有一个环，其它点均指向这个环。
+内向基环树类似于基环树的结构，在有向图中，每个点有且只有一条出边，即**every node out-degree = 1**，*这也是内向的定义*。（”这个图会给人内向的感觉“）
+
+内向基环树的特点是可以通过BFS去检索所有indegree = 0的点直到环的位置，这样可以去检索基环树里的最长链。
+
+具体的代码可以见：
+
+[*Leet Code* - 2127 Maximum Employees to Be invited to a Meeting](https://github.com/PinkR1ver/JudeW-Problemset/blob/master/Leetcode/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting/main_bfs.py)
+
+
+## Outward Spanning Tree，外向基环树
+
+in-degree = 1，就会造成外向的感觉，如图：
+
+![](computer_sci/data_structure_and_algorithm/graph/attachments/Pasted%20image%2020230919101645.png)
+
+具体应用有待补充
+
+
 # Reference
 
 * [_$Note$-内向基环树 - AcWing_. https://www.acwing.com/blog/content/23513/. Accessed 15 Sept. 2023.](https://www.acwing.com/blog/content/23513/)
+* [_浅谈基环树（环套树） - Seaway-Fu - 博客园_. https://www.cnblogs.com/fusiwei/p/13815549.html. Accessed 19 Sept. 2023.](https://www.cnblogs.com/fusiwei/p/13815549.html)
