@@ -227,7 +227,7 @@ The unilateral or one-sided z-transform is very useful because we mostly deal wi
 
 * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY&t=614s)
 * [But what is a Fourier series? From heat flow to drawing with circles | DE4](https://www.youtube.com/watch?v=r6sGWTCMz2k&t=531s)
-* [傅里叶系列（一）傅里叶级数的推导](https://zhuanlan.zhihu.com/p/41455378
+* [傅里叶系列（一）傅里叶级数的推导](https://zhuanlan.zhihu.com/p/41455378)
 * [The Discrete Fourier Transform (DFT)](https://www.youtube.com/watch?v=nl9TZanwbBk)
 * [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
 * [Euler’s formula](https://www.notion.so/Euler-s-formula-d8e4462d5cda4e09a4ca4fcda7cd1392?pvs=21)
