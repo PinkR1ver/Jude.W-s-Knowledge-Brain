@@ -48,6 +48,8 @@ tags:
 
 ⭐ Here to find my recent study:
 
-* [Recent notes](recent.md)
+* [Recent notes (this function cannot be used on web)](recent.md)
 
-* [📸Log](log/log_MOC.md)
+🎏 I also have some plans in my mind to do；
+
+* [Life List🚀](plan/life.md)
