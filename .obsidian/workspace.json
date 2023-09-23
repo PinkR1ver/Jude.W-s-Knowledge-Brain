@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atlas.md",
+                "file": "plan/life.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atlas.md",
+                "file": "plan/life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atlas.md",
+                "file": "plan/life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atlas.md"
+                "file": "plan/life.md"
               }
             }
           },
@@ -185,7 +185,10 @@
   },
   "active": "1b920fe1151b971b",
   "lastOpenFiles": [
+    "atlas.md",
     "_index.md",
+    "recent.md",
+    "resume.md",
     "plan/life.md",
     "索菲亚一斤半..md",
     "plan/exhibition/whisky_l.md",
@@ -194,9 +197,7 @@
     "plan/exhibition/attachments/]OG11]ENC[XCB@{6VUL%)6V_tmb.png",
     "plan/exhibition/attachments",
     "plan/exhibition",
-    "atlas.md",
     "plan",
-    "resume.md",
     "log/log_MOC.md",
     "log/2023/9/log_11092023.md",
     "log/2023/9/log_18092023.md",
