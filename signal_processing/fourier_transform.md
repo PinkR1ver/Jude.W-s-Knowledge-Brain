@@ -223,6 +223,10 @@ $$
 
 The unilateral or one-sided z-transform is very useful because we mostly deal with **causal sequences**. Also, it is mainly suited for **solving difference equations with initial conditions**.
 
+
+# Fourier Pairs
+
+[fourier_pairs.pdf](https://pinktalk.online/signal_processing/attachments/fourier_pairs.pdf)
 # Reference
 
 * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY&t=614s)

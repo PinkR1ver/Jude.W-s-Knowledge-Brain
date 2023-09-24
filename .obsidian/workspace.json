@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plan/life.md",
+                "file": "signal_processing/fourier_transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "four",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plan/life.md",
+                "file": "signal_processing/fourier_transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plan/life.md",
+                "file": "signal_processing/fourier_transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plan/life.md"
+                "file": "signal_processing/fourier_transform.md"
               }
             }
           },
@@ -185,11 +186,20 @@
   },
   "active": "1b920fe1151b971b",
   "lastOpenFiles": [
+    "signal_processing/attachments/fourier_pairs.pdf",
+    "research_career/VNA_research.md",
+    "research_career/attachments/Pasted image 20230924223700.png",
+    "research_career/attachments/Pasted image 20230924223332.png",
+    "research_career/attachments/Pasted image 20230924223212.png",
+    "research_career/attachments/Pasted image 20230924222536.png",
+    "research_career/attachments/Pasted image 20230924222031.png",
+    "research_career/attachments",
+    "plan/life.md",
+    "research_career",
     "atlas.md",
     "_index.md",
     "recent.md",
     "resume.md",
-    "plan/life.md",
     "索菲亚一斤半..md",
     "plan/exhibition/whisky_l.md",
     "plan/exhibition/attachments/1.png",
@@ -209,11 +219,6 @@
     "signal_processing/fourier_transform.md",
     "signal_processing/attachments/Screenshot_from_2022-10-18_10-53-17.png",
     "signal_processing/attachments/Pasted image 20230919153401.png",
-    "signal_processing/attachments/Pasted image 20230919153109.png",
-    "signal_processing/attachments/Pasted image 20230919152720.png",
-    "signal_processing/attachments/Pasted image 20230919152357.png",
-    "signal_processing/attachments/Pasted image 20230919152234.png",
-    "signal_processing/attachments/Pasted image 20230919152200.png",
     "data_sci/stochastic_process/stationary_process.md",
     "data_sci/stochastic_process/MOC.md",
     "data_sci/basic/relationship.md",
@@ -224,13 +229,9 @@
     "data_sci/stochastic_process",
     "data_sci/basic/attachments",
     "data_sci/basic",
-    "Autocorrelation Analysis & Power Spectral Density 330755770347472989062c6b31f18a21",
     "computer_sci/data_structure_and_algorithm/MOC.md",
     "computer_sci/data_structure_and_algorithm/graph/spanning_tree.md",
     "computer_sci/data_structure_and_algorithm/graph/topological_sorting.md",
-    "computer_sci/data_structure_and_algorithm/graph/BFS.md",
-    "equipment_research/spectrum_analyzer.md",
-    "dota/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
