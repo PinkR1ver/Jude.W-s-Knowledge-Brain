@@ -53,3 +53,6 @@ tags:
 🎏 I also have some plans in my mind to do；
 
 * [Life List🚀](plan/life.md)
+
+☁️ I also have some daily thoughts:
+* [Logs](log/log_MOC.md)

@@ -16,5 +16,4 @@ tags:
 
 ## Log 2023.09
 
-* [Log 2023.09.11 - Get some interesting blog here](log/2023/9/log_11092023.md)
-* [Log 2023.09.18 - A Normal Learning Day](log/2023/9/log_18092023.md)
+* [Log 2023.09.27 数学建模比赛结束的第二天](log/2023/9/log_27092023.md)
