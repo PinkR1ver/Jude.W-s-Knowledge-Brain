@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "plan/life.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "plan/life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "plan/life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023/9/log_27092023.md"
+                "file": "plan/life.md"
               }
             }
           },
@@ -185,14 +185,16 @@
   },
   "active": "3919bae2170339d4",
   "lastOpenFiles": [
-    "log/log_MOC.md",
+    "_index.md",
+    "atlas.md",
+    "recent.md",
     "log/2023/9/log_27092023.md",
+    "log/log_MOC.md",
     "log/2023/7/log_03072023.md",
     "log/2023/7/log_06072023.md",
     "log/2023/7/log_01072023.md",
     "log/2023/9/log_11092023.md",
     "log/2023/9/log_18092023.md",
-    "atlas.md",
     "signal_processing/fourier_transform.md",
     "signal_processing/attachments/fourier_pairs.pdf",
     "research_career/VNA_research.md",
@@ -204,8 +206,6 @@
     "research_career/attachments",
     "plan/life.md",
     "research_career",
-    "_index.md",
-    "recent.md",
     "resume.md",
     "索菲亚一斤半..md",
     "plan/exhibition/whisky_l.md",
