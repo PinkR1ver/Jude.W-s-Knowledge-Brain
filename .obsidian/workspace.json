@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c282015001397a85",
+        "id": "eab40c9ed8740e49",
         "type": "tabs",
         "children": [
           {
-            "id": "3919bae2170339d4",
+            "id": "d06ca7578530ddf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "signal_processing/device/VNA_learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e96fe226c9c116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal_processing/basic_knowledge/smith_graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "VNA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "signal_processing/device/VNA_learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "signal_processing/device/VNA_learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023/9/log_27092023.md"
+                "file": "signal_processing/device/VNA_learn.md"
               }
             }
           },
@@ -168,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,19 +196,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3919bae2170339d4",
+  "active": "d06ca7578530ddf6",
   "lastOpenFiles": [
-    "log/log_MOC.md",
+    "signal_processing/basic_knowledge/smith_graph.md",
+    "signal_processing/device/VNA_learn.md",
+    "signal_processing/basic_knowledge/SWR.md",
+    "signal_processing/device/attachments/Pasted image 20231007162914.png",
+    "signal_processing/device/attachments/Pasted image 20231007162826.png",
+    "signal_processing/device/attachments/Pasted image 20231007162824.png",
+    "signal_processing/device/attachments/Pasted image 20231007162817.png",
+    "signal_processing/device/attachments/Pasted image 20231007162754.png",
+    "signal_processing/device/attachments",
+    "signal_processing/PSD_estimation/PSD_estimation.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/basic_knowledge/scattering_parameters.md",
+    "research_career/VNA_research.md",
+    "signal_processing/basic_knowledge/Spectral_density.md",
+    "signal_processing/device",
+    "signal_processing/basic_knowledge/random_signal_basic.md",
+    "signal_processing/basic_knowledge",
+    "signal_processing/basic_knowledge/what_is_dB.md",
+    "signal_processing/basic_knowledge/fourier_transform.md",
+    "signal_processing/PSD_estimation",
     "log/2023/9/log_27092023.md",
+    "log/log_MOC.md",
     "log/2023/7/log_03072023.md",
     "log/2023/7/log_06072023.md",
     "log/2023/7/log_01072023.md",
     "log/2023/9/log_11092023.md",
     "log/2023/9/log_18092023.md",
     "atlas.md",
-    "signal_processing/fourier_transform.md",
     "signal_processing/attachments/fourier_pairs.pdf",
-    "research_career/VNA_research.md",
     "research_career/attachments/Pasted image 20230924223700.png",
     "research_career/attachments/Pasted image 20230924223332.png",
     "research_career/attachments/Pasted image 20230924223212.png",
@@ -209,28 +240,10 @@
     "resume.md",
     "索菲亚一斤半..md",
     "plan/exhibition/whisky_l.md",
-    "plan/exhibition/attachments/1.png",
-    "plan/exhibition/attachments/]OG11]ENC[XCB@{6VUL%)6V_tmb 1.png",
-    "plan/exhibition/attachments/]OG11]ENC[XCB@{6VUL%)6V_tmb.png",
     "plan/exhibition/attachments",
     "plan/exhibition",
     "plan",
     "文学/文学_MOC.md",
-    "文学/句子/句子.md",
-    "文学/句子/Motivation.md",
-    "文学/句子/Love_about.md",
-    "signal_processing/random_signal_basic.md",
-    "signal_processing/attachments/Screenshot_from_2022-10-18_10-53-17.png",
-    "signal_processing/attachments/Pasted image 20230919153401.png",
-    "data_sci/stochastic_process/stationary_process.md",
-    "data_sci/stochastic_process/MOC.md",
-    "data_sci/basic/relationship.md",
-    "data_sci/basic/attachments/uncorrelated-vs-independent.pdf",
-    "Autocorrelation Analysis & Power Spectral Density 330755770347472989062c6b31f18a21/Screenshot_from_2022-10-18_10-53-17.png.md",
-    "signal_processing/basic_concepts_in_signal_processing.md",
-    "signal_processing/attachments",
-    "data_sci/stochastic_process",
-    "data_sci/basic/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

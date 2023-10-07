@@ -35,7 +35,7 @@ The transmitter generates successive short bursts or pulses of microwave at regu
 
 * Radar can measure *amplitude* and *phase*
 * Radar can only measure part of echoes.
-* The strength of the reflected echo is the backscattering coefficient ([sigma nought](synthetic_aperture_radar_imaging/Radiometric_Calibration.md)）and is expressed in [decibels(dB)](signal_processing/what_is_dB.md)
+* The strength of the reflected echo is the backscattering coefficient ([sigma nought](synthetic_aperture_radar_imaging/Radiometric_Calibration.md)）and is expressed in [decibels(dB)](signal_processing/basic_knowledge/what_is_dB.md)
 
 ## Radar Resolution
 
