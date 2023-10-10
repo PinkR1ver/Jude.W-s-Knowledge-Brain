@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/basic_knowledge/smith_graph.md",
+                "file": "data_sci/data_sci_MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plan/life.md",
+                "file": "data_sci/data_sci_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plan/life.md",
+                "file": "data_sci/data_sci_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plan/life.md"
+                "file": "data_sci/data_sci_MOC.md"
               }
             }
           },
@@ -196,11 +197,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d06ca7578530ddf6",
+  "active": "c0e96fe226c9c116",
   "lastOpenFiles": [
+    "data_sci/visual_style/visual_information_theory.md",
+    "data_sci/visual_style/the_economist_style.md",
+    "data_sci/visual_style/attachments/CHARTstyleguide_20170505.pdf",
+    "data_sci/visual_style/attachments",
+    "data_sci/data_sci_MOC.md",
+    "signal_processing/basic_knowledge/smith_graph.md",
+    "data_sci/visual_style",
+    "plan/life.md",
     "signal_processing/basic_knowledge/FM_vs_AM.md",
     "signal_processing/device/VNA_learn.md",
-    "signal_processing/basic_knowledge/smith_graph.md",
     "signal_processing/basic_knowledge/SWR.md",
     "signal_processing/device/attachments/Pasted image 20231007162914.png",
     "signal_processing/device/attachments/Pasted image 20231007162826.png",
@@ -234,16 +242,8 @@
     "research_career/attachments/Pasted image 20230924222536.png",
     "research_career/attachments/Pasted image 20230924222031.png",
     "research_career/attachments",
-    "plan/life.md",
     "research_career",
     "_index.md",
-    "recent.md",
-    "resume.md",
-    "索菲亚一斤半..md",
-    "plan/exhibition/whisky_l.md",
-    "plan/exhibition/attachments",
-    "plan/exhibition",
-    "plan",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
