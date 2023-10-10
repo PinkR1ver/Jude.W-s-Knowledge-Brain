@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/device/VNA_learn.md",
+                "file": "plan/life.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "signal_processing/basic_knowledge/smith_graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "plan/life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023/9/log_27092023.md",
+                "file": "plan/life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023/9/log_27092023.md"
+                "file": "plan/life.md"
               }
             }
           },
@@ -198,7 +198,27 @@
   },
   "active": "d06ca7578530ddf6",
   "lastOpenFiles": [
-    "log/log_MOC.md",
+    "signal_processing/basic_knowledge/FM_vs_AM.md",
+    "signal_processing/device/VNA_learn.md",
+    "signal_processing/basic_knowledge/smith_graph.md",
+    "signal_processing/basic_knowledge/SWR.md",
+    "signal_processing/device/attachments/Pasted image 20231007162914.png",
+    "signal_processing/device/attachments/Pasted image 20231007162826.png",
+    "signal_processing/device/attachments/Pasted image 20231007162824.png",
+    "signal_processing/device/attachments/Pasted image 20231007162817.png",
+    "signal_processing/device/attachments/Pasted image 20231007162754.png",
+    "signal_processing/device/attachments",
+    "signal_processing/PSD_estimation/PSD_estimation.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/basic_knowledge/scattering_parameters.md",
+    "research_career/VNA_research.md",
+    "signal_processing/basic_knowledge/Spectral_density.md",
+    "signal_processing/device",
+    "signal_processing/basic_knowledge/random_signal_basic.md",
+    "signal_processing/basic_knowledge",
+    "signal_processing/basic_knowledge/what_is_dB.md",
+    "signal_processing/basic_knowledge/fourier_transform.md",
+    "signal_processing/PSD_estimation",
     "log/2023/9/log_27092023.md",
     "log/log_MOC.md",
     "log/2023/7/log_03072023.md",
@@ -207,7 +227,6 @@
     "log/2023/9/log_11092023.md",
     "log/2023/9/log_18092023.md",
     "atlas.md",
-    "signal_processing/fourier_transform.md",
     "signal_processing/attachments/fourier_pairs.pdf",
     "research_career/attachments/Pasted image 20230924223700.png",
     "research_career/attachments/Pasted image 20230924223332.png",
@@ -217,13 +236,14 @@
     "research_career/attachments",
     "plan/life.md",
     "research_career",
+    "_index.md",
+    "recent.md",
     "resume.md",
     "索菲亚一斤半..md",
     "plan/exhibition/whisky_l.md",
     "plan/exhibition/attachments",
     "plan/exhibition",
     "plan",
-    "文学/文学_MOC.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
