@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_sci/data_sci_MOC.md",
+                "file": "research_career/papers_2023_10.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_sci/data_sci_MOC.md",
+                "file": "research_career/papers_2023_10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_sci/data_sci_MOC.md",
+                "file": "research_career/papers_2023_10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_sci/data_sci_MOC.md"
+                "file": "research_career/papers_2023_10.md"
               }
             }
           },
@@ -199,15 +199,29 @@
   },
   "active": "c0e96fe226c9c116",
   "lastOpenFiles": [
+    "research_career/attachments/Time Domain Analysis Using a Network Analyzer.pdf",
+    "research_career/Problem.md",
+    "plan/life.md",
+    "research_career/papers_2023_10.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/basic_knowledge/what_is_dB.md",
+    "signal_processing/basic_knowledge/FM_vs_AM.md",
+    "research_career/VNA_research.md",
+    "signal_processing/basic_knowledge/scattering_parameters.md",
+    "signal_processing/basic_knowledge/random_signal_basic.md",
+    "signal_processing/basic_knowledge/fourier_transform.md",
+    "research_career/attachments/Pasted image 20230924222536.png",
+    "research_career/attachments/Pasted image 20230924222031.png",
+    "research_career/attachments/Pasted image 20230924223212.png",
+    "research_career/attachments/Pasted image 20230924223332.png",
+    "research_career/attachments/Pasted image 20230924223700.png",
+    "data_sci/data_sci_MOC.md",
     "data_sci/visual_style/visual_information_theory.md",
     "data_sci/visual_style/the_economist_style.md",
     "data_sci/visual_style/attachments/CHARTstyleguide_20170505.pdf",
     "data_sci/visual_style/attachments",
-    "data_sci/data_sci_MOC.md",
     "signal_processing/basic_knowledge/smith_graph.md",
     "data_sci/visual_style",
-    "plan/life.md",
-    "signal_processing/basic_knowledge/FM_vs_AM.md",
     "signal_processing/device/VNA_learn.md",
     "signal_processing/basic_knowledge/SWR.md",
     "signal_processing/device/attachments/Pasted image 20231007162914.png",
@@ -217,15 +231,9 @@
     "signal_processing/device/attachments/Pasted image 20231007162754.png",
     "signal_processing/device/attachments",
     "signal_processing/PSD_estimation/PSD_estimation.md",
-    "signal_processing/signal_processing_MOC.md",
-    "signal_processing/basic_knowledge/scattering_parameters.md",
-    "research_career/VNA_research.md",
     "signal_processing/basic_knowledge/Spectral_density.md",
     "signal_processing/device",
-    "signal_processing/basic_knowledge/random_signal_basic.md",
     "signal_processing/basic_knowledge",
-    "signal_processing/basic_knowledge/what_is_dB.md",
-    "signal_processing/basic_knowledge/fourier_transform.md",
     "signal_processing/PSD_estimation",
     "log/2023/9/log_27092023.md",
     "log/log_MOC.md",
@@ -234,16 +242,9 @@
     "log/2023/7/log_01072023.md",
     "log/2023/9/log_11092023.md",
     "log/2023/9/log_18092023.md",
-    "atlas.md",
     "signal_processing/attachments/fourier_pairs.pdf",
-    "research_career/attachments/Pasted image 20230924223700.png",
-    "research_career/attachments/Pasted image 20230924223332.png",
-    "research_career/attachments/Pasted image 20230924223212.png",
-    "research_career/attachments/Pasted image 20230924222536.png",
-    "research_career/attachments/Pasted image 20230924222031.png",
     "research_career/attachments",
     "research_career",
-    "_index.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
