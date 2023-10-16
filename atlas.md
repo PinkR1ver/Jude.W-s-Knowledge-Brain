@@ -49,6 +49,7 @@ tags:
 ⭐ Here to find my recent study:
 
 * [Recent notes (this function cannot be used on web)](recent.md)
+* [Papers Recently Read](research_career/papers_read.md)
 
 🎏 I also have some plans in my mind to do；
 
