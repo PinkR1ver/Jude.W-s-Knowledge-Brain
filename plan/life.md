@@ -7,6 +7,7 @@ tags:
 # Exhibition
 
 * [Whiskey L](plan/exhibition/whisky_l.md)  —— *UnDone*
+* 平遥电影展 —— *UnDone*
 
 # Show
 
@@ -24,6 +25,7 @@ tags:
 # Book
 
 * 窄门 —— *UnRead*
+* 沧浪之水 —— *UnRead*
 
 # Cuisine
 
@@ -41,3 +43,8 @@ tags:
 * 法罗群岛
 * 京阿尼巡礼
 * 冰岛
+
+
+# Skills
+
+* 跳伞
