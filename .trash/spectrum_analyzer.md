@@ -17,7 +17,7 @@ Measure input signal power spectrum
 
 [*pdf* - Measurements of UWB through-the-wall propagation using spectrum analyzer and the Hilbert transform](https://pinktalk.online/equipment_research/attachments/mop.23107.pdf)
 
-![Architect](equipment_research/attachments/Pasted%20image%2020230918104114.png)
+![Architect](signal_processing/equipment/attachments/Pasted%20image%2020230918104114.png)
 
 
 # Reference

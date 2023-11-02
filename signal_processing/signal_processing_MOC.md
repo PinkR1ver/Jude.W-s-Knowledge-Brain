@@ -17,5 +17,5 @@ tags:
 * [FBW - Fractional Band Width](signal_processing/basic_knowledge/FBW.md)
 # Devices For Signal Processing
 
-* [✨Learn VNA in practical way](signal_processing/device/VNA_learn.md)
+* [✨Learn VNA in practical way](signal_processing/device_and_components/VNA_learn.md)
 

@@ -10,7 +10,7 @@ tags:
 
 * [[synthetic_aperture_radar_imaging/SAR_MOC| Synthetic Aperture Radar(SAR) Imaging]]
 
-* [Equipment Research MOC](equipment_research/equip_res_MOC.md)
+* [Equipment Research MOC](research_career/UWB_about/equipment_research/equip_res_MOC.md)
 
 💻 Also, his research needs some basic science to support
 

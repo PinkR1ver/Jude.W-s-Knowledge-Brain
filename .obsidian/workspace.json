@@ -8,67 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d06ca7578530ddf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a1194f8a0bdbb23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_career/papers_read/papers_2023_10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f91d4e10d9e4e03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_career/UWB_about/report/experiment_design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10b532114aa13451",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA.md",
+                "file": "signal_processing/device_and_components/SRD.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e03ef739bff5809e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_career/Problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41f482dc89430e0a",
+            "id": "2558d019b7f98fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,31 +197,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "2558d019b7f98fcd",
   "lastOpenFiles": [
+    "signal_processing/device_and_components/SRD.md",
+    "research_career/UWB_about/UWB_signal_generate.md",
+    "signal_processing/device_and_components/VNA_learn.md",
+    "signal_processing/PSD_estimation/PSD_estimation.md",
+    "research_career/papers_read/papers_2023_11.md",
+    "research_career/UWB_about/attachments/Pasted image 20231102164316.png",
+    "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA.md",
+    "signal_processing/device_and_components/attachments/Pasted image 20231102154725.png",
+    "research_career/UWB_about/report/experiment_design.md",
+    "research_career/Problem.md",
+    "signal_processing/device_and_components/op_amp.md",
+    "signal_processing/UWB_about/UWB_signal_parameters.md",
+    "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md",
+    "signal_processing/equipment/attachments/mop.23107.pdf",
+    "signal_processing/equipment/spectrum_analyzer.md",
+    "research_career/UWB_about/equipment_research/VNA/IFBW.md",
+    "research_career/UWB_about/equipment_research/equip_res_MOC.md",
+    "signal_processing/equipment",
+    "signal_processing/Untitled.md",
+    "research_career/papers_read/papers_2023_10.md",
+    "research_career/UWB_about/attachments/Pasted image 20231102151328.png",
+    "research_career/UWB_about/attachments",
     "research_career/papers_read/attachments/A917nrg0z_1r1w8w9_1oto.tmp",
     "signal_processing/UWB_about",
-    "signal_processing/Untitled.md",
-    "research_career/UWB_about/UWB_signal_generate.md",
     "research_career/papers_read.md",
-    "research_career/Problem.md",
     "research_career/VNA_research.md",
-    "research_career/papers_read/papers_2023_10.md",
-    "research_career/UWB_about/report/experiment_design.md",
-    "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA.md",
     "research_career/experiment_design_CN.md",
-    "research_career/papers_read/papers_2023_11.md",
     "research_career/papers_read/attachments/Dr._Ing. Jurgen Sachs(auth.) - Handbook of Ultra-Wideband Short-Range Sensing_ Theory, Sensors, Applications (2012).pdf",
     "research_career/papers_read/attachments",
     "research_career/UWB_about/report",
     "research_career/UWB_about",
     "research_career/papers_read/Untitled",
     "research_career/UWB.md",
-    "research_career/papers_read",
-    "research_career/attachments/Eveleigh_Eric_A_2020July_MASc.pdf",
     "atlas.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md",
-    "research_career/attachments/L-G-0000753449-0002366653.pdf",
     "computer_sci/Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/deep_learning_MOC.md",
     "research_career/attachments/Figure_3.png",
@@ -278,21 +241,10 @@
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/basic_knowledge/what_is_dB.md",
     "signal_processing/basic_knowledge/SWR.md",
-    "signal_processing/basic_knowledge/Spectral_density.md",
-    "signal_processing/basic_knowledge/smith_graph.md",
-    "signal_processing/basic_knowledge/FBW.md",
     "research_career/attachments/Figure_1 3.png",
     "research_career/attachments/Figure_1 2.png",
     "research_career/attachments/Figure_1 1.png",
     "research_career/attachments/Figure_1.png",
-    "plan/life.md",
-    "recent.md",
-    "resume.md",
-    "equipment_research/VNA/IFBW.md",
-    "equipment_research/VNA",
-    "research_career/attachments/Pasted image 20231016091540.png",
-    "research_career/attachments/Pasted image 20231016082202.png",
-    "research_career/attachments/Pasted image 20231016082022.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
