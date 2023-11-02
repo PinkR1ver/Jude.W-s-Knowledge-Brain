@@ -5,4 +5,5 @@ tags:
   - research-about
 ---
 
-* [papers_2023_10](research_career/papers_2023_10.md)
+* [Papers Read in 2023.10](research_career/papers_2023_10.md)
+* [Papers Read in 2023.11](research_career/papers_2023_11.md)

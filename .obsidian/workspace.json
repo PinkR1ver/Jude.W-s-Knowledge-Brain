@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_signal_generate.md",
+                "file": "research_career/papers_2023_11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41f482dc89430e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research_career/papers_2023_10.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_signal_generate.md",
+                "file": "research_career/papers_2023_11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_signal_generate.md",
+                "file": "research_career/papers_2023_11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_signal_generate.md"
+                "file": "research_career/papers_2023_11.md"
               }
             }
           },
@@ -199,8 +211,14 @@
   },
   "active": "3a1194f8a0bdbb23",
   "lastOpenFiles": [
-    "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md",
     "research_career/UWB_signal_generate.md",
+    "research_career/papers_2023_11.md",
+    "research_career/attachments/Eveleigh_Eric_A_2020July_MASc.pdf",
+    "research_career/papers_read.md",
+    "atlas.md",
+    "research_career/papers_2023_10.md",
+    "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md",
+    "research_career/attachments/L-G-0000753449-0002366653.pdf",
     "research_career/UWB_reflected_wave_simulation_experiment_by_VNA.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/deep_learning_MOC.md",
@@ -222,29 +240,22 @@
     "research_career/attachments/Figure_1 1.png",
     "research_career/attachments/Figure_1.png",
     "plan/life.md",
-    "research_career/papers_2023_10.md",
-    "research_career/papers_read.md",
     "recent.md",
     "resume.md",
     "equipment_research/VNA/IFBW.md",
-    "atlas.md",
     "_index.md",
     "warehouse/IELTS.md",
     "equipment_research/VNA",
     "warehouse/attachments/reading_3_4_ieltsonlinetests.com_reading_3_4.zip",
-    "computer_sci/data_structure_and_algorithm/tree/segment_tree.md",
     "research_career/attachments/Pasted image 20231016091540.png",
     "research_career/attachments/CN101267424A.pdf",
     "research_career/attachments/Pasted image 20231016082202.png",
     "research_career/attachments/Pasted image 20231016082022.png",
-    "work_note/2023_DSP_teacher/Homework_1.md",
     "work_note/2023_DSP_teacher",
     "work_note",
     "research_career/attachments/Time Domain Analysis Using a Network Analyzer.pdf",
     "data_sci/visual_style/attachments/CHARTstyleguide_20170505.pdf",
     "data_sci/visual_style/attachments",
-    "data_sci/visual_style",
-    "signal_processing/device/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
