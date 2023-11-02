@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/papers_read/papers_2023_11.md",
+                "file": "research_career/Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/papers_read/papers_2023_10.md",
+                "file": "research_career/UWB_about/UWB_signal_generate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 264.5
   },
   "right": {
     "id": "642c9a9f19010b2b",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/papers_read/papers_2023_11.md",
+                "file": "research_career/UWB_about/UWB_signal_generate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/papers_read/papers_2023_11.md",
+                "file": "research_career/UWB_about/UWB_signal_generate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/papers_read/papers_2023_11.md"
+                "file": "research_career/UWB_about/UWB_signal_generate.md"
               }
             }
           },
@@ -245,23 +245,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e03ef739bff5809e",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
-    "research_career/papers_read/attachments/Dr._Ing. Jurgen Sachs(auth.) - Handbook of Ultra-Wideband Short-Range Sensing_ Theory, Sensors, Applications (2012).pdf",
-    "research_career/papers_read/attachments",
+    "research_career/papers_read/attachments/A917nrg0z_1r1w8w9_1oto.tmp",
+    "signal_processing/UWB_about",
+    "signal_processing/Untitled.md",
     "research_career/UWB_about/UWB_signal_generate.md",
-    "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA.md",
+    "research_career/papers_read.md",
+    "research_career/Problem.md",
     "research_career/VNA_research.md",
+    "research_career/papers_read/papers_2023_10.md",
     "research_career/UWB_about/report/experiment_design.md",
+    "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA.md",
     "research_career/experiment_design_CN.md",
     "research_career/papers_read/papers_2023_11.md",
+    "research_career/papers_read/attachments/Dr._Ing. Jurgen Sachs(auth.) - Handbook of Ultra-Wideband Short-Range Sensing_ Theory, Sensors, Applications (2012).pdf",
+    "research_career/papers_read/attachments",
     "research_career/UWB_about/report",
     "research_career/UWB_about",
     "research_career/papers_read/Untitled",
     "research_career/UWB.md",
-    "research_career/papers_read/papers_2023_10.md",
     "research_career/papers_read",
-    "research_career/papers_read.md",
     "research_career/attachments/Eveleigh_Eric_A_2020July_MASc.pdf",
     "atlas.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md",
@@ -276,7 +280,6 @@
     "signal_processing/basic_knowledge/SWR.md",
     "signal_processing/basic_knowledge/Spectral_density.md",
     "signal_processing/basic_knowledge/smith_graph.md",
-    "research_career/Problem.md",
     "signal_processing/basic_knowledge/FBW.md",
     "research_career/attachments/Figure_1 3.png",
     "research_career/attachments/Figure_1 2.png",
@@ -286,11 +289,8 @@
     "recent.md",
     "resume.md",
     "equipment_research/VNA/IFBW.md",
-    "_index.md",
     "equipment_research/VNA",
-    "warehouse/attachments/reading_3_4_ieltsonlinetests.com_reading_3_4.zip",
     "research_career/attachments/Pasted image 20231016091540.png",
-    "research_career/attachments/CN101267424A.pdf",
     "research_career/attachments/Pasted image 20231016082202.png",
     "research_career/attachments/Pasted image 20231016082022.png",
     "Untitled.canvas",
