@@ -5,8 +5,53 @@ tags:
   - VNA
   - UWB
 ---
-# Experiment Equipment
 
+
+# Experiment Equipment and Simple Introduction
+
+![](research_career/UWB_about/attachments/K]Z`(EI3GBLZ2RSIL6T[2SQ_tmb.png)
+
+![](research_career/attachments/Untitled-1.png)
+
+We use VNA device, KEYSIGHT 5063A ENA, to study about the UWB signal reflection's change. We eject the frequency sweeping signal from 100kHz - 6.5GHz from VNA port 1 , and receive reflecting signal using port 2. Then, we can get scattering parameter S11 and S21. We will do analysis on this two parameter to get some corresponding conclusion.
+
+## Detailed Step
+
+
+<table align="center" style="width:100%; border:#000 solid; border-width:1px 0">
+<caption>Table. The VNA Setup for Measuring</caption>
+<thead style="border-bottom: #o80 1px solid; ">
+<tr>
+<th style="border:e">Option</th>
+<td style="border:e">Value</td>
+</tr>
+</thead>
+<tr>
+<th style="border:e">RF Power</th>
+<td style="border:e">-5dBm</td>
+<tr>
+<tr>
+<th style="border:e">IF Bandwidth</th>
+<td style="border:e">70kHz</td>
+<tr>
+<th style="border : ">Averaging</th>
+<td style="border:0">64</td>
+<tr>
+<th style="border:e">Start Frequency</th>
+<td style="border :e">100kHz</td>
+</tr>
+<tr>
+<th style="border:e">Stop Frequency</th>
+<td style="border :e">6.5GHz</td>
+</tr>
+<tr>
+<th style="border:e">Number of Frequency Points</th>
+<td style="border :e">10001</td>
+</tr>
+</table>
+
+
+We will set iron pad in different distances ahead the VNA device to get scattering parameter data.
 
 # UWB Signal Decomposition and Reconstruction by Different Frequencies
 
@@ -188,7 +233,34 @@ $$
 * $\phi_i$ represents different frequencies' signals' phase
 
 
+# Data Collection & Data Analysis
 
-# Data Analysis
+As the experiment steps say, we get S11 parameter and S21 parameter for iron pad in different distances from the VNA device. Here we can see the result.
+
+We set the distance to 5cm-30cm, with 5cm intervals. Also, we get the the data with no iron pad ahead and we called this data 'initial'. In conclusion, here's are 7 experiments' data.
+
+The S21 parameters result:
+
+![](research_career/UWB_about/attachments/Figure_1.png)
+
+![](research_career/UWB_about/attachments/Figure_2.png)
+
+
+Also, we can compare each S11 and S21 in one graph, here:
+
+![](research_career/UWB_about/attachments/Figure_1%201.png)
+
+Also, we can calculate the area under curve of S21 linear format to compare which distance iron pad set we can receive more energy from reflecting wave.
+
+![](research_career/UWB_about/attachments/Figure_1%202.png)
+
+
+We can see that when the iron pad is near the VNA, the distance heavily influences the energy of reflect wave.
+
+## Signal wave observation
+
+
+In this part, we will combine different frequencies signal to one signal in port1 and port2.
+
 
 
