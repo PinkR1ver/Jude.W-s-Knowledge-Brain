@@ -1,15 +1,13 @@
 ---
-title: How to generate UWB signal
+title: UWB reflected wave simulation experiment by VNA
 tags:
   - research-about
   - VNA
   - UWB
 ---
-
-
 # Experiment Equipment and Simple Introduction
 
-![](research_career/UWB_about/attachments/K]Z`(EI3GBLZ2RSIL6T[2SQ_tmb.png)
+![](research_career/UWB_about/attachments/exp_set.png)
 
 ![](research_career/attachments/Untitled-1.png)
 
@@ -259,8 +257,23 @@ We can see that when the iron pad is near the VNA, the distance heavily influenc
 
 ## Signal wave observation
 
+Here's three signals we can observe, like this:
 
-In this part, we will combine different frequencies signal to one signal in port1 and port2.
+![](research_career/UWB_about/attachments/signal_observation.png)
+
+* Frequency sweeping signal reconstructed to a UWB pulse
+* When signal after port1, there will be signal distortion. We can get the signal by S11 parameter.
+* The receiving signal, we can calculate and get it by S12 parameter.
+
+Here's the graph detail:
+
+![](research_career/UWB_about/attachments/eject_value.png)
+
+![](research_career/UWB_about/attachments/eject_signal_after_port.png)
+
+![](research_career/UWB_about/attachments/signal_receive.png)
 
 
+# Problem
 
+* In this report, we can see that we use VNA frequency sweeping signal to construct UWB signal to do analysis, we do not generate the UWB signal directly. Don't have a good method to generate UWB signal from VNA device.
