@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "300b6af7719e48e7",
+        "id": "eda7b7fd35cb88d5",
         "type": "tabs",
         "children": [
           {
-            "id": "2fb0966b3a5d00fa",
+            "id": "6c5cd448d2cb98c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/UWB_signal_generate.md",
+                "file": "signal_processing/impulse_generating/gaussian_impulse.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/UWB_signal_generate.md",
+                "file": "signal_processing/impulse_generating/gaussian_impulse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/UWB_signal_generate.md",
+                "file": "signal_processing/impulse_generating/gaussian_impulse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/UWB_signal_generate.md"
+                "file": "signal_processing/impulse_generating/gaussian_impulse.md"
               }
             }
           },
@@ -202,15 +202,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fb0966b3a5d00fa",
+  "active": "6c5cd448d2cb98c5",
   "lastOpenFiles": [
-    "research_career/papers_read/papers_2023_10.md",
+    "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA_adjust.md",
+    "signal_processing/impulse_generating/gaussian_impulse.md",
+    "research_career/papers_read/papers_2023_11.md",
     "research_career/papers_read.md",
+    "research_career/papers_read/papers_2023_10.md",
+    "signal_processing/UWB_about/UWB_signal_parameters.md",
+    "signal_processing/signal_processing_MOC.md",
+    "research_career/UWB_about/UWB_signal_generate.md",
+    "signal_processing/impulse_generating",
     "research_career/experiment_design_CN.md",
     "research_career/VNA_research.md",
     "Report/2023.04.16 天线测试.md",
     "research_career/UWB_about/report/experiment_design.md",
-    "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA_adjust.md",
     "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA.md",
     "research_career/UWB_about/attachments/receive 2.png",
     "research_career/UWB_about/attachments/receive 1.png",
@@ -218,7 +224,6 @@
     "research_career/UWB_about/attachments/signal_obersvation.png",
     "research_career/UWB_about/attachments/Amp_AUC.png",
     "research_career/UWB_about/attachments/微信图片_20231115140355.jpg",
-    "research_career/UWB_about/UWB_signal_generate.md",
     "research_career/UWB_about/attachments/exp_set.png",
     "research_career/UWB_about/attachments/signal_receive.png",
     "research_career/UWB_about/attachments/eject_signal_after_port.png",
@@ -228,10 +233,8 @@
     "signal_processing/device_and_components/SRD.md",
     "signal_processing/device_and_components/VNA_learn.md",
     "signal_processing/PSD_estimation/PSD_estimation.md",
-    "research_career/papers_read/papers_2023_11.md",
     "research_career/Problem.md",
     "signal_processing/device_and_components/op_amp.md",
-    "signal_processing/UWB_about/UWB_signal_parameters.md",
     "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md",
     "signal_processing/equipment/attachments/mop.23107.pdf",
     "signal_processing/equipment/spectrum_analyzer.md",
@@ -245,11 +248,8 @@
     "research_career/papers_read/attachments/Dr._Ing. Jurgen Sachs(auth.) - Handbook of Ultra-Wideband Short-Range Sensing_ Theory, Sensors, Applications (2012).pdf",
     "research_career/papers_read/attachments",
     "research_career/UWB_about/report",
-    "research_career/UWB_about",
     "research_career/UWB.md",
     "atlas.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md",
-    "computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/deep_learning_MOC.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

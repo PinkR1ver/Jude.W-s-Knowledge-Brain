@@ -19,3 +19,7 @@ tags:
 
 * [✨Learn VNA in practical way](signal_processing/device_and_components/VNA_learn.md)
 
+# Generating Impulse
+
+
+[Gaussian Impulse Generating](signal_processing/impulse_generating/gaussian_impulse.md)
