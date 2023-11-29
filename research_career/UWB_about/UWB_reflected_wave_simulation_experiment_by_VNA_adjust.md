@@ -7,9 +7,9 @@ tags:
 ---
 # Objective 
 
-1. The environment for studying UWB reflected signals is constructed based on VNA under the condition that there is no equipment for transmitting UWB signals directly.
-2. Examining whether our constructed experimental environment has the capability of range detecting based on UWB echo signals which synthesized based on linear systems.
-3. Further testing whether our experimental environment has the ability to detect material properties of substances based on UWB echo signals which synthesized based on linear systems.
+1. A VNA based experiment setup is constructed for mimicking UWB apparatus.
+2. Produce UWB signals by synthesizing waveforms with various frequencies.
+3. Validate the setup and UWB signal transmitting/receiving processes by testing the distance among the system and a moving metal obstacle.
 
 # Introduction
 
