@@ -7,7 +7,7 @@ tags:
 
 # Background
 
-About what is VNA: [VNA Research](research_career/VNA_research.md)
+About what is VNA: [VNA Research](research_career/UWB_about/report/VNA_research.md)
 
 # Step by Step Learn VNA using LiteVNA
 
