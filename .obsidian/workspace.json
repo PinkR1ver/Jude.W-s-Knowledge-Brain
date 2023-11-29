@@ -36,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c65f643b672680d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "signal_processing/impulse_generating/gaussian_impulse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

@@ -190,29 +190,29 @@ Refer to Fig 6, the area under S21 curves for estimating the energy received at 
 <tr>
 <tr>
 <th style="border:e">10cm</th>
-<td style="border:e">0.6155287</td>
+<td style="border:e">0.56055976</td>
 <tr>
 <th style="border : ">15cm</th>
-<td style="border:0">0.39567682</td>
+<td style="border:0">0.32978441</td>
 <tr>
 <th style="border:e">20cm</th>
-<td style="border :e">0.24386008</td>
+<td style="border :e">0.17302525</td>
 </tr>
 <tr>
 <th style="border:e">25cm</th>
-<td style="border :e">0.22755135</td>
+<td style="border :e">0.16454077</td>
 </tr>
 <tr>
 <th style="border:e">30cm</th>
-<td style="border :e">0.17937403</td>
+<td style="border :e">0.11857247</td>
 </tr>
 <tr>
 <th style="border:e">35cm</th>
-<td style="border :e">0.14735483</td>
+<td style="border :e">0.08575671</td>
 </tr>
 <tr>
 <th style="border:e">40cm</th>
-<td style="border :e">0.12107558</td>
+<td style="border :e">0.06632118</td>
 </tr>
 </table>
 
@@ -232,7 +232,7 @@ We can get distance from this curve function by solving this cubic equation. The
 ### Receiving Signal Observation
 
 
-![](research_career/UWB_about/attachments/receiving_signal.png)
+![](research_career/UWB_about/attachments/receiving_signal%201.png)
 <center><strong>Fig 8. Signal received for one cycle in different distance</strong></center>
 
 With the S21 parameter and the previously calculated factor, we finally calculate that the signal received by port2, at a minimum frequency of 100kHZ for one cycle. We can get this signals $peak \ peak \ value = max \ value - min \ value$, 
