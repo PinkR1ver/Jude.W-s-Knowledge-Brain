@@ -16,3 +16,7 @@ tags:
 ## Set theory
 
 * [Cantor Expansion](Math/discrete_mathematics/set_theory/cantor_expansion/cantor_expansion.md)
+
+
+# Optimization Problem
+

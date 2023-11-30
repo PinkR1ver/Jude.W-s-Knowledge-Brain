@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/句子/Feeling.md",
+                "file": "Math/optimization_problem/Quadratic_ Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/句子/Feeling.md",
+                "file": "Math/optimization_problem/Quadratic_ Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/句子/Feeling.md",
+                "file": "Math/optimization_problem/Quadratic_ Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/句子/Feeling.md"
+                "file": "Math/optimization_problem/Quadratic_ Programming.md"
               }
             }
           },
@@ -185,8 +185,12 @@
   },
   "active": "3f89c02eefe9b3f4",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Math/MOC.md",
+    "Math/optimization_problem/Quadratic_ Programming.md",
+    "Math/optimization_problem",
     "文学/句子/Feeling.md",
+    "Math/Untitled.md",
+    "Untitled.canvas",
     "文学/文学_MOC.md",
     "文学/article/article_MOC.md",
     "文学/句子/句子.md",
@@ -227,10 +231,7 @@
     "Report",
     "research_career/papers_read/papers_2023_11.md",
     "research_career/papers_read.md",
-    "research_career/papers_read/papers_2023_10.md",
-    "signal_processing/UWB_about/UWB_signal_parameters.md",
     "signal_processing/impulse_generating",
-    "research_career/UWB_about/attachments/signal_observation.tif",
     "Untitled 1.canvas"
   ]
 }
