@@ -17,7 +17,7 @@ About what is VNA: [VNA Research](research_career/UWB_about/report/VNA_research.
 
 1. Reference Calibration
 
-	基准校准是通过标准的开路、短路和负载器（Load）标准件来进行校准；因为这些标准件已经知道它们的[S参数](signal_processing/basic_knowledge/scattering_parameters.md)响应，因此可以用来校准
+	基准校准是通过标准的开路、短路和负载器（Load）标准件来进行校准；因为这些标准件已经知道它们的[S参数](signal_processing/basic_knowledge/concept/scattering_parameters.md)响应，因此可以用来校准
 
 	在LiteVNA产品中，
 	* 中间没有内针的为开路校准件  
@@ -48,7 +48,7 @@ About what is VNA: [VNA Research](research_career/UWB_about/report/VNA_research.
 
 ### Verify Calibration
 
-可以使用[Smith Graph](signal_processing/basic_knowledge/smith_graph.md)来验证我们的Calibration
+可以使用[Smith Graph](signal_processing/basic_knowledge/concept/smith_graph.md)来验证我们的Calibration
 
 开路状态下，Smith Graph的标记点应该在电阻线的最右端，表明阻抗无限大，且表现出纯电阻性
 
@@ -63,7 +63,7 @@ PORT1链接50欧姆校准件，查看史密斯图标记点应该在史密斯图�
 ![](signal_processing/device_and_components/attachments/Pasted%20image%2020231007162826.png)
 
 
-链接一根可以确认阻抗与谐振都正常的天线（可以把一根天线定位对照组并妥善保管），可以通过拨轮移动标记点至[驻波比](signal_processing/basic_knowledge/SWR.md)最低点，并同步观察该频率在史密斯图上的点是否在正中心（或者无限接近中心）。同时可以看屏幕最上面的参数，如图显示，我的这条对照天线最好的驻波比为1.021，此时对应的频率2.455GHz，史密斯图中阻抗为50.72Ω+j748mΩ
+链接一根可以确认阻抗与谐振都正常的天线（可以把一根天线定位对照组并妥善保管），可以通过拨轮移动标记点至[驻波比](signal_processing/basic_knowledge/concept/SWR.md)最低点，并同步观察该频率在史密斯图上的点是否在正中心（或者无限接近中心）。同时可以看屏幕最上面的参数，如图显示，我的这条对照天线最好的驻波比为1.021，此时对应的频率2.455GHz，史密斯图中阻抗为50.72Ω+j748mΩ
 
 ![](signal_processing/device_and_components/attachments/Pasted%20image%2020231007162914.png)
 

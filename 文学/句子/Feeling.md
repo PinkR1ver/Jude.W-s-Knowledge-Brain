@@ -21,6 +21,19 @@ tags:
 
 
 > [!quote] 
+>  From [余华](https://www.bilibili.com/video/BV15c411Q7Mb/?spm_id_from=333.999.0.0&vd_source=c47136abc78922800b17d6ce79d6e19f)
+>  
+>  “不要觉得好像我已经走头无路了，其实你可能是一种情绪走到了死胡同，而不是你的人生走进了死胡同”
+>
+>--- 
+>
+>  
+>  “命运的看法会比我们更准确”
+>  
+
+---
+
+> [!quote] 
 >  From [去看花火大会，女友说不如橘子洲头的烟花！](https://www.bilibili.com/video/BV1tu411A7jj/?spm_id_from=333.999.0.0&vd_source=c47136abc78922800b17d6ce79d6e19f)
 >  
 >  一个小小的光点迅速上升，升到了最高点，猛然绽放
