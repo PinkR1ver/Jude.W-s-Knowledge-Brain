@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "food/MOC.md",
+                "file": "atlas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "food/MOC.md",
+                "file": "atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "food/MOC.md",
+                "file": "atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "food/MOC.md"
+                "file": "atlas.md"
               }
             }
           },
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,9 +186,9 @@
   },
   "active": "3f89c02eefe9b3f4",
   "lastOpenFiles": [
-    "atlas.md",
-    "food/intro/evaluation_criteria.md",
     "food/MOC.md",
+    "food/intro/evaluation_criteria.md",
+    "atlas.md",
     "food/intro",
     "research_career/plan/Next_work_plan/2023_12.md",
     "food",
