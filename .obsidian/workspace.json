@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/optimization_problem/Quadratic_ Programming.md",
+                "file": "food/MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/optimization_problem/Quadratic_ Programming.md",
+                "file": "food/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/optimization_problem/Quadratic_ Programming.md",
+                "file": "food/MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/optimization_problem/Quadratic_ Programming.md"
+                "file": "food/MOC.md"
               }
             }
           },
@@ -185,8 +185,22 @@
   },
   "active": "3f89c02eefe9b3f4",
   "lastOpenFiles": [
+    "atlas.md",
+    "food/intro/evaluation_criteria.md",
+    "food/MOC.md",
+    "food/intro",
+    "research_career/plan/Next_work_plan/2023_12.md",
+    "food",
+    "research_career/plan/Next_work_plan/2023_12.pdf",
+    "research_career/plan/Next_work_plan",
+    "plan/exhibition/whisky_l.md",
+    "Math/optimization_problem/Quadratic_Programming.md",
+    "computer_sci/code_frame_learn/flask/MOC.md",
+    "computer_sci/code_frame_learn/MOC.md",
+    "computer_sci/code_frame_learn/flask",
+    "_index.md",
+    "computer_sci/code_frame_learn",
     "Math/MOC.md",
-    "Math/optimization_problem/Quadratic_ Programming.md",
     "Math/optimization_problem",
     "文学/句子/Feeling.md",
     "Math/Untitled.md",
@@ -204,19 +218,11 @@
     "signal_processing/basic_knowledge/Untitled.md",
     "signal_processing/Untitled.md",
     "文学/article",
-    "research_career/plan",
     "research_career/UWB_about/experiment_design.md",
     "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
     "research_career/Problem.md",
     "research_career/UWB_about/report/UWB_signal_generate.md",
-    "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA.md",
-    "research_career/UWB_about/New folder",
-    "research_career/UWB_about/Untitled",
-    "research_career/UWB_about/Untitled.md",
-    "research_career/UWB_about/UWB_reflected_wave_simulation_experiment_by_VNA_adjust.md",
     "research_career/UWB_about/attachments/receiving_signal.png",
-    "research_career/UWB_about/attachments/receiving_signal.md",
-    "signal_processing/impulse_generating/gaussian_impulse.md",
     "research_career/UWB_about/attachments/setup.png",
     "research_career/UWB_about/attachments/peak_peak.png",
     "research_career/UWB_about/attachments/receiving_signal 1.png",
@@ -226,12 +232,6 @@
     "research_career/UWB_about/attachments/S21_adjust 3.png",
     "research_career/UWB_about/attachments/S 2.png",
     "research_career/UWB_about/attachments/fit 2.png",
-    "Report/attachments",
-    "Report/2023.04.16 天线测试.md",
-    "Report",
-    "research_career/papers_read/papers_2023_11.md",
-    "research_career/papers_read.md",
-    "signal_processing/impulse_generating",
     "Untitled 1.canvas"
   ]
 }

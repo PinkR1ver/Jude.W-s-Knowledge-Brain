@@ -30,6 +30,8 @@ tags:
 
 * [Computational Geometry](computer_sci/computational_geometry/MOC.md)
 
+* [Code Framework Learn](computer_sci/code_frame_learn/MOC.md)
+
 🦺 I also need some tool to help me:
 
 * [Git](toolkit/git/git_MOC.md)
@@ -43,6 +45,8 @@ tags:
 * [📷 Photography](Photography/Photography_MOC.md)
 
 * [📮文学](文学/文学_MOC.md)
+
+* [🥐Food](food/MOC.md)
 
 * [🎬Watching List](https://pinkr1ver.notion.site/5e136466f3664ff1aaaa75b85446e5b4?v=a41efbce52a84f7aa89d8f649f4620f6&pvs=4)
 

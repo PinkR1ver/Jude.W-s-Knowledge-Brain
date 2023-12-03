@@ -16,7 +16,9 @@ tags:
 > "Programming" in this context refers to a formal procedure for solving mathematical problems. This usage dates to the 1940s and is not specifically tied to the more recent notion of "computer programming." To avoid confusion, some practitioners prefer the term "optimization" — e.g., "quadratic optimization."
 > 
 > "Programming" 在中文中的翻译可以为“规划”， “Quadratic Programming”的翻译为“二次规划”
- 
+
+> [!Summary] 
+> A Quadratic Program(QP) has a  quadratic objective function and linear constrains
 
 # Problem Formulation
 
@@ -35,6 +37,39 @@ $$
 $$
 \text{subject to} \quad A\mathup{x} \preceq b
 $$
+$$
+\mathup{x} = \begin{bmatrix}
+x_1 \\
+x_2 \\
+\vdots \\
+x_n
+\end{bmatrix}, \mathup{Q} = 
+\begin{bmatrix}
+Q_{11} & Q_{12} & \cdots & Q_{1n} \\
+\vdots & \vdots & \ddots & \vdots \\
+Q_{n1} & Q_{n2} & \cdots & Q_{nn}
+\end{bmatrix},
+\mathup{c} = \begin{bmatrix}
+c_1 \\
+c_2 \\
+\vdots \\
+c_n
+\end{bmatrix},
+\mathup{A} = 
+\begin{bmatrix}
+A_{11} & A_{12} & \cdots & A_{1m} \\
+\vdots & \vdots & \ddots & \vdots \\
+A_{n1} & A_{n2} & \cdots & A_{nm}
+\end{bmatrix},
+\mathup{b} = \begin{bmatrix}
+b_1 \\
+b_2 \\
+\vdots \\
+b_n
+\end{bmatrix}
+$$
+
+
 # Reference
 
 
