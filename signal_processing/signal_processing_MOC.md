@@ -16,7 +16,7 @@ tags:
 * [Fourier Transform](signal_processing/basic_knowledge/FT/fourier_transform.md)
 * [Fourier transform pairs and properties derivation](signal_processing/basic_knowledge/FT/fourier_transform_pairs_derivation.md)
 
-# Devices
+# Devices and Components
 
 * [✨Learn VNA in practical way](signal_processing/device_and_components/VNA_learn.md)
 * [Cable](signal_processing/device_and_components/cable.md)

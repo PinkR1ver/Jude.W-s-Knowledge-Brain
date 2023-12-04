@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "文学/句子/Novel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "687aaf2181d7fa52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal_processing/device_and_components/cable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "signal_processing/device_and_components/cable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "signal_processing/device_and_components/cable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md"
+                "file": "signal_processing/device_and_components/cable.md"
               }
             }
           },
@@ -183,17 +196,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f89c02eefe9b3f4",
+  "active": "687aaf2181d7fa52",
   "lastOpenFiles": [
-    "atlas.md",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204165012.png",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204163255.png",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204163238.png",
+    "signal_processing/device_and_components/skin_effect.md",
+    "文学/句子/Novel.md",
     "signal_processing/device_and_components/cable.md",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204160640.png",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204160536.png",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204154015.png",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204153959.png",
+    "signal_processing/signal_processing_MOC.md",
+    "文学/文学_MOC.md",
+    "atlas.md",
     "signal_processing/device_and_components/attachments/Pasted image 20231204130617.png",
     "signal_processing/device_and_components/attachments/Pasted image 20231204130544.png",
     "signal_processing/device_and_components/attachments/Pasted image 20231204114312.png",
     "signal_processing/device_and_components/attachments/Pasted image 20231204114304.png",
-    "signal_processing/device_and_components/attachments/Pasted image 20231204113603.png",
-    "signal_processing/device_and_components/attachments/Pasted image 20231204112611.png",
-    "signal_processing/device_and_components/attachments/Pasted image 20231204110242.png",
     "signal_processing/device_and_components/VNA_learn.md",
     "文学/句子/Wisdom.md",
     "文学/句子/Comments.md",
@@ -202,7 +223,6 @@
     "文学/句子/Motivation.md",
     "文学/句子/Movie.md",
     "文学/句子/Music.md",
-    "文学/句子/Novel.md",
     "文学/句子/Poem.md",
     "food/MOC.md",
     "food/intro/evaluation_criteria.md",
@@ -222,15 +242,9 @@
     "Math/optimization_problem",
     "Math/Untitled.md",
     "Untitled.canvas",
-    "文学/文学_MOC.md",
-    "文学/article/article_MOC.md",
-    "文学/句子/句子.md",
     "signal_processing/basic_knowledge/concept",
     "signal_processing/basic_knowledge/FT",
     "文学/article",
-    "research_career/UWB_about/attachments/receiving_signal.png",
-    "research_career/UWB_about/attachments/setup.png",
-    "research_career/UWB_about/attachments/peak_peak.png",
     "Untitled 1.canvas"
   ]
 }
