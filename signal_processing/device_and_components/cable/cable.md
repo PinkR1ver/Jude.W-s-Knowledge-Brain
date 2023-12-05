@@ -99,7 +99,7 @@ Chinese translation: 实心导体和绞合导体
 > [!hint] 
 >  根据前哥说的趋肤效应([Skin effect](https://zh.wikipedia.org/wiki/%E9%9B%86%E8%86%9A%E6%95%88%E6%87%89))，高频信号的电子喜欢在金属表面移动，因此实心导体可能已经被淘汰了。
 >  
->  [skin effect note](signal_processing/device_and_components/skin_effect.md)
+>  [skin effect note](signal_processing/device_and_components/cable/skin_effect.md)
 
 ### Stranded Constructions
 
@@ -237,20 +237,56 @@ In a rope lay construction, the stranded conductors or strands are arranged in a
 
 # Letters on Cable
 
-## Learn by Example
-
-SJOOW:
-
-* S - Service, the cable is rated to 600 volts
-* J - Junior, the cable is rated to 300 volts
-* O - Oil Resistant Jacket
-* OO - Oil Resistant Jacket & Oil Resistant Insulation
-* W - Weather and Water resistance
-
 ![](signal_processing/device_and_components/attachments/Pasted%20image%2020231204160640.png)
+
+## Size
+
+* AWG - [American Wire Gauge](signal_processing/device_and_components/cable/AWG.md)
+* $mm^2$ - Square millimeters
+* MCM - Thousand Circular Mils
+* KCMil - Thousand Circular Mils
+
+1MCM = 1KCMil = 0.5067 $mm^2$
+
+## Insulation type and application
 
 * T - Thermoplastic 
 * E - Elastomer
+* R - Rubber
+* H - Temperature resistance of 75$\degree \text{C}$
+* HH - Heat resistance of 90$\degree\text{C}$
+* N - Nylon covered
+* O - Oil Resistant Jacket
+* OO - Oil Resistant Jacket & Oil Resistant Insulation
+* W - Weather and Water resistance, -60$\degree\text{C}$
+* PV - Photovoltaic / Solar power cable, temperature resistance of 105$\degree\text{C}$
+* XLPE - Cross-linked polyethylene, for medium and high voltage purpose (600V - 11kV above)
+* MI - Mineral Insulated, fire retardant
+
+## Rated Voltages
+
+* S - Service, the cable is rated to 600 volts
+* J - Junior, the cable is rated to 300 volts
+* Number
+
+## Quality Control Certified
+
+* [UL, TUV, ISO ... ...](signal_processing/device_and_components/quality_control_certified/qcc.md)
+
+# Cable Properties - Especially for RF circuit
+
+## Intro
+
+**RF cables are an often overlooked part of the whole RF setup**, so you've got your right kit you've got your right frequencies, you've tuned it up all good you placed your antennas in the right place, but it's very very very easy to shoot yourself in the foot by selecting the wrong antenna cables.
+
+RF cables are quite different to audio cables. As in audio cables we can run cables for a long long long distance without actually inducing much loss. At all RF cables are relatively lossy by comparison the amount of loss you get inside of a cable will be dependent on three different things.
+
+* Quality of the cable
+* Frequency you're currently trying to transmit
+* The length of the cable
+
+RF circuits need to consider impedance matching, and the most likely to fluctuate in impedance is the cable. So the antenna cable we used for our radio systems is usually **[coax cable](signal_processing/device_and_components/cable/coax_cable.md) with a nice BNC connector**.
+
 
 
 # Reference
@@ -258,3 +294,7 @@ SJOOW:
 * [_Cable Basics 101: Conductors - Brought to You by Allied Wire & Cable_. _www.youtube.com_, https://www.youtube.com/watch?v=gtAaZ2hFYTA. Accessed 4 Dec. 2023.](https://www.youtube.com/watch?v=gtAaZ2hFYTA)
 * [_Cable Construction | Design & Technology | Atlas Cables_. https://www.atlascables.com/design-construction.html. Accessed 4 Dec. 2023.](https://www.atlascables.com/design-construction.html)
 * [“集膚效應.” 维基百科，自由的百科全书, 21 Aug. 2022. _Wikipedia_, https://zh.wikipedia.org/w/index.php?title=%E9%9B%86%E8%86%9A%E6%95%88%E6%87%89&oldid=73309042.](https://zh.wikipedia.org/wiki/%E9%9B%86%E8%86%9A%E6%95%88%E6%87%89)
+* [_Cable Properties - CompTIA Network+ N10-004: 2.1_. _www.youtube.com_, https://www.youtube.com/watch?v=2DLwqWDg2uw. Accessed 5 Dec. 2023.](https://www.youtube.com/watch?v=2DLwqWDg2uw)
+* [_How to Read Wire and Cable Markings._ _www.youtube.com_, https://www.youtube.com/watch?v=O1iooveG3-4. Accessed 5 Dec. 2023.](https://www.youtube.com/watch?v=O1iooveG3-4)
+* [_Understanding RF Cables_. _www.youtube.com_, https://www.youtube.com/watch?v=y2kroLxp3ZQ. Accessed 5 Dec. 2023.](https://www.youtube.com/watch?v=y2kroLxp3ZQ)
+* [_Coaxial Cable - Lesson 2_. _www.youtube.com_, https://www.youtube.com/watch?v=HD5ODAdl1Ow. Accessed 5 Dec. 2023.](https://www.youtube.com/watch?v=HD5ODAdl1Ow)
