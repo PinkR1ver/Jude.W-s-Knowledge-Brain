@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cfbc9842c6558fef",
+        "id": "376643da224bbfe6",
         "type": "tabs",
         "children": [
           {
-            "id": "f472fa9e7f160409",
+            "id": "a895fb66d2d81bdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/radio_communication/Near_far_field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f17e37f9d72f2abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "signal_processing/device_and_components/cable/cable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "087083a1e069b056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "signal_processing/device_and_components/cable/coax_cable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a506aed5e963f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "signal_processing/device_and_components/cable/coax_cable_imbalance.md",
-                "mode": "source",
+                "file": "文学/句子/Poem.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/device_and_components/cable/coax_cable_imbalance.md",
+                "file": "文学/句子/Poem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/device_and_components/cable/coax_cable_imbalance.md",
+                "file": "文学/句子/Poem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/device_and_components/cable/coax_cable_imbalance.md"
+                "file": "文学/句子/Poem.md"
               }
             }
           },
@@ -193,7 +156,7 @@
             }
           },
           {
-            "id": "2d7728a904d173de",
+            "id": "f6c77e4011f6c824",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -205,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,11 +183,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29a506aed5e963f0",
+  "active": "a895fb66d2d81bdb",
   "lastOpenFiles": [
+    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+    "文学/句子/Poem.md",
+    "文学/句子/Wisdom.md",
+    "research_career/UWB_about/report/VNA_based_UWB_echo_signal_experiment2.md",
+    "research_career/UWB_about/report/UWB_signal_generate.md",
+    "research_career/UWB_about/report/Untitled.md",
     "signal_processing/device_and_components/cable/cable.md",
-    "signal_processing/device_and_components/cable/coax_cable_imbalance.md",
     "signal_processing/device_and_components/cable/coax_cable.md",
+    "resume.md",
+    "signal_processing/device_and_components/cable/coax_cable_imbalance.md",
     "signal_processing/radio_communication/Near_far_field.md",
     "文学/句子/Novel.md",
     "signal_processing/signal_processing_MOC.md",
@@ -249,24 +219,17 @@
     "signal_processing/device_and_components/attachments/Pasted image 20231204130617.png",
     "signal_processing/device_and_components/attachments/Pasted image 20231204130544.png",
     "signal_processing/device_and_components/VNA_learn.md",
-    "文学/句子/Wisdom.md",
     "文学/句子/Comments.md",
     "文学/句子/Feeling.md",
     "文学/句子/Love_about.md",
     "文学/句子/Motivation.md",
     "文学/句子/Movie.md",
     "文学/句子/Music.md",
-    "文学/句子/Poem.md",
     "food/MOC.md",
-    "food/intro/evaluation_criteria.md",
     "food/intro",
-    "research_career/plan/Next_work_plan/2023_12.md",
     "food",
     "research_career/plan/Next_work_plan/2023_12.pdf",
     "research_career/plan/Next_work_plan",
-    "plan/exhibition/whisky_l.md",
-    "Math/optimization_problem/Quadratic_Programming.md",
-    "computer_sci/code_frame_learn/flask/MOC.md",
     "computer_sci/code_frame_learn/flask",
     "computer_sci/code_frame_learn",
     "Untitled 1.canvas"

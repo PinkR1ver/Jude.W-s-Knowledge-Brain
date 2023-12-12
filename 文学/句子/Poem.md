@@ -18,6 +18,29 @@ tags:
     }
   </style>
 
+
+> [!quote] 
+> 李白《清平乐》<br>
+> 画堂晨起，来报雪花坠。高卷帘栊看佳瑞，皓色远迷庭砌。  <br>
+> 盛气光引炉烟，素草寒生玉佩。**应是天仙狂醉，乱把白云揉碎**。<br>
+> <p style="text-align:right">——李白《清平乐》<p> 
+
+--- 
+
+> [!quote] 
+> 顾城《还记得那条河吗》<br>
+>  我不会画画，<br>
+>  我只会再雪地上写信，<br>
+>  写下你想知道的一切。<br>
+>  来吧，<br>
+>  要不晚了，信会化的。<br>
+>  
+>  <p style="text-align:right">——顾城《还记得那条河吗》</p>
+
+
+---
+
+
 > [!quote] 
 > [A poem](https://www.bilibili.com/video/BV1V24y1x7Nh/?buvid=YF4AFCFA7E0887094E329B9A6FADF98BF343&is_story_h5=false&mid=B1quk6Mlu6tnRY8zjwxWeg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=4AD8E5F4-D617-499B-9C19-D5897A7EB825&share_source=QQ&share_tag=s_i&timestamp=1679378304&unique_k=tXa4xdJ&up_id=315154029&vd_source=c47136abc78922800b17d6ce79d6e19f) <br>
 > “至少有两次喜欢<br>

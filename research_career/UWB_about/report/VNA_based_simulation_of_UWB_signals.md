@@ -148,7 +148,7 @@ $$
 
 1. Start the VNA device.
 2. Set up the VNA measurement parameters.
-3. Set the metal plate at different distances from VNA, which are 5cm,10cm,15cm,20cm,25cm,30cm and ![](file:///C:/Users/BME51/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png), which means no reflection.
+3. Set the metal plate at different distances from VNA, which are 5cm,10cm,15cm,20cm,25cm,30cm and , which means no reflection.
 4. Get S11 and S21 scattering parameter from the metal plate at different distances from VNA.
 5. Analyze raw data - scattering parameter.
 
