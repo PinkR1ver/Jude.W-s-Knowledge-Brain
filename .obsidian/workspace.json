@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/report/flight_time_calculation.md",
+                "file": "data_sci/visualization/visual_tool/Tableau/tableau_learn_basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/report/flight_time_calculation.md",
+                "file": "data_sci/visualization/visual_tool/Tableau/tableau_learn_basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/report/flight_time_calculation.md",
+                "file": "data_sci/visualization/visual_tool/Tableau/tableau_learn_basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/report/flight_time_calculation.md"
+                "file": "data_sci/visualization/visual_tool/Tableau/tableau_learn_basic.md"
               }
             }
           },
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,12 +185,17 @@
   },
   "active": "a895fb66d2d81bdb",
   "lastOpenFiles": [
+    "data_sci/data_sci_MOC.md",
+    "data_sci/visualization/visual_tool/Tableau/tableau_learn_basic.md",
+    "data_sci/visualization/visual_tool/Tableau",
+    "data_sci/visualization/visual_tool",
+    "research_career/UWB_about/report/flight_time_calculation.md",
+    "data_sci/visualization",
     "research_career/UWB_about/report/attachments/Figure_1 7.png",
     "research_career/UWB_about/report/attachments/Figure_1 6.png",
     "research_career/UWB_about/report/attachments/Figure_1 5.png",
     "research_career/UWB_about/report/attachments/Figure_1 4.png",
     "research_career/UWB_about/report/UWB_signal_generate.md",
-    "research_career/UWB_about/report/flight_time_calculation.md",
     "research_career/UWB_about/report/attachments/Figure_1 3.png",
     "research_career/UWB_about/report/attachments/Figure_1 2.png",
     "research_career/UWB_about/report/attachments/Figure_1 1.png",
@@ -221,17 +226,12 @@
     "signal_processing/device_and_components/quality_control_certified",
     "signal_processing/device_and_components/cable",
     "signal_processing/device_and_components/attachments/Pasted image 20231204165012.png",
-    "signal_processing/device_and_components/attachments/Pasted image 20231204163255.png",
     "文学/文学_MOC.md",
     "atlas.md",
     "signal_processing/device_and_components/VNA_learn.md",
     "文学/句子/Comments.md",
     "文学/句子/Feeling.md",
     "文学/句子/Love_about.md",
-    "文学/句子/Motivation.md",
-    "food/intro",
-    "food",
-    "research_career/plan/Next_work_plan/2023_12.pdf",
     "Untitled 1.canvas"
   ]
 }

@@ -13,4 +13,11 @@ tags:
 
 # Data visualization
 
-* [The economist style graph](data_sci/visual_style/the_economist_style.md)
+## Visualization Style
+
+* [The economist style graph](data_sci/visualization/visual_style/the_economist_style.md)
+
+## Visualization Tool
+
+
+
