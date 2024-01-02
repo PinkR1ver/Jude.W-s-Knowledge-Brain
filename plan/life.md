@@ -6,33 +6,35 @@ tags:
 
 # Exhibition
 
-* [Whiskey L](plan/exhibition/whisky_l.md)  —— *UnDone*
-* 平遥电影展 —— *UnDone*
+* [Whiskey L](plan/exhibition/whisky_l.md)
+* 平遥电影展
 
 # Show
 
-* CS major —— *Undone*
-* Ti —— *Undone*
-* VCT —— *Undone*
+* CS major
+* Ti
+* VCT
+* 昨日的美食 第二季
 # Film
 
-* 燃烧 —— *UnWatch*
-* 偶然と想像 —— *UnWatch*
-* 激乐人心 —— *UnWatch*
-* 盲井 —— *UnWatch*
-* 昆池岩 —— *UnWatch*
-* 玻尔 Pearl —— *UnWatch*
+* 燃烧
+* 偶然と想像
+* 激乐人心
+* 盲井
+* ~~~昆池岩~~~
+* 玻尔 Pearl
 
 # Book
 
-* 窄门 —— *UnRead*
-* 沧浪之水 —— *UnRead*
+* 窄门
+* 沧浪之水
+* 跃动青春
 
 # Cuisine
 
 ## 天津
 
-奶爆两样
+* 奶爆两样
 
 ## 台州
 
@@ -49,3 +51,8 @@ tags:
 # Skills
 
 * 跳伞
+
+
+# Games
+
+* Using Hitbox play Street Fighter
