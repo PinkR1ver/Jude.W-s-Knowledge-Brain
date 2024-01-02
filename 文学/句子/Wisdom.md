@@ -20,6 +20,15 @@ tags:
 
 
 > [!quote] 
+> From  [每天看几小时烂片，坚持二十多年了，是什么体验？【影评人毛尖】](https://www.bilibili.com/video/BV1tC4y1T7d3/?spm_id_from=333.999.0.0&vd_source=c47136abc78922800b17d6ce79d6e19f)
+> 
+> 影视剧就是全中国最封建的地方，永远是按地位按财产来分配颜值，按颜值来分配道德和未来。
+
+
+--- 
+
+
+> [!quote] 
 >  From [在 Google 工作能学到哪些不一样的东西？](https://www.zhihu.com/question/50267957/answer/120396958)
 >  
 > ... ...
