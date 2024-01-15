@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+                "file": "signal_processing/basic_knowledge/stability_of_discrete_system.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+                "file": "signal_processing/basic_knowledge/stability_of_discrete_system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+                "file": "signal_processing/basic_knowledge/stability_of_discrete_system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md"
+                "file": "signal_processing/basic_knowledge/stability_of_discrete_system.md"
               }
             }
           },
@@ -199,6 +199,10 @@
   },
   "active": "18adfcbb7776d6d0",
   "lastOpenFiles": [
+    "signal_processing/basic_knowledge/attachments/Pasted image 20240115112204.png",
+    "signal_processing/basic_knowledge/attachments",
+    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+    "signal_processing/basic_knowledge/stability_of_discrete_system.md",
     "research_career/UWB_about/report/UWB_signal_generate.md",
     "signal_processing/filter/chebyshev_filter.md",
     "signal_processing/signal_processing_MOC.md",
@@ -231,11 +235,9 @@
     "data_sci/visualization/visual_tool",
     "research_career/UWB_about/report/flight_time_calculation.md",
     "data_sci/visualization",
-    "research_career/UWB_about/report/attachments",
     "signal_processing/device_and_components/feeding_tech/feeding_tech.md",
     "research_career/UWB_about/flight_time/flight_time_solution.md",
     "文学/句子/Poem.md",
-    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
     "research_career/UWB_about/report/VNA_based_UWB_echo_signal_experiment2.md",
     "signal_processing/device_and_components/cable/cable.md",
     "signal_processing/device_and_components/cable/coax_cable.md",
@@ -243,7 +245,6 @@
     "signal_processing/device_and_components/cable/coax_cable_imbalance.md",
     "signal_processing/radio_communication/Near_far_field.md",
     "文学/句子/Novel.md",
-    "signal_processing/device_and_components/cable/AWG.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
