@@ -6,7 +6,7 @@ tags:
 
 # Background
 
-* [Decision Tree](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/Decision_Tree.md)
+* [Decision Tree](computer_sci/deep_learning_and_machine_learning/deep_learning/Decision_Tree.md)
 
 # Detail
 

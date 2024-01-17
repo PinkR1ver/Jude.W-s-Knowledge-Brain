@@ -34,7 +34,7 @@ Agents allow LLMs to interact with it's environment. -  For instance, make API r
 
 # LangChain Framework
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/LLM/langchain/attachments/Pasted%20image%2020230627154149.png)
+![](computer_sci/deep_learning_and_machine_learning/LLM/langchain/attachments/Pasted%20image%2020230627154149.png)
 
 
 

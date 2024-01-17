@@ -4,4 +4,4 @@ tags:
   - MOC
   - machine-learning
 ---
-* [SVM](computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/SVM.md)
+* [SVM](computer_sci/deep_learning_and_machine_learning/machine_learning/SVM.md)

@@ -6,7 +6,7 @@ tags:
 - time-series-dealing
 ---
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230526162839.png)
+![](computer_sci/deep_learning_and_machine_learning/Evaluation/attachments/Pasted%20image%2020230526162839.png)
 
 # Some famous time series scoring technics
 
@@ -61,13 +61,13 @@ AIC衡量信息的损失并**对模型的复杂性进行惩罚**。它是*参数
 
 *由于误差在求平均之前被平方，RMSE对大误差给予相对较高的权重*。这意味着在特别不希望出现大误差的情况下，RMSE应该更有用；而在MAE的平均值中，这些大误差将被稀释，
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230526161422.png)
+![](computer_sci/deep_learning_and_machine_learning/Evaluation/attachments/Pasted%20image%2020230526161422.png)
 
 AIC the lower is better，但没有perfect score，只能用来相同dataset下不同model的性能
 
 ## Mean Forecast Accuracy
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230526162035.png)
+![](computer_sci/deep_learning_and_machine_learning/Evaluation/attachments/Pasted%20image%2020230526162035.png)
 
 计算每个点的Forecast Accuracy，然后求平均，得到 Mean Forecast Accuracy
 
@@ -86,22 +86,22 @@ RdR metric stands for:
 
 ### DTW to deal with shape similarity
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230526163614.png)
+![](computer_sci/deep_learning_and_machine_learning/Evaluation/attachments/Pasted%20image%2020230526163614.png)
 
 RMSE、MAE这些指标都没有考虑到一个重要的标准：**THE SHAPE SIMILARITY**
 
-RdR Score Benchmark使用 [**Dynamic Time Warping(DTW，动态时间调整)** ](computer_sci/Deep_Learning_And_Machine_Learning/Trick/DTW.md)作为shape similarity的指标
+RdR Score Benchmark使用 [**Dynamic Time Warping(DTW，动态时间调整)** ](computer_sci/deep_learning_and_machine_learning/Trick/DTW.md)作为shape similarity的指标
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230526164106.png)
+![](computer_sci/deep_learning_and_machine_learning/Evaluation/attachments/Pasted%20image%2020230526164106.png)
 欧氏距离在时间序列之间可能是一个不好的选择，因为时间轴上存在扭曲的情况。
 
 * DTW：通过“同步”/“对齐”时间轴上的不同信号，找到两个时间序列之间的最佳（最小距离）扭曲路径
 
 ### RdR score means
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230529130501.png)
+![](computer_sci/deep_learning_and_machine_learning/Evaluation/attachments/Pasted%20image%2020230529130501.png)
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230529130509.png)
+![](computer_sci/deep_learning_and_machine_learning/Evaluation/attachments/Pasted%20image%2020230529130509.png)
 
 *RdR score*通过RMSE和DTW distance来计算，用于比较你的model和Radnom Walk(*Random Walk的RdR score = 0*)相比的优越性
 
@@ -109,7 +109,7 @@ RdR Score Benchmark使用 [**Dynamic Time Warping(DTW，动态时间调整)** ](
 
 可以通过绘制 RMSE vs. DTW来计算RdR score，绘制的图如下所示：
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Evaluation/attachments/Pasted%20image%2020230529130856.png)
+![](computer_sci/deep_learning_and_machine_learning/Evaluation/attachments/Pasted%20image%2020230529130856.png)
 
 
 计算矩阵面积来计算RdR score，（文章里并没有完整介绍计算，在[github code](https://github.com/CoteDave/blog/tree/master/RdR%20score)里有，并不确定）

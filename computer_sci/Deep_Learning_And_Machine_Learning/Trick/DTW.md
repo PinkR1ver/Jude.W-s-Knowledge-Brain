@@ -6,7 +6,7 @@ tags:
 - evalution
 ---
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted%20image%2020230526164724.png)
+![](computer_sci/deep_learning_and_machine_learning/Trick/attachments/Pasted%20image%2020230526164724.png)
 
 欧氏距离在时间序列之间可能是一个不好的选择，因为时间轴上存在扭曲的情况。DTW 是一个考虑到这种扭曲的，测量距离来比较两个时间序列的一个指标，本section讲解如何计算 DTW distance
 
@@ -44,13 +44,13 @@ $$
 
 # Example
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted%20image%2020230526170120.png)
+![](computer_sci/deep_learning_and_machine_learning/Trick/attachments/Pasted%20image%2020230526170120.png)
 
 左边是距离矩阵，右边是DTW矩阵，也就是累积距离矩阵
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted%20image%2020230526170921.png)
+![](computer_sci/deep_learning_and_machine_learning/Trick/attachments/Pasted%20image%2020230526170921.png)
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Trick/attachments/Pasted%20image%2020230526171119.png)
+![](computer_sci/deep_learning_and_machine_learning/Trick/attachments/Pasted%20image%2020230526171119.png)
 
 通过回溯，找到optimal warping path，DTW distance就是 the optimal warping path的square root，本例中就是$\sqrt{15}$
 

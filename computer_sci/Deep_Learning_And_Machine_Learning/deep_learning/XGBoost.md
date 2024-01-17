@@ -10,7 +10,7 @@ XGBoost is an open-source software library that implements optimized distributed
 
 # What you need to know first
 
-* [🚧🚧AdaBoost](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/AdaBoost.md)
+* [🚧🚧AdaBoost](computer_sci/deep_learning_and_machine_learning/deep_learning/AdaBoost.md)
 
 # What is XGBoost
 
@@ -36,7 +36,7 @@ Key to the method is the manner in which each sample of the dataset is prepared 
 
 Bagging adopts the **bootstrap distribution** for generating **different base learners**. In other words, it applies **bootstrap sampling** to obtain the data subsets for training the base learners.
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Untitled.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Untitled.png)
 
 <aside>
 💡 **Bootstrap Sampling
@@ -65,7 +65,7 @@ Stacking has its own nomenclature where ensemble members are referred to as **le
 
 The two-level hierarchy of models is the most common approach, although more layers of models can be used. For example, instead of a single level-1 model, we might have 3 or 5 level-1 models and a single level-2 model that combines the predictions of level-1 models in order to make a prediction.
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Untitled%201.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Untitled%201.png)
 
 Key words of stacknig method:
 
@@ -86,7 +86,7 @@ This typically involves the use of very simple decision trees that only make a s
 
 Typically, the training **dataset is left unchanged** and instead, the learning algorithm is modified to **pay more or less attention to specific samples based on whether they have been predicted correctly or incorrectly** by previously added ensemble members. 
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Untitled%202.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Untitled%202.png)
 
 Key words to boosting method:
 
@@ -94,7 +94,7 @@ Key words to boosting method:
 - **Iteratively add ensemble members to correct predictions of prior models**
 - Combine predictions **using a weighted average** of models
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Untitled%203.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Untitled%203.png)
 
 Type of boosting:
 
@@ -118,7 +118,7 @@ You can use AdaBoost with many predictors, and it is typically not as sensitive 
 
 Gradient Boosting (GB) is similar to AdaBoost in that it, too, is a **sequential training technique**. The difference between AdaBoost and GB is that GB does not give incorrectly classified items more weight. Instead, GB software **optimizes the loss function by generating base learners sequentially** so that **the present base learner is always more effective than the previous one**. This method **attempts to generate accurate results initially instead of correcting errors throughout the process**, like AdaBoost. For this reason, GB software can lead to more accurate results. Gradient Boosting can help with both classification and regression-based problems.
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Untitled%204.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Untitled%204.png)
 
 ## Extreme gradient boosting
 

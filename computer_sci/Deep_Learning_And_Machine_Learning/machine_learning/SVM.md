@@ -7,7 +7,7 @@ date: 14-04-2023
 
 # Overview
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/machine_learning/attachments/Pasted%20image%2020230904225904.png)
+![](computer_sci/deep_learning_and_machine_learning/machine_learning/attachments/Pasted%20image%2020230904225904.png)
 
 # Hyper Parameters
 

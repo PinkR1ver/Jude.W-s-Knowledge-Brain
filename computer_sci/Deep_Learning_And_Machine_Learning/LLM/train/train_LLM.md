@@ -19,7 +19,7 @@ There are something you need take into consideration when train a tokenizer
 
 ## Tokenization
 
-You can read more detailed post - [Tokenization](computer_sci/Deep_Learning_And_Machine_Learning/NLP/basic/tokenization.md)
+You can read more detailed post - [Tokenization](computer_sci/deep_learning_and_machine_learning/NLP/basic/tokenization.md)
 
 Tokenization is the process of **breaking text into words of sentences**. These tokens helps machine to learn context of the text. This helps in *interpreting the meaning behind the text*. Hence, tokenization is *the first and foremost process while working on the text*. Once the tokenization is performed on the corpus, the resulted tokens can be used to prepare vocabulary which can be used for further steps to train the model.
 
@@ -97,7 +97,7 @@ Different designed models usually have different training methods. Here we take 
 
 ### BERT-Like model
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/LLM/train/attachments/Pasted%20image%2020230629104307.png)
+![](computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted%20image%2020230629104307.png)
 
 To train BERT-Like model, we'll train it on a task of **Masked Language Modeling**(MLM), i.e. the predict how to fill arbitrary tokens that we randomly mask in the dataset.
 
@@ -111,7 +111,7 @@ With NSP training, BERT will have better performance.
 | Without NSP | 83.9 | 84.9 | 86.5 | 92.6 | 87.9 |
 
 [Table source](https://arxiv.org/pdf/1810.04805.pdf)
-[Table metrics explain](computer_sci/Deep_Learning_And_Machine_Learning/LLM/metircs/some_task.md)
+[Table metrics explain](computer_sci/deep_learning_and_machine_learning/LLM/metircs/some_task.md)
 
 
 # Check LM actually trained

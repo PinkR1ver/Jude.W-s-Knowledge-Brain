@@ -29,19 +29,19 @@ LSTM通过使用一种称为门控机制的技术，有效地解决了这个问�
 
 传统RNN网络：
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522161052.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522161052.png)
 
 
 LSTM模块：
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522161520.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522161520.png)
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522161546.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522161546.png)
 
 ## Core idea
 
 LSTM的core idea是cell state, cell state可以被视为一个横贯整个LSTM网络的内部记忆。它类似于传统RNN中的隐藏状态，但相比之下，cell state的设计更加精细，使得LSTM能够更好地捕捉长期依赖关系。
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522162225.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522162225.png)
 
 cell state的更新是通过门控单元来控制的。在LSTM中，输入门、遗忘门和输出门共同决定了如何更新细胞状态。
 
@@ -52,7 +52,7 @@ cell state的更新是通过门控单元来控制的。在LSTM中，输入门、
 
 LSTM第一步是throw away information，通过遗忘门(forget gate layer)。
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522162536.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522162536.png)
 
 forget gate layer 通过输入$x_t$和$h_{t-1}$，计算出$f_t$，$f_t$范围在（0，1），这个$f_t$会去乘以cell state $C_{t-1}$。1代表着“completely keep”，0代表着“completely get rid of this”
 
@@ -62,13 +62,13 @@ forget gate layer 通过输入$x_t$和$h_{t-1}$，计算出$f_t$，$f_t$范围�
 
 LSTM第二步在于决定哪些信息要被store在cell state里，这里有两个部分，第一个部分是通过"input gate layer"（输入门），计算$i_t$。第二个部分通过一个tanh layer来计算新候选值的向量 $\tilde{C}_t$。这两个部分将会用来update information in cell state
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522163353.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522163353.png)
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522164237.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522164237.png)
 
 ### Step 3 - Decide output
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522164609.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522164609.png)
 
 最终的输出回事一个filtered version of cell state，计算如上图。
 
@@ -79,7 +79,7 @@ LSTM有很多变种，这里有列出来一些
 ## Adding "peephole connections"  
 
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522165117.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522165117.png)
 
 在gate layer的输入中加入cell state，你可以选择在这三个门里的某些加入“peephole connection”（窥视孔连接），某些不加入。
 
@@ -87,21 +87,21 @@ LSTM有很多变种，这里有列出来一些
 
 ## Use coupled forget and input gates
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522170059.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522170059.png)
 
 
 ## GRU (Gated Recurrent Unit) ⭐⭐⭐
 
-* [GRU](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/GRU.md)
+* [GRU](computer_sci/deep_learning_and_machine_learning/deep_learning/GRU.md)
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230522170214.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230522170214.png)
 
 GRU是著名的LSTM变种，值得另起炉灶介绍
 
 
 # Demo code & Pytorch version LSTM graph explain
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/attachments/Pasted%20image%2020230523164806.png)
+![](computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted%20image%2020230523164806.png)
 
 ```python
 import torch

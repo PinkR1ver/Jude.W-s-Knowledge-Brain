@@ -15,7 +15,7 @@ Our algorithm works as follows, assuming we have inputs $x_1, x_2, \cdots, x_n$
 - **Step 3** - Find new cluster center by taking the average of the assigned points.
 - **Step 4** - Repeat Step 2 and 3 until none of the cluster assignments change.
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/k4XcapI.gif)
+![](computer_sci/deep_learning_and_machine_learning/clustering/k-means/attachments/k4XcapI.gif)
 
 # Implementation
 
@@ -93,7 +93,7 @@ print(centroids) # From sci-kit learn
 
 Read image and use k-means to do clustering for pixel value. Make pic to 8bit color style.
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/clustering/k-means/attachments/3ed5fee41bd566be093bebd62a33d12.jpg)
+![](computer_sci/deep_learning_and_machine_learning/clustering/k-means/attachments/3ed5fee41bd566be093bebd62a33d12.jpg)
 
 [color8bit_style.py](https://github.com/PinkR1ver/Jude.W-s-Knowledge-Brain/blob/master/Deep_Learning_And_Machine_Learning/clustering/k-means/application/color8bit_style.py)
 

@@ -7,7 +7,7 @@ tags:
 - LLaMA
 ---
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/LLM/train/finr_tune/attachments/Pasted%20image%2020230627145954.png)
+![](computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune/attachments/Pasted%20image%2020230627145954.png)
 
 
 

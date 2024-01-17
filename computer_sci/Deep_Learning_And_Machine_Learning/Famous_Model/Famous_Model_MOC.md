@@ -7,5 +7,5 @@ tags:
 
 # Time-series
 
-* [DeepAR](computer_sci/Deep_Learning_And_Machine_Learning/Famous_Model/DeepAR.md)
+* [DeepAR](computer_sci/deep_learning_and_machine_learning/Famous_Model/DeepAR.md)
 

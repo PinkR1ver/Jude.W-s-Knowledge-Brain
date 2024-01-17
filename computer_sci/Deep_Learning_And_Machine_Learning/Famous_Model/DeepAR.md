@@ -15,12 +15,12 @@ DeepAR, an autoregressive recurrent network developed by Amazon, is the first mo
 
 * **Multiple time-series support**
 * **Extra covariates**: *DeepAR* allows extra features, covariates. It is very important for me when I learn *DeepAR*, because in my task, I have corresponding feature for each time series.
-* **Probabilistic output**:  Instead of making a single prediction, the model leverages [**quantile loss**](computer_sci/Deep_Learning_And_Machine_Learning/Trick/quantile_loss.md) to output prediction intervals.
+* **Probabilistic output**:  Instead of making a single prediction, the model leverages [**quantile loss**](computer_sci/deep_learning_and_machine_learning/Trick/quantile_loss.md) to output prediction intervals.
 * **“Cold” forecasting:** By learning from thousands of time-series that potentially share a few similarities, _DeepAR_ can provide forecasts for time-series that have little or no history at all.
 
 # Block used in DeepAR
 
-* [LSTM](computer_sci/Deep_Learning_And_Machine_Learning/deep_learning/LSTM.md)
+* [LSTM](computer_sci/deep_learning_and_machine_learning/deep_learning/LSTM.md)
 
 # *DeepAR* Architecture
 
@@ -28,7 +28,7 @@ DeepAR模型并不直接使用LSTMs去计算prediction，而是去估计Gaussian
 
 ## Training Step-by-Step
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted%20image%2020230523134255.png)
+![](computer_sci/deep_learning_and_machine_learning/Famous_Model/attachments/Pasted%20image%2020230523134255.png)
 
 假设目前我们在time-series $i$ 的 t 时刻，
 
@@ -43,7 +43,7 @@ DeepAR模型并不直接使用LSTMs去计算prediction，而是去估计Gaussian
 ## Inference Step-by-Step
 
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted%20image%2020230523141219.png)
+![](computer_sci/deep_learning_and_machine_learning/Famous_Model/attachments/Pasted%20image%2020230523141219.png)
 
 
 在使用model进行预测的时候，某一改变的就是使用预测值$\hat{z}$ 代替真实值$z$，同时$\hat{z}_{i,t}$是在我们模型学习到的Gaussian distribution里sample得到的，而这个Gaussian distribution里的参数$\mu$和$\sigma$并不是model直接学习到的，*DeepAR*如何做到这一点的呢？
@@ -67,7 +67,7 @@ $$
 
 在统计学中，预估Gaussian Distribution一般使用MLEformulas，但是在*DeepAR*中，并不这么去做，而是使用两个dense layer去做预估，如下图：
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/Famous_Model/attachments/Pasted%20image%2020230523151201.png)
+![](computer_sci/deep_learning_and_machine_learning/Famous_Model/attachments/Pasted%20image%2020230523151201.png)
 
 使用dense layer的方式去预估Gaussian distribution的原因在于，可以使用backpropagation
 

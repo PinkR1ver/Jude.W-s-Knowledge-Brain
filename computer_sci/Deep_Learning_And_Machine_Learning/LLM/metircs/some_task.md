@@ -9,7 +9,7 @@ tags:
 
 # Overview
 
-![](computer_sci/Deep_Learning_And_Machine_Learning/LLM/metircs/attachments/Pasted%20image%2020230629140929.png)
+![](computer_sci/deep_learning_and_machine_learning/LLM/metircs/attachments/Pasted%20image%2020230629140929.png)
 
 # MNLI-m (Multi-Genre Natural Language Inference - Matched): 
 
