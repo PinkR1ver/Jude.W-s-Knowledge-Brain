@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report.md",
+                "file": "research_career/device/stm_load_note.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report.md",
+                "file": "research_career/device/stm_load_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report.md",
+                "file": "research_career/device/stm_load_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report.md"
+                "file": "research_career/device/stm_load_note.md"
               }
             }
           },
@@ -187,9 +187,15 @@
   },
   "active": "1e604b69d4be2edc",
   "lastOpenFiles": [
+    "research_career/device/attachments/f09249c5b3281e8679dfe5235f1138a.jpg",
+    "research_career/device/attachments/15a688c916c8e3d62c9cd1b86f7699a.jpg",
+    "research_career/device/attachments/Pasted image 20240119155428.png",
+    "research_career/device/attachments",
+    "research_career/device/real_time_vs_sampling_oscilloscope.md",
+    "research_career/device/stm_load_note.md",
+    "research_career/UWB_about/report/UWB_device_test_report.md",
     "research_career/UWB_about/report/attachments/Pasted image 20240117162209.png",
     "research_career/UWB_about/report/flight_time_calculation.md",
-    "research_career/UWB_about/report/UWB_device_test_report.md",
     "research_career/UWB_about/report/attachments/Pasted image 20240117161826.png",
     "research_career/UWB_about/report/attachments/Pasted image 20240117161234.png.~tmp",
     "research_career/UWB_about/report/VNA_research.md",
@@ -214,12 +220,9 @@
     "signal_processing/filter/chebyshev_filter.md",
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/filter/attachments/Pasted image 20240108161800.png",
-    "signal_processing/filter/attachments/Pasted image 20240108161455.png",
     "signal_processing/filter/attachments",
     "research_career/UWB_about/report/基于高频信号大趋势包络提取后的信号关键点提取.md",
     "signal_processing/filter",
-    "research_career/UWB_about/report/attachments/untitled 15.png",
-    "research_career/UWB_about/report/attachments/untitled 14.png",
     "atlas.md",
     "Math/real_analysis/cauchy_principal_value.md",
     "Math/real_analysis/attachments",
@@ -230,9 +233,6 @@
     "signal_processing/envelope",
     "plan/life.md",
     "data_sci/visualization/visual_tool/Tableau/tableau_learn_basic.md",
-    "data_sci/data_sci_MOC.md",
-    "data_sci/visualization/visual_tool/Tableau",
-    "signal_processing/device_and_components/feeding_tech/feeding_tech.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
