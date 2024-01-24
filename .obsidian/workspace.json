@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/UWB_device_test_overview.md",
+                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/UWB_device_test_overview.md",
+                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/UWB_device_test_overview.md",
+                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/UWB_device_test_overview.md"
+                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md"
               }
             }
           },
@@ -187,10 +187,12 @@
   },
   "active": "a56a6db7d1c357c8",
   "lastOpenFiles": [
+    "computer_sci/data_structure_and_algorithm/string/attachments/Pasted image 20240124111422.png",
+    "computer_sci/data_structure_and_algorithm/string/attachments",
+    "research_career/UWB_about/UWB_device_test_overview.md",
     "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
     "research_career/UWB_about/attachments/UWB_board_test.pdf",
     "research_career/UWB_about/report/UWB_board_test.md",
-    "research_career/UWB_about/UWB_device_test_overview.md",
     "research_career/UWB_about/report/attachments/Pasted image 20240123220530.png",
     "research_career/UWB_about/report/attachments/untitled 16.png",
     "research_career/UWB_about/report/attachments/Pasted image 20240123215140.png",
@@ -231,8 +233,6 @@
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/filter/attachments",
     "signal_processing/filter",
-    "Math/real_analysis/attachments",
-    "Math/real_analysis",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
