@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "912fa5c9250d56ae",
+        "id": "7457f152796b5495",
         "type": "tabs",
         "children": [
           {
-            "id": "1e604b69d4be2edc",
+            "id": "a56a6db7d1c357c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report_update.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd01bb0852b1f2a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f129b5b3fe4e7b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+                "file": "research_career/UWB_about/UWB_device_test_overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report_update.md",
+                "file": "research_career/UWB_about/UWB_device_test_overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report_update.md",
+                "file": "research_career/UWB_about/UWB_device_test_overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_report_update.md"
+                "file": "research_career/UWB_about/UWB_device_test_overview.md"
               }
             }
           },
@@ -209,14 +185,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e604b69d4be2edc",
+  "active": "a56a6db7d1c357c8",
   "lastOpenFiles": [
-    "research_career/UWB_about/report/UWB_signal_generate.md",
+    "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
+    "research_career/UWB_about/attachments/UWB_board_test.pdf",
+    "research_career/UWB_about/report/UWB_board_test.md",
+    "research_career/UWB_about/UWB_device_test_overview.md",
+    "research_career/UWB_about/report/attachments/Pasted image 20240123220530.png",
+    "research_career/UWB_about/report/attachments/untitled 16.png",
+    "research_career/UWB_about/report/attachments/Pasted image 20240123215140.png",
     "research_career/UWB_about/report/UWB_device_test_report.md",
-    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+    "research_career/UWB_about/UWB_signal_generate.md",
+    "research_career/UWB_about/report/UWB_signal_generate.md",
     "research_career/UWB_about/report/UWB_device_test_report_update.md",
+    "research_career/UWB_about/report/flight_time_calculation.md",
+    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
     "research_career/UWB_about/report/VNA_based_UWB_echo_signal_experiment2.md",
     "research_career/UWB_about/report/VNA_research.md",
+    "research_career/UWB_about/report/基于高频信号大趋势包络提取后的信号关键点提取.md",
+    "research_career/UWB_about/report/attachments/Pasted image 20240123212654.png",
     "computer_sci/data_structure_and_algorithm/string/KMP.md",
     "computer_sci/data_structure_and_algorithm/two_pointers.md",
     "computer_sci/data_structure_and_algorithm/string",
@@ -227,13 +214,9 @@
     "research_career/device/attachments",
     "research_career/device/real_time_vs_sampling_oscilloscope.md",
     "research_career/UWB_about/report/attachments/Pasted image 20240117162209.png",
-    "research_career/UWB_about/report/flight_time_calculation.md",
     "research_career/UWB_about/report/attachments/Pasted image 20240117161826.png",
     "research_career/UWB_about/report/attachments/Pasted image 20240117161234.png.~tmp",
     "research_career/UWB_about/report/attachments/Pasted image 20240117161234.png",
-    "research_career/UWB_about/report/attachments/Pasted image 20240117160119.png",
-    "research_career/UWB_about/report/attachments/Pasted image 20240117160051.png",
-    "research_career/UWB_about/report/attachments/Pasted image 20240117155955.png",
     "signal_processing/device_and_components/cable/AWG.md",
     "signal_processing/device_and_components/cable/cable.md",
     "research_career/device/infiniiMax_probes.md",
@@ -243,20 +226,13 @@
     "文学/句子/Love_about.md",
     "signal_processing/envelope/hilbert_transform.md",
     "signal_processing/basic_knowledge/stability_of_discrete_system.md",
-    "signal_processing/basic_knowledge/attachments/Pasted image 20240115112204.png",
     "signal_processing/basic_knowledge/attachments",
-    "research_career/UWB_about/UWB_signal_generate.md",
     "signal_processing/filter/chebyshev_filter.md",
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/filter/attachments",
-    "research_career/UWB_about/report/基于高频信号大趋势包络提取后的信号关键点提取.md",
     "signal_processing/filter",
-    "atlas.md",
-    "Math/real_analysis/cauchy_principal_value.md",
     "Math/real_analysis/attachments",
     "Math/real_analysis",
-    "signal_processing/envelope/attachments",
-    "文学/句子/Wisdom.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
