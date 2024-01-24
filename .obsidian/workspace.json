@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_overview.md",
+                "file": "research_career/UWB_about/report/OPAMP_health_test.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_overview.md",
+                "file": "research_career/UWB_about/report/OPAMP_health_test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_overview.md",
+                "file": "research_career/UWB_about/report/OPAMP_health_test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_overview.md"
+                "file": "research_career/UWB_about/report/OPAMP_health_test.md"
               }
             }
           },
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,18 +185,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "a56a6db7d1c357c8",
   "lastOpenFiles": [
+    "research_career/UWB_about/report/attachments/9ddbdef14232761547151d48b7ca61b.jpg",
+    "research_career/UWB_about/report/attachments/3a3cabdf08d107b7fe5086c7379525b.jpg",
+    "research_career/UWB_about/report/attachments/0f51b9ad16d2735614bff788e55dda5.jpg",
+    "research_career/UWB_about/report/attachments/02156794ddb5d9dbb7ca91e3965f6db.jpg",
+    "research_career/UWB_about/report/attachments/433a119c3e1f83e7ea7157832975943 1.jpg",
+    "research_career/UWB_about/report/attachments/ad2ea92696689e9e923adc3dd45d696 1.jpg",
+    "research_career/UWB_about/report/attachments/b902f9c023b000eb6413aa1649ed201 1.jpg",
+    "research_career/UWB_about/report/attachments/433a119c3e1f83e7ea7157832975943.jpg",
+    "research_career/UWB_about/report/attachments/ad2ea92696689e9e923adc3dd45d696.jpg",
+    "research_career/UWB_about/report/attachments/b902f9c023b000eb6413aa1649ed201.jpg",
+    "research_career/UWB_about/report/attachments/5719cb6122c3ba1bef2738606b8214d.jpg",
+    "research_career/UWB_about/report/UWB_device_test_overview.md",
+    "research_career/UWB_about/report/OPAMP_health_test.md",
     "research_career/UWB_about/report/UWB_board_test.md",
     "computer_sci/data_structure_and_algorithm/string/KMP.md",
-    "computer_sci/data_structure_and_algorithm/string/attachments/Pasted image 20240124111422.png",
     "computer_sci/data_structure_and_algorithm/string/attachments",
-    "research_career/UWB_about/report/UWB_device_test_overview.md",
     "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
     "research_career/UWB_about/attachments/UWB_board_test.pdf",
-    "research_career/UWB_about/report/attachments/Pasted image 20240123220530.png",
-    "research_career/UWB_about/report/attachments/untitled 16.png",
-    "research_career/UWB_about/report/attachments/Pasted image 20240123215140.png",
     "research_career/UWB_about/report/UWB_device_test_report.md",
     "research_career/UWB_about/UWB_signal_generate.md",
     "research_career/UWB_about/report/UWB_signal_generate.md",
@@ -206,17 +214,11 @@
     "research_career/UWB_about/report/VNA_based_UWB_echo_signal_experiment2.md",
     "research_career/UWB_about/report/VNA_research.md",
     "research_career/UWB_about/report/基于高频信号大趋势包络提取后的信号关键点提取.md",
-    "research_career/UWB_about/report/attachments/Pasted image 20240123212654.png",
     "computer_sci/data_structure_and_algorithm/two_pointers.md",
     "computer_sci/data_structure_and_algorithm/string",
     "research_career/device/stm_load_note.md",
-    "research_career/device/attachments/f09249c5b3281e8679dfe5235f1138a.jpg",
-    "research_career/device/attachments/15a688c916c8e3d62c9cd1b86f7699a.jpg",
-    "research_career/device/attachments/Pasted image 20240119155428.png",
     "research_career/device/attachments",
     "research_career/device/real_time_vs_sampling_oscilloscope.md",
-    "research_career/UWB_about/report/attachments/Pasted image 20240117162209.png",
-    "research_career/UWB_about/report/attachments/Pasted image 20240117161826.png",
     "research_career/UWB_about/report/attachments/Pasted image 20240117161234.png.~tmp",
     "signal_processing/device_and_components/cable/AWG.md",
     "signal_processing/device_and_components/cable/cable.md",
@@ -229,7 +231,6 @@
     "signal_processing/basic_knowledge/stability_of_discrete_system.md",
     "signal_processing/basic_knowledge/attachments",
     "signal_processing/filter/chebyshev_filter.md",
-    "signal_processing/signal_processing_MOC.md",
     "signal_processing/filter/attachments",
     "signal_processing/filter",
     "Untitled.canvas",
