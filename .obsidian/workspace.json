@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7457f152796b5495",
+        "id": "933056c5ea856399",
         "type": "tabs",
         "children": [
           {
-            "id": "a56a6db7d1c357c8",
+            "id": "effe589bff379426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c520000266da6036",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "research_career/UWB_about/report/OPAMP_health_test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c8b2c0799657fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research_career/UWB_about/report/UWB_device_test_overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/report/OPAMP_health_test.md",
+                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/report/OPAMP_health_test.md",
+                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/report/OPAMP_health_test.md"
+                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md"
               }
             }
           },
@@ -185,21 +209,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a56a6db7d1c357c8",
+  "active": "effe589bff379426",
   "lastOpenFiles": [
-    "research_career/UWB_about/report/attachments/9ddbdef14232761547151d48b7ca61b.jpg",
-    "research_career/UWB_about/report/attachments/3a3cabdf08d107b7fe5086c7379525b.jpg",
-    "research_career/UWB_about/report/attachments/0f51b9ad16d2735614bff788e55dda5.jpg",
-    "research_career/UWB_about/report/attachments/02156794ddb5d9dbb7ca91e3965f6db.jpg",
-    "research_career/UWB_about/report/attachments/433a119c3e1f83e7ea7157832975943 1.jpg",
-    "research_career/UWB_about/report/attachments/ad2ea92696689e9e923adc3dd45d696 1.jpg",
-    "research_career/UWB_about/report/attachments/b902f9c023b000eb6413aa1649ed201 1.jpg",
-    "research_career/UWB_about/report/attachments/433a119c3e1f83e7ea7157832975943.jpg",
-    "research_career/UWB_about/report/attachments/ad2ea92696689e9e923adc3dd45d696.jpg",
-    "research_career/UWB_about/report/attachments/b902f9c023b000eb6413aa1649ed201.jpg",
-    "research_career/UWB_about/report/attachments/5719cb6122c3ba1bef2738606b8214d.jpg",
-    "research_career/UWB_about/report/UWB_device_test_overview.md",
+    "research_career/UWB_about/report/UWB_Board_AMP_circuit_test_1_1.md",
+    "research_career/UWB_about/report/attachments/df6821abfc09f5337071d9ed4d76a6f 1.png",
+    "research_career/UWB_about/report/attachments/c2354d770a165663e67141645ad9b00.png",
+    "research_career/UWB_about/report/attachments/423a04e662206d11b2a178eeaf326dd.jpg",
+    "research_career/UWB_about/report/attachments/b4bb769d9dd67125e3571897d577036.png",
     "research_career/UWB_about/report/OPAMP_health_test.md",
+    "research_career/UWB_about/report/UWB_device_test_overview.md",
+    "research_career/UWB_about/report/attachments/df6821abfc09f5337071d9ed4d76a6f.png",
+    "research_career/UWB_about/report/attachments/8087296672da2c599b091554f464a57.jpg",
+    "research_career/UWB_about/report/attachments/70e99e67031e11825b0e3120335ddb0.png",
+    "research_career/UWB_about/report/attachments/5b511d3f0eeabedf9b38e52ade571fb.jpg",
+    "research_career/UWB_about/report/attachments/e4c90ae3230c59cf8435ee16806c3eb.jpg",
+    "research_career/UWB_about/report/attachments/e62823e6aac8e6136052633bc485364.jpg",
     "research_career/UWB_about/report/UWB_board_test.md",
     "computer_sci/data_structure_and_algorithm/string/KMP.md",
     "computer_sci/data_structure_and_algorithm/string/attachments",
@@ -230,7 +254,6 @@
     "signal_processing/envelope/hilbert_transform.md",
     "signal_processing/basic_knowledge/stability_of_discrete_system.md",
     "signal_processing/basic_knowledge/attachments",
-    "signal_processing/filter/chebyshev_filter.md",
     "signal_processing/filter/attachments",
     "signal_processing/filter",
     "Untitled.canvas",

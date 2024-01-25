@@ -61,6 +61,34 @@ $$
 $$
 
 
+# Code
+
+## Partial Match Table
+
+```python
+    def partialMatchTable(self, pattern: str) -> list[int]:
+        
+        table = [0] * len(pattern)
+        
+        i = 1
+        j = 0
+        
+        while i < len(pattern):
+            
+            if pattern[i] == pattern[j]:
+                table[i] = j + 1
+                i += 1
+                j += 1
+            
+            elif j > 0:
+                j = table[j - 1]
+            
+            else:
+                i += 1
+        
+        return table
+```
+
 # Reference
 
 * [阮一峰. “字符串匹配的KMP算法.” _字符串匹配的KMP算法_, 23 Jan. 2024, https://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html.  👈 ⭐⭐⭐！](https://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
