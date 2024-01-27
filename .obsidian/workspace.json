@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "933056c5ea856399",
+        "id": "cfbc9842c6558fef",
         "type": "tabs",
         "children": [
           {
-            "id": "effe589bff379426",
+            "id": "3f89c02eefe9b3f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c520000266da6036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_career/UWB_about/report/OPAMP_health_test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c8b2c0799657fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_career/UWB_about/report/UWB_device_test_overview.md",
+                "file": "research_career/device/VNA_set_instruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
+                "file": "research_career/device/VNA_set_instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md",
+                "file": "research_career/device/VNA_set_instruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/data_structure_and_algorithm/string/KMP.md"
+                "file": "research_career/device/VNA_set_instruction.md"
               }
             }
           },
@@ -175,14 +151,12 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
             }
           },
           {
-            "id": "f6c77e4011f6c824",
+            "id": "2d7728a904d173de",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -194,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,54 +183,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "effe589bff379426",
+  "active": "3f89c02eefe9b3f4",
   "lastOpenFiles": [
-    "research_career/UWB_about/report/UWB_Board_AMP_circuit_test_1_1.md",
-    "research_career/UWB_about/report/attachments/df6821abfc09f5337071d9ed4d76a6f 1.png",
-    "research_career/UWB_about/report/attachments/c2354d770a165663e67141645ad9b00.png",
-    "research_career/UWB_about/report/attachments/423a04e662206d11b2a178eeaf326dd.jpg",
-    "research_career/UWB_about/report/attachments/b4bb769d9dd67125e3571897d577036.png",
-    "research_career/UWB_about/report/OPAMP_health_test.md",
-    "research_career/UWB_about/report/UWB_device_test_overview.md",
-    "research_career/UWB_about/report/attachments/df6821abfc09f5337071d9ed4d76a6f.png",
-    "research_career/UWB_about/report/attachments/8087296672da2c599b091554f464a57.jpg",
-    "research_career/UWB_about/report/attachments/70e99e67031e11825b0e3120335ddb0.png",
-    "research_career/UWB_about/report/attachments/5b511d3f0eeabedf9b38e52ade571fb.jpg",
-    "research_career/UWB_about/report/attachments/e4c90ae3230c59cf8435ee16806c3eb.jpg",
-    "research_career/UWB_about/report/attachments/e62823e6aac8e6136052633bc485364.jpg",
-    "research_career/UWB_about/report/UWB_board_test.md",
-    "computer_sci/data_structure_and_algorithm/string/KMP.md",
-    "computer_sci/data_structure_and_algorithm/string/attachments",
-    "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
-    "research_career/UWB_about/attachments/UWB_board_test.pdf",
-    "research_career/UWB_about/report/UWB_device_test_report.md",
-    "research_career/UWB_about/UWB_signal_generate.md",
-    "research_career/UWB_about/report/UWB_signal_generate.md",
-    "research_career/UWB_about/report/UWB_device_test_report_update.md",
-    "research_career/UWB_about/report/flight_time_calculation.md",
-    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
-    "research_career/UWB_about/report/VNA_based_UWB_echo_signal_experiment2.md",
-    "research_career/UWB_about/report/VNA_research.md",
-    "research_career/UWB_about/report/基于高频信号大趋势包络提取后的信号关键点提取.md",
-    "computer_sci/data_structure_and_algorithm/two_pointers.md",
-    "computer_sci/data_structure_and_algorithm/string",
-    "research_career/device/stm_load_note.md",
-    "research_career/device/attachments",
-    "research_career/device/real_time_vs_sampling_oscilloscope.md",
-    "research_career/UWB_about/report/attachments/Pasted image 20240117161234.png.~tmp",
-    "signal_processing/device_and_components/cable/AWG.md",
-    "signal_processing/device_and_components/cable/cable.md",
-    "research_career/device/infiniiMax_probes.md",
-    "research_career/device",
-    "research_career/Untitled.md",
-    "Untitled.md",
-    "文学/句子/Love_about.md",
+    "signal_processing/signal_processing_MOC.md",
+    "research_career/device/VNA_set_instruction.md",
+    "signal_processing/radio_communication/Near_far_field.md",
+    "signal_processing/filter/chebyshev_filter.md",
+    "signal_processing/filter/attachments/Pasted image 20240108161800.png",
+    "signal_processing/filter/attachments/Pasted image 20240108161455.png",
     "signal_processing/envelope/hilbert_transform.md",
+    "signal_processing/envelope/attachments/Pasted image 20240103160713.png",
+    "signal_processing/envelope/attachments/Pasted image 20240102155308.png",
+    "signal_processing/envelope/attachments/Pasted image 20240102150350.png",
+    "signal_processing/device_and_components/quality_control_certified/qcc.md",
+    "signal_processing/device_and_components/feeding_tech/feeding_tech.md",
+    "signal_processing/device_and_components/cable/skin_effect.md",
+    "signal_processing/device_and_components/cable/coax_cable_imbalance.md",
+    "signal_processing/device_and_components/cable/coax_cable.md",
+    "signal_processing/device_and_components/cable/cable.md",
+    "signal_processing/device_and_components/cable/attachments/Pasted image 20231205144443.png",
+    "signal_processing/device_and_components/cable/AWG.md",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204165012.png",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204163255.png",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204163238.png",
+    "signal_processing/device_and_components/attachments/Pasted image 20231204160640.png",
     "signal_processing/basic_knowledge/stability_of_discrete_system.md",
-    "signal_processing/basic_knowledge/attachments",
+    "research_career/device/stm_load_note.md",
+    "research_career/device/real_time_vs_sampling_oscilloscope.md",
+    "research_career/device/infiniiMax_probes.md",
+    "research_career/UWB_about/report/基于高频信号大趋势包络提取后的信号关键点提取.md",
+    "research_career/UWB_about/report/flight_time_calculation.md",
+    "research_career/UWB_about/report/VNA_based_UWB_echo_signal_experiment2.md",
+    "research_career/UWB_about/report/UWB_device_test_report_update.md",
+    "research_career/UWB_about/report/UWB_device_test_report.md",
+    "research_career/UWB_about/report/UWB_device_test_overview.md",
+    "research_career/UWB_about/report/UWB_board_test.md",
+    "research_career/UWB_about/report/UWB_Board_AMP_circuit_test_1_1.md",
+    "research_career/UWB_about/report/OPAMP_health_test.md",
+    "research_career/UWB_about/flight_time/flight_time_solution.md",
+    "research_career/UWB_about/attachments/UWB_board_test.pdf",
+    "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
+    "data_sci/visualization/visual_style/attachments/CHARTstyleguide_20170505.pdf",
+    "data_sci/visual_style/attachments/CHARTstyleguide_20170505.pdf",
+    "data_sci/visual_style/attachments",
+    "data_sci/visual_style",
+    "Untitled.canvas",
+    "signal_processing/radio_communication",
     "signal_processing/filter/attachments",
     "signal_processing/filter",
-    "Untitled.canvas",
+    "signal_processing/envelope/attachments",
     "Untitled 1.canvas"
   ]
 }
