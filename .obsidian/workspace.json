@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/study_plan.md",
+                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/study_plan.md",
+                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/study_plan.md",
+                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/study_plan.md"
+                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md"
               }
             }
           },
@@ -187,11 +187,14 @@
   },
   "active": "3a705e60f1327e01",
   "lastOpenFiles": [
-    "log/log_MOC.md",
-    "log/kk_unified_national_graduate_entrance_examination/study_plan.md",
+    "log/kk_unified_national_graduate_entrance_examination/attachments/Pasted image 20240219235533.png",
+    "log/kk_unified_national_graduate_entrance_examination/attachments",
     "research_career/papers_read/2024_winter_holiday/papers_read_about_pressure_injury.md",
-    "log/kk_unified_national_graduate_entrance_examination",
+    "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "research_career/papers_read/2024_winter_holiday/PI_overview.md",
+    "log/kk_unified_national_graduate_entrance_examination/study_plan.md",
+    "log/log_MOC.md",
+    "log/kk_unified_national_graduate_entrance_examination",
     "research_career/papers_read/papers_2023_11.md",
     "research_career/papers_read/2024_winter_holiday",
     "research_career/papers_read/plan/Untitled.md",
@@ -225,14 +228,11 @@
     "research_career/device/stm_load_note.md",
     "research_career/device/real_time_vs_sampling_oscilloscope.md",
     "research_career/device/infiniiMax_probes.md",
-    "research_career/UWB_about/report/基于高频信号大趋势包络提取后的信号关键点提取.md",
-    "research_career/UWB_about/report/flight_time_calculation.md",
     "research_career/UWB_about/attachments/UWB_board_test.pdf",
     "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
     "data_sci/visualization/visual_style/attachments/CHARTstyleguide_20170505.pdf",
     "data_sci/visual_style/attachments/CHARTstyleguide_20170505.pdf",
     "data_sci/visual_style/attachments",
-    "data_sci/visual_style",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
