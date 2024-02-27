@@ -5,7 +5,6 @@ tags:
 - Polaroid
 - story
 - film
-date: 14-04-2023
 ---
 
 # Hiking

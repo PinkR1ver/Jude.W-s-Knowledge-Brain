@@ -4,7 +4,6 @@ tags:
   - UWB
   - hardware
   - devices
-date: 23-01-2024
 ---
 
 # Voltage Test Table
