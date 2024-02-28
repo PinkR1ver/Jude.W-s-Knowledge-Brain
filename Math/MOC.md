@@ -9,16 +9,16 @@ tags:
 
 ## Basic concept
 
-* [Quantile](Math/Statistics/Basic/Quantile.md)
+* [Quantile](math/Statistics/Basic/Quantile.md)
 
 # Discrete mathematics
 
 ## Set theory
 
-* [Cantor Expansion](Math/discrete_mathematics/set_theory/cantor_expansion/cantor_expansion.md)
+* [Cantor Expansion](math/discrete_mathematics/set_theory/cantor_expansion/cantor_expansion.md)
 
 
 # Optimization Problem
 
 
-* [Quadratic Programming](Math/optimization_problem/Quadratic_Programming.md)
+* [Quadratic Programming](math/optimization_problem/Quadratic_Programming.md)

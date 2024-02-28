@@ -6,8 +6,8 @@ tags:
 
 # Background
 
-* [Decision Tree](computer_sci/deep_learning_and_machine_learning/deep_learning/Decision_Tree.md)
-* [Random Forest](computer_sci/deep_learning_and_machine_learning/deep_learning/Random_Forest.md)
+* [Decision Tree](computer_sci/deep_learning_and_machine_learning/deep_learning/decision_tree.md)
+* [Random Forest](computer_sci/deep_learning_and_machine_learning/deep_learning/random_forest.md)
 
 # What is Deep Neural Decision Forests
 

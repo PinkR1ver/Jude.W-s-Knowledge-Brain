@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!info] 
-> 在学习Transformer前，你需要学习 [⭐Attention](computer_sci/deep_learning_and_machine_learning/deep_learning/⭐Attention.md)
+> 在学习Transformer前，你需要学习 [attention](computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md)
 
 
 

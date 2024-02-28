@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
+                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
+                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
+                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md"
+                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md"
               }
             }
           },
@@ -185,10 +185,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a705e60f1327e01",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
-    "computer_sci/deep_learning_and_machine_learning/deep_learning/deep_learning_MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/deep_neural_decision_forests.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/GRU.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/XGBoost.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/transformer.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/random_forest.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/decision_tree.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/adaBoost.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/deep_learning_MOC.md",
     "atlas.md",
     "文学/句子/Love_about.md",
     "文学/句子/句子.md",
@@ -197,7 +204,7 @@
     "log/2024/2/Log_28022024.md",
     "log/2024/2",
     "log/2024",
-    "Math/MOC.md",
+    "math/MOC.md",
     "paper_draft",
     "recent.md",
     "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
@@ -223,15 +230,8 @@
     "research_career/papers_read/papers_2023_11.md",
     "research_career/papers_read/2024_winter_holiday",
     "research_career/papers_read/plan/Untitled.md",
-    "research_career/papers_read/papers_2023_10.md",
-    "research_career/plan/Next_work_plan/2023_12.md",
     "research_career/plan/Next_work_plan",
     "research_career/plan",
-    "research_career/device/VNA_set_instruction.md",
-    "signal_processing/signal_processing_MOC.md",
-    "signal_processing/radio_communication/Near_far_field.md",
-    "signal_processing/filter/chebyshev_filter.md",
-    "signal_processing/envelope/hilbert_transform.md",
     "research_career/UWB_about/attachments/UWB_board_test.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"

@@ -8,12 +8,12 @@ tags:
 
 # Basic
 
-* [Electric units](Physics/Electromagnetism/Basic/Electric_units.md)
+* [Electric units](physics/Electromagnetism/Basic/Electric_units.md)
 
 ## Advanced
 
-* [Maxwell's equation](Physics/Electromagnetism/Maxwells_equation.md)
+* [Maxwell's equation](physics/Electromagnetism/Maxwells_equation.md)
 
 # Circuit
 
-* [Resonant circuit](Physics/Electromagnetism/Resonant_circuit.md)
+* [Resonant circuit](physics/Electromagnetism/Resonant_circuit.md)

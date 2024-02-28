@@ -13,10 +13,10 @@ $$
 
 
 
-![](Math/real_analysis/attachments/6BC0B163CEFCF127E1D70326AB7D1648%201.png)
+![](math/real_analysis/attachments/6BC0B163CEFCF127E1D70326AB7D1648%201.png)
 
 
-![](Math/real_analysis/attachments/78DC2683DB0DF2EFEB6215DAB8C18C25.png)
+![](math/real_analysis/attachments/78DC2683DB0DF2EFEB6215DAB8C18C25.png)
 
 the Cauchy principal value is the method for assigning values to *certain improper integrals* which would otherwise be undefined. In this method, a singularity on an integral interval is avoided by limiting the integral interval to the non singular domain.
 

@@ -10,7 +10,7 @@ XGBoost is an open-source software library that implements optimized distributed
 
 # What you need to know first
 
-* [🚧🚧AdaBoost](computer_sci/deep_learning_and_machine_learning/deep_learning/AdaBoost.md)
+* [🚧🚧AdaBoost](computer_sci/deep_learning_and_machine_learning/deep_learning/adaBoost.md)
 
 # What is XGBoost
 

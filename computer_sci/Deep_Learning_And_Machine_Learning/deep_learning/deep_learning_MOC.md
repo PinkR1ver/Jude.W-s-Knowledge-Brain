@@ -8,21 +8,21 @@ tags:
 
 # Attention is all you need
 
-* [[computer_sci/deep_learning_and_machine_learning/deep_learning/⭐Attention|Attention Blocker]]
-* [[computer_sci/deep_learning_and_machine_learning/deep_learning/Transformer|Transformer]]
+* [[computer_sci/deep_learning_and_machine_learning/deep_learning/attention|Attention Blocker]]
+* [[computer_sci/deep_learning_and_machine_learning/deep_learning/transformer|transformer]]
 
 
 # Tree-like architecture
 
-* [Decision Tree](computer_sci/deep_learning_and_machine_learning/deep_learning/Decision_Tree.md)
-* [Random Forest](computer_sci/deep_learning_and_machine_learning/deep_learning/Random_Forest.md)
-* [Deep Neural Decision Forests](computer_sci/deep_learning_and_machine_learning/deep_learning/Deep_Neural_Decision_Forests.md)
+* [Decision Tree](computer_sci/deep_learning_and_machine_learning/deep_learning/decision_tree.md)
+* [Random Forest](computer_sci/deep_learning_and_machine_learning/deep_learning/random_forest.md)
+* [Deep Neural Decision Forests](computer_sci/deep_learning_and_machine_learning/deep_learning/deep_neural_decision_forests.md)
 * [XGBoost](computer_sci/deep_learning_and_machine_learning/deep_learning/XGBoost.md)
 
 
 # Ensemble Learning
 
-* [AdaBoost](computer_sci/deep_learning_and_machine_learning/deep_learning/AdaBoost.md)
+* [adaBoost](computer_sci/deep_learning_and_machine_learning/deep_learning/adaBoost.md)
 * [XGBoost](computer_sci/deep_learning_and_machine_learning/deep_learning/XGBoost.md)
 
 

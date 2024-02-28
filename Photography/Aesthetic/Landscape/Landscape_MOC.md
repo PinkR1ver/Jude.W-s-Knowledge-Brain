@@ -6,4 +6,4 @@ tags:
 - MOC
 ---
 
-* [🌊Sea MOC](Photography/Aesthetic/Landscape/Sea/Sea_MOC.md)
+* [🌊Sea MOC](photography/Aesthetic/Landscape/Sea/Sea_MOC.md)

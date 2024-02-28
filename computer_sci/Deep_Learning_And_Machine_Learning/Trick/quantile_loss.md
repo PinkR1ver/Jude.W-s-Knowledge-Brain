@@ -12,7 +12,7 @@ Quantile loss用于衡量预测分布和目标分布之间的差异，特别适�
 
 # What is quantile
 
-[Quantile](Math/Statistics/Basic/Quantile.md)
+[Quantile](math/Statistics/Basic/Quantile.md)
 
 # What is a prediction interval
 

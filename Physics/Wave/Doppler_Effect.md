@@ -33,7 +33,7 @@ $$
 
 ## Example
 
-![](Physics/Wave/attachments/Dopplereffectsourcemovingrightatmach0.7.gif)
+![](physics/Wave/attachments/Dopplereffectsourcemovingrightatmach0.7.gif)
 
 其中$v_s = 0.7c$，波前开始在源的右侧（前面）聚集，并在源的左侧（后面）进一步分开。
 

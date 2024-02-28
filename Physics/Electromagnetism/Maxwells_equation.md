@@ -32,11 +32,11 @@ Essentially a vector field is what you get if you associate each point in space 
 > [!note] 
 >  If you were to draw the vectors to scale, the longer ones end up just cluttering the whole thing, so it's common to basically lie a little and artificially shorten ones that are too long. Maybe using **color to give some vague sense of length**.
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230411151612.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230411151612.png)
 
 ## Divergence
 
-![](Physics/Electromagnetism/attachments/my-life.gif)
+![](physics/Electromagnetism/attachments/my-life.gif)
 
 Divergence $\cdot$ Vector filed是来衡量在(x, y)点你产生fluid的能力
 
@@ -44,26 +44,26 @@ Divergence $\cdot$ Vector filed是来衡量在(x, y)点你产生fluid的能力
 
 那些fluid流入的sink端，他们的Divergence $\cdot$ Vector filed就是negative的
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230411155711.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230411155711.png)
 
 同时，如果点可以slow flow in变fast slow out，这个点位的divergence $\cdot$ vector filed也是positive的
 
-![](Physics/Electromagnetism/attachments/my-life%201.gif)
+![](physics/Electromagnetism/attachments/my-life%201.gif)
 
 Vector field input point得到的是一个多维的输出，指向一个方向并带有scale；divergence $\cdot$ vector field，它的输出depends on the behavior of the field in small neighborhood around that point。输出为一个数值，衡量这个point acts as a source or a sink
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230411161346.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230411161346.png)
 
 > [!note] 
 >  For actual fluid flow: $\text{div} F = 0$ everywhere
 
 ## Curl
 
-![](Physics/Electromagnetism/attachments/output%202.gif)
+![](physics/Electromagnetism/attachments/output%202.gif)
 
 Curl是衡量fluid在point被rotate的程度，clockwise方向是positive curl，counterclockwise是negative curl。
 
-![](Physics/Electromagnetism/attachments/curl.gif)
+![](physics/Electromagnetism/attachments/curl.gif)
 
 上图中这个点的curl也是非零的，因为fluid上快下慢，result in clockwise influence
 
@@ -94,23 +94,23 @@ F_y
 = \frac{\partial F_y}{\partial x} - \frac{\partial F_x}{\partial y}
 $$
 
-![](Physics/Electromagnetism/attachments/calculation_result.gif)
+![](physics/Electromagnetism/attachments/calculation_result.gif)
 
 ### Detail Explanation
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230412144351.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230412144351.png)
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230412144501.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230412144501.png)
 
 在$(x_0, y_0)$微分一个很小的tiny step，会有一个新的vector，它与原有的vector会有一个difference。
 
-![](Physics/Electromagnetism/attachments/div.gif)
+![](physics/Electromagnetism/attachments/div.gif)
 
 $\text{div} F(x_0, y_0)$其实就是corresponds to $360^\circ$方向的average的Step $\cdot$ Difference
 
 可以想象一个source端，它朝四面发射vector，它的Step $\cdot$ Difference自然就是positive的
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230412145732.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230412145732.png)
 
 同理，不难想象的是，$\text{curl} F(x_0, y_0)$是corresponds to Step $\times$ Difference
 
@@ -125,7 +125,7 @@ $$
 $$
 
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230411163735.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230411163735.png)
 
 * $\rho$是charge density
 * $\epsilon_0$是Epsilon Naught，free space的介电常数，它决定free space空间中电场的强度
@@ -146,7 +146,7 @@ $$
 \text{div} B = 0
 $$
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230411165048.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230411165048.png)
 
 磁场的divergence在任意地方为0，说明磁场的fluid是incompressible的，没有source也没有sinks，就像water一样。也有这样的interpretation，说明magnetic monopoles是不存在的
 
@@ -156,16 +156,16 @@ $$
 \nabla \times E = - \frac{1}{c} \frac{\partial B}{\partial t}
 $$
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230419141438.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230419141438.png)
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230419141637.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230419141637.png)
 ## Ampère's circuital law (with Maxwell's addition)
 
 $$
 \nabla \times B = \frac{1}{c} (4\pi J + \frac{\partial E}{\partial t})
 $$
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230419141737.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230419141737.png)
 
 
 # Maxwells equation explain EM wave
@@ -184,7 +184,7 @@ $$
 
 电磁波的波段处于无法被肉眼观测的波段，直到Maxwells去世后，才被Hertz用实验证实了电磁波的存在。
 
-![](Physics/Electromagnetism/attachments/Pasted%20image%2020230419155744.png)
+![](physics/Electromagnetism/attachments/Pasted%20image%2020230419155744.png)
 
 # Reference
 
