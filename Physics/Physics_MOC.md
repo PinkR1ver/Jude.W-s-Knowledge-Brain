@@ -7,4 +7,4 @@ tags:
 
 # Electromagnetism
 
-* [Electromagnetism MOC](physics/Electromagnetism/Electromagnetism_MOC.md)
+* [Electromagnetism MOC](physics/electromagnetism/electromagnetism_MOC.md)

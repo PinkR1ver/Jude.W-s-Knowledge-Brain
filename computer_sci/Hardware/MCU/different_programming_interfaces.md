@@ -1,3 +1,8 @@
+---
+title: Different Programming Interfaces
+tags:
+  - hardware
+---
 # What is programming interfaces in MCU
 
 A **programming interface** is a device that allows a programmer to connect to a microcontroller (MCU) and program it. The programming interface is used to load the program into the MCU’s memory and debug it.

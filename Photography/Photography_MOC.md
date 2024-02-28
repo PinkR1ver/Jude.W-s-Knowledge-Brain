@@ -18,38 +18,38 @@ Also, here's my notes about learning photography
 
 ## About Basic Concepts:
 
-* [Saturation](photography/Basic/Saturation.md)
+* [Saturation](photography/basic/Saturation.md)
 
 ## Appreciation of other works - about ***aesthetic***
 
-* [👧Portrait](photography/Aesthetic/Portrait/Portrait_MOC.md)
-* [🏔Landscape](photography/Aesthetic/Landscape/Landscape_MOC.md)
-* [☝Style](photography/Aesthetic/Style/Style_MOC.md)
-* [✨Polaroid](photography/Aesthetic/Polaroid/Polaroid_aesthetic_MOC.md)
+* [👧Portrait](photography/aesthetic/Portrait/Portrait_MOC.md)
+* [🏔Landscape](photography/aesthetic/Landscape/Landscape_MOC.md)
+* [☝Style](photography/aesthetic/Style/Style_MOC.md)
+* [✨Polaroid](photography/aesthetic/Polaroid/Polaroid_aesthetic_MOC.md)
 
 ## Camera Research
 
-* [✨Polaroid](photography/Cameras_Research/Polaroid/Polaroid.md)
-* [📷Lens Structure](photography/Cameras_Research/Lens_Structure/Lens_Structure_MOC.md)
-* [📸Pocket film camera](photography/Cameras_Research/Pocket_film/Pocket_film_camera_MOC.md)
+* [✨Polaroid](photography/cameras_Research/Polaroid/Polaroid.md)
+* [📷Lens Structure](photography/cameras_Research/Lens_Structure/Lens_Structure_MOC.md)
+* [📸Pocket film camera](photography/cameras_Research/Pocket_film/Pocket_film_camera_MOC.md)
 
 ## Skills I learned
 
-* [How to measure light using Polaroid?](photography/Skills/Polaroid_light.md)
-* [How to use Moodboard](photography/Skills/Moodboard.md)
-* [How to show your Polaroid Picture](photography/Aesthetic/Polaroid/Polaroid_showcase.md)
+* [How to measure light using Polaroid?](photography/Skills/polaroid_light.md)
+* [How to use Moodboard](photography/Skills/moodboard.md)
+* [How to show your Polaroid Picture](photography/aesthetic/Polaroid/Polaroid_showcase.md)
 
 ## Photography story
 
-* [夜爬蛤蟆峰拍Polaroid慢门 - 2023.04.14](photography/Story/Rainy_evening_hiking_Polaroid.md)
+* [夜爬蛤蟆峰拍Polaroid慢门 - 2023.04.14](photography/Story/rainy_evening_hiking_Polaroid.md)
 
 ##  Mood Board
 
-* [🌊Sea - 2023.04.28](photography/MoodBoard/Sea_20230428/Sea_20230428.md)
+* [🌊Sea - 2023.04.28](photography/mood_board/Sea_20230428/Sea_20230428.md)
 
 ## Meme
 
-* [Photography meme](photography/Photography_meme/Photography_meme.md)
+* [Photography meme](photography/photography_meme/photography_meme.md)
 
 
 # Reference

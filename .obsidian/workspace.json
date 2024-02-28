@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3d571c9459c85a72",
+        "id": "b92e82cb3701d513",
         "type": "tabs",
         "children": [
           {
-            "id": "3a705e60f1327e01",
+            "id": "76b6779f098523de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,8 +177,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "76b6779f098523de",
   "lastOpenFiles": [
+    "computer_sci/hardware/MCU/different_programming_interfaces.md",
+    "assets/pdf/NUS_Transcript.pdf.md",
+    "assets/pdf/NUS_Transcript.pdf",
+    "_index.md",
+    "data_sci/data_sci_MOC.md",
+    "computer_sci/hardware/hardware_MOC.md",
+    "photography/photography_MOC.md",
+    "photography/Story/rainy_evening_hiking_Polaroid.md",
+    "photography/Skills/polaroid_light.md",
+    "photography/Skills/moodboard.md",
+    "photography/photography_meme/photography_meme.md",
+    "physics/electromagnetism/resonant_circuit.md",
+    "physics/electromagnetism/q_factor.md",
+    "physics/electromagnetism/maxwells_equation.md",
+    "physics/electromagnetism/electromagnetism_MOC.md",
+    "physics/wave/doppler_effect.md",
+    "physics/physics_MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning/deep_neural_decision_forests.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning/GRU.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning/XGBoost.md",
@@ -196,18 +206,9 @@
     "computer_sci/deep_learning_and_machine_learning/deep_learning/adaBoost.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning/deep_learning_MOC.md",
-    "atlas.md",
-    "文学/句子/Love_about.md",
-    "文学/句子/句子.md",
-    "文学/文学_MOC.md",
-    "paper_draft/radiogenomics_analysis_based_on_multimodal_mri_segmentation.md",
-    "log/2024/2/Log_28022024.md",
     "log/2024/2",
     "log/2024",
-    "math/MOC.md",
     "paper_draft",
-    "recent.md",
-    "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/ece14a615a96dddff3a74270d475afc.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/80de94d625273fa3b0c393d70e10b18.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/db79dadfffc65eb0f4c80195d92f5aa.jpg",
@@ -218,21 +219,12 @@
     "log/kk_unified_national_graduate_entrance_examination/attachments/Pasted image 20240225141740.png",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Pasted image 20240225141635.png",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Pasted image 20240225141628.png",
-    "research_career/papers_read/2024_winter_holiday/papers_read_about_pressure_injury.md",
-    "research_career/UWB_about/Untitled.md",
-    "research_career/papers_read/2024_winter_holiday/PI_overview.md",
     "research_career/papers_read/2024_winter_holiday/attachments",
-    "research_career/papers_read.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments",
-    "log/kk_unified_national_graduate_entrance_examination/study_plan.md",
-    "log/log_MOC.md",
     "log/kk_unified_national_graduate_entrance_examination",
-    "research_career/papers_read/papers_2023_11.md",
     "research_career/papers_read/2024_winter_holiday",
-    "research_career/papers_read/plan/Untitled.md",
     "research_career/plan/Next_work_plan",
     "research_career/plan",
-    "research_career/UWB_about/attachments/UWB_board_test.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

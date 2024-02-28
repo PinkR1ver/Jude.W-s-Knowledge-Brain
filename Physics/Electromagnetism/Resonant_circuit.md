@@ -19,7 +19,7 @@ tags:
 
 ## *Resonant Frequency*
 
-电容，电阻的[电抗](physics/Electromagnetism/Basic/Electric_units.md#Electrical%20impedance)相同时发生谐振
+电容，电阻的[电抗](physics/electromagnetism/Basic/Electric_units.md#Electrical%20impedance)相同时发生谐振
 
 $$
 |X_C| = |\frac{1}{j2\pi fC}| = |X_L| = |j2\pi fL|
@@ -38,7 +38,7 @@ $$
 
 * 阻抗最小，且为纯电阻，$Z = R+jXL-jXC = R$ 
 
-## **品质因子** ([*Q factor*](physics/Electromagnetism/Q_factor.md))
+## **品质因子** ([*Q factor*](physics/electromagnetism/q_factor.md))
 
 * 电感器或电容器在谐振时产生的电抗功率与电阻器消耗的平均功率之比，称为谐振时之品质因子。
 

@@ -16,7 +16,7 @@ In physics and engineering, the quality factor or Q factor is a **dimensionless*
 
 
 
-![](physics/Electromagnetism/attachments/Pasted%20image%2020230404144801.png)<font size=1>Fig. A damped oscillation. A low Q factor – about 5 here – means the oscillation dies out rapidly.</font>
+![](physics/electromagnetism/attachments/Pasted%20image%2020230404144801.png)<font size=1>Fig. A damped oscillation. A low Q factor – about 5 here – means the oscillation dies out rapidly.</font>
 
 
 Q因子较高的振子在共振时，在共振频率附近的**振幅较大**，但会产生的共振的**频率范围比较小**，此频率范围可以称为频宽。
@@ -31,7 +31,7 @@ Q因子较高的振子在共振时，在共振频率附近的**振幅较大**，
 
 # Definition
 
-![](physics/Electromagnetism/attachments/Pasted%20image%2020230404151254.png)
+![](physics/electromagnetism/attachments/Pasted%20image%2020230404151254.png)
 
 <font size=1>Fig. 一阻尼谐振子的频宽, $\Delta f$可以用频率和能量的图来表示。阻尼谐振子（或滤波器）的Q因子为$f_{0}/\Delta f$。Q因子越大，其波峰高度会越高，而其宽度会越窄</font>
 

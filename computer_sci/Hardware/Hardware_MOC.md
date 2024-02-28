@@ -10,4 +10,4 @@ tags:
 
 ## Basic concepts
 
-* [Different programming interfaces](computer_sci/Hardware/MCU/Different%20programming%20interfaces.md)
+* [different_programming_interfaces](computer_sci/hardware/MCU/different_programming_interfaces.md)
