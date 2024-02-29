@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/poem/Poem_by_me.md",
+                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/poem/Poem_by_me.md",
+                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/poem/Poem_by_me.md",
+                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/poem/Poem_by_me.md"
+                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md"
               }
             }
           },
@@ -187,6 +187,13 @@
   },
   "active": "ca6382688dbcdd60",
   "lastOpenFiles": [
+    "log/kk_unified_national_graduate_entrance_examination/attachments/679017b7d2d26502640fc20527a4002.jpg",
+    "log/kk_unified_national_graduate_entrance_examination/attachments/595a9afc67475b1743f783b538085ba.jpg",
+    "log/kk_unified_national_graduate_entrance_examination/attachments/12195d2cb4e248047ec7468c61e5411.jpg",
+    "log/kk_unified_national_graduate_entrance_examination/attachments/f5bfb6b49b88ebb0ca3c778158ff2c1.jpg",
+    "_index.md",
+    "atlas.md",
+    "文学/poem/Poem_by_me.md",
     "文学/poem/2018.md",
     "文学/poem/2022.md",
     "文学/poem/2023.md",
@@ -218,21 +225,14 @@
     "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted image 20230629104307.png",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted image 20230628160836.png",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted image 20230628161627.png",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted image 20230628145009.png",
-    "computer_sci/deep_learning_and_machine_learning/clustering/k-means/attachments/k4XcapI.gif",
-    "computer_sci/deep_learning_and_machine_learning/clustering/k-means/attachments/3ed5fee41bd566be093bebd62a33d12.jpg",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/dataset/make_custom_dataset.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/1687853622172.mp4",
     "computer_sci/deep_learning_and_machine_learning/clustering/k-means/application/color8bit_style.py",
     "computer_sci/deep_learning_and_machine_learning/NLP/basic/tokenization.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/RLHF.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/metircs/attachments",
-    "computer_sci/deep_learning_and_machine_learning/LLM/metircs/some_task.md",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/train_LLM.md",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/steps.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments",
-    "computer_sci/deep_learning_and_machine_learning/LLM/langchain/langchain_basic.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
