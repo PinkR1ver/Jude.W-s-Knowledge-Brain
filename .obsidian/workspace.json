@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6210888507764d8",
+        "id": "5d53624810afd3a1",
         "type": "tabs",
         "children": [
           {
-            "id": "ca6382688dbcdd60",
+            "id": "3837be5145099066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
+                "file": "文学/文学_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
+                "file": "文学/文学_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
+                "file": "文学/文学_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md"
+                "file": "文学/文学_MOC.md"
               }
             }
           },
@@ -185,14 +185,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca6382688dbcdd60",
+  "active": "3837be5145099066",
   "lastOpenFiles": [
+    "dota/dota2_learning_road.md",
+    "文学/文学_MOC.md",
+    "_index.md",
+    "atlas.md",
+    "recent.md",
+    "resume.md",
+    "computer_sci/software_arch/conway_law.md",
+    "computer_sci/software_arch/attachments/Pasted image 20240301112048.png",
+    "computer_sci/software_arch/attachments",
+    "computer_sci/software_arch",
+    "computer_sci/Untitled.md",
+    "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/679017b7d2d26502640fc20527a4002.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/595a9afc67475b1743f783b538085ba.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/12195d2cb4e248047ec7468c61e5411.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/f5bfb6b49b88ebb0ca3c778158ff2c1.jpg",
-    "_index.md",
-    "atlas.md",
     "文学/poem/Poem_by_me.md",
     "文学/poem/2018.md",
     "文学/poem/2022.md",
@@ -207,7 +217,6 @@
     "文学/句子/Love_about.md",
     "文学/句子/Feeling.md",
     "文学/句子/Comments.md",
-    "文学/文学_MOC.md",
     "文学/article/article_MOC.md",
     "research_career/UWB_about/flight_time/flight_time_solution.md",
     "paper_draft/radiogenomics_analysis_based_on_multimodal_mri_segmentation.md",
@@ -216,23 +225,14 @@
     "assets/pdf",
     "assets",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune/attachments/Pasted image 20230627145954.png",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune/how_to_fine_tune.md",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune/learn_finetune_byStanfordAlpaca.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune/attachments",
     "computer_sci/deep_learning_and_machine_learning/LLM/metircs/attachments/Pasted image 20230629140929.png",
     "computer_sci/deep_learning_and_machine_learning/LLM/metircs/attachments/Pasted image 20230629140914.png",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted image 20230629145231.png",
     "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted image 20230629104307.png",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted image 20230628160836.png",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments/Pasted image 20230628161627.png",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/dataset/make_custom_dataset.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/1687853622172.mp4",
     "computer_sci/deep_learning_and_machine_learning/clustering/k-means/application/color8bit_style.py",
-    "computer_sci/deep_learning_and_machine_learning/NLP/basic/tokenization.md",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/RLHF.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/metircs/attachments",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
