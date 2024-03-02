@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文学/文学_MOC.md",
+                "file": "synthetic_aperture_radar_imaging/SAR_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文学/文学_MOC.md",
+                "file": "synthetic_aperture_radar_imaging/SAR_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文学/文学_MOC.md",
+                "file": "synthetic_aperture_radar_imaging/SAR_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文学/文学_MOC.md"
+                "file": "synthetic_aperture_radar_imaging/SAR_MOC.md"
               }
             }
           },
@@ -187,8 +187,14 @@
   },
   "active": "3837be5145099066",
   "lastOpenFiles": [
-    "dota/dota2_learning_road.md",
+    "synthetic_aperture_radar_imaging/SAR_imaging_algorithm.md",
+    "synthetic_aperture_radar_imaging/SAR_explained.md",
+    "synthetic_aperture_radar_imaging/radiometric_calibration.md",
+    "synthetic_aperture_radar_imaging/chirp.md",
+    "synthetic_aperture_radar_imaging/antenna.md",
+    "synthetic_aperture_radar_imaging/SAR_MOC.md",
     "文学/文学_MOC.md",
+    "dota/dota2_learning_road.md",
     "_index.md",
     "atlas.md",
     "recent.md",
@@ -212,14 +218,6 @@
     "文学/句子/Poem.md",
     "文学/句子/Novel.md",
     "文学/句子/Music.md",
-    "文学/句子/Movie.md",
-    "文学/句子/Motivation.md",
-    "文学/句子/Love_about.md",
-    "文学/句子/Feeling.md",
-    "文学/句子/Comments.md",
-    "文学/article/article_MOC.md",
-    "research_career/UWB_about/flight_time/flight_time_solution.md",
-    "paper_draft/radiogenomics_analysis_based_on_multimodal_mri_segmentation.md",
     "paper_draft",
     "assets/pdf/NUS_Transcript.pdf",
     "assets/pdf",
