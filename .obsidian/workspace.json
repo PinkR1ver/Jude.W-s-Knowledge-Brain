@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d53624810afd3a1",
+        "id": "610d8d9616bd9fae",
         "type": "tabs",
         "children": [
           {
-            "id": "3837be5145099066",
+            "id": "ac1535b3d820d9ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md"
+                "file": "literature/sentence/comments.md"
               }
             }
           },
@@ -185,8 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3837be5145099066",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
+    "literature/sentence/music.md",
+    "literature/sentence/comments.md",
+    "literature/sentence/oops.md",
+    "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172343.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172338.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172326.jpg",
@@ -202,12 +200,10 @@
     "literature/sentence/wisdom.md",
     "literature/sentence/poem.md",
     "literature/sentence/novel.md",
-    "literature/sentence/music.md",
     "literature/sentence/movie.md",
     "literature/sentence/motivation.md",
     "literature/sentence/love_about.md",
     "literature/sentence/feeling.md",
-    "literature/sentence/comments.md",
     "synthetic_aperture_radar_imaging/SAR_MOC.md",
     "synthetic_aperture_radar_imaging/SAR_imaging_algorithm.md",
     "synthetic_aperture_radar_imaging/SAR_explained.md",
@@ -220,11 +216,9 @@
     "recent.md",
     "resume.md",
     "computer_sci/software_arch/conway_law.md",
-    "computer_sci/software_arch/attachments/Pasted image 20240301112048.png",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
     "computer_sci/Untitled.md",
-    "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "paper_draft",
     "assets/pdf/NUS_Transcript.pdf",
     "assets/pdf",
