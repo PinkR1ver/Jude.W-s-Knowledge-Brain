@@ -11,8 +11,12 @@
             "id": "ac1535b3d820d9ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "computer_sci/coding_knowledge/python/underline_in_python.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer_sci/coding_knowledge/python/underline_in_python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer_sci/coding_knowledge/python/underline_in_python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature/sentence/comments.md"
+                "file": "computer_sci/coding_knowledge/python/underline_in_python.md"
               }
             }
           },
@@ -179,10 +185,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "ac1535b3d820d9ae",
   "lastOpenFiles": [
-    "literature/sentence/music.md",
+    "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
+    "computer_sci/coding_knowledge/python/underline_in_python.md",
     "literature/sentence/comments.md",
+    "literature/sentence/music.md",
     "literature/sentence/oops.md",
     "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172343.jpg",
@@ -215,10 +223,8 @@
     "atlas.md",
     "recent.md",
     "resume.md",
-    "computer_sci/software_arch/conway_law.md",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
-    "computer_sci/Untitled.md",
     "paper_draft",
     "assets/pdf/NUS_Transcript.pdf",
     "assets/pdf",
