@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
+                "file": "literature/sentence/music.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
+                "file": "literature/sentence/music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
+                "file": "literature/sentence/music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/kk_unified_national_graduate_entrance_examination/kk_note.md"
+                "file": "literature/sentence/music.md"
               }
             }
           },
@@ -187,6 +187,9 @@
   },
   "active": "ac1535b3d820d9ae",
   "lastOpenFiles": [
+    "computer_sci/code_frame_learn/MOC.md",
+    "computer_sci/code_frame_learn/flask/MOC.md",
+    "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151341.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151330.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151321.jpg",
@@ -195,7 +198,6 @@
     "literature/sentence/comments.md",
     "literature/sentence/music.md",
     "literature/sentence/oops.md",
-    "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172343.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172338.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172326.jpg",
@@ -203,7 +205,6 @@
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172217.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172208.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172204.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172159.jpg",
     "literature/literature_MOC.md",
     "literature/sentence/sentence_MOC.md",
     "literature/sentence/wisdom.md",
@@ -222,7 +223,6 @@
     "dota/dota2_learning_road.md",
     "_index.md",
     "atlas.md",
-    "recent.md",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
     "paper_draft",
