@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "610d8d9616bd9fae",
+        "id": "3109a3bce8d3ed13",
         "type": "tabs",
         "children": [
           {
-            "id": "ac1535b3d820d9ae",
+            "id": "1dbd94f5f987e6e0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/pdf/ZJU_Transcript_undergraduate.pdf"
+              }
+            }
+          },
+          {
+            "id": "10889bd755763e55",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/pdf/NUS_Transcript_exchange.pdf"
+              }
+            }
+          },
+          {
+            "id": "54f4035bda098f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
+                "file": "resume.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
+                "file": "resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
+                "file": "resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md"
+                "file": "resume.md"
               }
-            }
-          },
-          {
-            "id": "ad0a4f05dd38b89c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -158,6 +171,14 @@
             }
           },
           {
+            "id": "ad0a4f05dd38b89c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "2d7728a904d173de",
             "type": "leaf",
             "state": {
@@ -170,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,15 +206,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac1535b3d820d9ae",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
-    "computer_sci/code_frame_learn/MOC.md",
+    "assets/pdf/ZJU_Transcript_undergraduate.pdf",
+    "assets/pdf/NUS_Transcript_exchange.pdf",
     "resume.md",
-    "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
     "computer_sci/code_frame_learn/flask/MSGI.md",
+    "computer_sci/web/http/http_introduction.md",
+    "computer_sci/web/http/attachments/Pasted image 20240307164822.png",
+    "computer_sci/web/http/attachments/Pasted image 20240307164808.png",
+    "computer_sci/web/http/attachments/Pasted image 20240307164046.png",
+    "computer_sci/web/http/attachments",
+    "computer_sci/web/http",
+    "computer_sci/web",
+    "computer_sci/code_frame_learn/flask/MOC.md",
+    "computer_sci/code_frame_learn/MOC.md",
+    "computer_sci/coding_knowledge/coding_lang_MOC.md",
+    "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
     "research_career/oral_defense",
     "research_career/Untitled.md",
-    "computer_sci/code_frame_learn/flask/MOC.md",
     "literature/sentence/music.md",
     "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151341.jpg",
@@ -207,9 +238,6 @@
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172338.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172326.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172222.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172217.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172208.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172204.jpg",
     "literature/literature_MOC.md",
     "literature/sentence/sentence_MOC.md",
     "literature/sentence/wisdom.md",
@@ -221,18 +249,10 @@
     "literature/sentence/feeling.md",
     "synthetic_aperture_radar_imaging/SAR_MOC.md",
     "synthetic_aperture_radar_imaging/SAR_imaging_algorithm.md",
-    "synthetic_aperture_radar_imaging/SAR_explained.md",
-    "synthetic_aperture_radar_imaging/radiometric_calibration.md",
-    "synthetic_aperture_radar_imaging/chirp.md",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
     "paper_draft",
-    "assets/pdf/NUS_Transcript.pdf",
     "assets/pdf",
-    "assets",
-    "computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune/attachments",
-    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/1687853622172.mp4",
-    "computer_sci/deep_learning_and_machine_learning/clustering/k-means/application/color8bit_style.py",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
