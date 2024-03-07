@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume.md"
+                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md"
               }
             }
           },
@@ -187,13 +187,14 @@
   },
   "active": "ac1535b3d820d9ae",
   "lastOpenFiles": [
+    "computer_sci/code_frame_learn/MOC.md",
+    "resume.md",
     "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
     "computer_sci/code_frame_learn/flask/MSGI.md",
     "research_career/oral_defense",
     "research_career/Untitled.md",
     "computer_sci/code_frame_learn/flask/MOC.md",
     "literature/sentence/music.md",
-    "computer_sci/code_frame_learn/MOC.md",
     "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151341.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151330.jpg",
@@ -223,7 +224,6 @@
     "synthetic_aperture_radar_imaging/SAR_explained.md",
     "synthetic_aperture_radar_imaging/radiometric_calibration.md",
     "synthetic_aperture_radar_imaging/chirp.md",
-    "synthetic_aperture_radar_imaging/antenna.md",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
     "paper_draft",
