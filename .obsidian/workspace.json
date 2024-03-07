@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
+                "file": "resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
+                "file": "resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
+                "file": "resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/oral_defense/PhD_oral_defense_venue_layout.md"
+                "file": "resume.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "ac1535b3d820d9ae",
   "lastOpenFiles": [
-    "computer_sci/code_frame_learn/flask/MSGI.md",
     "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
+    "computer_sci/code_frame_learn/flask/MSGI.md",
     "research_career/oral_defense",
     "research_career/Untitled.md",
     "computer_sci/code_frame_learn/flask/MOC.md",
