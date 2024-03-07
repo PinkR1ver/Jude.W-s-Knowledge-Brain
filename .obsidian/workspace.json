@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/code_frame_learn/flask/MSGI.md",
+                "file": "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/code_frame_learn/flask/MSGI.md",
+                "file": "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/code_frame_learn/flask/MSGI.md",
+                "file": "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/code_frame_learn/flask/MSGI.md"
+                "file": "research_career/oral_defense/PhD_oral_defense_venue_layout.md"
               }
             }
           },
@@ -187,8 +187,11 @@
   },
   "active": "ac1535b3d820d9ae",
   "lastOpenFiles": [
-    "computer_sci/code_frame_learn/flask/MOC.md",
     "computer_sci/code_frame_learn/flask/MSGI.md",
+    "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
+    "research_career/oral_defense",
+    "research_career/Untitled.md",
+    "computer_sci/code_frame_learn/flask/MOC.md",
     "literature/sentence/music.md",
     "computer_sci/code_frame_learn/MOC.md",
     "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
@@ -221,8 +224,6 @@
     "synthetic_aperture_radar_imaging/radiometric_calibration.md",
     "synthetic_aperture_radar_imaging/chirp.md",
     "synthetic_aperture_radar_imaging/antenna.md",
-    "dota/dota2_learning_road.md",
-    "_index.md",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
     "paper_draft",
@@ -232,7 +233,6 @@
     "computer_sci/deep_learning_and_machine_learning/LLM/train/finr_tune/attachments",
     "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/1687853622172.mp4",
     "computer_sci/deep_learning_and_machine_learning/clustering/k-means/application/color8bit_style.py",
-    "computer_sci/deep_learning_and_machine_learning/LLM/metircs/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
