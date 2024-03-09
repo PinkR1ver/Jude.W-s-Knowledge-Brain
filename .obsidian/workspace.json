@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3109a3bce8d3ed13",
+        "id": "b7e4f264e60f9875",
         "type": "tabs",
         "children": [
           {
-            "id": "1dbd94f5f987e6e0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/pdf/ZJU_Transcript_undergraduate.pdf"
-              }
-            }
-          },
-          {
-            "id": "10889bd755763e55",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/pdf/NUS_Transcript_exchange.pdf"
-              }
-            }
-          },
-          {
-            "id": "54f4035bda098f6c",
+            "id": "dd79565b3ce5bfad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/python/python_decorator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/python/python_decorator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/python/python_decorator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume.md"
+                "file": "computer_sci/coding_knowledge/python/python_decorator.md"
               }
             }
           },
@@ -206,22 +185,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "dd79565b3ce5bfad",
   "lastOpenFiles": [
+    "computer_sci/coding_knowledge/python/underline_in_python.md",
+    "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
+    "computer_sci/coding_knowledge/python/python_decorator.md",
+    "computer_sci/coding_knowledge/coding_lang_MOC.md",
+    "computer_sci/web/http/http_introduction.md",
+    "computer_sci/code_frame_learn/flask/MSGI.md",
+    "computer_sci/code_frame_learn/flask/MOC.md",
     "assets/pdf/ZJU_Transcript_undergraduate.pdf",
     "assets/pdf/NUS_Transcript_exchange.pdf",
+    "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
+    "computer_sci/web/http/attachments/Pasted image 20240308151842.png",
     "resume.md",
-    "computer_sci/code_frame_learn/flask/MSGI.md",
-    "computer_sci/web/http/http_introduction.md",
     "computer_sci/web/http/attachments/Pasted image 20240307164822.png",
     "computer_sci/web/http/attachments/Pasted image 20240307164808.png",
     "computer_sci/web/http/attachments/Pasted image 20240307164046.png",
     "computer_sci/web/http/attachments",
     "computer_sci/web/http",
     "computer_sci/web",
-    "computer_sci/code_frame_learn/flask/MOC.md",
     "computer_sci/code_frame_learn/MOC.md",
-    "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
     "research_career/oral_defense",
     "research_career/Untitled.md",
@@ -230,14 +214,10 @@
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151341.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151330.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151321.jpg",
-    "computer_sci/coding_knowledge/python/underline_in_python.md",
-    "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
     "literature/sentence/comments.md",
     "literature/sentence/oops.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172343.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172338.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172326.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172222.jpg",
     "literature/literature_MOC.md",
     "literature/sentence/sentence_MOC.md",
     "literature/sentence/wisdom.md",
