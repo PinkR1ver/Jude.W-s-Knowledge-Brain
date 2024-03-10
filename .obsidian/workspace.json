@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/python/python_decorator.md",
+                "file": "computer_sci/coding_knowledge/python/assert_in_python.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/python/python_decorator.md",
+                "file": "computer_sci/coding_knowledge/python/assert_in_python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/python/python_decorator.md",
+                "file": "computer_sci/coding_knowledge/python/assert_in_python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/python/python_decorator.md"
+                "file": "computer_sci/coding_knowledge/python/assert_in_python.md"
               }
             }
           },
@@ -187,9 +187,10 @@
   },
   "active": "dd79565b3ce5bfad",
   "lastOpenFiles": [
+    "computer_sci/coding_knowledge/python/python_decorator.md",
+    "computer_sci/coding_knowledge/python/assert_in_python.md",
     "computer_sci/coding_knowledge/python/underline_in_python.md",
     "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
-    "computer_sci/coding_knowledge/python/python_decorator.md",
     "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "computer_sci/web/http/http_introduction.md",
     "computer_sci/code_frame_learn/flask/MSGI.md",
@@ -228,7 +229,6 @@
     "literature/sentence/love_about.md",
     "literature/sentence/feeling.md",
     "synthetic_aperture_radar_imaging/SAR_MOC.md",
-    "synthetic_aperture_radar_imaging/SAR_imaging_algorithm.md",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
     "paper_draft",
