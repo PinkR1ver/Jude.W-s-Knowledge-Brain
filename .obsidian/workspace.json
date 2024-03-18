@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/curve_similarity/curve_similarity.md",
+                "file": "signal_processing/signal_processing_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/curve_similarity/curve_similarity.md",
+                "file": "signal_processing/signal_processing_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/curve_similarity/curve_similarity.md",
+                "file": "signal_processing/signal_processing_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/curve_similarity/curve_similarity.md"
+                "file": "signal_processing/signal_processing_MOC.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "7e2ab3c91c316866",
   "lastOpenFiles": [
-    "signal_processing/curve_similarity/manhattan_distance.md",
     "signal_processing/curve_similarity/curve_similarity.md",
+    "signal_processing/curve_similarity/manhattan_distance.md",
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/curve_similarity",
     "signal_processing/envelope/hilbert_transform.md",
