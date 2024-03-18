@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc8f755a63d14a2",
+        "id": "5f1fed830d33d13f",
         "type": "tabs",
         "children": [
           {
-            "id": "1376460b45398c73",
+            "id": "7e2ab3c91c316866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/python/package_in_python.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/python/package_in_python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/python/package_in_python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume.md"
+                "file": "computer_sci/coding_knowledge/python/package_in_python.md"
               }
             }
           },
@@ -185,23 +185,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1376460b45398c73",
+  "active": "7e2ab3c91c316866",
   "lastOpenFiles": [
-    "_index.md",
+    "computer_sci/coding_knowledge/python/python_namespace_pollution.md",
+    "computer_sci/coding_knowledge/python/package_in_python.md",
+    "computer_sci/coding_knowledge/python/assert_in_python.md",
+    "computer_sci/coding_knowledge/python/underline_in_python.md",
+    "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
+    "computer_sci/coding_knowledge/web/html_double_curly_braces.md",
     "resume.md",
+    "assets/pic/me.jpg",
+    "_index.md",
     "recent.md",
     "atlas.md",
-    "assets/pic/me.jpg",
     "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "assets/pic",
     "assets/Untitled.md",
-    "computer_sci/coding_knowledge/web/html_double_curly_braces.md",
     "computer_sci/web/http/http_introduction.md",
-    "computer_sci/coding_knowledge/python/assert_in_python.md",
     "computer_sci/coding_knowledge/web",
     "computer_sci/coding_knowledge/python/python_decorator.md",
-    "computer_sci/coding_knowledge/python/underline_in_python.md",
-    "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
     "computer_sci/code_frame_learn/flask/MSGI.md",
     "computer_sci/code_frame_learn/flask/MOC.md",
     "assets/pdf/ZJU_Transcript_undergraduate.pdf",
@@ -229,8 +231,6 @@
     "literature/literature_MOC.md",
     "literature/sentence/sentence_MOC.md",
     "literature/sentence/wisdom.md",
-    "literature/sentence/poem.md",
-    "literature/sentence/novel.md",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
     "Untitled.canvas",
