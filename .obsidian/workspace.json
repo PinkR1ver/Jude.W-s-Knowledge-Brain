@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/python/package_in_python.md",
+                "file": "atlas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/python/package_in_python.md",
+                "file": "atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/python/package_in_python.md",
+                "file": "atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/python/package_in_python.md"
+                "file": "atlas.md"
               }
             }
           },
@@ -187,18 +187,20 @@
   },
   "active": "7e2ab3c91c316866",
   "lastOpenFiles": [
-    "computer_sci/coding_knowledge/python/python_namespace_pollution.md",
-    "computer_sci/coding_knowledge/python/package_in_python.md",
-    "computer_sci/coding_knowledge/python/assert_in_python.md",
+    "synthetic_aperture_radar_imaging/SAR_MOC.md",
+    "atlas.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
+    "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "computer_sci/coding_knowledge/python/underline_in_python.md",
+    "computer_sci/coding_knowledge/python/package_in_python.md",
+    "computer_sci/coding_knowledge/python/python_namespace_pollution.md",
+    "computer_sci/coding_knowledge/python/assert_in_python.md",
     "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
     "computer_sci/coding_knowledge/web/html_double_curly_braces.md",
     "resume.md",
     "assets/pic/me.jpg",
     "_index.md",
     "recent.md",
-    "atlas.md",
-    "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "assets/pic",
     "assets/Untitled.md",
     "computer_sci/web/http/http_introduction.md",
@@ -229,8 +231,6 @@
     "literature/sentence/oops.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172343.jpg",
     "literature/literature_MOC.md",
-    "literature/sentence/sentence_MOC.md",
-    "literature/sentence/wisdom.md",
     "computer_sci/software_arch/attachments",
     "computer_sci/software_arch",
     "Untitled.canvas",
