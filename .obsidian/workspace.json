@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
+                "file": "signal_processing/curve_similarity/curve_similarity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
+                "file": "signal_processing/curve_similarity/curve_similarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
+                "file": "signal_processing/curve_similarity/curve_similarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md"
+                "file": "signal_processing/curve_similarity/curve_similarity.md"
               }
             }
           },
@@ -187,6 +187,15 @@
   },
   "active": "7e2ab3c91c316866",
   "lastOpenFiles": [
+    "signal_processing/curve_similarity/manhattan_distance.md",
+    "signal_processing/curve_similarity/curve_similarity.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/curve_similarity",
+    "signal_processing/envelope/hilbert_transform.md",
+    "signal_processing/radio_communication/Near_far_field.md",
+    "signal_processing/PSD_estimation/PSD_estimation.md",
+    "computer_sci/coding_knowledge/coding_lang_MOC.md",
+    "signal_processing/Untitled.md",
     "computer_sci/coding_knowledge/python/python_import_different_folder.md",
     "computer_sci/coding_knowledge/python/about_private_and_public.md",
     "computer_sci/coding_knowledge/python/underline_in_python.md",
@@ -195,7 +204,6 @@
     "atlas.md",
     "synthetic_aperture_radar_imaging/SAR_MOC.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
-    "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "computer_sci/coding_knowledge/python/package_in_python.md",
     "computer_sci/coding_knowledge/python/assert_in_python.md",
     "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
@@ -209,7 +217,6 @@
     "computer_sci/web/http/http_introduction.md",
     "computer_sci/coding_knowledge/web",
     "computer_sci/code_frame_learn/flask/MSGI.md",
-    "computer_sci/code_frame_learn/flask/MOC.md",
     "assets/pdf/ZJU_Transcript_undergraduate.pdf",
     "assets/pdf/NUS_Transcript_exchange.pdf",
     "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
@@ -220,19 +227,12 @@
     "computer_sci/web/http/attachments",
     "computer_sci/web/http",
     "computer_sci/web",
-    "computer_sci/code_frame_learn/MOC.md",
-    "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
     "research_career/oral_defense",
-    "research_career/Untitled.md",
-    "literature/sentence/music.md",
-    "log/kk_unified_national_graduate_entrance_examination/kk_note.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151341.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151330.jpg",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151321.jpg",
-    "literature/sentence/comments.md",
     "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172343.jpg",
     "computer_sci/software_arch/attachments",
-    "computer_sci/software_arch",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
