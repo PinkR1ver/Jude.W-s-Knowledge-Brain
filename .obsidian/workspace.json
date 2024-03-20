@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1fed830d33d13f",
+        "id": "d620a94ca579ec53",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2ab3c91c316866",
+            "id": "581ee69956307506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "computer_sci/coding_knowledge/matlab/uicontrol.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "computer_sci/coding_knowledge/matlab/uicontrol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "computer_sci/coding_knowledge/matlab/uicontrol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md"
+                "file": "computer_sci/coding_knowledge/matlab/uicontrol.md"
               }
             }
           },
@@ -185,16 +185,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e2ab3c91c316866",
+  "active": "581ee69956307506",
   "lastOpenFiles": [
+    "assets/pdf/master_transcript.pdf",
+    "computer_sci/coding_knowledge/js/DOM.md",
+    "resume.md",
+    "assets/pic/outstanding_graduates_of_zhejiang_university.jpg",
+    "assets/pdf/undergraudate.pdf",
+    "assets/pic/zhejiang_university_scholarship_third_prize.png",
+    "assets/pic/me.jpg",
+    "assets/pic/artistic_and_athletic_achievement_award1920.png",
+    "assets/pic/academic_excellent_1920.png",
+    "assets/pic/academic_excellent_award1819.png",
+    "computer_sci/coding_knowledge/coding_lang_MOC.md",
+    "computer_sci/coding_knowledge/matlab/uicontrol.md",
+    "computer_sci/coding_knowledge/matlab",
+    "computer_sci/coding_knowledge/js",
+    "signal_processing/signal_processing_MOC.md",
     "signal_processing/curve_similarity/curve_similarity.md",
     "signal_processing/curve_similarity/manhattan_distance.md",
-    "signal_processing/signal_processing_MOC.md",
     "signal_processing/curve_similarity",
     "signal_processing/envelope/hilbert_transform.md",
     "signal_processing/radio_communication/Near_far_field.md",
     "signal_processing/PSD_estimation/PSD_estimation.md",
-    "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "signal_processing/Untitled.md",
     "computer_sci/coding_knowledge/python/python_import_different_folder.md",
     "computer_sci/coding_knowledge/python/about_private_and_public.md",
@@ -208,31 +221,18 @@
     "computer_sci/coding_knowledge/python/assert_in_python.md",
     "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
     "computer_sci/coding_knowledge/web/html_double_curly_braces.md",
-    "resume.md",
-    "assets/pic/me.jpg",
     "_index.md",
     "recent.md",
     "assets/pic",
-    "assets/Untitled.md",
-    "computer_sci/web/http/http_introduction.md",
     "computer_sci/coding_knowledge/web",
-    "computer_sci/code_frame_learn/flask/MSGI.md",
     "assets/pdf/ZJU_Transcript_undergraduate.pdf",
     "assets/pdf/NUS_Transcript_exchange.pdf",
     "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
     "computer_sci/web/http/attachments/Pasted image 20240308151842.png",
     "computer_sci/web/http/attachments/Pasted image 20240307164822.png",
     "computer_sci/web/http/attachments/Pasted image 20240307164808.png",
-    "computer_sci/web/http/attachments/Pasted image 20240307164046.png",
     "computer_sci/web/http/attachments",
     "computer_sci/web/http",
-    "computer_sci/web",
-    "research_career/oral_defense",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151341.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151330.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240306151321.jpg",
-    "log/kk_unified_national_graduate_entrance_examination/attachments/Weixin Image_20240302172343.jpg",
-    "computer_sci/software_arch/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
