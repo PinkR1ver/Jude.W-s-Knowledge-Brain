@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/matlab/uicontrol.md",
+                "file": "design/transform/shear.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/matlab/uicontrol.md",
+                "file": "design/transform/shear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/matlab/uicontrol.md",
+                "file": "design/transform/shear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/matlab/uicontrol.md"
+                "file": "design/transform/shear.md"
               }
             }
           },
@@ -187,9 +187,19 @@
   },
   "active": "581ee69956307506",
   "lastOpenFiles": [
-    "assets/pdf/master_transcript.pdf",
-    "computer_sci/coding_knowledge/js/DOM.md",
+    "design/transform/attachments/Pasted image 20240322111458.png",
+    "design/transform/attachments/Pasted image 20240322111022.png",
+    "design/transform/attachments",
+    "design/design_moc.md",
+    "design/transform/shear.md",
+    "atlas.md",
     "resume.md",
+    "recent.md",
+    "computer_sci/coding_knowledge/js/DOM.md",
+    "design/transform",
+    "design",
+    "computer_sci/coding_knowledge/matlab/uicontrol.md",
+    "assets/pdf/master_transcript.pdf",
     "assets/pic/outstanding_graduates_of_zhejiang_university.jpg",
     "assets/pdf/undergraudate.pdf",
     "assets/pic/zhejiang_university_scholarship_third_prize.png",
@@ -198,7 +208,6 @@
     "assets/pic/academic_excellent_1920.png",
     "assets/pic/academic_excellent_award1819.png",
     "computer_sci/coding_knowledge/coding_lang_MOC.md",
-    "computer_sci/coding_knowledge/matlab/uicontrol.md",
     "computer_sci/coding_knowledge/matlab",
     "computer_sci/coding_knowledge/js",
     "signal_processing/signal_processing_MOC.md",
@@ -214,25 +223,16 @@
     "computer_sci/coding_knowledge/python/underline_in_python.md",
     "computer_sci/coding_knowledge/python/python_namespace_pollution.md",
     "computer_sci/coding_knowledge/python/python_decorator.md",
-    "atlas.md",
     "synthetic_aperture_radar_imaging/SAR_MOC.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
     "computer_sci/coding_knowledge/python/package_in_python.md",
     "computer_sci/coding_knowledge/python/assert_in_python.md",
     "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
-    "computer_sci/coding_knowledge/web/html_double_curly_braces.md",
-    "_index.md",
-    "recent.md",
     "assets/pic",
     "computer_sci/coding_knowledge/web",
-    "assets/pdf/ZJU_Transcript_undergraduate.pdf",
-    "assets/pdf/NUS_Transcript_exchange.pdf",
     "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
     "computer_sci/web/http/attachments/Pasted image 20240308151842.png",
     "computer_sci/web/http/attachments/Pasted image 20240307164822.png",
-    "computer_sci/web/http/attachments/Pasted image 20240307164808.png",
-    "computer_sci/web/http/attachments",
-    "computer_sci/web/http",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
