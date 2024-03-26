@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/transform/shear.md",
+                "file": "computer_sci/coding_knowledge/js/DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/transform/shear.md",
+                "file": "computer_sci/coding_knowledge/js/DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/transform/shear.md",
+                "file": "computer_sci/coding_knowledge/js/DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/transform/shear.md"
+                "file": "computer_sci/coding_knowledge/js/DOM.md"
               }
             }
           },
@@ -185,17 +185,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "581ee69956307506",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
+    "computer_sci/coding_knowledge/js/framer/intro.md",
+    "computer_sci/coding_knowledge/js/DOM.md",
+    "resume.md",
+    "conference/2024.md",
+    "computer_sci/coding_knowledge/js/framer/framer_MOC.md",
+    "computer_sci/coding_knowledge/js/framer",
+    "_index.md",
+    "conference",
+    "design/transform/shear.md",
     "design/transform/attachments/Pasted image 20240322111458.png",
     "design/transform/attachments/Pasted image 20240322111022.png",
     "design/transform/attachments",
     "design/design_moc.md",
-    "design/transform/shear.md",
     "atlas.md",
-    "resume.md",
     "recent.md",
-    "computer_sci/coding_knowledge/js/DOM.md",
     "design/transform",
     "design",
     "computer_sci/coding_knowledge/matlab/uicontrol.md",
@@ -225,14 +231,8 @@
     "computer_sci/coding_knowledge/python/python_decorator.md",
     "synthetic_aperture_radar_imaging/SAR_MOC.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
-    "computer_sci/coding_knowledge/python/package_in_python.md",
-    "computer_sci/coding_knowledge/python/assert_in_python.md",
-    "computer_sci/coding_knowledge/python/python_doesnt_need_pointer.md",
-    "assets/pic",
-    "computer_sci/coding_knowledge/web",
     "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
     "computer_sci/web/http/attachments/Pasted image 20240308151842.png",
-    "computer_sci/web/http/attachments/Pasted image 20240307164822.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
