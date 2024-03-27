@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/DOM.md",
+                "file": "resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/DOM.md",
+                "file": "resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/DOM.md",
+                "file": "resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/DOM.md"
+                "file": "resume.md"
               }
             }
           },
@@ -185,10 +185,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "581ee69956307506",
   "lastOpenFiles": [
-    "computer_sci/coding_knowledge/js/framer/intro.md",
     "computer_sci/coding_knowledge/js/DOM.md",
+    "computer_sci/coding_knowledge/js/framer/intro.md",
     "resume.md",
     "conference/2024.md",
     "computer_sci/coding_knowledge/js/framer/framer_MOC.md",
