@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume.md",
+                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume.md"
+                "file": "computer_sci/coding_knowledge/coding_lang_MOC.md"
               }
             }
           },
@@ -187,9 +187,11 @@
   },
   "active": "581ee69956307506",
   "lastOpenFiles": [
+    "computer_sci/coding_knowledge/js/TypeScript_vs_JavaScript.md",
     "computer_sci/coding_knowledge/js/DOM.md",
-    "computer_sci/coding_knowledge/js/framer/intro.md",
+    "computer_sci/coding_knowledge/matlab/uicontrol.md",
     "resume.md",
+    "computer_sci/coding_knowledge/js/framer/intro.md",
     "conference/2024.md",
     "computer_sci/coding_knowledge/js/framer/framer_MOC.md",
     "computer_sci/coding_knowledge/js/framer",
@@ -204,7 +206,6 @@
     "recent.md",
     "design/transform",
     "design",
-    "computer_sci/coding_knowledge/matlab/uicontrol.md",
     "assets/pdf/master_transcript.pdf",
     "assets/pic/outstanding_graduates_of_zhejiang_university.jpg",
     "assets/pdf/undergraudate.pdf",
@@ -230,7 +231,6 @@
     "computer_sci/coding_knowledge/python/python_namespace_pollution.md",
     "computer_sci/coding_knowledge/python/python_decorator.md",
     "synthetic_aperture_radar_imaging/SAR_MOC.md",
-    "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
     "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
     "computer_sci/web/http/attachments/Pasted image 20240308151842.png",
     "Untitled.canvas",
