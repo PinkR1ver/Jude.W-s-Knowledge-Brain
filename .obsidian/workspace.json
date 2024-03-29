@@ -13,9 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/callbacks.md",
+                "file": "physics/electromagnetism/radio_communications/a_good_article_about_radios.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d0c5a9a37942783c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/pdf/undergraudate.pdf"
+              }
+            }
+          },
+          {
+            "id": "76440ca561016edf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/pdf/master_transcript.pdf"
+              }
+            }
+          },
+          {
+            "id": "47b29035e9b45f15",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/pdf/ZJU_Transcript_undergraduate.pdf"
               }
             }
           }
@@ -93,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/callbacks.md",
+                "file": "physics/electromagnetism/radio_communications/a_good_article_about_radios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/callbacks.md",
+                "file": "physics/electromagnetism/radio_communications/a_good_article_about_radios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/callbacks.md"
+                "file": "physics/electromagnetism/radio_communications/a_good_article_about_radios.md"
               }
             }
           },
@@ -187,8 +217,15 @@
   },
   "active": "581ee69956307506",
   "lastOpenFiles": [
-    "computer_sci/coding_knowledge/js/var_let_const.md",
+    "assets/pdf/master_transcript.pdf",
+    "assets/pdf/ZJU_Transcript_undergraduate.pdf",
+    "assets/pdf/undergraudate.pdf",
+    "physics/electromagnetism/radio_communications/a_good_article_about_radios.md",
+    "physics/electromagnetism/maxwells_equation.md",
+    "physics/electromagnetism/radio_communications",
     "computer_sci/coding_knowledge/js/callbacks.md",
+    "physics/electromagnetism/Untitled.md",
+    "computer_sci/coding_knowledge/js/var_let_const.md",
     "computer_sci/coding_knowledge/js/proxy_in_js.md",
     "computer_sci/coding_knowledge/js/TypeScript_vs_JavaScript.md",
     "computer_sci/coding_knowledge/coding_lang_MOC.md",
@@ -210,9 +247,7 @@
     "recent.md",
     "design/transform",
     "design",
-    "assets/pdf/master_transcript.pdf",
     "assets/pic/outstanding_graduates_of_zhejiang_university.jpg",
-    "assets/pdf/undergraudate.pdf",
     "assets/pic/zhejiang_university_scholarship_third_prize.png",
     "assets/pic/me.jpg",
     "assets/pic/artistic_and_athletic_achievement_award1920.png",
@@ -223,14 +258,9 @@
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/curve_similarity/curve_similarity.md",
     "signal_processing/curve_similarity/manhattan_distance.md",
-    "signal_processing/curve_similarity",
     "signal_processing/envelope/hilbert_transform.md",
     "signal_processing/radio_communication/Near_far_field.md",
     "signal_processing/PSD_estimation/PSD_estimation.md",
-    "signal_processing/Untitled.md",
-    "computer_sci/coding_knowledge/python/python_import_different_folder.md",
-    "computer_sci/coding_knowledge/python/about_private_and_public.md",
-    "computer_sci/coding_knowledge/python/underline_in_python.md",
     "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
     "computer_sci/web/http/attachments/Pasted image 20240308151842.png",
     "Untitled.canvas",
