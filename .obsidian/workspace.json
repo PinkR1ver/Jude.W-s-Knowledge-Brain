@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/var_let_const.md",
+                "file": "computer_sci/coding_knowledge/js/callbacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/var_let_const.md",
+                "file": "computer_sci/coding_knowledge/js/callbacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/var_let_const.md",
+                "file": "computer_sci/coding_knowledge/js/callbacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/var_let_const.md"
+                "file": "computer_sci/coding_knowledge/js/callbacks.md"
               }
             }
           },
@@ -187,9 +187,10 @@
   },
   "active": "581ee69956307506",
   "lastOpenFiles": [
+    "computer_sci/coding_knowledge/js/var_let_const.md",
+    "computer_sci/coding_knowledge/js/callbacks.md",
     "computer_sci/coding_knowledge/js/proxy_in_js.md",
     "computer_sci/coding_knowledge/js/TypeScript_vs_JavaScript.md",
-    "computer_sci/coding_knowledge/js/var_let_const.md",
     "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "computer_sci/coding_knowledge/js/DOM.md",
     "computer_sci/coding_knowledge/matlab/uicontrol.md",
@@ -230,7 +231,6 @@
     "computer_sci/coding_knowledge/python/python_import_different_folder.md",
     "computer_sci/coding_knowledge/python/about_private_and_public.md",
     "computer_sci/coding_knowledge/python/underline_in_python.md",
-    "computer_sci/coding_knowledge/python/python_namespace_pollution.md",
     "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
     "computer_sci/web/http/attachments/Pasted image 20240308151842.png",
     "Untitled.canvas",
