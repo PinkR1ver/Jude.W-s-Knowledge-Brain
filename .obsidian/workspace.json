@@ -13,39 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/for_loop.md",
+                "file": "computer_sci/coding_knowledge/js/rest_parameters_argument_objects_spread_syntax.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d0c5a9a37942783c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/pdf/undergraudate.pdf"
-              }
-            }
-          },
-          {
-            "id": "76440ca561016edf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/pdf/master_transcript.pdf"
-              }
-            }
-          },
-          {
-            "id": "47b29035e9b45f15",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "assets/pdf/ZJU_Transcript_undergraduate.pdf"
               }
             }
           }
@@ -123,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/for_loop.md",
+                "file": "computer_sci/coding_knowledge/js/rest_parameters_argument_objects_spread_syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/for_loop.md",
+                "file": "computer_sci/coding_knowledge/js/rest_parameters_argument_objects_spread_syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/for_loop.md"
+                "file": "computer_sci/coding_knowledge/js/rest_parameters_argument_objects_spread_syntax.md"
               }
             }
           },
@@ -217,12 +187,16 @@
   },
   "active": "581ee69956307506",
   "lastOpenFiles": [
-    "computer_sci/coding_knowledge/js/callbacks.md",
-    "computer_sci/coding_knowledge/js/for_loop.md",
-    "computer_sci/coding_knowledge/js/DOM.md",
-    "computer_sci/coding_knowledge/js/proxy_in_js.md",
-    "computer_sci/coding_knowledge/js/TypeScript_vs_JavaScript.md",
+    "computer_sci/coding_knowledge/js/attachments/Pasted image 20240330164937.png",
+    "computer_sci/coding_knowledge/js/attachments",
     "computer_sci/coding_knowledge/js/var_let_const.md",
+    "computer_sci/coding_knowledge/js/TypeScript_vs_JavaScript.md",
+    "computer_sci/coding_knowledge/coding_lang_MOC.md",
+    "computer_sci/coding_knowledge/js/rest_parameters_argument_objects_spread_syntax.md",
+    "computer_sci/coding_knowledge/js/for_loop.md",
+    "computer_sci/coding_knowledge/js/proxy_in_js.md",
+    "computer_sci/coding_knowledge/js/callbacks.md",
+    "computer_sci/coding_knowledge/js/DOM.md",
     "physics/electromagnetism/radio_communications/a_good_article_about_radios.md",
     "assets/pdf/master_transcript.pdf",
     "assets/pdf/ZJU_Transcript_undergraduate.pdf",
@@ -230,7 +204,6 @@
     "physics/electromagnetism/maxwells_equation.md",
     "physics/electromagnetism/radio_communications",
     "physics/electromagnetism/Untitled.md",
-    "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "computer_sci/coding_knowledge/matlab/uicontrol.md",
     "resume.md",
     "computer_sci/coding_knowledge/js/framer/intro.md",
@@ -254,13 +227,10 @@
     "assets/pic/artistic_and_athletic_achievement_award1920.png",
     "assets/pic/academic_excellent_1920.png",
     "assets/pic/academic_excellent_award1819.png",
-    "computer_sci/coding_knowledge/matlab",
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/curve_similarity/curve_similarity.md",
     "signal_processing/curve_similarity/manhattan_distance.md",
     "signal_processing/envelope/hilbert_transform.md",
-    "signal_processing/radio_communication/Near_far_field.md",
-    "signal_processing/PSD_estimation/PSD_estimation.md",
     "computer_sci/web/http/attachments/Pasted image 20240308153643.png",
     "computer_sci/web/http/attachments/Pasted image 20240308151842.png",
     "Untitled.canvas",
