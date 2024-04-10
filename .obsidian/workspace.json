@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/promise.md",
+                "file": "computer_sci/coding_knowledge/js/closure.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/promise.md",
+                "file": "computer_sci/coding_knowledge/js/closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/promise.md",
+                "file": "computer_sci/coding_knowledge/js/closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/promise.md"
+                "file": "computer_sci/coding_knowledge/js/closure.md"
               }
             }
           },
@@ -188,6 +188,13 @@
   },
   "active": "d10273dbe5293369",
   "lastOpenFiles": [
+    "computer_sci/coding_knowledge/coding_lang_MOC.md",
+    "computer_sci/coding_knowledge/js/var_let_const.md",
+    "plan/life.md",
+    "plan/exhibition/whisky_l.md",
+    "computer_sci/coding_knowledge/js/closure.md",
+    "computer_sci/coding_knowledge/js/setTimeout.md",
+    "computer_sci/coding_knowledge/js/promise.md",
     "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
     "tmp_script/interview_31_ans.md",
     "tmp_script/paper_draft/consisting_antenna_calibration_method.md",
@@ -195,17 +202,14 @@
     "tmp_script/paper_draft/New approach of zero-time calibration for UWB simulation system.md",
     "tmp_script/where_to_play.md",
     "tmp_script/prefix_sum.md",
-    "computer_sci/coding_knowledge/js/promise.md",
     "tmp_script/paper_draft",
     "computer_sci/coding_knowledge/js/attachments/Pasted image 20240402114110.png",
-    "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "data_sci/fit/error_function.md",
     "data_sci/fit/intro.md",
     "data_sci/fit/curve_assessment_parameters.md",
     "data_sci/data_sci_MOC.md",
     "data_sci/fit",
     "computer_sci/coding_knowledge/js/memoization.md",
-    "computer_sci/coding_knowledge/js/var_let_const.md",
     "computer_sci/coding_knowledge/js/rest_parameters_argument_objects_spread_syntax.md",
     "computer_sci/coding_knowledge/js/attachments/Pasted image 20240330164937.png",
     "computer_sci/coding_knowledge/js/attachments",
@@ -218,11 +222,7 @@
     "assets/pdf/master_transcript.pdf",
     "assets/pdf/ZJU_Transcript_undergraduate.pdf",
     "assets/pdf/undergraudate.pdf",
-    "physics/electromagnetism/maxwells_equation.md",
     "physics/electromagnetism/radio_communications",
-    "physics/electromagnetism/Untitled.md",
-    "computer_sci/coding_knowledge/matlab/uicontrol.md",
-    "resume.md",
     "computer_sci/coding_knowledge/js/framer",
     "conference",
     "design/transform/attachments/Pasted image 20240322111458.png",
