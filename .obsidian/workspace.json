@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "689051abbe60a3f4",
+        "id": "7003093b521bc53b",
         "type": "tabs",
         "children": [
           {
-            "id": "d00642889ef12615",
+            "id": "d10273dbe5293369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp_script/interview_31_ans.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a00648ad0556f6fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
+                "file": "computer_sci/coding_knowledge/js/promise.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
+                "file": "computer_sci/coding_knowledge/js/promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
+                "file": "computer_sci/coding_knowledge/js/promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmp_script/Common_Issues_in_DSP_Homework_Script.md"
+                "file": "computer_sci/coding_knowledge/js/promise.md"
               }
             }
           },
@@ -183,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,13 +186,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a00648ad0556f6fa",
+  "active": "d10273dbe5293369",
   "lastOpenFiles": [
+    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+    "tmp_script/interview_31_ans.md",
+    "tmp_script/paper_draft/consisting_antenna_calibration_method.md",
+    "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
     "tmp_script/paper_draft/New approach of zero-time calibration for UWB simulation system.md",
     "tmp_script/where_to_play.md",
     "tmp_script/prefix_sum.md",
-    "tmp_script/interview_31_ans.md",
-    "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
     "computer_sci/coding_knowledge/js/promise.md",
     "tmp_script/paper_draft",
     "computer_sci/coding_knowledge/js/attachments/Pasted image 20240402114110.png",
@@ -233,8 +223,6 @@
     "physics/electromagnetism/Untitled.md",
     "computer_sci/coding_knowledge/matlab/uicontrol.md",
     "resume.md",
-    "computer_sci/coding_knowledge/js/framer/intro.md",
-    "conference/2024.md",
     "computer_sci/coding_knowledge/js/framer",
     "conference",
     "design/transform/attachments/Pasted image 20240322111458.png",
