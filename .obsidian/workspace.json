@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7003093b521bc53b",
+        "id": "ce1391821157884a",
         "type": "tabs",
         "children": [
           {
-            "id": "d10273dbe5293369",
+            "id": "0d30fe80a2d14431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/closure.md",
-                "mode": "source",
-                "source": false
+                "file": "research_career/UWB_about/attachments/Transceiver Board Testing.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/closure.md",
+                "file": "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/closure.md",
+                "file": "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/coding_knowledge/js/closure.md"
+                "file": "research_career/UWB_about/attachments/Transceiver Board Testing.pdf"
               }
             }
           },
@@ -186,54 +184,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d10273dbe5293369",
+  "active": "0d30fe80a2d14431",
   "lastOpenFiles": [
+    "research_career/UWB_about/report/UWB_Board_AMP_circuit_test_1_1.md",
+    "signal_processing/device_and_components/oscilloscope/oscilloscope.md",
+    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154704.png",
+    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154411.png",
+    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154257.png",
+    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154021.png",
+    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412153613.png",
+    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412115836.png",
+    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412115407.png",
+    "signal_processing/device_and_components/oscilloscope/attachments",
+    "research_career/UWB_about/report/UWB_board_test.md",
+    "research_career/UWB_about/report/OPAMP_health_test.md",
+    "research_career/UWB_about/report/flight_time_calculation.md",
+    "research_career/UWB_about/report/VNA_based_UWB_echo_signal_experiment2.md",
+    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+    "research_career/UWB_about/report/UWB_signal_generate.md",
+    "research_career/UWB_about/report/UWB_device_test_report_update.md",
+    "research_career/UWB_about/report/UWB_device_test_report.md",
+    "research_career/UWB_about/report/UWB_device_test_overview.md",
+    "research_career/UWB_about/attachments/exp_set.png",
+    "research_career/UWB_about/attachments/eject_value.png",
+    "research_career/UWB_about/attachments/eject_signal_after_port.png",
+    "signal_processing/UWB_about/UWB_signal_parameters.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/device_and_components/oscilloscope",
+    "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
+    "research_career/attachments/Eveleigh_Eric_A_2020July_MASc.pdf",
+    "research_career/attachments/Time Domain Analysis Using a Network Analyzer.pdf",
+    "research_career/attachments/L-G-0000753449-0002366653.pdf",
+    "research_career/attachments/CN101267424A.pdf",
+    "computer_sci/coding_knowledge/js/closure.md",
     "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "computer_sci/coding_knowledge/js/var_let_const.md",
     "plan/life.md",
     "plan/exhibition/whisky_l.md",
-    "computer_sci/coding_knowledge/js/closure.md",
     "computer_sci/coding_knowledge/js/setTimeout.md",
     "computer_sci/coding_knowledge/js/promise.md",
-    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
     "tmp_script/interview_31_ans.md",
     "tmp_script/paper_draft/consisting_antenna_calibration_method.md",
     "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
     "tmp_script/paper_draft/New approach of zero-time calibration for UWB simulation system.md",
     "tmp_script/where_to_play.md",
-    "tmp_script/prefix_sum.md",
     "tmp_script/paper_draft",
-    "computer_sci/coding_knowledge/js/attachments/Pasted image 20240402114110.png",
-    "data_sci/fit/error_function.md",
-    "data_sci/fit/intro.md",
-    "data_sci/fit/curve_assessment_parameters.md",
-    "data_sci/data_sci_MOC.md",
     "data_sci/fit",
-    "computer_sci/coding_knowledge/js/memoization.md",
-    "computer_sci/coding_knowledge/js/rest_parameters_argument_objects_spread_syntax.md",
-    "computer_sci/coding_knowledge/js/attachments/Pasted image 20240330164937.png",
     "computer_sci/coding_knowledge/js/attachments",
-    "computer_sci/coding_knowledge/js/TypeScript_vs_JavaScript.md",
-    "computer_sci/coding_knowledge/js/for_loop.md",
-    "computer_sci/coding_knowledge/js/proxy_in_js.md",
-    "computer_sci/coding_knowledge/js/callbacks.md",
-    "computer_sci/coding_knowledge/js/DOM.md",
-    "physics/electromagnetism/radio_communications/a_good_article_about_radios.md",
-    "assets/pdf/master_transcript.pdf",
-    "assets/pdf/ZJU_Transcript_undergraduate.pdf",
-    "assets/pdf/undergraudate.pdf",
-    "physics/electromagnetism/radio_communications",
-    "computer_sci/coding_knowledge/js/framer",
-    "conference",
-    "design/transform/attachments/Pasted image 20240322111458.png",
-    "design/transform/attachments/Pasted image 20240322111022.png",
-    "design/transform/attachments",
-    "assets/pic/outstanding_graduates_of_zhejiang_university.jpg",
-    "assets/pic/zhejiang_university_scholarship_third_prize.png",
-    "assets/pic/me.jpg",
-    "assets/pic/artistic_and_athletic_achievement_award1920.png",
-    "assets/pic/academic_excellent_1920.png",
-    "assets/pic/academic_excellent_award1819.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
