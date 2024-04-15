@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ce1391821157884a",
+        "id": "68fc110d6b6198ea",
         "type": "tabs",
         "children": [
           {
-            "id": "0d30fe80a2d14431",
+            "id": "8e86e37102cfc739",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "research_career/UWB_about/attachments/Transceiver Board Testing.pdf"
+                "file": "signal_processing/signal_processing_MOC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
+                "file": "signal_processing/signal_processing_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
+                "file": "signal_processing/signal_processing_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/UWB_about/attachments/Transceiver Board Testing.pdf"
+                "file": "signal_processing/signal_processing_MOC.md"
               }
             }
           },
@@ -168,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,18 +185,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d30fe80a2d14431",
+  "active": "8e86e37102cfc739",
   "lastOpenFiles": [
-    "research_career/UWB_about/report/UWB_Board_AMP_circuit_test_1_1.md",
+    "signal_processing/advanced_statistic/autocorrelation/period_detect.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/advanced_statistic/autocorrelation/autocorrelation.md",
+    "math/Statistics/significance_test/whats_the_significance_test.md",
+    "math/Statistics/significance_test/attachments/Pasted image 20240415174359.png",
+    "math/Statistics/significance_test/attachments",
+    "math/MOC.md",
+    "math/optimization_problem/Quadratic_Programming.md",
+    "math/Statistics/Basic/Quantile.md",
+    "math/Statistics/significance_test",
+    "signal_processing/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171855.png",
+    "signal_processing/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171834.png",
+    "signal_processing/advanced_statistic/autocorrelation/attachments",
+    "signal_processing/advanced_statistic/autocorrelation",
+    "signal_processing/advanced_statistic/attachments/Pasted image 20240415171736.png",
+    "signal_processing/advanced_statistic/attachments/Pasted image 20240415171510.png",
+    "signal_processing/advanced_statistic/attachments/Pasted image 20240415171351.png",
+    "signal_processing/advanced_statistic/attachments/Pasted image 20240415171344.png",
+    "signal_processing/advanced_statistic/attachments",
     "signal_processing/device_and_components/oscilloscope/oscilloscope.md",
+    "signal_processing/advanced_statistic",
+    "signal_processing/software/simulation/CST/basic.md",
+    "report/2023.04.16 天线测试.md",
+    "signal_processing/software/simulation/CST",
+    "signal_processing/software/simulation",
+    "signal_processing/software",
+    "synthetic_aperture_radar_imaging/antenna.md",
+    "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
+    "research_career/UWB_about/report/UWB_Board_AMP_circuit_test_1_1.md",
     "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154704.png",
     "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154411.png",
     "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154257.png",
-    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154021.png",
-    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412153613.png",
-    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412115836.png",
-    "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412115407.png",
-    "signal_processing/device_and_components/oscilloscope/attachments",
     "research_career/UWB_about/report/UWB_board_test.md",
     "research_career/UWB_about/report/OPAMP_health_test.md",
     "research_career/UWB_about/report/flight_time_calculation.md",
@@ -205,32 +228,11 @@
     "research_career/UWB_about/report/UWB_device_test_report_update.md",
     "research_career/UWB_about/report/UWB_device_test_report.md",
     "research_career/UWB_about/report/UWB_device_test_overview.md",
-    "research_career/UWB_about/attachments/exp_set.png",
-    "research_career/UWB_about/attachments/eject_value.png",
-    "research_career/UWB_about/attachments/eject_signal_after_port.png",
     "signal_processing/UWB_about/UWB_signal_parameters.md",
-    "signal_processing/signal_processing_MOC.md",
-    "signal_processing/device_and_components/oscilloscope",
-    "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
-    "research_career/attachments/Eveleigh_Eric_A_2020July_MASc.pdf",
-    "research_career/attachments/Time Domain Analysis Using a Network Analyzer.pdf",
-    "research_career/attachments/L-G-0000753449-0002366653.pdf",
-    "research_career/attachments/CN101267424A.pdf",
     "computer_sci/coding_knowledge/js/closure.md",
     "computer_sci/coding_knowledge/coding_lang_MOC.md",
     "computer_sci/coding_knowledge/js/var_let_const.md",
     "plan/life.md",
-    "plan/exhibition/whisky_l.md",
-    "computer_sci/coding_knowledge/js/setTimeout.md",
-    "computer_sci/coding_knowledge/js/promise.md",
-    "tmp_script/interview_31_ans.md",
-    "tmp_script/paper_draft/consisting_antenna_calibration_method.md",
-    "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
-    "tmp_script/paper_draft/New approach of zero-time calibration for UWB simulation system.md",
-    "tmp_script/where_to_play.md",
-    "tmp_script/paper_draft",
-    "data_sci/fit",
-    "computer_sci/coding_knowledge/js/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
