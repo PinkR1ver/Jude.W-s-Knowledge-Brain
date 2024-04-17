@@ -11,15 +11,104 @@
             "id": "6395dc4f97fc8361",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171344.png"
+              }
+            }
+          },
+          {
+            "id": "47d8df86781224c1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171736.png"
+              }
+            }
+          },
+          {
+            "id": "73876c952c1cb1b5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171510.png"
+              }
+            }
+          },
+          {
+            "id": "d471e09000413dee",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171351.png"
+              }
+            }
+          },
+          {
+            "id": "fd11a4a5bbe35915",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de51cd79472c027a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/period_detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eecf13e5a57e2d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8571f217473d19bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/period_detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cacb3ea715b8eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -93,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md"
+                "file": "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md"
               }
             }
           },
@@ -185,8 +274,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6395dc4f97fc8361",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/period_detection.md",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171344.png",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171351.png",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171510.png",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171736.png",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171855.png",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/attachments/Pasted image 20240415171834.png",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/algorithm/advanced_statistic",
     "signal_processing/algorithm/filter/chebyshev_filter.md",
     "signal_processing/algorithm/EMD",
     "signal_processing/algorithm/filter",
@@ -200,19 +300,10 @@
     "signal_processing/basic_knowledge/FT/fourier_transform_pairs_derivation.md",
     "signal_processing/basic_knowledge/attachments/fourier_pairs.pdf",
     "signal_processing/basic_knowledge/attachments/Pasted image 20240115112204.png",
-    "signal_processing/basic_knowledge/attachments/Pasted image 20230919152200.png",
-    "signal_processing/basic_knowledge/attachments/Pasted image 20230919152234.png",
-    "signal_processing/basic_knowledge/attachments/Pasted image 20230919152357.png",
-    "signal_processing/basic_knowledge/attachments/Pasted image 20230919153109.png",
-    "signal_processing/basic_knowledge/attachments/Pasted image 20230919153401.png",
-    "signal_processing/basic_knowledge/attachments/Screenshot_from_2022-10-18_10-53-17.png",
-    "signal_processing/signal_processing_MOC.md",
     "signal_processing/algorithm",
     "signal_processing/radio_communication/Near_far_field.md",
     "signal_processing/algorithm/PSD_estimation/PSD_estimation.md",
     "signal_processing/device_and_components/oscilloscope/oscilloscope.md",
-    "signal_processing/advanced_statistic/autocorrelation/autocorrelation.md",
-    "signal_processing/advanced_statistic/autocorrelation/period_detection.md",
     "signal_processing/advanced_statistic/autocorrelation/period_detect.md",
     "conference/2024.md",
     "warehouse/IELTS.md",
@@ -224,15 +315,12 @@
     "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
     "research_career/UWB_about/attachments/UWB_board_test.pdf",
     "math/Statistics/significance_test/whats_the_significance_test.md",
-    "math/Statistics/significance_test/attachments",
     "math/MOC.md",
     "math/optimization_problem/Quadratic_Programming.md",
     "math/Statistics/Basic/Quantile.md",
-    "math/Statistics/significance_test",
     "signal_processing/software/simulation/CST/basic.md",
     "report/2023.04.16 天线测试.md",
     "synthetic_aperture_radar_imaging/antenna.md",
-    "research_career/UWB_about/report/UWB_Board_AMP_circuit_test_1_1.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
