@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "signal_processing/advanced_statistic/autocorrelation/period_detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "signal_processing/advanced_statistic/autocorrelation/period_detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md",
+                "file": "signal_processing/advanced_statistic/autocorrelation/period_detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/signal_processing_MOC.md"
+                "file": "signal_processing/advanced_statistic/autocorrelation/period_detection.md"
               }
             }
           },
@@ -187,9 +187,19 @@
   },
   "active": "8e86e37102cfc739",
   "lastOpenFiles": [
-    "signal_processing/advanced_statistic/autocorrelation/period_detect.md",
-    "signal_processing/signal_processing_MOC.md",
     "signal_processing/advanced_statistic/autocorrelation/autocorrelation.md",
+    "signal_processing/advanced_statistic/autocorrelation/period_detection.md",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/advanced_statistic/autocorrelation/period_detect.md",
+    "conference/2024.md",
+    "warehouse/IELTS.md",
+    "warehouse/NUS_Transcript.pdf",
+    "warehouse/dampers_keeping_a_door_from_slamming shut.md",
+    "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
+    "tmp_script/prefix_sum.md",
+    "tmp_script/interview_31_ans.md",
+    "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
+    "research_career/UWB_about/attachments/UWB_board_test.pdf",
     "math/Statistics/significance_test/whats_the_significance_test.md",
     "math/Statistics/significance_test/attachments/Pasted image 20240415174359.png",
     "math/Statistics/significance_test/attachments",
@@ -211,10 +221,7 @@
     "signal_processing/software/simulation/CST/basic.md",
     "report/2023.04.16 天线测试.md",
     "signal_processing/software/simulation/CST",
-    "signal_processing/software/simulation",
-    "signal_processing/software",
     "synthetic_aperture_radar_imaging/antenna.md",
-    "research_career/UWB_about/attachments/Transceiver Board Testing.pdf",
     "research_career/UWB_about/report/UWB_Board_AMP_circuit_test_1_1.md",
     "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154704.png",
     "signal_processing/device_and_components/oscilloscope/attachments/Pasted image 20240412154411.png",
@@ -226,13 +233,6 @@
     "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
     "research_career/UWB_about/report/UWB_signal_generate.md",
     "research_career/UWB_about/report/UWB_device_test_report_update.md",
-    "research_career/UWB_about/report/UWB_device_test_report.md",
-    "research_career/UWB_about/report/UWB_device_test_overview.md",
-    "signal_processing/UWB_about/UWB_signal_parameters.md",
-    "computer_sci/coding_knowledge/js/closure.md",
-    "computer_sci/coding_knowledge/coding_lang_MOC.md",
-    "computer_sci/coding_knowledge/js/var_let_const.md",
-    "plan/life.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
