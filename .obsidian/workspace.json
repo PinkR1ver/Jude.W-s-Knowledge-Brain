@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/algorithm/EMD/basic.md",
+                "file": "signal_processing/basic_knowledge/concept/linear.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/algorithm/EMD/basic.md",
+                "file": "signal_processing/basic_knowledge/concept/linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/algorithm/EMD/basic.md",
+                "file": "signal_processing/basic_knowledge/concept/linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/algorithm/EMD/basic.md"
+                "file": "signal_processing/basic_knowledge/concept/linear.md"
               }
             }
           },
@@ -187,10 +187,14 @@
   },
   "active": "7cacb3ea715b8eb0",
   "lastOpenFiles": [
+    "signal_processing/basic_knowledge/concept/stationary.md",
+    "signal_processing/basic_knowledge/concept/linear.md",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/period_detection.md",
+    "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
+    "signal_processing/algorithm/EMD/basic.md",
     "signal_processing/algorithm/EMD/attachments/2d8bbe7b82ba09ec5220d81af8a5c22.jpg",
     "signal_processing/algorithm/EMD/attachments/9223eed88b81a6e9ce1b1edbfabd855.jpg",
     "signal_processing/basic_knowledge/instantaneous_frequency.md",
-    "signal_processing/algorithm/EMD/basic.md",
     "signal_processing/algorithm/EMD/attachments/Pasted image 20240417165353.png",
     "signal_processing/signal_processing_MOC.md",
     "signal_processing/basic_knowledge/stability_of_discrete_system.md",
@@ -202,13 +206,8 @@
     "signal_processing/algorithm/EMD/attachments/Pasted image 20240417160320.png",
     "signal_processing/algorithm/EMD/attachments/Pasted image 20240417153104.png",
     "signal_processing/algorithm/EMD/attachments",
-    "signal_processing/basic_knowledge/concept/stationary.md",
     "signal_processing/basic_knowledge/concept/attachments/Pasted image 20240417144416.png",
-    "signal_processing/basic_knowledge/concept/attachments/Pasted image 20240417144414.png",
     "signal_processing/basic_knowledge/concept/attachments",
-    "signal_processing/algorithm/advanced_statistic/autocorrelation/period_detection.md",
-    "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
-    "signal_processing/basic_knowledge/concept/linear.md",
     "signal_processing/basic_knowledge/concept/what_is_dB.md",
     "signal_processing/basic_knowledge/concept/SWR.md",
     "signal_processing/basic_knowledge/concept/Spectral_density.md",
