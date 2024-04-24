@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal_processing/basic_knowledge/concept/linear.md",
+                "file": "signal_processing/algorithm/EMD/eemd.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal_processing/basic_knowledge/concept/linear.md",
+                "file": "signal_processing/algorithm/EMD/eemd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal_processing/basic_knowledge/concept/linear.md",
+                "file": "signal_processing/algorithm/EMD/eemd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal_processing/basic_knowledge/concept/linear.md"
+                "file": "signal_processing/algorithm/EMD/eemd.md"
               }
             }
           },
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,26 +188,28 @@
   },
   "active": "7cacb3ea715b8eb0",
   "lastOpenFiles": [
-    "signal_processing/basic_knowledge/concept/stationary.md",
+    "signal_processing/algorithm/EMD/attachments/Figure_3 1.png",
+    "signal_processing/algorithm/EMD/attachments/Figure_2 1.png",
+    "signal_processing/algorithm/EMD/attachments/Figure_1 1.png",
+    "signal_processing/algorithm/EMD/basic.md",
+    "signal_processing/algorithm/EMD/eemd.md",
+    "signal_processing/algorithm/EMD/attachments/Figure_3.png",
+    "signal_processing/algorithm/EMD/attachments/Figure_2.png",
+    "signal_processing/algorithm/EMD/attachments/Figure_1.png",
+    "signal_processing/signal_processing_MOC.md",
+    "signal_processing/algorithm/EMD/attachments/Pasted image 20240423162631.png",
     "signal_processing/basic_knowledge/concept/linear.md",
+    "signal_processing/basic_knowledge/concept/stationary.md",
     "signal_processing/algorithm/advanced_statistic/autocorrelation/period_detection.md",
     "signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
-    "signal_processing/algorithm/EMD/basic.md",
     "signal_processing/algorithm/EMD/attachments/2d8bbe7b82ba09ec5220d81af8a5c22.jpg",
     "signal_processing/algorithm/EMD/attachments/9223eed88b81a6e9ce1b1edbfabd855.jpg",
     "signal_processing/basic_knowledge/instantaneous_frequency.md",
     "signal_processing/algorithm/EMD/attachments/Pasted image 20240417165353.png",
-    "signal_processing/signal_processing_MOC.md",
     "signal_processing/basic_knowledge/stability_of_discrete_system.md",
     "signal_processing/basic_knowledge/random_signal_basic.md",
     "signal_processing/algorithm/EMD/attachments/Pasted image 20240417160805.png",
-    "signal_processing/algorithm/EMD/attachments/Pasted image 20240417160534.png",
-    "signal_processing/algorithm/EMD/attachments/Pasted image 20240417160436.png",
-    "signal_processing/algorithm/EMD/attachments/Pasted image 20240417160324.png",
-    "signal_processing/algorithm/EMD/attachments/Pasted image 20240417160320.png",
-    "signal_processing/algorithm/EMD/attachments/Pasted image 20240417153104.png",
     "signal_processing/algorithm/EMD/attachments",
-    "signal_processing/basic_knowledge/concept/attachments/Pasted image 20240417144416.png",
     "signal_processing/basic_knowledge/concept/attachments",
     "signal_processing/basic_knowledge/concept/what_is_dB.md",
     "signal_processing/basic_knowledge/concept/SWR.md",
@@ -230,7 +233,6 @@
     "signal_processing/device_and_components/oscilloscope/oscilloscope.md",
     "signal_processing/advanced_statistic/autocorrelation/period_detect.md",
     "conference/2024.md",
-    "warehouse/IELTS.md",
     "warehouse/NUS_Transcript.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
