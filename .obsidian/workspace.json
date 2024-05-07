@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e512b47e7415fc16",
+        "id": "564952a45b548621",
         "type": "tabs",
         "children": [
           {
-            "id": "7cacb3ea715b8eb0",
+            "id": "f027f5fe6e7a6f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plan/life.md",
+                "file": "data_sci/visualization/sci_graphics/waterfall.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plan/life.md",
+                "file": "data_sci/visualization/sci_graphics/waterfall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plan/life.md",
+                "file": "data_sci/visualization/sci_graphics/waterfall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plan/life.md"
+                "file": "data_sci/visualization/sci_graphics/waterfall.md"
               }
             }
           },
@@ -186,10 +186,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "f027f5fe6e7a6f63",
   "lastOpenFiles": [
-    "plan/research_plan/科研计划Main Thread.xmind",
+    "data_sci/visualization/sci_graphics/attachments/EMD_Decomposition.png",
+    "data_sci/visualization/sci_graphics/attachments",
     "signal/hardware/frequency_mixer.md",
+    "data_sci/visualization/sci_graphics/waterfall.md",
+    "data_sci/visualization/sci_graphics",
+    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
+    "research_career/UWB_about/report/UWB_signal_generate.md",
+    "research_career/UWB_about/report/UWB_board_test.md",
+    "research_career/UWB_about/report/UWB_device_test_overview.md",
+    "research_career/UWB_about/report/UWB_device_test_report.md",
+    "research_career/UWB_about/report/UWB_device_test_report_update.md",
+    "report/2023.04.16 天线测试.md",
+    "log/log_MOC.md",
+    "plan/life.md",
+    "plan/research_plan/科研计划Main Thread.xmind",
     "plan/research_plan/research_plan_MayToJuly.md",
     "plan/research_plan",
     "computer_sci/multiThread_and_multiProcess/basic.md",
@@ -219,21 +232,8 @@
     "signal/signal_processing/basic_knowledge/stability_of_discrete_system.md",
     "signal/signal_processing/basic_knowledge/random_signal_basic.md",
     "signal/signal_processing/algorithm/EMD/attachments",
-    "signal/signal_processing/basic_knowledge/concept/attachments",
     "signal/signal_processing/basic_knowledge/concept/what_is_dB.md",
     "signal/signal_processing/basic_knowledge/concept/SWR.md",
-    "signal/signal_processing/basic_knowledge/concept/Spectral_density.md",
-    "signal/signal_processing/basic_knowledge/concept/smith_graph.md",
-    "signal/signal_processing/basic_knowledge/concept/scattering_parameters.md",
-    "signal/signal_processing/algorithm/advanced_statistic/autocorrelation",
-    "signal/signal_processing/algorithm/advanced_statistic",
-    "signal/signal_processing/algorithm/filter/chebyshev_filter.md",
-    "signal/signal_processing/algorithm/envelope/hilbert_transform.md",
-    "signal/signal_processing/algorithm/impulse_generating/gaussian_impulse.md",
-    "signal/signal_processing/basic_knowledge/FT/fourier_transform.md",
-    "signal/signal_processing/basic_knowledge/FT/fourier_transform_pairs_derivation.md",
-    "signal/signal_processing/radio_communication/Near_far_field.md",
-    "signal/signal_processing/algorithm/PSD_estimation/PSD_estimation.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
