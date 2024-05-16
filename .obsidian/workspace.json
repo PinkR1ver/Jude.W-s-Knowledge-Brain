@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_sci/visualization/sci_graphics/waterfall.md",
+                "file": "computer_sci/code_frame_learn/MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data_sci/visualization/sci_graphics/waterfall.md",
+                "file": "computer_sci/code_frame_learn/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data_sci/visualization/sci_graphics/waterfall.md",
+                "file": "computer_sci/code_frame_learn/MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data_sci/visualization/sci_graphics/waterfall.md"
+                "file": "computer_sci/code_frame_learn/MOC.md"
               }
             }
           },
@@ -186,12 +186,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f027f5fe6e7a6f63",
+  "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
+    "computer_sci/code_frame_learn/data",
+    "computer_sci/code_frame_learn/web",
+    "computer_sci/Untitled",
+    "computer_sci/code_frame_learn/Untitled.md",
+    "computer_sci/code_frame_learn/MOC.md",
+    "signal/hardware/ADC/jitter.md",
+    "signal/hardware/oscilloscope",
+    "signal/hardware/ADC",
+    "signal/hardware/oscilloscope/triggering.md",
+    "signal/hardware/frequency_mixer.md",
+    "signal/hardware/oscilloscope/DCA.md",
+    "_index.md",
+    "recent.md",
+    "atlas.md",
+    "game/dota2/analyze_platform.md",
+    "game/cs",
+    "game/dota2",
+    "game",
+    "signal/hardware/attachments/Pasted image 20240515153224.png",
+    "signal/hardware/attachments/Pasted image 20240515153137.png",
+    "computer_sci/hardware/hardware_MOC.md",
+    "signal/signal_processing/signal_processing_MOC.md",
+    "resume.md",
+    "signal/hardware/attachments/Pasted image 20240514164651.png",
+    "signal/hardware/attachments/Pasted image 20240514162309.png",
+    "signal/hardware/attachments",
+    "signal/signal_processing/algorithm/EMD/basic.md",
+    "data_sci/visualization/sci_graphics/waterfall.md",
     "data_sci/visualization/sci_graphics/attachments/EMD_Decomposition.png",
     "data_sci/visualization/sci_graphics/attachments",
-    "signal/hardware/frequency_mixer.md",
-    "data_sci/visualization/sci_graphics/waterfall.md",
     "data_sci/visualization/sci_graphics",
     "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
     "research_career/UWB_about/report/UWB_signal_generate.md",
@@ -202,38 +228,12 @@
     "report/2023.04.16 天线测试.md",
     "log/log_MOC.md",
     "plan/life.md",
-    "plan/research_plan/科研计划Main Thread.xmind",
     "plan/research_plan/research_plan_MayToJuly.md",
-    "plan/research_plan",
-    "computer_sci/multiThread_and_multiProcess/basic.md",
-    "signal/hardware",
-    "signal",
     "computer_sci/multiThread_and_multiProcess/attachments/Pasted image 20240426171635.png",
-    "computer_sci/multiThread_and_multiProcess/attachments",
-    "signal/signal_processing/algorithm/EMD/eemd.md",
-    "computer_sci/multiThread_and_multiProcess",
-    "computer_sci/coding_knowledge/python/multi_code",
-    "signal/signal_processing/signal_processing_MOC.md",
     "signal/signal_processing/algorithm/EMD/attachments/Figure_3 1.png",
     "signal/signal_processing/algorithm/EMD/attachments/Figure_2 1.png",
     "signal/signal_processing/algorithm/EMD/attachments/Figure_1 1.png",
-    "signal/signal_processing/algorithm/EMD/basic.md",
     "signal/signal_processing/algorithm/EMD/attachments/Figure_3.png",
-    "signal/signal_processing/algorithm/EMD/attachments/Figure_2.png",
-    "signal/signal_processing/algorithm/EMD/attachments/Figure_1.png",
-    "signal/signal_processing/algorithm/EMD/attachments/Pasted image 20240423162631.png",
-    "signal/signal_processing/basic_knowledge/concept/linear.md",
-    "signal/signal_processing/basic_knowledge/concept/stationary.md",
-    "signal/signal_processing/algorithm/advanced_statistic/autocorrelation/period_detection.md",
-    "signal/signal_processing/algorithm/advanced_statistic/autocorrelation/autocorrelation.md",
-    "signal/signal_processing/algorithm/EMD/attachments/2d8bbe7b82ba09ec5220d81af8a5c22.jpg",
-    "signal/signal_processing/algorithm/EMD/attachments/9223eed88b81a6e9ce1b1edbfabd855.jpg",
-    "signal/signal_processing/basic_knowledge/instantaneous_frequency.md",
-    "signal/signal_processing/basic_knowledge/stability_of_discrete_system.md",
-    "signal/signal_processing/basic_knowledge/random_signal_basic.md",
-    "signal/signal_processing/algorithm/EMD/attachments",
-    "signal/signal_processing/basic_knowledge/concept/what_is_dB.md",
-    "signal/signal_processing/basic_knowledge/concept/SWR.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
