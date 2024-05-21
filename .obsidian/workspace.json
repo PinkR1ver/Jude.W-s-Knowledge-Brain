@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal/signal_MOC.md",
+                "file": "atlas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal/signal_MOC.md",
+                "file": "atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal/signal_MOC.md",
+                "file": "atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal/signal_MOC.md"
+                "file": "atlas.md"
               }
             }
           },
@@ -187,48 +187,48 @@
   },
   "active": "cf5bfd6c86535ef6",
   "lastOpenFiles": [
-    "signal/hardware/quality_control_certified/qcc.md",
-    "signal/hardware/SRD/SRD.md",
-    "signal/hardware/VNA/feeding_tech.md",
-    "signal/hardware/VNA/MOC.md",
+    "log/log_MOC.md",
+    "atlas.md",
+    "plan/life.md",
+    "research_career/papers_read.md",
+    "computer_sci/MOC.md",
     "signal/signal_MOC.md",
-    "signal/hardware/VNA/VNA_learn.md",
-    "signal/hardware/cable/cable.md",
-    "signal/hardware/cable/coax_cable.md",
-    "signal/hardware/cable/coax_cable_imbalance.md",
-    "signal/hardware/cable/skin_effect.md",
-    "signal/hardware/cable/AWG.md",
+    "math/MOC.md",
+    "data_sci/data_sci_MOC.md",
+    "math/optimization_problem/Quadratic_Programming.md",
+    "computer_sci/multiProcessing/MOC.md",
+    "art/art_style/low_poly/low_ploy.md",
+    "art/art_style/art_style_MOC.md",
+    "computer_sci/computational_geometry/MOC.md",
+    "computer_sci/computational_geometry/delaunay_triangulation.md",
+    "_index.md",
+    "computer_sci/web/MOC.md",
+    "computer_sci/multiProcessing/multiThread_and_multiProcess/basic.md",
+    "computer_sci/multiProcessing/multiThread_and_multiProcess",
+    "computer_sci/web/http/http_introduction.md",
+    "computer_sci/software_arch/conway_law.md",
+    "computer_sci/deep_learning_and_machine_learning/Trick/DTW.md",
+    "computer_sci/deep_learning_and_machine_learning/Trick/quantile_loss.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/deep_learning_MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/machine_learning/MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/Evaluation/model_evaluation_MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/Famous_Model/Famous_Model_MOC.md",
     "signal/hardware/attachments/Pasted image 20240412115407.png",
     "signal/hardware/attachments/Pasted image 20231007162754.png",
-    "signal/hardware/device_and_components/op_amp.md",
     "signal/hardware/SRD",
     "signal/hardware/VNA",
-    "signal/hardware/oscilloscope/MOC.md",
-    "signal/hardware/oscilloscope/triggering.md",
-    "signal/hardware/oscilloscope/oscilloscope.md",
-    "signal/hardware/oscilloscope/DCA.md",
     "signal/hardware/attachments/Pasted image 20240514162309.png",
     "signal/hardware/attachments/Pasted image 20240515153224.png",
     "signal/hardware/attachments/Pasted image 20240515153137.png",
     "signal/hardware/attachments/Pasted image 20240514164651.png",
-    "signal/hardware/frequency_mixer/frequency_mixer.md",
     "signal/hardware/frequency_mixer",
-    "design/transform/shear.md",
-    "design/design_moc.md",
-    "atlas.md",
-    "resume.md",
-    "computer_sci/code_frame_learn/MOC.md",
-    "computer_sci/code_frame_learn/data/streamlit/MOC.md",
     "computer_sci/code_frame_learn/data/streamlit",
-    "computer_sci/code_frame_learn/web/flask/MSGI.md",
-    "computer_sci/code_frame_learn/web/flask/MOC.md",
-    "computer_sci/code_frame_learn/doc/latex/MOC.md",
     "computer_sci/code_frame_learn/doc/latex",
     "computer_sci/code_frame_learn/doc",
     "electrical_electronics/basic/pinouts/attachments/Pinouts_V0.3.pdf",
     "electrical_electronics/basic",
     "electrical_electronics/basic/pinouts/attachments",
-    "electrical_electronics/basic/pinouts",
     "art/art_style/low_poly/attachments/Pasted image 20240521102305.png",
     "art/art_style/low_poly/attachments/Pasted image 20240521102009.png",
     "art/art_style/low_poly/attachments/Pasted image 20240521101132.png",
