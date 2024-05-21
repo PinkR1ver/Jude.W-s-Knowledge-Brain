@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "564952a45b548621",
+        "id": "53ec80cceaa25ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "f027f5fe6e7a6f63",
+            "id": "cf5bfd6c86535ef6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/clustering/k-means/k_means.md",
+                "file": "electrical_electronics/basic/pinouts/common_pinouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "642c9a9f19010b2b",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/clustering/k-means/k_means.md",
+                "file": "electrical_electronics/basic/pinouts/common_pinouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/clustering/k-means/k_means.md",
+                "file": "electrical_electronics/basic/pinouts/common_pinouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/clustering/k-means/k_means.md"
+                "file": "electrical_electronics/basic/pinouts/common_pinouts.md"
               }
             }
           },
@@ -171,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,54 +185,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f027f5fe6e7a6f63",
+  "active": "cf5bfd6c86535ef6",
   "lastOpenFiles": [
-    "computer_sci/deep_learning_and_machine_learning/clustering/k-means/application/Untitled",
-    "computer_sci/code_frame_learn/MOC.md",
-    "computer_sci/code_frame_learn/data",
-    "computer_sci/code_frame_learn/web",
-    "computer_sci/Untitled",
-    "computer_sci/code_frame_learn/Untitled.md",
-    "signal/hardware/ADC/jitter.md",
-    "signal/hardware/oscilloscope",
-    "signal/hardware/ADC",
-    "signal/hardware/oscilloscope/triggering.md",
-    "signal/hardware/frequency_mixer.md",
-    "signal/hardware/oscilloscope/DCA.md",
-    "_index.md",
-    "recent.md",
+    "electrical_electronics/basic/pinouts/attachments/Pinouts_V0.3.pdf",
+    "electrical_electronics/basic/pinouts/common_pinouts.md",
+    "electrical_electronics/EE_MOC.md",
+    "electrical_electronics/MCU/different_programming_interfaces.md",
+    "electrical_electronics/basic",
+    "electrical_electronics/basic/pinouts/attachments",
+    "electrical_electronics/basic/pinouts",
+    "electrical_electronics/RF/antenna.md",
+    "electrical_electronics/RF/algrothim/SAR/SAR_MOC.md",
+    "electrical_electronics/RF/algrothim/SAR/SAR_explained.md",
+    "data_sci/visualization/sci_graphics/data_distributions.md",
+    "signal/signal_processing/basic_knowledge/concept/chirp.md",
+    "computer_sci/hardware/hardware_MOC.md",
+    "electrical_electronics/MCU",
     "atlas.md",
-    "game/dota2/analyze_platform.md",
-    "game/cs",
-    "game/dota2",
-    "game",
+    "resume.md",
+    "electrical_electronics/RF/algrothim/SAR/radiometric_calibration.md",
+    "electrical_electronics/RF/algrothim/SAR",
+    "eletrical_electronics/RF/algrothim/Untitled.md",
+    "electrical_electronics/RF/algrothim",
+    "electrical_electronics/RF",
+    "eletrical_electronics/RF.md",
+    "electrical_electronics",
+    "_index.md",
+    "computer_sci/code_frame_learn/MOC.md",
+    "physics/physics_MOC.md",
+    "data_sci/data_sci_MOC.md",
+    "data_sci/stochastic_process/stationary_process.md",
+    "data_sci/basic/relationship.md",
+    "data_sci/fit/error_function.md",
+    "data_sci/fit/intro.md",
+    "data_sci/visualization/sci_graphics/waterfall.md",
+    "data_sci/visualization/visual_tool/Tableau/tableau_learn_basic.md",
+    "food/MOC.md",
+    "art/art_style/low_poly/attachments/Pasted image 20240521102305.png",
+    "art/art_style/low_poly/attachments/Pasted image 20240521102009.png",
+    "art/art_style/low_poly/attachments/Pasted image 20240521101132.png",
+    "art/art_style/low_poly/attachments",
     "signal/hardware/attachments/Pasted image 20240515153224.png",
     "signal/hardware/attachments/Pasted image 20240515153137.png",
-    "computer_sci/hardware/hardware_MOC.md",
-    "signal/signal_processing/signal_processing_MOC.md",
-    "resume.md",
     "signal/hardware/attachments/Pasted image 20240514164651.png",
     "signal/hardware/attachments/Pasted image 20240514162309.png",
-    "signal/hardware/attachments",
-    "signal/signal_processing/algorithm/EMD/basic.md",
-    "data_sci/visualization/sci_graphics/waterfall.md",
     "data_sci/visualization/sci_graphics/attachments/EMD_Decomposition.png",
-    "data_sci/visualization/sci_graphics/attachments",
-    "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
-    "research_career/UWB_about/report/UWB_signal_generate.md",
-    "research_career/UWB_about/report/UWB_board_test.md",
-    "research_career/UWB_about/report/UWB_device_test_overview.md",
-    "research_career/UWB_about/report/UWB_device_test_report.md",
-    "research_career/UWB_about/report/UWB_device_test_report_update.md",
-    "report/2023.04.16 天线测试.md",
-    "log/log_MOC.md",
-    "plan/life.md",
-    "plan/research_plan/research_plan_MayToJuly.md",
     "computer_sci/multiThread_and_multiProcess/attachments/Pasted image 20240426171635.png",
     "signal/signal_processing/algorithm/EMD/attachments/Figure_3 1.png",
-    "signal/signal_processing/algorithm/EMD/attachments/Figure_2 1.png",
-    "signal/signal_processing/algorithm/EMD/attachments/Figure_1 1.png",
-    "signal/signal_processing/algorithm/EMD/attachments/Figure_3.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
