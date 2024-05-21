@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/code_frame_learn/MOC.md",
+                "file": "computer_sci/deep_learning_and_machine_learning/clustering/k-means/k_means.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/code_frame_learn/MOC.md",
+                "file": "computer_sci/deep_learning_and_machine_learning/clustering/k-means/k_means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/code_frame_learn/MOC.md",
+                "file": "computer_sci/deep_learning_and_machine_learning/clustering/k-means/k_means.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/code_frame_learn/MOC.md"
+                "file": "computer_sci/deep_learning_and_machine_learning/clustering/k-means/k_means.md"
               }
             }
           },
@@ -188,11 +188,12 @@
   },
   "active": "93a92ce4b44d39a4",
   "lastOpenFiles": [
+    "computer_sci/deep_learning_and_machine_learning/clustering/k-means/application/Untitled",
+    "computer_sci/code_frame_learn/MOC.md",
     "computer_sci/code_frame_learn/data",
     "computer_sci/code_frame_learn/web",
     "computer_sci/Untitled",
     "computer_sci/code_frame_learn/Untitled.md",
-    "computer_sci/code_frame_learn/MOC.md",
     "signal/hardware/ADC/jitter.md",
     "signal/hardware/oscilloscope",
     "signal/hardware/ADC",
@@ -218,7 +219,6 @@
     "data_sci/visualization/sci_graphics/waterfall.md",
     "data_sci/visualization/sci_graphics/attachments/EMD_Decomposition.png",
     "data_sci/visualization/sci_graphics/attachments",
-    "data_sci/visualization/sci_graphics",
     "research_career/UWB_about/report/VNA_based_simulation_of_UWB_signals.md",
     "research_career/UWB_about/report/UWB_signal_generate.md",
     "research_career/UWB_about/report/UWB_board_test.md",
