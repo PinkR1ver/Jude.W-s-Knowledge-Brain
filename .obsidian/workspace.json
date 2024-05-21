@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atlas.md",
+                "file": "signal/signal_MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atlas.md",
+                "file": "signal/signal_MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atlas.md",
+                "file": "signal/signal_MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atlas.md"
+                "file": "signal/signal_MOC.md"
               }
             }
           },
@@ -187,6 +187,35 @@
   },
   "active": "cf5bfd6c86535ef6",
   "lastOpenFiles": [
+    "signal/hardware/quality_control_certified/qcc.md",
+    "signal/hardware/SRD/SRD.md",
+    "signal/hardware/VNA/feeding_tech.md",
+    "signal/hardware/VNA/MOC.md",
+    "signal/signal_MOC.md",
+    "signal/hardware/VNA/VNA_learn.md",
+    "signal/hardware/cable/cable.md",
+    "signal/hardware/cable/coax_cable.md",
+    "signal/hardware/cable/coax_cable_imbalance.md",
+    "signal/hardware/cable/skin_effect.md",
+    "signal/hardware/cable/AWG.md",
+    "signal/hardware/attachments/Pasted image 20240412115407.png",
+    "signal/hardware/attachments/Pasted image 20231007162754.png",
+    "signal/hardware/device_and_components/op_amp.md",
+    "signal/hardware/SRD",
+    "signal/hardware/VNA",
+    "signal/hardware/oscilloscope/MOC.md",
+    "signal/hardware/oscilloscope/triggering.md",
+    "signal/hardware/oscilloscope/oscilloscope.md",
+    "signal/hardware/oscilloscope/DCA.md",
+    "signal/hardware/attachments/Pasted image 20240514162309.png",
+    "signal/hardware/attachments/Pasted image 20240515153224.png",
+    "signal/hardware/attachments/Pasted image 20240515153137.png",
+    "signal/hardware/attachments/Pasted image 20240514164651.png",
+    "signal/hardware/frequency_mixer/frequency_mixer.md",
+    "signal/hardware/frequency_mixer",
+    "design/transform/shear.md",
+    "design/design_moc.md",
+    "atlas.md",
     "resume.md",
     "computer_sci/code_frame_learn/MOC.md",
     "computer_sci/code_frame_learn/data/streamlit/MOC.md",
@@ -194,45 +223,16 @@
     "computer_sci/code_frame_learn/web/flask/MSGI.md",
     "computer_sci/code_frame_learn/web/flask/MOC.md",
     "computer_sci/code_frame_learn/doc/latex/MOC.md",
-    "electrical_electronics/basic/pinouts/common_pinouts.md",
     "computer_sci/code_frame_learn/doc/latex",
     "computer_sci/code_frame_learn/doc",
-    "computer_sci/code_frame_learn/Untitled.md",
     "electrical_electronics/basic/pinouts/attachments/Pinouts_V0.3.pdf",
-    "electrical_electronics/EE_MOC.md",
-    "electrical_electronics/MCU/different_programming_interfaces.md",
     "electrical_electronics/basic",
     "electrical_electronics/basic/pinouts/attachments",
     "electrical_electronics/basic/pinouts",
-    "electrical_electronics/RF/antenna.md",
-    "electrical_electronics/RF/algrothim/SAR/SAR_MOC.md",
-    "electrical_electronics/RF/algrothim/SAR/SAR_explained.md",
-    "data_sci/visualization/sci_graphics/data_distributions.md",
-    "signal/signal_processing/basic_knowledge/concept/chirp.md",
-    "computer_sci/hardware/hardware_MOC.md",
-    "electrical_electronics/MCU",
-    "atlas.md",
-    "electrical_electronics/RF/algrothim/SAR/radiometric_calibration.md",
-    "electrical_electronics/RF/algrothim/SAR",
-    "eletrical_electronics/RF/algrothim/Untitled.md",
-    "electrical_electronics/RF/algrothim",
-    "eletrical_electronics/RF.md",
-    "_index.md",
-    "physics/physics_MOC.md",
-    "data_sci/data_sci_MOC.md",
-    "data_sci/stochastic_process/stationary_process.md",
-    "data_sci/basic/relationship.md",
-    "data_sci/fit/error_function.md",
     "art/art_style/low_poly/attachments/Pasted image 20240521102305.png",
     "art/art_style/low_poly/attachments/Pasted image 20240521102009.png",
     "art/art_style/low_poly/attachments/Pasted image 20240521101132.png",
-    "signal/hardware/attachments/Pasted image 20240515153224.png",
-    "signal/hardware/attachments/Pasted image 20240515153137.png",
-    "signal/hardware/attachments/Pasted image 20240514164651.png",
-    "signal/hardware/attachments/Pasted image 20240514162309.png",
     "data_sci/visualization/sci_graphics/attachments/EMD_Decomposition.png",
-    "computer_sci/multiThread_and_multiProcess/attachments/Pasted image 20240426171635.png",
-    "signal/signal_processing/algorithm/EMD/attachments/Figure_3 1.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
