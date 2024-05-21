@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "642c9a9f19010b2b",
@@ -186,7 +187,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93a92ce4b44d39a4",
+  "active": "f027f5fe6e7a6f63",
   "lastOpenFiles": [
     "computer_sci/deep_learning_and_machine_learning/clustering/k-means/application/Untitled",
     "computer_sci/code_frame_learn/MOC.md",
