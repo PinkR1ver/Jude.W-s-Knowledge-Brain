@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atlas.md",
+                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atlas.md",
+                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atlas.md",
+                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atlas.md"
+                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md"
               }
             }
           },
@@ -187,8 +187,10 @@
   },
   "active": "cf5bfd6c86535ef6",
   "lastOpenFiles": [
-    "log/log_MOC.md",
+    "computer_sci/code_frame_learn/MOC.md",
+    "computer_sci/code_frame_learn/data/streamlit/MOC.md",
     "atlas.md",
+    "log/log_MOC.md",
     "plan/life.md",
     "research_career/papers_read.md",
     "computer_sci/MOC.md",
@@ -212,8 +214,6 @@
     "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning/deep_learning_MOC.md",
     "computer_sci/deep_learning_and_machine_learning/machine_learning/MOC.md",
-    "computer_sci/deep_learning_and_machine_learning/Evaluation/model_evaluation_MOC.md",
-    "computer_sci/deep_learning_and_machine_learning/Famous_Model/Famous_Model_MOC.md",
     "signal/hardware/attachments/Pasted image 20240412115407.png",
     "signal/hardware/attachments/Pasted image 20231007162754.png",
     "signal/hardware/SRD",
