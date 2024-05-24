@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
+                "file": "math/calculus/integration/common_integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
+                "file": "math/calculus/integration/common_integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
+                "file": "math/calculus/integration/common_integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md"
+                "file": "math/calculus/integration/common_integration.md"
               }
             }
           },
@@ -187,15 +187,31 @@
   },
   "active": "cf5bfd6c86535ef6",
   "lastOpenFiles": [
-    "computer_sci/code_frame_learn/MOC.md",
+    "math/calculus/integration/integration_by_parts.md",
+    "math/calculus/integration/attachments/3b071487d6f6a2b9f3bcc06fab7135ab_720.jpg",
+    "math/calculus/integration/attachments",
+    "math/calculus/integration/common_integration.md",
+    "math/calculus/calculus_moc.md",
+    "math/calculus/differential/product_rule.md",
+    "math/calculus/differential/attachments/a8025ddb1551b3aa7f9ef1697beeb350.jpeg",
+    "math/calculus/differential/attachments",
+    "math/calculus/differential/Untitled",
+    "math/calculus/differential",
+    "math/MOC.md",
+    "electrical_electronics/RF/antenna/vivaldi_antenna.md",
+    "math/calculus/integration",
+    "math/calculus",
+    "electrical_electronics/EE_MOC.md",
+    "electrical_electronics/RF/antenna/antenna.md",
+    "electrical_electronics/RF/antenna",
+    "signal/signal_MOC.md",
     "computer_sci/code_frame_learn/data/streamlit/MOC.md",
+    "computer_sci/code_frame_learn/MOC.md",
     "atlas.md",
     "log/log_MOC.md",
     "plan/life.md",
     "research_career/papers_read.md",
     "computer_sci/MOC.md",
-    "signal/signal_MOC.md",
-    "math/MOC.md",
     "data_sci/data_sci_MOC.md",
     "math/optimization_problem/Quadratic_Programming.md",
     "computer_sci/multiProcessing/MOC.md",
@@ -205,15 +221,7 @@
     "computer_sci/computational_geometry/delaunay_triangulation.md",
     "_index.md",
     "computer_sci/web/MOC.md",
-    "computer_sci/multiProcessing/multiThread_and_multiProcess/basic.md",
     "computer_sci/multiProcessing/multiThread_and_multiProcess",
-    "computer_sci/web/http/http_introduction.md",
-    "computer_sci/software_arch/conway_law.md",
-    "computer_sci/deep_learning_and_machine_learning/Trick/DTW.md",
-    "computer_sci/deep_learning_and_machine_learning/Trick/quantile_loss.md",
-    "computer_sci/deep_learning_and_machine_learning/deep_learning_MOC.md",
-    "computer_sci/deep_learning_and_machine_learning/deep_learning/deep_learning_MOC.md",
-    "computer_sci/deep_learning_and_machine_learning/machine_learning/MOC.md",
     "signal/hardware/attachments/Pasted image 20240412115407.png",
     "signal/hardware/attachments/Pasted image 20231007162754.png",
     "signal/hardware/SRD",
@@ -222,17 +230,8 @@
     "signal/hardware/attachments/Pasted image 20240515153224.png",
     "signal/hardware/attachments/Pasted image 20240515153137.png",
     "signal/hardware/attachments/Pasted image 20240514164651.png",
-    "signal/hardware/frequency_mixer",
-    "computer_sci/code_frame_learn/data/streamlit",
-    "computer_sci/code_frame_learn/doc/latex",
-    "computer_sci/code_frame_learn/doc",
-    "electrical_electronics/basic/pinouts/attachments/Pinouts_V0.3.pdf",
-    "electrical_electronics/basic",
-    "electrical_electronics/basic/pinouts/attachments",
     "art/art_style/low_poly/attachments/Pasted image 20240521102305.png",
     "art/art_style/low_poly/attachments/Pasted image 20240521102009.png",
-    "art/art_style/low_poly/attachments/Pasted image 20240521101132.png",
-    "data_sci/visualization/sci_graphics/attachments/EMD_Decomposition.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
