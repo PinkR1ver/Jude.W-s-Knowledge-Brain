@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53ec80cceaa25ff6",
+        "id": "36099e2ddeb9857c",
         "type": "tabs",
         "children": [
           {
-            "id": "cf5bfd6c86535ef6",
+            "id": "874d7a074e11666c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/calculus/integration/common_integration.md",
+                "file": "math/Statistics/basic_concepot/distribution/exponential_distribution_and_poisson_distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 224.51103591918945
   },
   "right": {
     "id": "642c9a9f19010b2b",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/calculus/integration/common_integration.md",
+                "file": "math/Statistics/basic_concepot/distribution/exponential_distribution_and_poisson_distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/calculus/integration/common_integration.md",
+                "file": "math/Statistics/basic_concepot/distribution/exponential_distribution_and_poisson_distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/calculus/integration/common_integration.md"
+                "file": "math/Statistics/basic_concepot/distribution/exponential_distribution_and_poisson_distribution.md"
               }
             }
           },
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,60 +180,60 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf5bfd6c86535ef6",
+  "active": "874d7a074e11666c",
   "lastOpenFiles": [
+    "math/Statistics/basic_concepot/distribution/attachments/2bbb645362366906ace3296d35612625_720.jpg",
+    "math/Statistics/basic_concepot/distribution/gamma_distribution.md",
+    "math/Statistics/basic_concepot/distribution/exponential_distribution_and_poisson_distribution.md",
+    "math/Statistics/basic_concepot/distribution/attachments/df15541df80b6065fb8296d80ffceac5_720.jpg",
+    "math/Statistics/basic_concepot/distribution/attachments/prove.jpg",
+    "math/Statistics/basic_concepot/distribution/attachments",
+    "math/Statistics/basic_concepot/distribution/beta_binomial.md",
+    "math/Statistics/basic_concepot/quantile_concept.md",
+    "warehouse/dampers_keeping_a_door_from_slamming shut.md",
+    "assets/pdf/ID.rar",
+    "warehouse/attachments/Pasted image 20230404150745.png",
+    "math/Statistics/basic_concepot/distribution",
+    "math/calculus/differential/common_differential.md",
+    "math/calculus/integration/common_integration.md",
+    "math/calculus/series/common_series.md",
+    "math/calculus/series/convergence_tests.md",
+    "math/calculus/series/attachments/Pasted image 20240528113553.png",
+    "math/calculus/series/attachments",
+    "math/calculus/series/Untitled",
+    "math/calculus/calculus_moc.md",
+    "math/calculus/series/series_MOC.md",
+    "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
+    "math/calculus/series",
+    "math/Untitled.md",
+    "research_career/papers_read.md",
+    "atlas.md",
+    "recent.md",
+    "tmp_script/prefix_sum.md",
+    "tmp_script/interview_31_ans.md",
+    "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
+    "computer_sci/coding_knowledge/js/proxy_in_js.md",
+    "computer_sci/coding_knowledge/js/closure.md",
+    "computer_sci/coding_knowledge/js/callbacks.md",
+    "electrical_electronics/RF/antenna/vivaldi_antenna.md",
+    "electrical_electronics/EE_MOC.md",
+    "electrical_electronics/RF/antenna/attachments/Pasted image 20240527104536.png",
+    "electrical_electronics/RF/antenna/attachments/Pasted image 20240527104530.png",
+    "electrical_electronics/RF/antenna/attachments",
+    "physics/electromagnetism/maxwells_equation.md",
     "math/calculus/integration/attachments/256673ed50d0fd7860e47ec7e7c3c914.jpeg",
     "math/calculus/integration/attachments/200556f15bb0d4b9a7f376327cc3032e_720.jpg",
-    "math/calculus/integration/integration_by_parts.md",
-    "math/calculus/differential/product_rule.md",
-    "math/calculus/integration/common_integration.md",
-    "math/calculus/differential/common_differential.md",
-    "math/calculus/calculus_moc.md",
     "math/calculus/integration/attachments/dddb932c0cbe0026f8f268ad1cf6f30a.jpg",
     "math/calculus/integration/attachments/aa2b711dcd371a1c235862623dd0df5c.jpg",
-    "math/calculus/integration/attachments/3b071487d6f6a2b9f3bcc06fab7135ab_720.jpg",
     "math/calculus/integration/attachments",
-    "math/calculus/differential/attachments/a8025ddb1551b3aa7f9ef1697beeb350.jpeg",
     "math/calculus/differential/attachments",
     "math/calculus/differential/Untitled",
-    "math/calculus/differential",
-    "math/MOC.md",
-    "electrical_electronics/RF/antenna/vivaldi_antenna.md",
-    "math/calculus/integration",
-    "math/calculus",
-    "electrical_electronics/EE_MOC.md",
-    "electrical_electronics/RF/antenna/antenna.md",
-    "electrical_electronics/RF/antenna",
-    "signal/signal_MOC.md",
-    "computer_sci/code_frame_learn/data/streamlit/MOC.md",
-    "computer_sci/code_frame_learn/MOC.md",
-    "atlas.md",
-    "log/log_MOC.md",
-    "plan/life.md",
-    "research_career/papers_read.md",
-    "computer_sci/MOC.md",
-    "data_sci/data_sci_MOC.md",
-    "math/optimization_problem/Quadratic_Programming.md",
-    "computer_sci/multiProcessing/MOC.md",
-    "art/art_style/low_poly/low_ploy.md",
-    "art/art_style/art_style_MOC.md",
-    "computer_sci/computational_geometry/MOC.md",
-    "computer_sci/computational_geometry/delaunay_triangulation.md",
-    "_index.md",
-    "computer_sci/multiProcessing/multiThread_and_multiProcess",
-    "signal/hardware/attachments/Pasted image 20240412115407.png",
-    "signal/hardware/attachments/Pasted image 20231007162754.png",
-    "signal/hardware/SRD",
-    "signal/hardware/VNA",
-    "signal/hardware/attachments/Pasted image 20240514162309.png",
-    "signal/hardware/attachments/Pasted image 20240515153224.png",
-    "signal/hardware/attachments/Pasted image 20240515153137.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
