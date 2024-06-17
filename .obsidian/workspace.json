@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
+                "file": "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "font.ge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 224.51103591918945
+    "width": 200
   },
   "right": {
     "id": "642c9a9f19010b2b",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
+                "file": "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md",
+                "file": "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/code_frame_learn/data/streamlit/MOC.md"
+                "file": "computer_sci/code_frame_learn/cv/pillow/font_getsize.md"
               }
             }
           },
@@ -188,8 +189,11 @@
   },
   "active": "874d7a074e11666c",
   "lastOpenFiles": [
-    "computer_sci/code_frame_learn/data/streamlit/mywork_list.md",
+    "design/software_learn/blender/hotkey.md",
     "computer_sci/code_frame_learn/data/streamlit/MOC.md",
+    "design/software_learn/blender",
+    "design/software_learn",
+    "computer_sci/code_frame_learn/data/streamlit/mywork_list.md",
     "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
     "computer_sci/code_frame_learn/cv/pillow/pillow_moc.md",
     "computer_sci/code_frame_learn/MOC.md",
@@ -222,13 +226,10 @@
     "math/calculus/series/common_series.md",
     "math/calculus/series/convergence_tests.md",
     "math/calculus/series/attachments/Pasted image 20240528113553.png",
-    "math/calculus/series/attachments",
-    "math/calculus/series/Untitled",
     "math/calculus/calculus_moc.md",
     "math/calculus/series/series_MOC.md",
     "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
     "math/Untitled.md",
-    "atlas.md",
     "electrical_electronics/RF/antenna/attachments/Pasted image 20240527104536.png",
     "electrical_electronics/RF/antenna/attachments/Pasted image 20240527104530.png",
     "math/calculus/integration/attachments/256673ed50d0fd7860e47ec7e7c3c914.jpeg",
