@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp_script/how_to_use_PokerTH.md",
+                "file": "research_career/bladder_phantom.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp_script/how_to_use_PokerTH.md",
+                "file": "research_career/bladder_phantom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp_script/how_to_use_PokerTH.md",
+                "file": "research_career/bladder_phantom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmp_script/how_to_use_PokerTH.md"
+                "file": "research_career/bladder_phantom.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "6390e25615c16cee",
   "lastOpenFiles": [
+    "tmp_script/how_to_use_PokerTH.md",
     "tmp_script/attachments/image-20240625160500161.png",
     "tmp_script/attachments/image-20240625160432883.png",
     "tmp_script/attachments/image-20240625160303222.png",
@@ -196,7 +197,6 @@
     "tmp_script/attachments/image-20240625155735492.png",
     "tmp_script/attachments/image-20240625155058221.png",
     "math/Statistics/stochastic_process/markov_chain.md",
-    "tmp_script/how_to_use_PokerTH.md",
     "math/Statistics/stochastic_process/attachments/6fd1795d98c9031bc791909a8d098e25.jpg",
     "math/Statistics/stochastic_process/attachments",
     "math/Statistics/stochastic_process",
@@ -225,7 +225,6 @@
     "math/Statistics/basic_concepot/distribution/beta_binomial.md",
     "math/Statistics/basic_concepot/distribution/attachments/2bbb645362366906ace3296d35612625_720.jpg",
     "math/Statistics/basic_concepot/distribution/attachments/df15541df80b6065fb8296d80ffceac5_720.jpg",
-    "math/Statistics/basic_concepot/distribution/attachments/prove.jpg",
     "math/Statistics/basic_concepot/distribution/attachments",
     "math/Statistics/basic_concepot/quantile_concept.md",
     "warehouse/dampers_keeping_a_door_from_slamming shut.md",
