@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Statistics/stochastic_process/markov_chain.md",
+                "file": "tmp_script/how_to_use_PokerTH.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Statistics/stochastic_process/markov_chain.md",
+                "file": "tmp_script/how_to_use_PokerTH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Statistics/stochastic_process/markov_chain.md",
+                "file": "tmp_script/how_to_use_PokerTH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Statistics/stochastic_process/markov_chain.md"
+                "file": "tmp_script/how_to_use_PokerTH.md"
               }
             }
           },
@@ -188,9 +188,17 @@
   },
   "active": "6390e25615c16cee",
   "lastOpenFiles": [
+    "tmp_script/attachments/image-20240625160500161.png",
+    "tmp_script/attachments/image-20240625160432883.png",
+    "tmp_script/attachments/image-20240625160303222.png",
+    "tmp_script/attachments/image-20240625155942709.png",
+    "tmp_script/attachments/image-20240625155830746.png",
+    "tmp_script/attachments/image-20240625155735492.png",
+    "tmp_script/attachments/image-20240625155058221.png",
+    "math/Statistics/stochastic_process/markov_chain.md",
+    "tmp_script/how_to_use_PokerTH.md",
     "math/Statistics/stochastic_process/attachments/6fd1795d98c9031bc791909a8d098e25.jpg",
     "math/Statistics/stochastic_process/attachments",
-    "math/Statistics/stochastic_process/markov_chain.md",
     "math/Statistics/stochastic_process",
     "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
     "design/software_learn/blender/hotkey.md",
@@ -221,19 +229,11 @@
     "math/Statistics/basic_concepot/distribution/attachments",
     "math/Statistics/basic_concepot/quantile_concept.md",
     "warehouse/dampers_keeping_a_door_from_slamming shut.md",
-    "warehouse/attachments/Pasted image 20230404150745.png",
     "math/calculus/differential/common_differential.md",
     "math/calculus/integration/common_integration.md",
     "math/calculus/series/common_series.md",
     "math/calculus/series/convergence_tests.md",
-    "math/calculus/series/attachments/Pasted image 20240528113553.png",
     "math/calculus/calculus_moc.md",
-    "math/calculus/series/series_MOC.md",
-    "electrical_electronics/RF/antenna/attachments/Pasted image 20240527104536.png",
-    "electrical_electronics/RF/antenna/attachments/Pasted image 20240527104530.png",
-    "math/calculus/integration/attachments/256673ed50d0fd7860e47ec7e7c3c914.jpeg",
-    "math/calculus/integration/attachments/200556f15bb0d4b9a7f376327cc3032e_720.jpg",
-    "math/calculus/integration/attachments/dddb932c0cbe0026f8f268ad1cf6f30a.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
