@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36099e2ddeb9857c",
+        "id": "4ea9ad2cfa0d9e15",
         "type": "tabs",
         "children": [
           {
-            "id": "874d7a074e11666c",
+            "id": "6390e25615c16cee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
+                "file": "math/Statistics/stochastic_process/markov_chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.51103591918945
   },
   "right": {
     "id": "642c9a9f19010b2b",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
+                "file": "math/Statistics/stochastic_process/markov_chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
+                "file": "math/Statistics/stochastic_process/markov_chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_sci/code_frame_learn/cv/pillow/font_getsize.md"
+                "file": "math/Statistics/stochastic_process/markov_chain.md"
               }
             }
           },
@@ -187,14 +186,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "874d7a074e11666c",
+  "active": "6390e25615c16cee",
   "lastOpenFiles": [
+    "math/Statistics/stochastic_process/attachments/6fd1795d98c9031bc791909a8d098e25.jpg",
+    "math/Statistics/stochastic_process/attachments",
+    "math/Statistics/stochastic_process/markov_chain.md",
+    "math/Statistics/stochastic_process",
+    "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
     "design/software_learn/blender/hotkey.md",
     "computer_sci/code_frame_learn/data/streamlit/MOC.md",
     "design/software_learn/blender",
     "design/software_learn",
     "computer_sci/code_frame_learn/data/streamlit/mywork_list.md",
-    "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
     "computer_sci/code_frame_learn/cv/pillow/pillow_moc.md",
     "computer_sci/code_frame_learn/MOC.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/rag/basic.md",
@@ -218,9 +221,7 @@
     "math/Statistics/basic_concepot/distribution/attachments",
     "math/Statistics/basic_concepot/quantile_concept.md",
     "warehouse/dampers_keeping_a_door_from_slamming shut.md",
-    "assets/pdf/ID.rar",
     "warehouse/attachments/Pasted image 20230404150745.png",
-    "math/Statistics/basic_concepot/distribution",
     "math/calculus/differential/common_differential.md",
     "math/calculus/integration/common_integration.md",
     "math/calculus/series/common_series.md",
@@ -228,8 +229,6 @@
     "math/calculus/series/attachments/Pasted image 20240528113553.png",
     "math/calculus/calculus_moc.md",
     "math/calculus/series/series_MOC.md",
-    "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
-    "math/Untitled.md",
     "electrical_electronics/RF/antenna/attachments/Pasted image 20240527104536.png",
     "electrical_electronics/RF/antenna/attachments/Pasted image 20240527104530.png",
     "math/calculus/integration/attachments/256673ed50d0fd7860e47ec7e7c3c914.jpeg",
