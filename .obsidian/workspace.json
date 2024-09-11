@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Statistics/game_theory/counterfactual_regret_minimization.md",
+                "file": "research_career/VOR/VOR_outline.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a80b826ad422c11",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Statistics/game_theory/counterfactual_regret_minimization.md",
+                "file": "research_career/VOR/VOR_outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Statistics/game_theory/counterfactual_regret_minimization.md",
+                "file": "research_career/VOR/VOR_outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Statistics/game_theory/counterfactual_regret_minimization.md"
+                "file": "research_career/VOR/VOR_outline.md"
               }
             }
           },
@@ -197,10 +186,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a80b826ad422c11",
+  "active": "6390e25615c16cee",
   "lastOpenFiles": [
-    "research_career/bladder_phantom.md",
+    "resume.md",
+    "research_career/VOR/VOR_outline.md",
+    "research_career/VOR/attachments/VOR, Vestibulo-ocular reflex.png",
+    "research_career/VOR/attachments/60070f4cc29395e4ef89f3843eace2ce.png",
+    "research_career/VOR/attachments",
     "math/Statistics/game_theory/counterfactual_regret_minimization.md",
+    "research_career/VOR",
+    "research_career/bladder_phantom.md",
     "math/Statistics/game_theory",
     "tmp_script/how_to_use_PokerTH.md",
     "tmp_script/attachments/image-20240625160500161.png",
@@ -228,23 +223,17 @@
     "computer_sci/deep_learning_and_machine_learning/LLM/LLM_MOC.md",
     "research_career/papers_read.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/rag",
-    "research_career/Untitled",
     "signal/signal_processing/basic_knowledge/FT/fourier_transform.md",
-    "research_career/adc_deployment",
     "math/Statistics/basic_concepot/distribution/students_t_distribution.md",
     "math/MOC.md",
     "math/Statistics/basic_concepot/distribution/gamma_distribution.md",
     "math/Statistics/basic_concepot/distribution/exponential_distribution_and_poisson_distribution.md",
     "math/Statistics/basic_concepot/distribution/beta_binomial.md",
-    "math/Statistics/basic_concepot/distribution/attachments/2bbb645362366906ace3296d35612625_720.jpg",
-    "math/Statistics/basic_concepot/distribution/attachments/df15541df80b6065fb8296d80ffceac5_720.jpg",
     "math/Statistics/basic_concepot/quantile_concept.md",
     "warehouse/dampers_keeping_a_door_from_slamming shut.md",
     "math/calculus/differential/common_differential.md",
     "math/calculus/integration/common_integration.md",
     "math/calculus/series/common_series.md",
-    "math/calculus/series/convergence_tests.md",
-    "math/calculus/calculus_moc.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
