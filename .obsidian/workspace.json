@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea9ad2cfa0d9e15",
+        "id": "415ff5443ca9bebb",
         "type": "tabs",
         "children": [
           {
-            "id": "6390e25615c16cee",
+            "id": "92ca8888648df1d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/VOR/VOR_outline.md",
+                "file": "signal/signal_processing/algorithm/EMD/basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font.ge",
+                "query": "EMD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_career/VOR/VOR_outline.md",
+                "file": "signal/signal_processing/algorithm/EMD/basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_career/VOR/VOR_outline.md",
+                "file": "signal/signal_processing/algorithm/EMD/basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_career/VOR/VOR_outline.md"
+                "file": "signal/signal_processing/algorithm/EMD/basic.md"
               }
             }
           },
@@ -186,10 +187,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6390e25615c16cee",
+  "active": "92ca8888648df1d5",
   "lastOpenFiles": [
-    "resume.md",
+    "signal/signal_processing/algorithm/EMD/attachments/~$EMD_StepByStep.pptx",
+    "signal/signal_processing/algorithm/EMD/attachments/EMD_StepByStep.pptx",
     "research_career/VOR/VOR_outline.md",
+    "resume.md",
     "research_career/VOR/attachments/VOR, Vestibulo-ocular reflex.png",
     "research_career/VOR/attachments/60070f4cc29395e4ef89f3843eace2ce.png",
     "research_career/VOR/attachments",
@@ -222,7 +225,6 @@
     "computer_sci/code_frame_learn/cv",
     "computer_sci/deep_learning_and_machine_learning/LLM/LLM_MOC.md",
     "research_career/papers_read.md",
-    "computer_sci/deep_learning_and_machine_learning/LLM/rag",
     "signal/signal_processing/basic_knowledge/FT/fourier_transform.md",
     "math/Statistics/basic_concepot/distribution/students_t_distribution.md",
     "math/MOC.md",
@@ -233,7 +235,6 @@
     "warehouse/dampers_keeping_a_door_from_slamming shut.md",
     "math/calculus/differential/common_differential.md",
     "math/calculus/integration/common_integration.md",
-    "math/calculus/series/common_series.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
