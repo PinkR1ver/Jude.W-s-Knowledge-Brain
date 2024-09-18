@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "signal/signal_processing/algorithm/EMD/basic.md",
+                "file": "resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "signal/signal_processing/algorithm/EMD/basic.md",
+                "file": "resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "signal/signal_processing/algorithm/EMD/basic.md",
+                "file": "resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "signal/signal_processing/algorithm/EMD/basic.md"
+                "file": "resume.md"
               }
             }
           },
@@ -189,9 +188,10 @@
   },
   "active": "92ca8888648df1d5",
   "lastOpenFiles": [
+    "signal/signal_processing/algorithm/EMD/basic.md",
+    "research_career/VOR/VOR_outline.md",
     "signal/signal_processing/algorithm/EMD/attachments/~$EMD_StepByStep.pptx",
     "signal/signal_processing/algorithm/EMD/attachments/EMD_StepByStep.pptx",
-    "research_career/VOR/VOR_outline.md",
     "resume.md",
     "research_career/VOR/attachments/VOR, Vestibulo-ocular reflex.png",
     "research_career/VOR/attachments/60070f4cc29395e4ef89f3843eace2ce.png",
@@ -222,7 +222,6 @@
     "computer_sci/code_frame_learn/MOC.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/rag/basic.md",
     "computer_sci/code_frame_learn/cv/pillow",
-    "computer_sci/code_frame_learn/cv",
     "computer_sci/deep_learning_and_machine_learning/LLM/LLM_MOC.md",
     "research_career/papers_read.md",
     "signal/signal_processing/basic_knowledge/FT/fourier_transform.md",
