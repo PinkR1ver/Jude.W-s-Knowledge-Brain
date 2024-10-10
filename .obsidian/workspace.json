@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a07fc530a52a69",
+        "id": "d8b233e4a3dc40f5",
         "type": "tabs",
         "children": [
           {
-            "id": "384e344abb1ed5ee",
+            "id": "700481a43d1ec16b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp_script/prefix_sum.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EMD",
+                "query": "Transformer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp_script/prefix_sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp_script/prefix_sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tmp_script/prefix_sum.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,10 +178,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "384e344abb1ed5ee",
+  "active": "700481a43d1ec16b",
   "lastOpenFiles": [
-    "tmp_script/tmp.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/transformer.md",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted image 20241010112210.png",
+    "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
     "tmp_script/prefix_sum.md",
+    "tmp_script/tmp.md",
     "math/statistic/anomaly_detection/IQR.md",
     "math/MOC.md",
     "math/statistic/anomaly_detection",
@@ -225,15 +220,12 @@
     "research_career/bladder_phantom.md",
     "tmp_script/how_to_use_PokerTH.md",
     "tmp_script/attachments/image-20240625160500161.png",
-    "tmp_script/attachments/image-20240625160432883.png",
     "math/statistic/stochastic_process/markov_chain.md",
     "computer_sci/code_frame_learn/cv/pillow/font_getsize.md",
     "design/software_learn/blender/hotkey.md",
     "computer_sci/code_frame_learn/data/streamlit/MOC.md",
     "computer_sci/code_frame_learn/data/streamlit/mywork_list.md",
     "computer_sci/code_frame_learn/cv/pillow/pillow_moc.md",
-    "computer_sci/code_frame_learn/MOC.md",
-    "computer_sci/deep_learning_and_machine_learning/LLM/LLM_MOC.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
