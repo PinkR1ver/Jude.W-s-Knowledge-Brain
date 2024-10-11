@@ -25,15 +25,17 @@ date: 2024-02-28
 
 🛶 Also, he learn some knowledge about his hobbies:
 
-* [📷 Photography](photography/photography_MOC.md)
+* [📷 Photography](hobbies/photography/photography_MOC.md)
 
-* [📮文学](literature/literature_MOC.md)
+* [📮文学](hobbies/literature/literature_MOC.md)
 
-* [🥐Food](food/MOC.md)
+* [🥐Food](hobbies/food/MOC.md)
 
 * [🎬Watching List](https://pinkr1ver.notion.site/5e136466f3664ff1aaaa75b85446e5b4?v=a41efbce52a84f7aa89d8f649f4620f6&pvs=4)
 
 * [🖌️Art](art/art_MOC.md)
+
+* 
 
 ⭐ Here to find my recent study:
 
