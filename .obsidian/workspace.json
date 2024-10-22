@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hobbies/game/chess/opening/london_system.md",
+                "file": "hobbies/game/chess/opening/Queens_Gambit.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hobbies/game/chess/opening/london_system.md",
+                "file": "hobbies/game/chess/opening/Queens_Gambit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hobbies/game/chess/opening/london_system.md",
+                "file": "hobbies/game/chess/opening/Queens_Gambit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hobbies/game/chess/opening/london_system.md"
+                "file": "hobbies/game/chess/opening/Queens_Gambit.md"
               }
             }
           },
@@ -188,14 +188,24 @@
   },
   "active": "700481a43d1ec16b",
   "lastOpenFiles": [
-    "hobbies/game/chess/MOC.md",
+    "hobbies/game/chess/opening/attachments/2.png",
+    "hobbies/game/chess/opening/attachments/1 1.png",
+    "hobbies/game/chess/opening/attachments/1.png",
+    "hobbies/game/chess/opening/attachments",
     "hobbies/game/chess/opening/london_system.md",
+    "hobbies/game/chess/opening/Queens_Gambit.md",
+    "_index.md",
+    "atlas.md",
+    "resume.md",
+    "news/2024/10",
+    "news/2024",
+    "news",
+    "hobbies/game/chess/MOC.md",
     "hobbies/game/MOC.md",
     "hobbies/game/hold_em/MOC.md",
     "hobbies/game/chess/opening",
     "hobbies/game/hold_em",
     "hobbies/game/Untitled.md",
-    "atlas.md",
     "hobbies/game/dota2/analyze_platform.md",
     "hobbies/game/chess",
     "conference/2024.md",
@@ -213,27 +223,17 @@
     "math/statistic/basic_concepot/quantile_concept.md",
     "math/statistic/algorithm/Untitled.md",
     "computer_sci/interview/machine_learning_interview.md",
-    "math/statistic/algorithm",
     "computer_sci/interview/interview_MOC.md",
     "computer_sci/MOC.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/basic/precision/LLM_precision.md",
-    "computer_sci/interview",
     "computer_sci/deep_learning_and_machine_learning/LLM/rag/basic.md",
-    "computer_sci/deep_learning_and_machine_learning/LLM/basic/precision",
-    "assets/pdf/undergraudate.pdf",
     "assets/pic/outstanding_graduates_of_zhejiang_university.jpg",
     "assets/pic/me.jpg",
     "assets/pic/academic_excellent_1920.png",
     "assets/pic/academic_excellent_award1819.png",
     "assets/pic/artistic_and_athletic_achievement_award1920.png",
     "assets/pic/zhejiang_university_scholarship_third_prize.png",
-    "resume.md",
-    "signal/signal_processing/algorithm/EMD/basic.md",
-    "research_career/VOR/VOR_outline.md",
     "research_career/VOR/attachments/VOR, Vestibulo-ocular reflex.png",
-    "research_career/VOR/attachments/60070f4cc29395e4ef89f3843eace2ce.png",
-    "math/statistic/game_theory/counterfactual_regret_minimization.md",
-    "tmp_script/attachments/image-20240625160500161.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
