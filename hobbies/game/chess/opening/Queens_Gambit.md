@@ -26,5 +26,5 @@ Variation：
 #### 5. bxc4 nf6: **This is mistake**
 
 ```chess
-
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Nf6 *
 ```
