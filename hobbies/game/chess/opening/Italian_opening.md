@@ -30,6 +30,7 @@ Evans Gambit have a trap move, and based on database, there are so many people w
 * **Black fall in trap** (Big data exploitation)
 
 <iframe width="600" height="371" src="https://lichess.org/study/embed/vtZuNeWO/Wt2BYTEL#7" frameborder=0></iframe>
+
 # Reference
 
 * [[国象熟肉]ChessPage1 AlphaZero居然发现了最佳开局？！！](https://www.bilibili.com/video/BV1Pj411b7fh/?spm_id_from=333.337.search-card.all.click&vd_source=c47136abc78922800b17d6ce79d6e19f)
