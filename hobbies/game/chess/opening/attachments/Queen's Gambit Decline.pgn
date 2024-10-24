@@ -1,0 +1,10 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 {[%eval +0.21] } d5 {[%eval +0.29] } 2. c4 {[%eval +0.23] } Bf5? {[%eval +0.99] } 3. cxd5 {[%eval +0.95] } Bxb1 {[%eval +0.93] } 4. Rxb1 {[%eval +0.98] } Qxd5 {[%eval +0.92] } 5. Nf3 {[%eval +1.04] } Qxa2? {[%eval +1.28] } 6. Bd2 {[%eval +1.26] } Nf6 {[%eval +1.29] } 7. Qc2 {[%eval +1.29] } Nc6?? {[%eval +3.34] } 8. e4 {[%eval +3.33] } Qe6 {[%eval +3.38] }  (8... e5 {[%eval +3.92] }  9. Bc4 {[%eval +3.52] [%cal Gb2a3,Gc2a4,Gd2a5,Gc4a6,Gb1a1,Gc4a2]}) 9. d5 {[%eval +3.39] } Nxd5 {[%eval +2.68] } 10. Bc4 {[%eval +3.26] } O-O-O {[%eval +3.65] } *
+
