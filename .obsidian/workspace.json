@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "008d121c26d0a5be",
+        "id": "3ef644388dbe3c47",
         "type": "tabs",
         "children": [
           {
-            "id": "c4df178a0aff6e51",
+            "id": "b7a6bc588d9a3e52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hobbies/game/chess/opening/Italian_opening.md",
+                "file": "electrical_electronics/hardware/USB-C_confusion.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "USB-C_confusion"
+            }
+          },
+          {
+            "id": "1237d8993a2dc552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/statistic/paradox/inspection_paradox_and_Simpons_paradox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inspection_paradox_and_Simpons_paradox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hobbies/game/chess/opening/Italian_opening.md",
+                "file": "electrical_electronics/hardware/USB-C_confusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for USB-C_confusion"
             }
           },
           {
@@ -110,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hobbies/game/chess/opening/Italian_opening.md",
+                "file": "electrical_electronics/hardware/USB-C_confusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from USB-C_confusion"
             }
           },
           {
@@ -124,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hobbies/game/chess/opening/Italian_opening.md"
-              }
+                "file": "electrical_electronics/hardware/USB-C_confusion.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of USB-C_confusion"
             }
           },
           {
@@ -146,7 +179,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -154,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -162,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
-              "state": {}
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
@@ -186,10 +225,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4df178a0aff6e51",
+  "active": "1237d8993a2dc552",
   "lastOpenFiles": [
-    "hobbies/game/chess/opening/london_system.md",
+    "math/statistic/paradox/attachments/Pasted image 20241112125019.png",
+    "math/statistic/paradox/attachments/Pasted image 20241112124928.png",
+    "math/statistic/paradox/attachments",
+    "math/statistic/paradox/inspection_paradox_and_Simpons_paradox.md",
+    "math/statistic/paradox/Untitled",
+    "math/statistic/paradox",
+    "electrical_electronics/hardware/attachments/Pasted image 20241107111416.png",
+    "electrical_electronics/hardware/attachments/Pasted image 20241107111359.png",
+    "electrical_electronics/hardware/attachments",
+    "electrical_electronics/hardware/USB-C_confusion.md",
+    "electrical_electronics/hardware",
     "hobbies/game/chess/opening/Italian_opening.md",
+    "hobbies/game/chess/opening/london_system.md",
     "research_career/papers_read/papers_2024_10.md",
     "hobbies/game/chess/opening/Queens_Gambit.md",
     "hobbies/game/chess/opening/attachments/Italian_opening.png",
@@ -210,17 +260,12 @@
     "resume.md",
     "news/2024/10",
     "news/2024",
-    "news",
     "hobbies/game/chess/MOC.md",
     "hobbies/game/MOC.md",
     "hobbies/game/hold_em/MOC.md",
-    "hobbies/game/chess/opening",
-    "hobbies/game/hold_em",
     "hobbies/game/Untitled.md",
     "hobbies/game/dota2/analyze_platform.md",
-    "hobbies/game/chess",
     "conference/2024.md",
-    "hobbies",
     "computer_sci/deep_learning_and_machine_learning/deep_learning/attachments/Pasted image 20241010112210.png",
     "computer_sci/deep_learning_and_machine_learning/deep_learning/transformer.md",
     "computer_sci/deep_learning_and_machine_learning/deep_learning/attention.md",
@@ -228,10 +273,6 @@
     "tmp_script/tmp.md",
     "math/statistic/anomaly_detection/IQR.md",
     "math/MOC.md",
-    "math/statistic/anomaly_detection/z_score.md",
-    "math/statistic/basic_concepot/quantile_concept.md",
-    "assets/pic/outstanding_graduates_of_zhejiang_university.jpg",
-    "assets/pic/me.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
