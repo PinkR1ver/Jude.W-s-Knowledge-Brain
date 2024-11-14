@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/MSc_FYP/pHINTS_calibration.md",
+                "file": "research_career/MSc_FYP/pHINTS_next_plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pHINTS_calibration"
+              "title": "pHINTS_next_plan"
             }
           }
         ],
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.51103591918945
+    "width": 273.51103591918945
   },
   "right": {
     "id": "642c9a9f19010b2b",
@@ -227,6 +227,12 @@
   },
   "active": "1237d8993a2dc552",
   "lastOpenFiles": [
+    "research_career/MSc_FYP/attachments/Pasted image 20241114153125.png",
+    "research_career/MSc_FYP/attachments/7a24a52ac4cecf113ee8328a7d624b4c.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241114103921.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241114103632.png",
+    "research_career/MSc_FYP/pHINTS_calibration.md",
+    "research_career/MSc_FYP/pHINTS_next_plan.md",
     "research_career/MSc_FYP/attachments/cv_fold_3.png",
     "research_career/MSc_FYP/attachments/polynomial_comparison.png",
     "research_career/MSc_FYP/attachments/platform_cv_comparison.png",
@@ -234,15 +240,9 @@
     "research_career/MSc_FYP/attachments/image-20241104164424018.png",
     "research_career/MSc_FYP/attachments/image-20241104163053875.png",
     "research_career/MSc_FYP/attachments/image-20241104162911680.png",
-    "research_career/MSc_FYP/attachments/d399e5d96059d6549ca881aee779dc7f.png",
-    "research_career/MSc_FYP/attachments/image-20241104161112064.png",
-    "research_career/MSc_FYP/attachments/image-20241104161106546.png",
     "research_career/MSc_FYP/attachments",
     "math/statistic/paradox/inspection_paradox_and_Simpons_paradox.md",
-    "research_career/MSc_FYP/pHINTS_calibration.md",
-    "research_career/MSc_FYP/Untitled.md",
     "research_career/MSc_FYP",
-    "math/statistic/paradox/attachments/Pasted image 20241112125019.png",
     "math/statistic/paradox/attachments",
     "math/statistic/paradox/Untitled",
     "math/statistic/paradox",
