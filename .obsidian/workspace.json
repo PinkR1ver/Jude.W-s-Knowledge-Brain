@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/MSc_FYP/pHINTS_next_plan.md",
+                "file": "research_career/MSc_FYP/pHINTS_system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pHINTS_next_plan"
+              "title": "pHINTS_system"
+            }
+          },
+          {
+            "id": "807a86d69279b474",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -241,24 +253,25 @@
   },
   "active": "1237d8993a2dc552",
   "lastOpenFiles": [
+    "research_career/MSc_FYP/attachments/Pasted image 20241122172637.png",
+    "research_career/MSc_FYP/attachments/Figure_2.png",
+    "research_career/MSc_FYP/attachments/Figure_1.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241122170739.png",
+    "research_career/MSc_FYP/attachments/HINTS.svg",
     "research_career/MSc_FYP/pHINTS_calibration.md",
-    "electrical_electronics/hardware/USB-C_confusion.md",
     "tmp_script/pHIT_data_observation.md",
-    "research_career/MSc_FYP/pHINTS_next_plan.md",
+    "research_career/MSc_FYP/pHINTS_system.md",
+    "electrical_electronics/hardware/USB-C_confusion.md",
     "tmp_script/attachments/Figure_7.png",
     "tmp_script/attachments/Figure_5 1.png",
     "tmp_script/attachments/Figure_5.png",
     "tmp_script/attachments/Figure_6.png",
     "tmp_script/attachments/Figure_4.png",
     "tmp_script/attachments/Figure_3.png",
-    "tmp_script/attachments/Figure_2.png",
-    "tmp_script/attachments/Figure_1.png",
     "tmp_script/prefix_sum.md",
     "tmp_script/interview_31_ans.md",
     "tmp_script/how_to_use_PokerTH.md",
     "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
-    "research_career/MSc_FYP/attachments/Pasted image 20241114153125.png",
-    "research_career/MSc_FYP/attachments/7a24a52ac4cecf113ee8328a7d624b4c.png",
     "research_career/MSc_FYP/attachments",
     "math/statistic/paradox/inspection_paradox_and_Simpons_paradox.md",
     "research_career/MSc_FYP",
