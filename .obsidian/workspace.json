@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3749f1d94f09a114",
+        "id": "7e9fe4a3975cc140",
         "type": "tabs",
         "children": [
           {
-            "id": "35c6460ef7caadba",
+            "id": "387ea1b2a4503a2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "recent.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "recent"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vHIT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,16 +61,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "abb3b3249c9e18ff",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
@@ -205,10 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35c6460ef7caadba",
+  "active": "387ea1b2a4503a2d",
   "lastOpenFiles": [
-    "hobbies/literature/sentence/motivation.md",
+    "atlas.md",
+    "recent.md",
     "hobbies/literature/sentence/poem.md",
+    "hobbies/literature/sentence/motivation.md",
     "hobbies/literature/sentence/sentence_MOC.md",
     "hobbies/literature/sentence/wisdom.md",
     "hobbies/literature/sentence/movie.md",
@@ -250,8 +246,6 @@
     "hobbies/game/chess/opening/attachments/Queen's Gambit Decline.pgn",
     "hobbies/game/chess/opening/attachments/Queen's Gambit Accept.pgn",
     "research_career/papers_read.md",
-    "research_career/papers_read/papers_2023_11.md",
-    "research_career/papers_read/papers_2023_10.md",
     "hobbies/game/chess/opening/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"

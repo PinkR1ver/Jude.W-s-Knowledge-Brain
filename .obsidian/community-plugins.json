@@ -4,5 +4,7 @@
   "metadata-extractor",
   "obsidian-latex",
   "table-editor-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-chartsview-plugin"
 ]
