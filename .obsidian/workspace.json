@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3ef644388dbe3c47",
+        "id": "3749f1d94f09a114",
         "type": "tabs",
         "children": [
           {
-            "id": "b7a6bc588d9a3e52",
+            "id": "35c6460ef7caadba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "electrical_electronics/hardware/USB-C_confusion.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "USB-C_confusion"
-            }
-          },
-          {
-            "id": "1237d8993a2dc552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_career/MSc_FYP/pHINTS_system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pHINTS_system"
-            }
-          },
-          {
-            "id": "807a86d69279b474",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "a5ec242e85ac705b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp_script/pHIT_data_observation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pHIT_data_observation"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +181,8 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
         ],
@@ -235,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,23 +205,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1237d8993a2dc552",
+  "active": "35c6460ef7caadba",
   "lastOpenFiles": [
-    "research_career/MSc_FYP/attachments/Pasted image 20241122172637.png",
-    "research_career/MSc_FYP/attachments/Figure_2.png",
-    "research_career/MSc_FYP/attachments/Figure_1.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241122170739.png",
-    "research_career/MSc_FYP/attachments/HINTS.svg",
-    "research_career/MSc_FYP/pHINTS_calibration.md",
-    "tmp_script/pHIT_data_observation.md",
+    "hobbies/literature/sentence/motivation.md",
+    "hobbies/literature/sentence/poem.md",
+    "hobbies/literature/sentence/sentence_MOC.md",
+    "hobbies/literature/sentence/wisdom.md",
+    "hobbies/literature/sentence/movie.md",
+    "hobbies/literature/sentence/love_about.md",
+    "hobbies/literature/sentence/feeling.md",
+    "hobbies/literature/sentence/comments.md",
     "research_career/MSc_FYP/pHINTS_system.md",
     "electrical_electronics/hardware/USB-C_confusion.md",
-    "tmp_script/attachments/Figure_7.png",
-    "tmp_script/attachments/Figure_5 1.png",
-    "tmp_script/attachments/Figure_5.png",
-    "tmp_script/attachments/Figure_6.png",
-    "tmp_script/attachments/Figure_4.png",
-    "tmp_script/attachments/Figure_3.png",
+    "research_career/MSc_FYP/attachments/HINTS_MainLine.png",
+    "research_career/MSc_FYP/pHINTS_calibration.md",
+    "_index.md",
+    "research_career/MSc_FYP/attachments/Pasted image 20241126144837.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241126144830.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241126144826.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241126144819.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241126144810.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241126142648.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241126142644.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241126142504.png",
+    "research_career/MSc_FYP/attachments/Pasted image 20241122172637.png",
+    "tmp_script/pHIT_data_observation.md",
     "tmp_script/prefix_sum.md",
     "tmp_script/interview_31_ans.md",
     "tmp_script/how_to_use_PokerTH.md",
@@ -291,14 +253,6 @@
     "research_career/papers_read/papers_2023_11.md",
     "research_career/papers_read/papers_2023_10.md",
     "hobbies/game/chess/opening/attachments",
-    "_index.md",
-    "atlas.md",
-    "resume.md",
-    "hobbies/game/chess/MOC.md",
-    "hobbies/game/MOC.md",
-    "hobbies/game/hold_em/MOC.md",
-    "hobbies/game/Untitled.md",
-    "hobbies/game/dota2/analyze_platform.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

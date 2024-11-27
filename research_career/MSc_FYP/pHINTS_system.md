@@ -2,7 +2,7 @@
 title: pHINTS系统设计
 tags:
   - plan
-date: 2024-11-14
+date: 2024-11-27
 ---
 ## HINTS临床试验背景
 
@@ -32,12 +32,31 @@ HINTS试验可以通过简单的临床医生观察来进行，被称为cHINTS（
 
 ## 系统设计框图
 
-![](research_career/MSc_FYP/attachments/HINTS.svg)
-
+![](research_career/MSc_FYP/attachments/HINTS_MainLine.png)
 <center>Fig 1. 系统设计框图</center>
 
 
+系统分为系统输入，经过三个试验设计，得到头脉冲试验的临床指标和眼震试验、眼位偏斜试验临床指标两个模块。其中头脉冲试验临床指标分为扫视波和VOR增益，扫视波为阳性或阴性，VOR增益为一个1左右的浮点数。通过这两个数据在头脉冲试验判断模块后，可以输出”头脉冲试验阳性“，”头脉冲试验阴性“，”无法判断三个标准“
 
+![](research_career/MSc_FYP/attachments/Pasted%20image%2020241126144819.png)
+<center>Fig 2. 头脉冲试验指标分析判断</center>
+
+
+眼震试验和眼位偏斜试验为一个模块，其主要目的是为了识别被试有没有前庭中枢病变的信号。其中眼震试验输出4个模块的临床指标，分别为自发眼震试验的快相方向和慢相速度和凝视性眼震的上下左右四个注视点情况下的快相方向和慢相速度。眼位偏斜试验输出的临床指标为眼位偏斜方向。
+
+这5个指标输入到逻辑判断链条，判断患者在该模块下是否有前庭中枢受损的标志，如果没有中枢受损标志的话，继续判断是否有外周受损的标志，如果都没有，则表示在该模块下没有前庭受损标志.
+
+同时，如果该模块下存在眼震，我们通过范围来判断眼震的程度。
+
+
+
+![](research_career/MSc_FYP/attachments/Pasted%20image%2020241126144810.png)
+<center>Fig 3. 眼震试验和眼位偏斜试验指标分析判断</center>
+
+
+紧接着，我们将头脉冲试验模块的判断和眼震试验、眼位偏斜试验模块的分析判断输入病人前庭受损分类模块，分出病人是前庭外周受损或前庭中枢受损。
+
+最后，我们把之前计算出的所有临床指标、现病史、分类结果和大模型基于该三个参数给出的辅助诊断，输出到报告里帮助测试者，即使用该系统的临床医师进行诊断判断。
 ## pHIT, 基于手机的头脉冲试验
 
 
@@ -48,19 +67,19 @@ HINTS试验可以通过简单的临床医生观察来进行，被称为cHINTS（
 在HIT试验中，试验人员知道患者将目光集中在目标上，如果响应头部冲击的VOR运动不足以将目光集中在目标上，则将激活眼球运动通路以将眼睛正确地放置在精确位置。扫视机制就是进行这种矫正的主要眼球活动，同时因为扫视运动需要更高水平的大脑活动，因此扫视运动的开始往往需要延迟80-100ms。
 
 ![](research_career/MSc_FYP/attachments/Pasted%20image%2020241122170739.png)
-<center>Fig 2. 头脉冲试验</center>
+<center>Fig 4. 头脉冲试验</center>
 
 
 
 这种扫视又分为两种
 
 ![](research_career/MSc_FYP/attachments/Figure_1.png)
-<center>Fig 3. 显性扫视</center>
+<center>Fig 5. 显性扫视</center>
 
-如Fig 3所示，如果从头部运动开始算起，扫视的延迟时间很长，在250ms及以上，这类扫视的发生的时候，头部已经完成了运动，被称为显性扫视。
+如Fig 5所示，如果从头部运动开始算起，扫视的延迟时间很长，在250ms及以上，这类扫视的发生的时候，头部已经完成了运动，被称为显性扫视。
 
 ![](research_career/MSc_FYP/attachments/Figure_2.png)
-<center>Fig 4. 隐形扫视</center>
+<center>Fig 6. 隐形扫视</center>
 
 如果患者能够预测眼睛将无法看到目标，他们可能会决定在头部停止前开始扫视。因此，扫视可能发生在头部运动期间，这被称为隐性扫视。这种扫视从头部运动开始计算的话，通常延迟小于200ms。同时，隐形扫视会伴随小范围的显性扫视，这些显性扫视太小，较难被检测到。
 
@@ -94,9 +113,9 @@ HINTS试验可以通过简单的临床医生观察来进行，被称为cHINTS（
 
 ![](research_career/MSc_FYP/attachments/Pasted%20image%2020241122172637.png)
 
-<center>Fig 5. 眼震信号，水平方位和竖直方位</center>
+<center>Fig 7. 眼震信号，水平方位和竖直方位</center>
 
-在Fig 5中，LH代表horizontal position of the left eye，左眼水平位置，LV代表vertical position of the left eye，右眼水平位置，即信号代表的快相方向为向左和向上。
+在Fig 7中，LH代表horizontal position of the left eye，左眼水平位置，LV代表vertical position of the left eye，右眼水平位置，即信号代表的快相方向为向左和向上。
 
 通过眼震的快相方向，我们可以定性地判断出患者是否有中枢性病变，其逻辑在系统框图中有具体细节。简单来说，外周性前庭病变，如前庭神经炎或梅尼埃病往往是单向水平眼震，中枢性前庭病变往往会有竖直方向水平眼震，并在凝视诱发眼震中会表现出变向眼震和慢相速度不稳定等现象。
 
