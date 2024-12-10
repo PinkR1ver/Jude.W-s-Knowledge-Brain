@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recent.md",
+                "file": "computer_sci/web/net_tool/netsh_set_proxy_in_terminal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recent"
+              "title": "netsh_set_proxy_in_terminal"
             }
           }
         ]
@@ -201,8 +201,12 @@
   },
   "active": "387ea1b2a4503a2d",
   "lastOpenFiles": [
-    "atlas.md",
+    "computer_sci/web/MOC.md",
+    "computer_sci/web/net_tool/netsh_set_proxy_in_terminal.md",
+    "computer_sci/web/net_tool",
+    "computer_sci/web/Untitled.md",
     "recent.md",
+    "atlas.md",
     "hobbies/literature/sentence/poem.md",
     "hobbies/literature/sentence/motivation.md",
     "hobbies/literature/sentence/sentence_MOC.md",
@@ -241,12 +245,8 @@
     "hobbies/game/chess/opening/Italian_opening.md",
     "hobbies/game/chess/opening/london_system.md",
     "research_career/papers_read/papers_2024_10.md",
-    "hobbies/game/chess/opening/Queens_Gambit.md",
-    "hobbies/game/chess/opening/attachments/McDonnell Defense.md",
     "hobbies/game/chess/opening/attachments/Queen's Gambit Decline.pgn",
     "hobbies/game/chess/opening/attachments/Queen's Gambit Accept.pgn",
-    "research_career/papers_read.md",
-    "hobbies/game/chess/opening/attachments",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
