@@ -15,6 +15,8 @@ date: 2023-09-19
 
 * [🍉Resume](resume.md)
 
+* [News✨](news.md)
+
 
 <div style="width: 50%; transform: translate(50%, 0);">
 <tr>
