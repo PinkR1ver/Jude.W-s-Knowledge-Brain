@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "news.md",
+                "file": "computer_sci/deep_learning_and_machine_learning/LLM/basic/llm_hyperparameter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "news"
+              "title": "llm_hyperparameter"
             }
           }
         ]
@@ -201,12 +201,18 @@
   },
   "active": "387ea1b2a4503a2d",
   "lastOpenFiles": [
+    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/ppl_full.gif",
+    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241217170037.png",
+    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241210171837.png",
+    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241210170515.png",
+    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241210170130.png",
+    "computer_sci/deep_learning_and_machine_learning/LLM/metircs/some_task.md",
+    "news.md",
     "_index.md",
     "[.md",
     "atlas.md",
     "recent.md",
     "resume.md",
-    "news.md",
     "().md",
     "computer_sci/web/net_tool/netsh_set_proxy_in_terminal.md",
     "computer_sci/web/MOC.md",
@@ -229,15 +235,9 @@
     "research_career/MSc_FYP/attachments/Pasted image 20241126144826.png",
     "research_career/MSc_FYP/attachments/Pasted image 20241126144819.png",
     "research_career/MSc_FYP/attachments/Pasted image 20241126144810.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241126142648.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241126142644.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241126142504.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241122172637.png",
     "tmp_script/pHIT_data_observation.md",
     "tmp_script/prefix_sum.md",
     "tmp_script/interview_31_ans.md",
-    "tmp_script/how_to_use_PokerTH.md",
-    "tmp_script/Common_Issues_in_DSP_Homework_Script.md",
     "research_career/MSc_FYP/attachments",
     "research_career/MSc_FYP",
     "math/statistic/paradox/attachments",
