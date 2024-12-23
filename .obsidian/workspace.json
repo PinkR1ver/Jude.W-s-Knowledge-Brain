@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "387ea1b2a4503a2d",
+            "id": "0fdd5cce3787abfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_sci/deep_learning_and_machine_learning/LLM/basic/llm_hyperparameter.md",
+                "file": "math/statistic/significance_test/McNemarTest_and_KappaTest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "llm_hyperparameter"
+              "title": "McNemarTest_and_KappaTest"
+            }
+          },
+          {
+            "id": "387ea1b2a4503a2d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -184,12 +194,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -199,8 +210,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "387ea1b2a4503a2d",
+  "active": "0fdd5cce3787abfa",
   "lastOpenFiles": [
+    "toolkit/paperless_ngx/How_to_run_paperless-ngx_in_windows.md",
+    "toolkit/paperless_ngx/attachments/Pasted image 20241223111501.png",
+    "toolkit/paperless_ngx/attachments/Pasted image 20241223111353.png",
+    "toolkit/paperless_ngx/attachments/Pasted image 20241223111325.png",
+    "toolkit/paperless_ngx/attachments/Pasted image 20241223110707.png",
+    "toolkit/paperless_ngx/attachments/Pasted image 20241223110555.png",
+    "toolkit/paperless_ngx/attachments",
+    "toolkit/git/github_actions.md",
+    "research_career/UWB_about/report/基于高频信号大趋势包络提取后的信号关键点提取.md",
+    "toolkit/git/git_MOC.md",
+    "atlas.md",
+    "art/art_MOC.md",
+    "art/art_style/art_style_MOC.md",
+    "art/art_style/low_poly/low_ploy.md",
+    "hobbies/literature/literature_MOC.md",
+    "hobbies/photography/photography_MOC.md",
+    "research_career/papers_read.md",
+    "research_career/papers_read/papers_2024_10.md",
+    "computer_sci/MOC.md",
+    "math/MOC.md",
+    "data_sci/data_sci_MOC.md",
+    "math/statistic/significance_test/McNemarTest_and_KappaTest.md",
+    "toolkit/paperless_ngx",
+    "math/statistic/significance_test/Untitled",
+    "math/statistic/significance_test/whats_the_significance_test.md",
+    "computer_sci/deep_learning_and_machine_learning/Evaluation/model_evaluation_MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/Evaluation/Untitled.md",
+    "computer_sci/deep_learning_and_machine_learning/Evaluation/time_series_forecasting.md",
+    "computer_sci/deep_learning_and_machine_learning/machine_learning/SVM.md",
+    "computer_sci/deep_learning_and_machine_learning/machine_learning/MOC.md",
+    "computer_sci/deep_learning_and_machine_learning/LLM/basic/llm_hyperparameter.md",
     "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/ppl_full.gif",
     "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241217170037.png",
     "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241210171837.png",
@@ -208,45 +250,13 @@
     "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241210170130.png",
     "computer_sci/deep_learning_and_machine_learning/LLM/metircs/some_task.md",
     "news.md",
-    "_index.md",
-    "[.md",
-    "atlas.md",
-    "recent.md",
-    "resume.md",
-    "().md",
-    "computer_sci/web/net_tool/netsh_set_proxy_in_terminal.md",
-    "computer_sci/web/MOC.md",
     "computer_sci/web/net_tool",
-    "computer_sci/web/Untitled.md",
-    "hobbies/literature/sentence/poem.md",
-    "hobbies/literature/sentence/motivation.md",
-    "hobbies/literature/sentence/sentence_MOC.md",
-    "hobbies/literature/sentence/wisdom.md",
-    "hobbies/literature/sentence/movie.md",
-    "hobbies/literature/sentence/love_about.md",
-    "hobbies/literature/sentence/feeling.md",
-    "hobbies/literature/sentence/comments.md",
-    "research_career/MSc_FYP/pHINTS_system.md",
-    "electrical_electronics/hardware/USB-C_confusion.md",
-    "research_career/MSc_FYP/attachments/HINTS_MainLine.png",
-    "research_career/MSc_FYP/pHINTS_calibration.md",
-    "research_career/MSc_FYP/attachments/Pasted image 20241126144837.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241126144830.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241126144826.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241126144819.png",
-    "research_career/MSc_FYP/attachments/Pasted image 20241126144810.png",
-    "tmp_script/pHIT_data_observation.md",
-    "tmp_script/prefix_sum.md",
-    "tmp_script/interview_31_ans.md",
     "research_career/MSc_FYP/attachments",
     "research_career/MSc_FYP",
     "math/statistic/paradox/attachments",
     "math/statistic/paradox/Untitled",
     "math/statistic/paradox",
     "electrical_electronics/hardware/attachments",
-    "electrical_electronics/hardware",
-    "hobbies/game/chess/opening/attachments/Queen's Gambit Decline.pgn",
-    "hobbies/game/chess/opening/attachments/Queen's Gambit Accept.pgn",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

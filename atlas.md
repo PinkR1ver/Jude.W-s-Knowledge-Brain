@@ -35,7 +35,6 @@ date: 2024-02-28
 
 * [🖌️Art](art/art_MOC.md)
 
-* 
 
 ⭐ Here to find my recent study:
 
