@@ -2,7 +2,7 @@
 title: How to run paperless-ngx in windows
 tags:
   - tool
-date: 2024-10-23
+date: 2024-12-23
 ---
 ## Step 1. Install WSL (Windows Sub Linux)
 

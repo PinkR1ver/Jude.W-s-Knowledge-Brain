@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/statistic/significance_test/McNemarTest_and_KappaTest.md",
+                "file": "toolkit/paperless_ngx/How_to_run_paperless-ngx_in_windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "McNemarTest_and_KappaTest"
+              "title": "How_to_run_paperless-ngx_in_windows"
             }
           },
           {
@@ -212,6 +212,7 @@
   },
   "active": "0fdd5cce3787abfa",
   "lastOpenFiles": [
+    "math/statistic/significance_test/McNemarTest_and_KappaTest.md",
     "toolkit/paperless_ngx/How_to_run_paperless-ngx_in_windows.md",
     "toolkit/paperless_ngx/attachments/Pasted image 20241223111501.png",
     "toolkit/paperless_ngx/attachments/Pasted image 20241223111353.png",
@@ -233,7 +234,6 @@
     "computer_sci/MOC.md",
     "math/MOC.md",
     "data_sci/data_sci_MOC.md",
-    "math/statistic/significance_test/McNemarTest_and_KappaTest.md",
     "toolkit/paperless_ngx",
     "math/statistic/significance_test/Untitled",
     "math/statistic/significance_test/whats_the_significance_test.md",
