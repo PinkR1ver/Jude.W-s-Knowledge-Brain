@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toolkit/curl/curl_set_proxy_error35.md",
+                "file": "research_career/MSc_FYP/model_about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "curl_set_proxy_error35"
+              "title": "model_about"
             }
           }
         ]
@@ -175,8 +175,8 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -202,8 +202,15 @@
   },
   "active": "18fef9f919552c2a",
   "lastOpenFiles": [
-    "toolkit/zsh/oh-my-zsh/p10k/p10k_set_anaconda_env.md",
+    "research_career/MSc_FYP/attachments/HIT_distribution_with_pattern.png",
+    "research_career/MSc_FYP/attachments/STANDING.drawio.svg",
+    "research_career/MSc_FYP/attachments/Pasted image 20250106170107.png",
+    "research_career/MSc_FYP/attachments/HIT_distribution.png",
+    "research_career/MSc_FYP/attachments/Nystagmus_pattern_with_label.png",
+    "research_career/MSc_FYP/attachments/label_distribution.png",
     "toolkit/curl/curl_set_proxy_error35.md",
+    "research_career/MSc_FYP/model_about.md",
+    "toolkit/zsh/oh-my-zsh/p10k/p10k_set_anaconda_env.md",
     "toolkit/curl",
     "toolkit/zsh/oh-my-zsh/p10k",
     "toolkit/Untitled.md",
@@ -237,15 +244,8 @@
     "research_career/papers_read/papers_2024_10.md",
     "computer_sci/MOC.md",
     "math/MOC.md",
-    "data_sci/data_sci_MOC.md",
     "toolkit/paperless_ngx",
     "math/statistic/significance_test/Untitled",
-    "computer_sci/deep_learning_and_machine_learning/Evaluation/model_evaluation_MOC.md",
-    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/ppl_full.gif",
-    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241217170037.png",
-    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241210171837.png",
-    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241210170515.png",
-    "computer_sci/deep_learning_and_machine_learning/LLM/basic/attachments/Pasted image 20241210170130.png",
     "computer_sci/web/net_tool",
     "research_career/MSc_FYP/attachments",
     "Untitled.canvas",
