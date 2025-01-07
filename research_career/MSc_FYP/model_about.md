@@ -167,13 +167,13 @@ $F_{\beta}$ 指标用来在不平衡数据集中平衡精确度和召回率之�
 
 得到的最后分类结果如下：
 
-![](research_career/MSc_FYP/attachments/Random%20Forest_final_confusion_matrix.png)
+![](research_career/MSc_FYP/attachments/Random%20Forest_final_confusion_matrix%201.png)
 <center>Fig 7. Random Forest方法分类结果混淆矩阵</center>
 
-![](research_career/MSc_FYP/attachments/MLP_final_confusion_matrix.png)
+![](research_career/MSc_FYP/attachments/MLP_final_confusion_matrix%201.png)
 <center>Fig 8. MLP方法分类结果混淆矩阵</center>
 
-![](research_career/MSc_FYP/attachments/SVM_final_confusion_matrix.png)
+![](research_career/MSc_FYP/attachments/SVM_final_confusion_matrix%201.png)
 <center>Fig 9. SVM方法分类结果混淆矩阵</center>
 
 <center>Table 1. 三个模型分类结果评估参数对比</center>
