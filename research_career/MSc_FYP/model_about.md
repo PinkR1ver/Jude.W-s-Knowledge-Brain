@@ -201,7 +201,7 @@ $F_{\beta}$ 指标用来在不平衡数据集中平衡精确度和召回率之�
 
 ### 随机森林算法和STANDING流程分类效果对比
 
-![](research_career/MSc_FYP/attachments/methods_comparison.png)
+![](research_career/MSc_FYP/attachments/methods_comparison%202.png)
 <center>Fig 12. 传统STANDING流程分类和随机森林分类对比；从左到右 - 传统STANDING流程分类结果混淆矩阵，随机森林分类方法混淆矩阵，二者分类效果指标对比，McNemar检测二者是否有本质差别</center>
 
 
