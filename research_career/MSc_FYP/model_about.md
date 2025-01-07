@@ -187,10 +187,10 @@ $F_{\beta}$ 指标用来在不平衡数据集中平衡精确度和召回率之�
 | MLP           | 训练集 |   0.42    |  0.58  |   0.49   |   0.77   |
 |               | 测试集 |   0.44    |  0.70  |   0.54   |   0.78   |
 
-![D:\Documents\github_proj\pHINTS\statistics\threshold_analysis\roc_curves.png](file:///d%3A/Documents/github_proj/pHINTS/statistics/threshold_analysis/roc_curves.png)
+![](research_career/MSc_FYP/attachments/roc_curves.png)
 <center>Fig 10. 模型ROC曲线对比</center>
 
-![D:\Documents\github_proj\pHINTS\statistics\threshold_analysis\pr_curves.png](file:///d%3A/Documents/github_proj/pHINTS/statistics/threshold_analysis/pr_curves.png)
+![](research_career/MSc_FYP/attachments/pr_curves.png)
 <center>Fig 11. 模型PR曲线对比</center>
 
 
