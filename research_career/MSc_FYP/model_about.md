@@ -50,7 +50,164 @@ date: 2025-01-06
 <center>Fig 4. 不同眼震模式下</center>
 
 
-按照眼震模式区分，235例患者大部分表现为水平性自发性眼震和单一方向性的凝视性眼震。可以看到按照流程走，在眼震模式下具备中枢性特征的D-GEN，V-SN都被检测到卒中，敏感度达到100%。STANDING流程主要在
+按照眼震模式区分，235例患者大部分表现为水平性自发性眼震和单一方向性的凝视性眼震。可以看到按照流程走，在眼震模式下具备中枢性特征的D-GEN，V-SN都被检测到卒中，敏感度达到100%。STANDING流程主要在眼震模式在H-SN和UD-GEN这两个占最多数情况的病例中，在头脉冲试验表现出阳性的情况下表达出误判的情况。
+
+![](research_career/MSc_FYP/attachments/confusion_matrix.png)
+<center>Fig 5. 传统STANDING方法分类结果混淆矩阵</center>
+
+
+通过传统的Standing流程，有12例脑卒中病人最终被漏判为前庭炎，有4例前庭炎患者被错判为脑卒中，接下来哦我们通过机器学习方法得到的模型将重点关注传统Standing流程错误的部分，从机器学习模型的分析中帮助我们对传统Standing流程基于关键参数的量化指标进行提升。
+
+## 使用传统机器学习模型对235例患者进行分类
+
+
+### 相对于传统STANDING流程增加的四个数值量化特征
+
+
+我们主要关注的机器学习算法是随机森林，它是类似于STANDING流程通过bagging和特征随机化技术构建多颗决策树的进行分类的算法。相较于传统STANDING流程，我们还会利用到一些量化数值特征，这些特征包括，
+
+* 眼震试验慢相速度最大值 (1)
+* 头脉冲试验病侧增益 (2)
+* 头脉冲试验健侧和病侧增益差 (3)
+* 头脉冲试验病侧和健侧增益比 (4)
+
+
+### 训练过程
+
+```mermaid
+flowchart TB
+
+    A[读取数据 stroke_vs_VN.xlsx] --> B[数据预处理]
+
+    B --> C[标签编码 stroke=1, VN=0]
+
+    subgraph 五折交叉验证
+
+        direction TB
+
+        D[划分训练集和测试集] --> E[特征处理]
+
+        E --> |分类特征|E1[独热编码]
+
+        E --> |数值特征|E2[标准化]
+
+        E1 & E2 --> F[网格搜索最佳参数]
+
+        F --> G[使用F2-score评估]
+
+        G --> H[存储每折最佳阈值]
+
+    end
+
+    C --> D
+
+    H --> I[计算平均阈值]
+
+    I --> J[使用最佳参数训练最终模型]
+
+    subgraph 最终模型评估
+
+        direction TB
+
+        K[五折交叉验证评估]
+
+        L[保存组合模型]
+
+        M[生成训练集/测试集混淆矩阵]
+
+        N[计算评估指标]
+
+        K --> L --> M --> N
+
+    end
+
+    J --> K
+```
+<center>Fig 6. 机器学习训练过程，对于种类特征和数值特征的处理；如何设置超参和寻找最佳阈值</center>
+
+对于类别参数，我们会采取独立热编码，将特征分为多个0、1特征，如VOG_Nystagmus_pattern特征有7个选项，最终特征会变为
+
+- VOG_nystagmus_pattern_H-GEN
+- VOG_nystagmus_pattern_D-GEN
+- VOG_nystagmus_pattern_H-SN┋T-SN
+- VOG_nystagmus_pattern_V-SN┋D-GEN
+- VOG_nystagmus_pattern_UD-GEN
+- ... ....
+
+对于数值特征，则会进行标准化。
+
+
+我们的训练过程中，通过五折交叉验证和网格搜索寻找性能和泛化能力最优的超参数和阈值，以随机森林的超参数搜索范围如下：
+
+```
+n_estimators: [100, 150, 200, 250, 300, 350, 400, 450, 500]
+max_depth: [3, 4, 5, 6, 7, 8]
+max_samples: [0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+```
+
+n_estimators - 树的数量
+max_depth: - 树的深度
+max_samples - bagging的比例
+
+我们会遍历所有上述超参训练出来的情况以得到最佳的训练超参数。
+
+搜索的评估的目标函数设置为$F_{beta}$ Score，
+
+$$
+F_{\beta} = (1 + \beta^2) \cdot \frac{\text{precision}\cdot \text{recall}}{(\beta^2 \cdot \text{precision}) + \text{recall}}
+$$
+$F_{\beta}$ 指标用来在不平衡数据集中平衡精确度和召回率之间的权重，因为我们的任务更在意能否将脑卒中病人找到，因此对于召回率的要求更高，在这里将$\beta$设置为2。
+
+找到最佳超参数与阈值后，我们最后再使用五折交叉验证来得到模型的分类结果。
+
+### 模型结果分析
+
+
+最终，通过超参网格搜索和阈值检索，我们得到随机森林的最佳超参为100棵树，3层树深度和50% bagging比例。 
+
+得到的最后分类结果如下：
+
+![](research_career/MSc_FYP/attachments/Random%20Forest_final_confusion_matrix.png)
+<center>Fig 7. Random Forest方法分类结果混淆矩阵</center>
+
+![](research_career/MSc_FYP/attachments/MLP_final_confusion_matrix.png)
+<center>Fig 8. MLP方法分类结果混淆矩阵</center>
+
+![](research_career/MSc_FYP/attachments/SVM_final_confusion_matrix.png)
+<center>Fig 9. SVM方法分类结果混淆矩阵</center>
+
+<center>Table 1. 三个模型分类结果评估参数对比</center>
+
+| 模型            | 数据集 | Precision | Recall | F1-score | Accuracy |
+| :------------ | :-: | :-------: | :----: | :------: | :------: |
+| Random Forest | 训练集 |   0.76    |  0.87  |   0.81   |   0.93   |
+|               | 测试集 |   0.66    |  0.77  |   0.71   |   0.89   |
+| SVM           | 训练集 |   0.56    |  0.81  |   0.66   |   0.85   |
+|               | 测试集 |   0.53    |  0.79  |   0.64   |   0.83   |
+| MLP           | 训练集 |   0.42    |  0.58  |   0.49   |   0.77   |
+|               | 测试集 |   0.44    |  0.70  |   0.54   |   0.78   |
+
+![D:\Documents\github_proj\pHINTS\statistics\threshold_analysis\roc_curves.png](file:///d%3A/Documents/github_proj/pHINTS/statistics/threshold_analysis/roc_curves.png)
+<center>Fig 10. 模型ROC曲线对比</center>
+
+![D:\Documents\github_proj\pHINTS\statistics\threshold_analysis\pr_curves.png](file:///d%3A/Documents/github_proj/pHINTS/statistics/threshold_analysis/pr_curves.png)
+<center>Fig 11. 模型PR曲线对比</center>
+
+
+从AUC曲线和PR曲线来看，Random Forest在这个任务中分类性能是优于SVM和MLP的，尤其从PR曲线来看，SVM在保证较高敏感度的情况下损失较小的精准度。因此我们接下来讨论的重点会放在随机森林算法对于STANDING流程的改进。
+
+## 随机森林算法指导STANDING流程改进
+
+
+### 随机森林算法和STANDING流程分类效果对比
+
+![](research_career/MSc_FYP/attachments/methods_comparison.png)
+<center>Fig 12. 传统STANDING流程分类和随机森林分类对比；从左到右 - 传统STANDING流程分类结果混淆矩阵，随机森林分类方法混淆矩阵，二者分类效果指标对比，McNemar检测二者是否有本质差别</center>
+
+
+从分类指标来看，随机森林算法在牺牲一定特异性和精确度的情况下提升了对脑卒中患者的敏感度，二者在McNemar检测中没有表现出差异。
+
+### 关注于假阳性患者
 
 
 ## Reference
