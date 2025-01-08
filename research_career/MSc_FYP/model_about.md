@@ -1,5 +1,5 @@
 ---
-title: 基于238例来自神经内科STANDING检查流程患者的脑卒中和前庭炎分类研究
+title: 基于235例来自神经内科STANDING检查流程患者的脑卒中和前庭炎分类研究
 tags:
   - algorithm
   - classification
@@ -284,7 +284,7 @@ $$
 ![](research_career/MSc_FYP/attachments/feature_prediction_2d_Video_HIT_gain_strongSide_minus_weakSide_vs_Video_HIT_gain_weakSide_2_strongSide_combined%201.png)
 ![](research_career/MSc_FYP/attachments/feature_prediction_2d_Video_HIT_gain_weak_side_vs_Video_HIT_gain_strongSide_minus_weakSide_combined%201.png)
 ![](research_career/MSc_FYP/attachments/feature_prediction_2d_Video_HIT_gain_weak_side_vs_Video_HIT_gain_weakSide_2_strongSide_combined%201.png)
-<center>Fig 15. 头脉冲试验弱侧增益、头脉冲试验健侧增益与病侧增益差、头脉冲试验病侧增益和健侧增益比、三个特征两两对应的二联特征热力图</center>
+<center>Fig 15. 头脉冲试验弱侧增益、头脉冲试验健侧增益与病侧增益差、头脉冲试验病侧增益和健侧增益比、三个特征两两对应的二联特征热力图，左侧为脑卒中概率预测，右侧为模型最终根据概率和阈值给出的分类结果</center>
 
 
 从Fig15来看，我们可以看到这三个特征在0.24-0.72之间模型表现出倾向于判断为前庭问题，小于0.24和大于0.72则表现出中枢问题，即脑卒中。
@@ -308,7 +308,41 @@ $$
 
 从Table3中，我们发现，过低的头脉冲增益在模型中也被认为是高危卒中的标志，但这个结论并不完全正确，会导致一定比例的将前庭炎患者误判为脑卒中，但是总体而言会提升模型对于卒中的敏感度。
 
-考虑到头脉冲试验健侧增益与病侧增益差这个特征，一些研究发现[4]这个特征在不同的急性眩晕病因中有着显著差异，其中Qiongfeng Guan发现这个特征可以用来区分前庭神经炎（VN）和良性发作性位置性眩晕（BPPV）。
+考虑到头脉冲试验健侧增益与病侧增益差这个特征，一些研究发现[4]这个特征在不同的急性眩晕病因中有着显著
+差异，其中Qiongfeng Guan发现这个特征可以用来区分前庭神经炎（VN）和良性发作性位置性眩晕（BPPV）。
+
+我们参考Qiongfeng Guan的方法也对我们的数据组，前庭神经炎（VN）和脑卒中（Stroke）组的这两个特征进行显著性检测，结果如下：
+
+![](research_career/MSc_FYP/attachments/hit_gain_features_comparison.png)
+<center>Fig 16. 前庭神经炎（VN）和脑卒中（Stroke）“头脉冲试验弱侧增益”、“头脉冲试验健侧增益与病侧增益差”和“头脉冲试验病侧增益和健侧增益比” 特征分布</center>
+
+
+
+<center>Table 4. 前庭神经炎（VN）和脑卒中（Stroke）“头脉冲试验健侧增益与病侧增益差”和“头脉冲试验病侧增益和健侧增益比” 特征均值和方差，以及显著性差异结果 </center>
+
+
+| Feature                                  | VN_Mean_SD    | Stroke_Mean_SD | Test_Method         | P_value |
+| ---------------------------------------- | ------------- | -------------- | ------------------- | ------- |
+| Video_HIT_gain_weak_side                 | 0.519 ± 0.151 | 0.830 ± 0.296  | Student's t-test    | 0.0000  |
+| Video_HIT_gain_weakSide_2_strongSide     | 0.536 ± 0.145 | 0.787 ± 0.197  | Mann-Whitney U test | 0.0000  |
+| Video_HIT_gain_strongSide_minus_weakSide | 0.456 ± 0.162 | 0.208 ± 0.200  | Mann-Whitney U test | 0.0000  |
+
+通过Fig 16和Table4可以看出，使用这两个特征进行分类的结论是有统计学意义支撑的，二者在这两个特征值的分布上有着显著性差异。
+
+
+同时，因为这三个特征之间具有相关性，我们希望同时比较多个相关变量在不同组间的差异以及发现可能在单变量分析中被忽略的组间差异模式，我们会采集MANOVA（Multivariate Analysis of Variance，多变量方差分析）方法来分析这三个特征。
+
+因此我们修改传统STANDING流程在最后判断外周病因时增加对于增益差和增益比异常的警告来改善传统模型的判断敏感度，更改后的STANDING流程如下图所示：
+
+
+![](research_career/MSc_FYP/attachments/HINTS_exam_update_mainLine.drawio.svg)
+
+<center>Fig 17. 通过头脉冲增益特征改善STANDING流程</center>
+
+## 结论
+
+
+通过对235例病人STANDING流程中的眼震试验相关特征，头脉冲试验相关特征和站立姿态特征的研究，我们使用了随机森林模型，利用这些试验中可以得到量化的数值特征对流程进行了提升，发现了头脉冲增益对于判断的潜在重要性，通过设置对于头脉冲试验弱侧增益、头脉冲试验健侧增益与病侧增益差、头脉冲试验病侧增益和健侧增益比这三个特征的阈值判断，可以有效将原有的STANDING流程的敏感度提升15%。该研究得到了统计学支持和泛化性测试，说明这三个特征的组合确实能够帮助区分VN和Stroke患者。
 
 
 ## Reference
