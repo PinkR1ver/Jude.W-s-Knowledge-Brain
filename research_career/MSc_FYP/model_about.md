@@ -176,6 +176,8 @@ $F_{\beta}$ 指标用来在不平衡数据集中平衡精确度和召回率之�
 ![](research_career/MSc_FYP/attachments/SVM_final_confusion_matrix%201.png)
 <center>Fig 9. SVM方法分类结果混淆矩阵</center>
 
+
+
 <center>Table 1. 三个模型分类结果评估参数对比</center>
 
 | 模型            | 数据集 | Precision | Recall | F1-score | Accuracy |
@@ -186,6 +188,7 @@ $F_{\beta}$ 指标用来在不平衡数据集中平衡精确度和召回率之�
 |               | 测试集 |   0.53    |  0.79  |   0.64   |   0.83   |
 | MLP           | 训练集 |   0.42    |  0.58  |   0.49   |   0.77   |
 |               | 测试集 |   0.44    |  0.70  |   0.54   |   0.78   |
+
 
 ![](research_career/MSc_FYP/attachments/roc_curves.png)
 <center>Fig 10. 模型ROC曲线对比</center>
@@ -207,10 +210,113 @@ $F_{\beta}$ 指标用来在不平衡数据集中平衡精确度和召回率之�
 
 从分类指标来看，随机森林算法在牺牲一定特异性和精确度的情况下提升了对脑卒中患者的敏感度，二者在McNemar检测中没有表现出差异。
 
-### 关注于假阳性患者
+### 关注STANDING流程中漏判的脑卒中患者
+
+
+在孤立性头晕患者中准确筛查出有着高危风险的脑卒中患者非常重要，因此我们主要关注STANDING流程中漏判的脑卒中患者，一共是12例，它们的特征如下：
+
+<center>Table 2. 在STANDING流程中被误判的12例脑卒中患者中有6例在随机森林中被判对</center>
+
+| Patient_ID | True_Diagnosis | Traditional_Prediction | RF_Prediction | RF_Probability | VOG_nystagmus_pattern | VOG_nystagmus_SPVmax | Video_HIT_result | Video_HIT_gain_weak_side | Truncal_ataxia | Video_HIT_gain_strongSide_minus_weakSide | Video_HIT_gain_weakSide_2_strongSide |
+| ---------- | -------------- | ---------------------- | ------------- | -------------- | --------------------- | -------------------- | ---------------- | ------------------------ | -------------- | ---------------------------------------- | ------------------------------------ |
+| 28         | stroke         | VN                     | stroke        | 0.271749       | UD-GEN                | 3                    | positive         | 0.27                     | 0              | 0.26                                     | 0.509434                             |
+| 96         | stroke         | VN                     | stroke        | 0.325389       | H-SN                  | 10                   | positive         | 0.79                     | 3              | 0.18                                     | 0.814433                             |
+| 109        | stroke         | VN                     | stroke        | 0.185681       | H-SN                  | 4                    | positive         | 0.57                     | 3              | 0.18                                     | 0.76                                 |
+| 145        | stroke         | VN                     | stroke        | 0.407919       | H-SN                  | 7                    | positive         | 0.75                     | 3              | 0.07                                     | 0.914634                             |
+| 201        | stroke         | VN                     | stroke        | 0.234167       | H-SN                  | 20                   | positive         | 0.19                     | 1              | 1.06                                     | 0.152                                |
+| 216        | stroke         | VN                     | stroke        | 0.35205        | H-SN                  | 3                    | positive         | 0.77                     | 3              | 0.12                                     | 0.865169                             |
+| 0          | stroke         | VN                     | VN            | 0.083606       | H-SN                  | 7                    | positive         | 0.33                     | 3              | 0.4                                      | 0.452055                             |
+| 20         | stroke         | VN                     | VN            | 0.049667       | H-SN                  | 5                    | positive         | 0.51                     | 0              | 0.41                                     | 0.554348                             |
+| 77         | stroke         | VN                     | VN            | 0.049819       | H-SN                  | 8                    | positive         | 0.61                     | 3              | 0.59                                     | 0.508333                             |
+| 95         | stroke         | VN                     | VN            | 0.047378       | H-SN                  | 10                   | positive         | 0.56                     | 2              | 0.31                                     | 0.643678                             |
+| 156        | stroke         | VN                     | VN            | 0.065717       | H-SN                  | 7                    | positive         | 0.41                     | 3              | 0.39                                     | 0.5125                               |
+| 217        | stroke         | VN                     | VN            | 0.151561       | H-SN                  | 4                    | positive         | 0.49                     | 3              | 0.21                                     | 0.7                                  |
+
+
+被分错的数据表现为眼震模式为H-SN 11例，UD-GEN 1例；头脉冲试验为阳性，在STANDING流程中被误判为前庭炎症。
+
+在加入特征：
+
+* 眼震试验慢相速度最大值 (1)
+* 头脉冲试验病侧增益 (2)
+* 头脉冲试验健侧和病侧增益差 (3)
+* 头脉冲试验病侧和健侧增益比 (4)
+
+这四个量化特征后，我们可以将错判的12例患者中的6例正确判读，那么在随机森林中，这6个特征被正确判断正确的原因是什么呢？我们通过SHAP分析来观察特征在随机森林算法中的权重。
+
+![](research_career/MSc_FYP/attachments/rf_shap_beeswarm_detailed.png)
+
+<center>Fig 13. 随机森林特征SHAP分析Beeswarm图</center>
+
+由于使用了独立热编码处理种类特征后，每个类别都会被转换为一个独立的二进制特征，并且每个这样的二进制特征都会有一个对应的SHAP值，如上图所示，我们可以合并这些独立二进制特征来表达原始种类特征的贡献，合并后并进行归一化的特征重要性分类图如图：
+
+![](research_career/MSc_FYP/attachments/rf_shap_importance_combined.png)
+<center>Fig 14. 特征重要性排序</center>
+
+
+<center>Table 3. 特征重要性排序</center>
+
+| feature                                  | importance | importance_normalized |
+| ---------------------------------------- | ---------- | --------------------- |
+| Video_HIT_result                         | 0.0904     | 0.43                  |
+| Video_HIT_gain_weak_side                 | 0.0421     | 0.2                   |
+| Video_HIT_gain_weakSide_2_strongSide     | 0.0207     | 0.0983                |
+| Video_HIT_gain_strongSide_minus_weakSide | 0.0196     | 0.0931                |
+| VOG_nystagmus_pattern                    | 0.0168     | 0.0798                |
+| VOG_nystagmus_SPVmax                     | 0.0118     | 0.056                 |
+| Truncal_ataxia                           | 0.009      | 0.0428                |
+
+头脉冲相关参数在模型里显示出了极为强势的重要性占比，重要性占比达到70%以上。
+
+紧接着我们通过固定眼震模式为H-SN，头脉冲试验结果为阳性，眼震慢相速度为10，共济失调等级为1，去研究**头脉冲增益相关的三个数值量化特征**对于结果的具体影响。
+
+我们通过绘制这三个特征的二联特征表。二联特征表是一种2D热力图，由于我们每次只能显示其中两个变量的关系，但第三个变量的值也会影响预测结果，所以当我们画两个变量的热力图时，实际上是对第三个变量取了平均值，即
+
+
+$$
+热力图(x,y) = 平均值[预测概率(x,y,z)] 
+$$
+
+我们对Video_HIT_gain_weak_side， Video_HIT_gain_weakSide_2_strongSide， Video_HIT_gain_strongSide_minus_weakSide三个特征的二联特征表分析结果如下：
+
+
+
+![](research_career/MSc_FYP/attachments/feature_prediction_2d_Video_HIT_gain_strongSide_minus_weakSide_vs_Video_HIT_gain_weakSide_2_strongSide_combined%201.png)
+![](research_career/MSc_FYP/attachments/feature_prediction_2d_Video_HIT_gain_weak_side_vs_Video_HIT_gain_strongSide_minus_weakSide_combined%201.png)
+![](research_career/MSc_FYP/attachments/feature_prediction_2d_Video_HIT_gain_weak_side_vs_Video_HIT_gain_weakSide_2_strongSide_combined%201.png)
+<center>Fig 15. 头脉冲试验弱侧增益、头脉冲试验健侧增益与病侧增益差、头脉冲试验病侧增益和健侧增益比、三个特征两两对应的二联特征热力图</center>
+
+
+从Fig15来看，我们可以看到这三个特征在0.24-0.72之间模型表现出倾向于判断为前庭问题，小于0.24和大于0.72则表现出中枢问题，即脑卒中。
+
+增益过大但是因为扫视波原因被判断为头脉冲试验结果为阳性导致的误判是可以被改进的，目前的多项研究[2],[3]表明，扫视波并不能直接用于判断头脉冲试验结果阳性与否，头脉冲试验结果要用增益值来判断，目前市面上判断不正常增益的阈值在0.7-0.8[2]之间。文献的结论和随机森林模型得到的结果吻合，这个将帮助我们更改我们使用手机判断头脉冲结果的判断依据。
+
+<center>Table 3. 随机森林判断为脑卒中，实际诊断结果为前庭炎</center>
+
+| Patient_ID | True_Diagnosis | Traditional_Prediction | RF_Prediction | RF_Probability | VOG_nystagmus_pattern | VOG_nystagmus_SPVmax | Video_HIT_result | Video_HIT_gain_weak_side | Truncal_ataxia | Video_HIT_gain_strongSide_minus_weakSide | Video_HIT_gain_weakSide_2_strongSide |
+| ---------- | -------------- | ---------------------- | ------------- | -------------- | --------------------- | -------------------- | ---------------- | ------------------------ | -------------- | ---------------------------------------- | ------------------------------------ |
+| 63         | VN             | stroke                 | stroke        | 0.649107       | H-SN                  | 15                   | negative         | 0.86                     | 0              | 0.23                                     | 0.788991                             |
+| 26         | VN             | stroke                 | stroke        | 0.38935        | H-SN                  | 3                    | negative         | 0.63                     | 2              | 0.28                                     | 0.692308                             |
+| 14         | VN             | VN                     | stroke        | 0.348464       | H-SN                  | 6                    | positive         | 0.68                     | 3              | 0.08                                     | 0.894737                             |
+| 168        | VN             | VN                     | stroke        | 0.332392       | H-SN                  | 3                    | positive         | 0.67                     | 3              | 0.1                                      | 0.87013                              |
+| 101        | VN             | VN                     | stroke        | 0.287169       | H-SN                  | 4                    | positive         | 0.78                     | 1              | 0.12                                     | 0.866667                             |
+| 179        | VN             | VN                     | stroke        | 0.253644       | H-SN                  | 3                    | positive         | 0.19                     | 0              | 0.04                                     | 0.826087                             |
+| 194        | VN             | VN                     | stroke        | 0.23851        | H-SN                  | 8                    | positive         | 0.77                     | 3              | 0.13                                     | 0.855556                             |
+| 117        | VN             | VN                     | stroke        | 0.214893       | H-SN                  | 7                    | positive         | 0.79                     | 3              | 0.24                                     | 0.76699                              |
+| 51         | VN             | VN                     | stroke        | 0.186245       | UD-GEN                | 5                    | positive         | 0.78                     | 1              | 0.4                                      | 0.661017                             |
+| 85         | VN             | VN                     | stroke        | 0.183854       | H-SN                  | 6                    | positive         | 0.16                     | 0              | 0.99                                     | 0.13913                              |
+
+从Table3中，我们发现，过低的头脉冲增益在模型中也被认为是高危卒中的标志，但这个结论并不完全正确，会导致一定比例的将前庭炎患者误判为脑卒中，但是总体而言会提升模型对于卒中的敏感度。
+
+考虑到头脉冲试验健侧增益与病侧增益差这个特征，一些研究发现[4]这个特征在不同的急性眩晕病因中有着显著差异，其中Qiongfeng Guan发现这个特征可以用来区分前庭神经炎（VN）和良性发作性位置性眩晕（BPPV）。
 
 
 ## Reference
 
 [1] Vanni, S., et al. “STANDING, a Four-Step Bedside Algorithm for Differential Diagnosis of Acute Vertigo in the Emergency Department.” _Acta Otorhinolaryngologica Italica: Organo Ufficiale Della Societa Italiana Di Otorinolaringologia E Chirurgia Cervico-Facciale_, vol. 34, no. 6, Dec. 2014, pp. 419–26.
 
+[2] Alhabib, Salman F., and Issam Saliba. “Video Head Impulse Test: A Review of the Literature.” _European Archives of Oto-Rhino-Laryngology_, vol. 274, no. 3, Mar. 2017, pp. 1215–22. _DOI.org (Crossref)_, https://doi.org/10.1007/s00405-016-4157-4.
+
+[3] Lee, Dong-Han, et al. “Objective Measurement of HINTS (Head Impulse, Nystagmus, Test of Skew) in Peripheral Vestibulopathy.” _Auris Nasus Larynx_, vol. 49, no. 6, Dec. 2022, pp. 938–49. _DOI.org (Crossref)_, https://doi.org/10.1016/j.anl.2022.03.003.
+
+[4] Guan, Qiongfeng, et al. “[Video head impulse test for evaluation of vestibular function in patients with vestibular neuritis and benign paroxysmal positional vertigo].” _Zhejiang Da Xue Xue Bao. Yi Xue Ban = Journal of Zhejiang University. Medical Sciences_, vol. 46, no. 1, Jan. 2017, pp. 52–58. _PubMed_, https://doi.org/10.3785/j.issn.1008-9292.2017.02.08.
