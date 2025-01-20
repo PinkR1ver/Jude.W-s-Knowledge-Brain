@@ -8,6 +8,10 @@ tags:
 date: 2025-01-08
 ---
 
+## Background
+
+先了解[ANOVA](math/statistic/significance_test/ANOVA.md)
+
 ## Basic
 
 ### Basic concept
@@ -34,3 +38,5 @@ MANOVA是ANOVA（单变量方差分析）的扩展版本：
 ## Reference
 
 * https://ww2.mathworks.cn/discovery/manova.html
+* https://juejin.cn/post/7318083908603084826
+* https://juejin.cn/post/7318083908603084826
