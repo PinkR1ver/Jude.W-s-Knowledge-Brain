@@ -19,6 +19,10 @@ date: 2023-12-03
 * [MANOVA](math/statistic/significance_test/MANOVA.md)
 * [ANOVA](math/statistic/significance_test/ANOVA.md)
 
+## Descriptive Statistic
+
+* 
+
 ## Anomaly Detection
 
 * [Z-Score](math/statistic/anomaly_detection/z_score.md)
