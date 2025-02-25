@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_career/MSc_FYP/MSc_FYP_outline.md",
+                "file": "hobbies/literature/sentence/wisdom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MSc_FYP_outline"
+              "title": "wisdom"
             }
           }
         ]
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,6 +202,11 @@
   },
   "active": "65554687388a8307",
   "lastOpenFiles": [
+    "hobbies/literature/literature_MOC.md",
+    "research_career/MSc_FYP/model_about.md",
+    "research_career/MSc_FYP/pHINTS_calibration.md",
+    "research_career/MSc_FYP/pHINTS_system.md",
+    "research_career/MSc_FYP/MSc_FYP_outline.md",
     "research_career/UWB_about/report/attachments/423a04e662206d11b2a178eeaf326dd.jpg",
     "research_career/UWB_about/report/attachments/3a3cabdf08d107b7fe5086c7379525b.jpg",
     "research_career/UWB_about/report/attachments/0f51b9ad16d2735614bff788e55dda5.jpg",
@@ -213,7 +217,6 @@
     "research_career/UWB_about/report/attachments/untitled 7.png",
     "research_career/UWB_about/report/attachments/untitled 6.png",
     "research_career/UWB_about/report/attachments/untitled 5.png",
-    "research_career/UWB_about/report/attachments/untitled 4.png",
     "research_career/UWB_about/flight_time/flight_time_solution.md",
     "research_career/UWB_about/flight_time",
     "research_career/UWB_about/attachments/UWB_board_test.pdf",
@@ -233,10 +236,6 @@
     "research_career/papers_read/2024_winter_holiday/PI_overview.md",
     "research_career/papers_read/attachments",
     "research_career/oral_defense/PhD_oral_defense_venue_layout.md",
-    "research_career/MSc_FYP/pHINTS_system.md",
-    "research_career/MSc_FYP/pHINTS_calibration.md",
-    "research_career/MSc_FYP/MSc_FYP_outline.md",
-    "research_career/MSc_FYP/model_about.md",
     "research_career/device/stm_load_note.md",
     "research_career/device/real_time_vs_sampling_oscilloscope.md",
     "research_career/device/infiniiMax_probes.md",
