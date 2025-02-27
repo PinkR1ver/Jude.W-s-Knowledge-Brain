@@ -55,7 +55,7 @@ Smooth Boy is a WeChat app that can evaluate a person’s skin quality and recom
 It was my first class project in college. It was a simple program based on an old graphics library which created in 1995, can draw image of polynomial function. In this project, I built the whole structure of the code and organize my team to code different part to make it done. It was really exciting to stay up all night to code and when it was finished, I almost cried that time. [https://github.com/PinkR1ver/SketchPad](https://github.com/PinkR1ver/SketchPad)
 
 
-# 🤹🏽Skills & Knowledge
+<!-- # 🤹🏽Skills & Knowledge
 
 ## Proficient
 <br>
@@ -91,7 +91,7 @@ It was my first class project in college. It was a simple program based on an ol
 *  Jekyll, RStudio and some other tools to build personal blog: [https://pinkr1ver.com](https://pinkr1ver.com) (🚧 obsolete...)
 * HTML+CSS+JS to create my photo slide show web - [https://pinkr1ver.com/PhotoGallery/](https://pinkr1ver.com/PhotoGallery/)
 * SHAP analysis for model interpretability https://github.com/PinkR1ver/SHAP_Tutorial
-* $\LaTeX$ for my FYP thesis, contributed to 1.9k star repository [zjuthesis](https://github.com/TheNetAdmin/zjuthesis)
+* $\LaTeX$ for my FYP thesis, contributed to 1.9k star repository [zjuthesis](https://github.com/TheNetAdmin/zjuthesis) -->
 
 
 # 📰 Publications
